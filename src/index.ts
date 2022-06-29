@@ -96,4 +96,39 @@ finalData = finalData.map(data => {
   return data;
 });
 
+// check
+
+finalData.forEach(data => {
+  if (!data.country) {
+    console.log(`===== No country found for: ${data.country} =====`);
+  }
+  if (!data.alpha2Code) {
+    console.log(`===== No alpha2Code found for: ${data.country} =====`);
+  }
+  if (!data.alpha3Code) {
+    console.log(`===== No alpha3Code found for: ${data.country} =====`);
+  }
+  if (!data.numberCode) {
+    console.log(`===== No numberCode found for: ${data.country} =====`);
+  }
+  if (!data.states || !data.states.length) {
+    console.log(`===== No states found for: ${data.country} =====`);
+  }
+  if (!data.flag || !data.flag.emoji) {
+    console.log(`===== No flag.emoji found for: ${data.country} =====`);
+  }
+  if (!data.flag || !data.flag.unicode) {
+    console.log(`===== No flag.unicode found for: ${data.country} =====`);
+  }
+  if (!data.flag || !data.flag.image) {
+    console.log(`===== No flag.image found for: ${data.country} =====`);
+  }
+  if (!data.phoneNumberCode) {
+    console.log(`===== No phoneNumberCode found for: ${data.country} =====`);
+  }
+  if (!data.timezone || !data.timezone.length) {
+    console.log(`===== No timezone found for: ${data.country} =====`);
+  }
+});
+
 writeJSONFile(finalData, 'list');
