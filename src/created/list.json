@@ -50,7 +50,8 @@
       "Asia/Kabul"
     ],
     "capital": "Kabul",
-    "currency": "AFN"
+    "currencyCode": "AFN",
+    "continentCode": "AS"
   },
   {
     "country": "Albania",
@@ -81,7 +82,8 @@
       "Europe/Tirane"
     ],
     "capital": "Tirana",
-    "currency": "ALL"
+    "currencyCode": "ALL",
+    "continentCode": "EU"
   },
   {
     "country": "Algeria",
@@ -148,7 +150,8 @@
       "Africa/Algiers"
     ],
     "capital": "Algiers",
-    "currency": "DZD"
+    "currencyCode": "DZD",
+    "continentCode": "AF"
   },
   {
     "country": "Andorra",
@@ -174,7 +177,8 @@
       "Europe/Andorra"
     ],
     "capital": "Andorra la Vella",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Angola",
@@ -211,7 +215,8 @@
       "Africa/Luanda"
     ],
     "capital": "Luanda",
-    "currency": "AOA"
+    "currencyCode": "AOA",
+    "continentCode": "AF"
   },
   {
     "country": "Antarctica",
@@ -238,7 +243,8 @@
       "Antarctica/Vostok"
     ],
     "capital": "",
-    "currency": ""
+    "currencyCode": "",
+    "continentCode": "AN"
   },
   {
     "country": "Antigua and Barbuda",
@@ -265,7 +271,8 @@
       "America/Antigua"
     ],
     "capital": "St. John's",
-    "currency": "XCD"
+    "currencyCode": "XCD",
+    "continentCode": "NA"
   },
   {
     "country": "Argentina",
@@ -319,7 +326,8 @@
       "America/Argentina/Ushuaia"
     ],
     "capital": "Buenos Aires",
-    "currency": "ARS"
+    "currencyCode": "ARS",
+    "continentCode": "SA"
   },
   {
     "country": "Armenia",
@@ -349,7 +357,8 @@
       "Asia/Yerevan"
     ],
     "capital": "Yerevan",
-    "currency": "AMD"
+    "currencyCode": "AMD",
+    "continentCode": "AS"
   },
   {
     "country": "Australia",
@@ -388,7 +397,8 @@
       "Australia/Eucla"
     ],
     "capital": "Canberra",
-    "currency": "AUD"
+    "currencyCode": "AUD",
+    "continentCode": "OC"
   },
   {
     "country": "Austria",
@@ -416,7 +426,8 @@
       "Europe/Vienna"
     ],
     "capital": "Vienna",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Azerbaijan",
@@ -506,7 +517,8 @@
       "Asia/Baku"
     ],
     "capital": "Baku",
-    "currency": "AZN"
+    "currencyCode": "AZN",
+    "continentCode": "AS"
   },
   {
     "country": "Bahamas",
@@ -546,7 +558,8 @@
       "America/Nassau"
     ],
     "capital": "Nassau",
-    "currency": "BSD"
+    "currencyCode": "BSD",
+    "continentCode": "NA"
   },
   {
     "country": "Bahrain",
@@ -577,7 +590,8 @@
       "Asia/Bahrain"
     ],
     "capital": "Manama",
-    "currency": "BHD"
+    "currencyCode": "BHD",
+    "continentCode": "AS"
   },
   {
     "country": "Bangladesh",
@@ -602,7 +616,8 @@
       "Asia/Dhaka"
     ],
     "capital": "Dhaka",
-    "currency": "BDT"
+    "currencyCode": "BDT",
+    "continentCode": "AS"
   },
   {
     "country": "Barbados",
@@ -632,7 +647,8 @@
       "America/Barbados"
     ],
     "capital": "Bridgetown",
-    "currency": "BBD"
+    "currencyCode": "BBD",
+    "continentCode": "NA"
   },
   {
     "country": "Belarus",
@@ -658,7 +674,8 @@
       "Europe/Minsk"
     ],
     "capital": "Minsk",
-    "currency": "BYR"
+    "currencyCode": "BYR",
+    "continentCode": "EU"
   },
   {
     "country": "Belgium",
@@ -690,7 +707,8 @@
       "Europe/Brussels"
     ],
     "capital": "Brussels",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Belize",
@@ -715,7 +733,8 @@
       "America/Belize"
     ],
     "capital": "Belmopan",
-    "currency": "BZD"
+    "currencyCode": "BZD",
+    "continentCode": "NA"
   },
   {
     "country": "Benin",
@@ -746,7 +765,8 @@
       "Africa/Porto-Novo"
     ],
     "capital": "Porto-Novo",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Bermuda",
@@ -776,7 +796,8 @@
       "Atlantic/Bermuda"
     ],
     "capital": "Hamilton",
-    "currency": "BMD"
+    "currencyCode": "BMD",
+    "continentCode": "NA"
   },
   {
     "country": "Bhutan",
@@ -815,7 +836,8 @@
       "Asia/Thimphu"
     ],
     "capital": "Thimphu",
-    "currency": "BTN"
+    "currencyCode": "BTN",
+    "continentCode": "AS"
   },
   {
     "country": "Bolivia",
@@ -843,7 +865,8 @@
       "America/La_Paz"
     ],
     "capital": "Sucre",
-    "currency": "BOB"
+    "currencyCode": "BOB",
+    "continentCode": "SA"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -879,7 +902,8 @@
       "Europe/Sarajevo"
     ],
     "capital": "Sarajevo",
-    "currency": "BAM"
+    "currencyCode": "BAM",
+    "continentCode": "EU"
   },
   {
     "country": "Botswana",
@@ -907,7 +931,8 @@
       "Africa/Gaborone"
     ],
     "capital": "Gaborone",
-    "currency": "BWP"
+    "currencyCode": "BWP",
+    "continentCode": "AF"
   },
   {
     "country": "Brazil",
@@ -968,7 +993,8 @@
       "America/Rio_Branco"
     ],
     "capital": "Brasilia",
-    "currency": "BRL"
+    "currencyCode": "BRL",
+    "continentCode": "SA"
   },
   {
     "country": "Brunei",
@@ -991,7 +1017,8 @@
       "Asia/Brunei"
     ],
     "capital": "Bandar Seri Begawan",
-    "currency": "BND"
+    "currencyCode": "BND",
+    "continentCode": "AS"
   },
   {
     "country": "Bulgaria",
@@ -1038,7 +1065,8 @@
       "Europe/Sofia"
     ],
     "capital": "Sofia",
-    "currency": "BGN"
+    "currencyCode": "BGN",
+    "continentCode": "EU"
   },
   {
     "country": "Burkina Faso",
@@ -1102,7 +1130,8 @@
       "Africa/Ouagadougou"
     ],
     "capital": "Ouagadougou",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Myanmar",
@@ -1135,7 +1164,8 @@
       "Asia/Yangon"
     ],
     "capital": "Nay Pyi Taw",
-    "currency": "MMK"
+    "currencyCode": "MMK",
+    "continentCode": "AS"
   },
   {
     "country": "Burundi",
@@ -1171,7 +1201,8 @@
       "Africa/Bujumbura"
     ],
     "capital": "Bujumbura",
-    "currency": "BIF"
+    "currencyCode": "BIF",
+    "continentCode": "AF"
   },
   {
     "country": "Cambodia",
@@ -1214,7 +1245,8 @@
       "Asia/Phnom_Penh"
     ],
     "capital": "Phnom Penh",
-    "currency": "KHR"
+    "currencyCode": "KHR",
+    "continentCode": "AS"
   },
   {
     "country": "Cameroon",
@@ -1243,7 +1275,8 @@
       "Africa/Douala"
     ],
     "capital": "Yaounde",
-    "currency": "XAF"
+    "currencyCode": "XAF",
+    "continentCode": "AF"
   },
   {
     "country": "Canada",
@@ -1302,7 +1335,8 @@
       "America/Dawson"
     ],
     "capital": "Ottawa",
-    "currency": "CAD"
+    "currencyCode": "CAD",
+    "continentCode": "NA"
   },
   {
     "country": "Cape Verde",
@@ -1331,7 +1365,8 @@
       "Atlantic/Cape_Verde"
     ],
     "capital": "Praia",
-    "currency": "CVE"
+    "currencyCode": "CVE",
+    "continentCode": "AF"
   },
   {
     "country": "Central African Republic",
@@ -1367,7 +1402,8 @@
       "Africa/Bangui"
     ],
     "capital": "Bangui",
-    "currency": "XAF"
+    "currencyCode": "XAF",
+    "continentCode": "AF"
   },
   {
     "country": "Chad",
@@ -1400,7 +1436,8 @@
       "Africa/Ndjamena"
     ],
     "capital": "N'Djamena",
-    "currency": "XAF"
+    "currencyCode": "XAF",
+    "continentCode": "AF"
   },
   {
     "country": "Chile",
@@ -1434,7 +1471,8 @@
       "Pacific/Easter"
     ],
     "capital": "Santiago",
-    "currency": "CLP"
+    "currencyCode": "CLP",
+    "continentCode": "SA"
   },
   {
     "country": "China",
@@ -1485,7 +1523,8 @@
       "Asia/Urumqi"
     ],
     "capital": "Beijing",
-    "currency": "CNY"
+    "currencyCode": "CNY",
+    "continentCode": "AS"
   },
   {
     "country": "Colombia",
@@ -1537,7 +1576,8 @@
       "America/Bogota"
     ],
     "capital": "Bogota",
-    "currency": "COP"
+    "currencyCode": "COP",
+    "continentCode": "SA"
   },
   {
     "country": "Comoros",
@@ -1559,7 +1599,8 @@
       "Indian/Comoro"
     ],
     "capital": "Moroni",
-    "currency": "KMF"
+    "currencyCode": "KMF",
+    "continentCode": "AF"
   },
   {
     "country": "Congo, Democratic Republic",
@@ -1590,7 +1631,8 @@
       "Africa/Lubumbashi"
     ],
     "capital": "Kinshasa",
-    "currency": "CDF"
+    "currencyCode": "CDF",
+    "continentCode": "AF"
   },
   {
     "country": "Congo, Republic of the",
@@ -1620,7 +1662,8 @@
       "Africa/Brazzaville"
     ],
     "capital": "Brazzaville",
-    "currency": "XAF"
+    "currencyCode": "XAF",
+    "continentCode": "AF"
   },
   {
     "country": "Costa Rica",
@@ -1646,7 +1689,8 @@
       "America/Costa_Rica"
     ],
     "capital": "San Jose",
-    "currency": "CRC"
+    "currencyCode": "CRC",
+    "continentCode": "NA"
   },
   {
     "country": "Cote d'Ivoire",
@@ -1679,7 +1723,8 @@
       "Africa/Abidjan"
     ],
     "capital": "Yamoussoukro",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Croatia",
@@ -1719,7 +1764,8 @@
       "Europe/Zagreb"
     ],
     "capital": "Zagreb",
-    "currency": "HRK"
+    "currencyCode": "HRK",
+    "continentCode": "EU"
   },
   {
     "country": "Cuba",
@@ -1753,7 +1799,8 @@
       "America/Havana"
     ],
     "capital": "Havana",
-    "currency": "CUP"
+    "currencyCode": "CUP",
+    "continentCode": "NA"
   },
   {
     "country": "Cyprus",
@@ -1779,7 +1826,8 @@
       "Asia/Famagusta"
     ],
     "capital": "Nicosia",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Czech Republic",
@@ -1812,7 +1860,8 @@
       "Europe/Prague"
     ],
     "capital": "Prague",
-    "currency": "CZK"
+    "currencyCode": "CZK",
+    "continentCode": "EU"
   },
   {
     "country": "Denmark",
@@ -1847,7 +1896,8 @@
       "Europe/Copenhagen"
     ],
     "capital": "Copenhagen",
-    "currency": "DKK"
+    "currencyCode": "DKK",
+    "continentCode": "EU"
   },
   {
     "country": "Djibouti",
@@ -1871,7 +1921,8 @@
       "Africa/Djibouti"
     ],
     "capital": "Djibouti",
-    "currency": "DJF"
+    "currencyCode": "DJF",
+    "continentCode": "AF"
   },
   {
     "country": "Dominica",
@@ -1900,7 +1951,8 @@
       "America/Dominica"
     ],
     "capital": "Roseau",
-    "currency": "XCD"
+    "currencyCode": "XCD",
+    "continentCode": "NA"
   },
   {
     "country": "Dominican Republic",
@@ -1951,7 +2003,8 @@
       "America/Santo_Domingo"
     ],
     "capital": "Santo Domingo",
-    "currency": "DOP"
+    "currencyCode": "DOP",
+    "continentCode": "NA"
   },
   {
     "country": "East Timor",
@@ -1983,7 +2036,8 @@
       "Asia/Dili"
     ],
     "capital": "Dili",
-    "currency": "USD"
+    "currencyCode": "USD",
+    "continentCode": "OC"
   },
   {
     "country": "Ecuador",
@@ -2025,7 +2079,8 @@
       "Pacific/Galapagos"
     ],
     "capital": "Quito",
-    "currency": "USD"
+    "currencyCode": "USD",
+    "continentCode": "SA"
   },
   {
     "country": "Egypt",
@@ -2070,7 +2125,8 @@
       "Africa/Cairo"
     ],
     "capital": "Cairo",
-    "currency": "EGP"
+    "currencyCode": "EGP",
+    "continentCode": "AF"
   },
   {
     "country": "El Salvador",
@@ -2103,7 +2159,8 @@
       "America/El_Salvador"
     ],
     "capital": "San Salvador",
-    "currency": "USD"
+    "currencyCode": "USD",
+    "continentCode": "NA"
   },
   {
     "country": "Equatorial Guinea",
@@ -2129,7 +2186,8 @@
       "Africa/Malabo"
     ],
     "capital": "Malabo",
-    "currency": "XAF"
+    "currencyCode": "XAF",
+    "continentCode": "AF"
   },
   {
     "country": "Eritrea",
@@ -2154,7 +2212,8 @@
       "Africa/Asmara"
     ],
     "capital": "Asmara",
-    "currency": "ERN"
+    "currencyCode": "ERN",
+    "continentCode": "AF"
   },
   {
     "country": "Estonia",
@@ -2188,7 +2247,8 @@
       "Europe/Tallinn"
     ],
     "capital": "Tallinn",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Ethiopia",
@@ -2218,7 +2278,8 @@
       "Africa/Addis_Ababa"
     ],
     "capital": "Addis Ababa",
-    "currency": "ETB"
+    "currencyCode": "ETB",
+    "continentCode": "AF"
   },
   {
     "country": "Fiji",
@@ -2242,7 +2303,8 @@
       "Pacific/Fiji"
     ],
     "capital": "Suva",
-    "currency": "FJD"
+    "currencyCode": "FJD",
+    "continentCode": "OC"
   },
   {
     "country": "Finland",
@@ -2267,7 +2329,8 @@
       "Europe/Helsinki"
     ],
     "capital": "Helsinki",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "France",
@@ -2308,7 +2371,8 @@
       "Europe/Paris"
     ],
     "capital": "Paris",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "French Guiana",
@@ -2349,7 +2413,8 @@
       "America/Cayenne"
     ],
     "capital": "Cayenne",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "SA"
   },
   {
     "country": "French Polynesia",
@@ -2375,7 +2440,8 @@
       "Pacific/Gambier"
     ],
     "capital": "Papeete",
-    "currency": "XPF"
+    "currencyCode": "XPF",
+    "continentCode": "OC"
   },
   {
     "country": "Gabon",
@@ -2403,7 +2469,8 @@
       "Africa/Libreville"
     ],
     "capital": "Libreville",
-    "currency": "XAF"
+    "currencyCode": "XAF",
+    "continentCode": "AF"
   },
   {
     "country": "Gambia",
@@ -2428,7 +2495,8 @@
       "Africa/Banjul"
     ],
     "capital": "Banjul",
-    "currency": "GMD"
+    "currencyCode": "GMD",
+    "continentCode": "AF"
   },
   {
     "country": "Georgia",
@@ -2459,7 +2527,8 @@
       "Africa/Banjul"
     ],
     "capital": "Banjul",
-    "currency": "GMD"
+    "currencyCode": "GMD",
+    "continentCode": "AF"
   },
   {
     "country": "Germany",
@@ -2495,7 +2564,8 @@
       "Europe/Busingen"
     ],
     "capital": "Berlin",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Ghana",
@@ -2524,7 +2594,8 @@
       "Africa/Accra"
     ],
     "capital": "Accra",
-    "currency": "GHS"
+    "currencyCode": "GHS",
+    "continentCode": "AF"
   },
   {
     "country": "Greece",
@@ -2595,7 +2666,8 @@
       "Europe/Athens"
     ],
     "capital": "Athens",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Greenland",
@@ -2620,7 +2692,8 @@
       "America/Thule"
     ],
     "capital": "Nuuk",
-    "currency": "DKK"
+    "currencyCode": "DKK",
+    "continentCode": "NA"
   },
   {
     "country": "Grenada",
@@ -2646,7 +2719,8 @@
       "America/Grenada"
     ],
     "capital": "St. George's",
-    "currency": "XCD"
+    "currencyCode": "XCD",
+    "continentCode": "NA"
   },
   {
     "country": "Guatemala",
@@ -2687,7 +2761,8 @@
       "America/Guatemala"
     ],
     "capital": "Guatemala City",
-    "currency": "GTQ"
+    "currencyCode": "GTQ",
+    "continentCode": "NA"
   },
   {
     "country": "Guinea",
@@ -2740,7 +2815,8 @@
       "Africa/Conakry"
     ],
     "capital": "Conakry",
-    "currency": "GNF"
+    "currencyCode": "GNF",
+    "continentCode": "AF"
   },
   {
     "country": "Guinea-Bissau",
@@ -2768,7 +2844,8 @@
       "Africa/Bissau"
     ],
     "capital": "Bissau",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Guyana",
@@ -2797,7 +2874,8 @@
       "America/Guyana"
     ],
     "capital": "Georgetown",
-    "currency": "GYD"
+    "currencyCode": "GYD",
+    "continentCode": "SA"
   },
   {
     "country": "Haiti",
@@ -2825,7 +2903,8 @@
       "America/Port-au-Prince"
     ],
     "capital": "Port-au-Prince",
-    "currency": "HTG"
+    "currencyCode": "HTG",
+    "continentCode": "NA"
   },
   {
     "country": "Honduras",
@@ -2862,7 +2941,8 @@
       "America/Tegucigalpa"
     ],
     "capital": "Tegucigalpa",
-    "currency": "HNL"
+    "currencyCode": "HNL",
+    "continentCode": "NA"
   },
   {
     "country": "Hong Kong",
@@ -2899,7 +2979,8 @@
       "Asia/Hong_Kong"
     ],
     "capital": "Hong Kong",
-    "currency": "HKD"
+    "currencyCode": "HKD",
+    "continentCode": "AS"
   },
   {
     "country": "Hungary",
@@ -2937,7 +3018,8 @@
       "Europe/Budapest"
     ],
     "capital": "Budapest",
-    "currency": "HUF"
+    "currencyCode": "HUF",
+    "continentCode": "EU"
   },
   {
     "country": "Iceland",
@@ -2964,7 +3046,8 @@
       "Atlantic/Reykjavik"
     ],
     "capital": "Reykjavik",
-    "currency": "ISK"
+    "currencyCode": "ISK",
+    "continentCode": "EU"
   },
   {
     "country": "India",
@@ -3020,7 +3103,8 @@
       "Asia/Kolkata"
     ],
     "capital": "New Delhi",
-    "currency": "INR"
+    "currencyCode": "INR",
+    "continentCode": "AS"
   },
   {
     "country": "Indonesia",
@@ -3075,7 +3159,8 @@
       "Asia/Jayapura"
     ],
     "capital": "Jakarta",
-    "currency": "IDR"
+    "currencyCode": "IDR",
+    "continentCode": "AS"
   },
   {
     "country": "Iran",
@@ -3124,7 +3209,8 @@
       "Asia/Tehran"
     ],
     "capital": "Tehran",
-    "currency": "IRR"
+    "currencyCode": "IRR",
+    "continentCode": "AS"
   },
   {
     "country": "Iraq",
@@ -3161,7 +3247,8 @@
       "Asia/Baghdad"
     ],
     "capital": "Baghdad",
-    "currency": "IQD"
+    "currencyCode": "IQD",
+    "continentCode": "AS"
   },
   {
     "country": "Ireland",
@@ -3206,7 +3293,8 @@
       "Europe/Dublin"
     ],
     "capital": "Dublin",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Israel",
@@ -3231,7 +3319,8 @@
       "Asia/Jerusalem"
     ],
     "capital": "Jerusalem",
-    "currency": "ILS"
+    "currencyCode": "ILS",
+    "continentCode": "AS"
   },
   {
     "country": "Italy",
@@ -3270,7 +3359,8 @@
       "Europe/Rome"
     ],
     "capital": "Rome",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Jamaica",
@@ -3303,7 +3393,8 @@
       "America/Jamaica"
     ],
     "capital": "Kingston",
-    "currency": "JMD"
+    "currencyCode": "JMD",
+    "continentCode": "NA"
   },
   {
     "country": "Japan",
@@ -3369,7 +3460,8 @@
       "Asia/Tokyo"
     ],
     "capital": "Tokyo",
-    "currency": "JPY"
+    "currencyCode": "JPY",
+    "continentCode": "AS"
   },
   {
     "country": "Jordan",
@@ -3400,7 +3492,8 @@
       "Asia/Amman"
     ],
     "capital": "Amman",
-    "currency": "JOD"
+    "currencyCode": "JOD",
+    "continentCode": "AS"
   },
   {
     "country": "Kazakhstan",
@@ -3441,7 +3534,8 @@
       "Asia/Oral"
     ],
     "capital": "Astana",
-    "currency": "KZT"
+    "currencyCode": "KZT",
+    "continentCode": "AS"
   },
   {
     "country": "Kenya",
@@ -3468,7 +3562,8 @@
       "Africa/Nairobi"
     ],
     "capital": "Nairobi",
-    "currency": "KES"
+    "currencyCode": "KES",
+    "continentCode": "AF"
   },
   {
     "country": "Kiribati",
@@ -3495,7 +3590,8 @@
       "Pacific/Kiritimati"
     ],
     "capital": "Tarawa",
-    "currency": "AUD"
+    "currencyCode": "AUD",
+    "continentCode": "OC"
   },
   {
     "country": "Korea North",
@@ -3527,7 +3623,8 @@
       "Asia/Pyongyang"
     ],
     "capital": "Pyongyang",
-    "currency": "KPW"
+    "currencyCode": "KPW",
+    "continentCode": "AS"
   },
   {
     "country": "Korea South",
@@ -3562,7 +3659,8 @@
       "Asia/Seoul"
     ],
     "capital": "Seoul",
-    "currency": "KRW"
+    "currencyCode": "KRW",
+    "continentCode": "AS"
   },
   {
     "country": "Kuwait",
@@ -3587,7 +3685,8 @@
       "Asia/Kuwait"
     ],
     "capital": "Kuwait City",
-    "currency": "KWD"
+    "currencyCode": "KWD",
+    "continentCode": "AS"
   },
   {
     "country": "Kyrgyzstan",
@@ -3614,7 +3713,8 @@
       "Asia/Bishkek"
     ],
     "capital": "Bishkek",
-    "currency": "KGS"
+    "currencyCode": "KGS",
+    "continentCode": "AS"
   },
   {
     "country": "Laos",
@@ -3651,7 +3751,8 @@
       "Asia/Vientiane"
     ],
     "capital": "Vientiane",
-    "currency": "LAK"
+    "currencyCode": "LAK",
+    "continentCode": "AS"
   },
   {
     "country": "Latvia",
@@ -3703,7 +3804,8 @@
       "Europe/Riga"
     ],
     "capital": "Riga",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Lebanon",
@@ -3728,7 +3830,8 @@
       "Asia/Beirut"
     ],
     "capital": "Beirut",
-    "currency": "LBP"
+    "currencyCode": "LBP",
+    "continentCode": "AS"
   },
   {
     "country": "Lesotho",
@@ -3757,7 +3860,8 @@
       "Africa/Maseru"
     ],
     "capital": "Maseru",
-    "currency": "LSL"
+    "currencyCode": "LSL",
+    "continentCode": "AF"
   },
   {
     "country": "Liberia",
@@ -3791,7 +3895,8 @@
       "Africa/Monrovia"
     ],
     "capital": "Monrovia",
-    "currency": "LRD"
+    "currencyCode": "LRD",
+    "continentCode": "AF"
   },
   {
     "country": "Libya",
@@ -3835,7 +3940,8 @@
       "Africa/Tripoli"
     ],
     "capital": "Tripolis",
-    "currency": "LYD"
+    "currencyCode": "LYD",
+    "continentCode": "AF"
   },
   {
     "country": "Liechtenstein",
@@ -3865,7 +3971,8 @@
       "Europe/Vaduz"
     ],
     "capital": "Vaduz",
-    "currency": "CHF"
+    "currencyCode": "CHF",
+    "continentCode": "EU"
   },
   {
     "country": "Lithuania",
@@ -3894,7 +4001,8 @@
       "Europe/Vilnius"
     ],
     "capital": "Vilnius",
-    "currency": "LTL"
+    "currencyCode": "LTL",
+    "continentCode": "EU"
   },
   {
     "country": "Luxembourg",
@@ -3916,7 +4024,8 @@
       "Europe/Luxembourg"
     ],
     "capital": "Luxembourg",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Macedonia",
@@ -4020,7 +4129,8 @@
       "Europe/Skopje"
     ],
     "capital": "Skopje",
-    "currency": "MKD"
+    "currencyCode": "MKD",
+    "continentCode": "EU"
   },
   {
     "country": "Madagascar",
@@ -4045,7 +4155,8 @@
       "Indian/Antananarivo"
     ],
     "capital": "Antananarivo",
-    "currency": "MGA"
+    "currencyCode": "MGA",
+    "continentCode": "AF"
   },
   {
     "country": "Malawi",
@@ -4091,7 +4202,8 @@
       "Africa/Blantyre"
     ],
     "capital": "Lilongwe",
-    "currency": "MWK"
+    "currencyCode": "MWK",
+    "continentCode": "AF"
   },
   {
     "country": "Malaysia",
@@ -4126,7 +4238,8 @@
       "Asia/Kuching"
     ],
     "capital": "Kuala Lumpur",
-    "currency": "MYR"
+    "currencyCode": "MYR",
+    "continentCode": "AS"
   },
   {
     "country": "Maldives",
@@ -4165,7 +4278,8 @@
       "Indian/Maldives"
     ],
     "capital": "Male",
-    "currency": "MVR"
+    "currencyCode": "MVR",
+    "continentCode": "AS"
   },
   {
     "country": "Mali",
@@ -4193,7 +4307,8 @@
       "Africa/Bamako"
     ],
     "capital": "Bamako",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Malta",
@@ -4217,7 +4332,8 @@
       "Europe/Malta"
     ],
     "capital": "Valletta",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Marshall Islands",
@@ -4270,7 +4386,8 @@
       "Pacific/Kwajalein"
     ],
     "capital": "Majuro",
-    "currency": "USD"
+    "currencyCode": "USD",
+    "continentCode": "OC"
   },
   {
     "country": "Mauritania",
@@ -4302,7 +4419,8 @@
       "Africa/Nouakchott"
     ],
     "capital": "Nouakchott",
-    "currency": "MRO"
+    "currencyCode": "MRO",
+    "continentCode": "AF"
   },
   {
     "country": "Mauritius",
@@ -4333,7 +4451,8 @@
       "Indian/Mauritius"
     ],
     "capital": "Port Louis",
-    "currency": "MUR"
+    "currencyCode": "MUR",
+    "continentCode": "AF"
   },
   {
     "country": "Mexico",
@@ -4394,7 +4513,8 @@
       "America/Bahia_Banderas"
     ],
     "capital": "Mexico City",
-    "currency": "MXN"
+    "currencyCode": "MXN",
+    "continentCode": "NA"
   },
   {
     "country": "Micronesia",
@@ -4419,7 +4539,8 @@
       "Pacific/Kosrae"
     ],
     "capital": "Palikir",
-    "currency": "USD"
+    "currencyCode": "USD",
+    "continentCode": "OC"
   },
   {
     "country": "Moldova",
@@ -4475,7 +4596,8 @@
       "Europe/Chisinau"
     ],
     "capital": "Chisinau",
-    "currency": "MDL"
+    "currencyCode": "MDL",
+    "continentCode": "EU"
   },
   {
     "country": "Monaco",
@@ -4498,7 +4620,8 @@
       "Europe/Monaco"
     ],
     "capital": "Monaco",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Mongolia",
@@ -4541,7 +4664,8 @@
       "Asia/Choibalsan"
     ],
     "capital": "Ulan Bator",
-    "currency": "MNT"
+    "currencyCode": "MNT",
+    "continentCode": "AS"
   },
   {
     "country": "Morocco",
@@ -4599,7 +4723,8 @@
       "Africa/Casablanca"
     ],
     "capital": "Rabat",
-    "currency": "MAD"
+    "currencyCode": "MAD",
+    "continentCode": "AF"
   },
   {
     "country": "Mozambique",
@@ -4629,7 +4754,8 @@
       "Africa/Maputo"
     ],
     "capital": "Maputo",
-    "currency": "MZN"
+    "currencyCode": "MZN",
+    "continentCode": "AF"
   },
   {
     "country": "Namibia",
@@ -4661,7 +4787,8 @@
       "Africa/Windhoek"
     ],
     "capital": "Windhoek",
-    "currency": "NAD"
+    "currencyCode": "NAD",
+    "continentCode": "AF"
   },
   {
     "country": "Nauru",
@@ -4684,7 +4811,8 @@
       "Pacific/Nauru"
     ],
     "capital": "Yaren",
-    "currency": "AUD"
+    "currencyCode": "AUD",
+    "continentCode": "OC"
   },
   {
     "country": "Nepal",
@@ -4717,7 +4845,8 @@
       "Asia/Kathmandu"
     ],
     "capital": "Kathmandu",
-    "currency": "NPR"
+    "currencyCode": "NPR",
+    "continentCode": "AS"
   },
   {
     "country": "Netherlands",
@@ -4748,7 +4877,8 @@
       "Europe/Amsterdam"
     ],
     "capital": "Amsterdam",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "New Zealand",
@@ -4785,7 +4915,8 @@
       "Pacific/Chatham"
     ],
     "capital": "Wellington",
-    "currency": "NZD"
+    "currencyCode": "NZD",
+    "continentCode": "OC"
   },
   {
     "country": "Nicaragua",
@@ -4821,7 +4952,8 @@
       "America/Managua"
     ],
     "capital": "Managua",
-    "currency": "NIO"
+    "currencyCode": "NIO",
+    "continentCode": "NA"
   },
   {
     "country": "Niger",
@@ -4848,7 +4980,8 @@
       "Africa/Niamey"
     ],
     "capital": "Niamey",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Nigeria",
@@ -4904,7 +5037,8 @@
       "Africa/Lagos"
     ],
     "capital": "Abuja",
-    "currency": "NGN"
+    "currencyCode": "NGN",
+    "continentCode": "AF"
   },
   {
     "country": "Norway",
@@ -4942,7 +5076,8 @@
       "Europe/Oslo"
     ],
     "capital": "Oslo",
-    "currency": "NOK"
+    "currencyCode": "NOK",
+    "continentCode": "EU"
   },
   {
     "country": "Oman",
@@ -4969,7 +5104,8 @@
       "Asia/Muscat"
     ],
     "capital": "Muscat",
-    "currency": "OMR"
+    "currencyCode": "OMR",
+    "continentCode": "AS"
   },
   {
     "country": "Pakistan",
@@ -4994,7 +5130,8 @@
       "Asia/Karachi"
     ],
     "capital": "Islamabad",
-    "currency": "PKR"
+    "currencyCode": "PKR",
+    "continentCode": "AS"
   },
   {
     "country": "Panama",
@@ -5023,7 +5160,8 @@
       "America/Panama"
     ],
     "capital": "Panama City",
-    "currency": "PAB"
+    "currencyCode": "PAB",
+    "continentCode": "NA"
   },
   {
     "country": "Papua New Guinea",
@@ -5063,7 +5201,8 @@
       "Pacific/Bougainville"
     ],
     "capital": "Port Moresby",
-    "currency": "PGK"
+    "currencyCode": "PGK",
+    "continentCode": "OC"
   },
   {
     "country": "Paraguay",
@@ -5100,7 +5239,8 @@
       "America/Asuncion"
     ],
     "capital": "Asuncion",
-    "currency": "PYG"
+    "currencyCode": "PYG",
+    "continentCode": "SA"
   },
   {
     "country": "Peru",
@@ -5144,7 +5284,8 @@
       "America/Lima"
     ],
     "capital": "Lima",
-    "currency": "PEN"
+    "currencyCode": "PEN",
+    "continentCode": "SA"
   },
   {
     "country": "Philippines",
@@ -5242,7 +5383,8 @@
       "Asia/Manila"
     ],
     "capital": "Manila",
-    "currency": "PHP"
+    "currencyCode": "PHP",
+    "continentCode": "AS"
   },
   {
     "country": "Poland",
@@ -5277,7 +5419,8 @@
       "Europe/Warsaw"
     ],
     "capital": "Warsaw",
-    "currency": "PLN"
+    "currencyCode": "PLN",
+    "continentCode": "EU"
   },
   {
     "country": "Portugal",
@@ -5318,7 +5461,8 @@
       "Atlantic/Azores"
     ],
     "capital": "Lisbon",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Qatar",
@@ -5347,7 +5491,8 @@
       "Asia/Qatar"
     ],
     "capital": "Doha",
-    "currency": "QAR"
+    "currencyCode": "QAR",
+    "continentCode": "AS"
   },
   {
     "country": "Romania",
@@ -5408,7 +5553,8 @@
       "Europe/Bucharest"
     ],
     "capital": "Bucharest",
-    "currency": "RON"
+    "currencyCode": "RON",
+    "continentCode": "EU"
   },
   {
     "country": "Russia",
@@ -5542,7 +5688,8 @@
       "Asia/Anadyr"
     ],
     "capital": "Moscow",
-    "currency": "RUB"
+    "currencyCode": "RUB",
+    "continentCode": "EU"
   },
   {
     "country": "Rwanda",
@@ -5573,7 +5720,8 @@
       "Africa/Kigali"
     ],
     "capital": "Kigali",
-    "currency": "RWF"
+    "currencyCode": "RWF",
+    "continentCode": "AF"
   },
   {
     "country": "Samoa",
@@ -5603,7 +5751,8 @@
       "Pacific/Apia"
     ],
     "capital": "Apia",
-    "currency": "WST"
+    "currencyCode": "WST",
+    "continentCode": "OC"
   },
   {
     "country": "San Marino",
@@ -5631,7 +5780,8 @@
       "Europe/San_Marino"
     ],
     "capital": "San Marino",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Sao Tome",
@@ -5657,7 +5807,8 @@
       "Africa/Sao_Tome"
     ],
     "capital": "Sao Tome",
-    "currency": "STD"
+    "currencyCode": "STD",
+    "continentCode": "AF"
   },
   {
     "country": "Saudi Arabia",
@@ -5689,7 +5840,8 @@
       "Asia/Riyadh"
     ],
     "capital": "Riyadh",
-    "currency": "SAR"
+    "currencyCode": "SAR",
+    "continentCode": "AS"
   },
   {
     "country": "Senegal",
@@ -5719,7 +5871,8 @@
       "Africa/Dakar"
     ],
     "capital": "Dakar",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Serbia",
@@ -5762,7 +5915,8 @@
       "Europe/Belgrade"
     ],
     "capital": "Belgrade",
-    "currency": "RSD"
+    "currencyCode": "RSD",
+    "continentCode": "EU"
   },
   {
     "country": "Montenegro",
@@ -5806,7 +5960,8 @@
       "Europe/Podgorica"
     ],
     "capital": "Podgorica",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Kosovo",
@@ -5832,7 +5987,8 @@
       "Europe/Belgrade"
     ],
     "capital": "Pristina",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Seychelles",
@@ -5874,7 +6030,8 @@
       "Indian/Mahe"
     ],
     "capital": "Victoria",
-    "currency": "SCR"
+    "currencyCode": "SCR",
+    "continentCode": "AF"
   },
   {
     "country": "Sierra Leone",
@@ -5898,7 +6055,8 @@
       "Africa/Freetown"
     ],
     "capital": "Freetown",
-    "currency": "SLL"
+    "currencyCode": "SLL",
+    "continentCode": "AF"
   },
   {
     "country": "Singapore",
@@ -5933,7 +6091,8 @@
       "Asia/Singapore"
     ],
     "capital": "Singapur",
-    "currency": "SGD"
+    "currencyCode": "SGD",
+    "continentCode": "AS"
   },
   {
     "country": "Slovakia",
@@ -5960,7 +6119,8 @@
       "Europe/Bratislava"
     ],
     "capital": "Bratislava",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Slovenia",
@@ -6172,7 +6332,8 @@
       "Europe/Ljubljana"
     ],
     "capital": "Ljubljana",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Solomon Islands",
@@ -6201,7 +6362,8 @@
       "Pacific/Guadalcanal"
     ],
     "capital": "Honiara",
-    "currency": "SBD"
+    "currencyCode": "SBD",
+    "continentCode": "OC"
   },
   {
     "country": "Somalia",
@@ -6238,7 +6400,8 @@
       "Africa/Mogadishu"
     ],
     "capital": "Mogadishu",
-    "currency": "SOS"
+    "currencyCode": "SOS",
+    "continentCode": "AF"
   },
   {
     "country": "South Africa",
@@ -6266,7 +6429,8 @@
       "Africa/Johannesburg"
     ],
     "capital": "Pretoria",
-    "currency": "ZAR"
+    "currencyCode": "ZAR",
+    "continentCode": "AF"
   },
   {
     "country": "Spain",
@@ -6306,7 +6470,8 @@
       "Atlantic/Canary"
     ],
     "capital": "Madrid",
-    "currency": "EUR"
+    "currencyCode": "EUR",
+    "continentCode": "EU"
   },
   {
     "country": "Sri Lanka",
@@ -6334,7 +6499,8 @@
       "Asia/Colombo"
     ],
     "capital": "Colombo",
-    "currency": "LKR"
+    "currencyCode": "LKR",
+    "continentCode": "AS"
   },
   {
     "country": "Sudan",
@@ -6379,7 +6545,8 @@
       "Africa/Khartoum"
     ],
     "capital": "Khartoum",
-    "currency": "SDG"
+    "currencyCode": "SDG",
+    "continentCode": "AF"
   },
   {
     "country": "Suriname",
@@ -6408,7 +6575,8 @@
       "America/Paramaribo"
     ],
     "capital": "Paramaribo",
-    "currency": "SRD"
+    "currencyCode": "SRD",
+    "continentCode": "SA"
   },
   {
     "country": "Swaziland",
@@ -6431,7 +6599,8 @@
       "Africa/Mbabane"
     ],
     "capital": "Mbabane",
-    "currency": "SZL"
+    "currencyCode": "SZL",
+    "continentCode": "AF"
   },
   {
     "country": "Sweden",
@@ -6471,7 +6640,8 @@
       "Europe/Stockholm"
     ],
     "capital": "Stockholm",
-    "currency": "SEK"
+    "currencyCode": "SEK",
+    "continentCode": "EU"
   },
   {
     "country": "Switzerland",
@@ -6516,7 +6686,8 @@
       "Europe/Zurich"
     ],
     "capital": "Berne",
-    "currency": "CHF"
+    "currencyCode": "CHF",
+    "continentCode": "EU"
   },
   {
     "country": "Syria",
@@ -6549,7 +6720,8 @@
       "Asia/Damascus"
     ],
     "capital": "Damascus",
-    "currency": "SYP"
+    "currencyCode": "SYP",
+    "continentCode": "AS"
   },
   {
     "country": "Taiwan",
@@ -6593,7 +6765,8 @@
       "Asia/Taipei"
     ],
     "capital": "Taipei",
-    "currency": "TWD"
+    "currencyCode": "TWD",
+    "continentCode": "AS"
   },
   {
     "country": "Tajikistan",
@@ -6617,7 +6790,8 @@
       "Asia/Dushanbe"
     ],
     "capital": "Dushanbe",
-    "currency": "TJS"
+    "currencyCode": "TJS",
+    "continentCode": "AS"
   },
   {
     "country": "Tanzania",
@@ -6662,7 +6836,8 @@
       "Africa/Dar_es_Salaam"
     ],
     "capital": "Dodoma",
-    "currency": "TZS"
+    "currencyCode": "TZS",
+    "continentCode": "AF"
   },
   {
     "country": "Thailand",
@@ -6757,7 +6932,8 @@
       "Asia/Bangkok"
     ],
     "capital": "Bangkok",
-    "currency": "THB"
+    "currencyCode": "THB",
+    "continentCode": "AS"
   },
   {
     "country": "Togo",
@@ -6781,7 +6957,8 @@
       "Africa/Lome"
     ],
     "capital": "Lome",
-    "currency": "XOF"
+    "currencyCode": "XOF",
+    "continentCode": "AF"
   },
   {
     "country": "Tonga",
@@ -6806,7 +6983,8 @@
       "Pacific/Tongatapu"
     ],
     "capital": "Nuku'alofa",
-    "currency": "TOP"
+    "currencyCode": "TOP",
+    "continentCode": "OC"
   },
   {
     "country": "Trinidad and Tobago",
@@ -6840,7 +7018,8 @@
       "America/Port_of_Spain"
     ],
     "capital": "Port of Spain",
-    "currency": "TTD"
+    "currencyCode": "TTD",
+    "continentCode": "NA"
   },
   {
     "country": "Tunisia",
@@ -6883,7 +7062,8 @@
       "Africa/Tunis"
     ],
     "capital": "Tunis",
-    "currency": "TND"
+    "currencyCode": "TND",
+    "continentCode": "AF"
   },
   {
     "country": "Turkey",
@@ -6983,7 +7163,8 @@
       "Europe/Istanbul"
     ],
     "capital": "Ankara",
-    "currency": "TRY"
+    "currencyCode": "TRY",
+    "continentCode": "AS"
   },
   {
     "country": "Turkmenistan",
@@ -7007,7 +7188,8 @@
       "Asia/Ashgabat"
     ],
     "capital": "Ashgabat",
-    "currency": "TMT"
+    "currencyCode": "TMT",
+    "continentCode": "AS"
   },
   {
     "country": "Uganda",
@@ -7082,7 +7264,8 @@
       "Africa/Kampala"
     ],
     "capital": "Kampala",
-    "currency": "UGX"
+    "currencyCode": "UGX",
+    "continentCode": "AF"
   },
   {
     "country": "Ukraine",
@@ -7130,7 +7313,8 @@
       "Europe/Zaporozhye"
     ],
     "capital": "Kiev",
-    "currency": "UAH"
+    "currencyCode": "UAH",
+    "continentCode": "EU"
   },
   {
     "country": "United Arab Emirates",
@@ -7156,7 +7340,8 @@
       "Asia/Dubai"
     ],
     "capital": "Abu Dhabi",
-    "currency": "AED"
+    "currencyCode": "AED",
+    "continentCode": "AS"
   },
   {
     "country": "United Kingdom",
@@ -7321,7 +7506,8 @@
       "Europe/London"
     ],
     "capital": "London",
-    "currency": "GBP"
+    "currencyCode": "GBP",
+    "continentCode": "EU"
   },
   {
     "country": "United States",
@@ -7419,7 +7605,8 @@
       "Pacific/Honolulu"
     ],
     "capital": "Washington",
-    "currency": "USD"
+    "currencyCode": "USD",
+    "continentCode": "NA"
   },
   {
     "country": "Uruguay",
@@ -7457,7 +7644,8 @@
       "America/Montevideo"
     ],
     "capital": "Montevideo",
-    "currency": "UYU"
+    "currencyCode": "UYU",
+    "continentCode": "SA"
   },
   {
     "country": "Uzbekistan",
@@ -7491,7 +7679,8 @@
       "Asia/Tashkent"
     ],
     "capital": "Tashkent",
-    "currency": "UZS"
+    "currencyCode": "UZS",
+    "continentCode": "AS"
   },
   {
     "country": "Vanuatu",
@@ -7516,7 +7705,8 @@
       "Pacific/Efate"
     ],
     "capital": "Port Vila",
-    "currency": "VUV"
+    "currencyCode": "VUV",
+    "continentCode": "OC"
   },
   {
     "country": "Venezuela",
@@ -7560,7 +7750,8 @@
       "America/Caracas"
     ],
     "capital": "Caracas",
-    "currency": "VEF"
+    "currencyCode": "VEF",
+    "continentCode": "SA"
   },
   {
     "country": "Vietnam",
@@ -7643,7 +7834,8 @@
       "Asia/Ho_Chi_Minh"
     ],
     "capital": "Hanoi",
-    "currency": "VND"
+    "currencyCode": "VND",
+    "continentCode": "AS"
   },
   {
     "country": "Yemen",
@@ -7681,7 +7873,8 @@
       "Asia/Aden"
     ],
     "capital": "Sanaa",
-    "currency": "YER"
+    "currencyCode": "YER",
+    "continentCode": "AS"
   },
   {
     "country": "Zambia",
@@ -7709,7 +7902,8 @@
       "Africa/Lusaka"
     ],
     "capital": "Lusaka",
-    "currency": "ZMK"
+    "currencyCode": "ZMK",
+    "continentCode": "AF"
   },
   {
     "country": "Zimbabwe",
@@ -7738,6 +7932,7 @@
       "Africa/Harare"
     ],
     "capital": "Harare",
-    "currency": "ZWL"
+    "currencyCode": "ZWL",
+    "continentCode": "AF"
   }
 ]
