@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const SOURCE_DIR = 'data',
+const SOURCE_DIR = 'sources',
   DESTINATION_DIR = 'created';
 
 export function readJSONFile<T extends object>(fileName: string): T {
