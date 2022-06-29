@@ -45,7 +45,10 @@
       "unicode": "U+1F1E6 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg"
     },
-    "phoneNumberCode": "93"
+    "phoneNumberCode": "93",
+    "timezone": [
+      "Asia/Kabul"
+    ]
   },
   {
     "country": "Albania",
@@ -71,7 +74,10 @@
       "unicode": "U+1F1E6 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg"
     },
-    "phoneNumberCode": "355"
+    "phoneNumberCode": "355",
+    "timezone": [
+      "Europe/Tirane"
+    ]
   },
   {
     "country": "Algeria",
@@ -133,7 +139,10 @@
       "unicode": "U+1F1E9 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg"
     },
-    "phoneNumberCode": "213"
+    "phoneNumberCode": "213",
+    "timezone": [
+      "Africa/Algiers"
+    ]
   },
   {
     "country": "Andorra",
@@ -154,7 +163,10 @@
       "unicode": "U+1F1E6 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg"
     },
-    "phoneNumberCode": "376"
+    "phoneNumberCode": "376",
+    "timezone": [
+      "Europe/Andorra"
+    ]
   },
   {
     "country": "Angola",
@@ -186,7 +198,10 @@
       "unicode": "U+1F1E6 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg"
     },
-    "phoneNumberCode": "244"
+    "phoneNumberCode": "244",
+    "timezone": [
+      "Africa/Luanda"
+    ]
   },
   {
     "country": "Antarctica",
@@ -199,7 +214,19 @@
       "unicode": "U+1F1E6 U+1F1F6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg"
     },
-    "phoneNumberCode": "672"
+    "phoneNumberCode": "672",
+    "timezone": [
+      "Antarctica/McMurdo",
+      "Antarctica/Casey",
+      "Antarctica/Davis",
+      "Antarctica/DumontDUrville",
+      "Antarctica/Mawson",
+      "Antarctica/Palmer",
+      "Antarctica/Rothera",
+      "Antarctica/Syowa",
+      "Antarctica/Troll",
+      "Antarctica/Vostok"
+    ]
   },
   {
     "country": "Antigua and Barbuda",
@@ -221,7 +248,10 @@
       "unicode": "U+1F1E6 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg"
     },
-    "phoneNumberCode": "1-268"
+    "phoneNumberCode": "1-268",
+    "timezone": [
+      "America/Antigua"
+    ]
   },
   {
     "country": "Argentina",
@@ -259,7 +289,21 @@
       "unicode": "U+1F1E6 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg"
     },
-    "phoneNumberCode": "54"
+    "phoneNumberCode": "54",
+    "timezone": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Salta",
+      "America/Argentina/Jujuy",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Catamarca",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/San_Juan",
+      "America/Argentina/Mendoza",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Ushuaia"
+    ]
   },
   {
     "country": "Armenia",
@@ -284,7 +328,10 @@
       "unicode": "U+1F1E6 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg"
     },
-    "phoneNumberCode": "374"
+    "phoneNumberCode": "374",
+    "timezone": [
+      "Asia/Yerevan"
+    ]
   },
   {
     "country": "Australia",
@@ -306,7 +353,22 @@
       "unicode": "U+1F1E6 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg"
     },
-    "phoneNumberCode": "61"
+    "phoneNumberCode": "61",
+    "timezone": [
+      "Australia/Lord_Howe",
+      "Antarctica/Macquarie",
+      "Australia/Hobart",
+      "Australia/Currie",
+      "Australia/Melbourne",
+      "Australia/Sydney",
+      "Australia/Broken_Hill",
+      "Australia/Brisbane",
+      "Australia/Lindeman",
+      "Australia/Adelaide",
+      "Australia/Darwin",
+      "Australia/Perth",
+      "Australia/Eucla"
+    ]
   },
   {
     "country": "Austria",
@@ -329,7 +391,10 @@
       "unicode": "U+1F1E6 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg"
     },
-    "phoneNumberCode": "43"
+    "phoneNumberCode": "43",
+    "timezone": [
+      "Europe/Vienna"
+    ]
   },
   {
     "country": "Azerbaijan",
@@ -414,7 +479,10 @@
       "unicode": "U+1F1E6 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg"
     },
-    "phoneNumberCode": "994"
+    "phoneNumberCode": "994",
+    "timezone": [
+      "Asia/Baku"
+    ]
   },
   {
     "country": "Bahamas",
@@ -449,7 +517,10 @@
       "unicode": "U+1F1E7 U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg"
     },
-    "phoneNumberCode": "1-242"
+    "phoneNumberCode": "1-242",
+    "timezone": [
+      "America/Nassau"
+    ]
   },
   {
     "country": "Bahrain",
@@ -475,7 +546,10 @@
       "unicode": "U+1F1E7 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg"
     },
-    "phoneNumberCode": "973"
+    "phoneNumberCode": "973",
+    "timezone": [
+      "Asia/Bahrain"
+    ]
   },
   {
     "country": "Bangladesh",
@@ -495,7 +569,10 @@
       "unicode": "U+1F1E7 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg"
     },
-    "phoneNumberCode": "880"
+    "phoneNumberCode": "880",
+    "timezone": [
+      "Asia/Dhaka"
+    ]
   },
   {
     "country": "Barbados",
@@ -520,7 +597,10 @@
       "unicode": "U+1F1E7 U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg"
     },
-    "phoneNumberCode": "1-246"
+    "phoneNumberCode": "1-246",
+    "timezone": [
+      "America/Barbados"
+    ]
   },
   {
     "country": "Belarus",
@@ -541,7 +621,10 @@
       "unicode": "U+1F1E7 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg"
     },
-    "phoneNumberCode": "375"
+    "phoneNumberCode": "375",
+    "timezone": [
+      "Europe/Minsk"
+    ]
   },
   {
     "country": "Belgium",
@@ -568,7 +651,10 @@
       "unicode": "U+1F1E7 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg"
     },
-    "phoneNumberCode": "32"
+    "phoneNumberCode": "32",
+    "timezone": [
+      "Europe/Brussels"
+    ]
   },
   {
     "country": "Belize",
@@ -588,7 +674,10 @@
       "unicode": "U+1F1E7 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg"
     },
-    "phoneNumberCode": "501"
+    "phoneNumberCode": "501",
+    "timezone": [
+      "America/Belize"
+    ]
   },
   {
     "country": "Benin",
@@ -614,7 +703,10 @@
       "unicode": "U+1F1E7 U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg"
     },
-    "phoneNumberCode": "229"
+    "phoneNumberCode": "229",
+    "timezone": [
+      "Africa/Porto-Novo"
+    ]
   },
   {
     "country": "Bermuda",
@@ -639,7 +731,10 @@
       "unicode": "U+1F1E7 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg"
     },
-    "phoneNumberCode": "1-441"
+    "phoneNumberCode": "1-441",
+    "timezone": [
+      "Atlantic/Bermuda"
+    ]
   },
   {
     "country": "Bhutan",
@@ -673,7 +768,10 @@
       "unicode": "U+1F1E7 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg"
     },
-    "phoneNumberCode": "975"
+    "phoneNumberCode": "975",
+    "timezone": [
+      "Asia/Thimphu"
+    ]
   },
   {
     "country": "Bolivia",
@@ -696,7 +794,10 @@
       "unicode": "U+1F1E7 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg"
     },
-    "phoneNumberCode": "591"
+    "phoneNumberCode": "591",
+    "timezone": [
+      "America/La_Paz"
+    ]
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -727,7 +828,10 @@
       "unicode": "U+1F1E7 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg"
     },
-    "phoneNumberCode": "387"
+    "phoneNumberCode": "387",
+    "timezone": [
+      "Europe/Sarajevo"
+    ]
   },
   {
     "country": "Botswana",
@@ -750,7 +854,10 @@
       "unicode": "U+1F1E7 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg"
     },
-    "phoneNumberCode": "267"
+    "phoneNumberCode": "267",
+    "timezone": [
+      "Africa/Gaborone"
+    ]
   },
   {
     "country": "Brazil",
@@ -791,7 +898,25 @@
       "unicode": "U+1F1E7 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg"
     },
-    "phoneNumberCode": "55"
+    "phoneNumberCode": "55",
+    "timezone": [
+      "America/Noronha",
+      "America/Belem",
+      "America/Fortaleza",
+      "America/Recife",
+      "America/Araguaina",
+      "America/Maceio",
+      "America/Bahia",
+      "America/Sao_Paulo",
+      "America/Campo_Grande",
+      "America/Cuiaba",
+      "America/Santarem",
+      "America/Porto_Velho",
+      "America/Boa_Vista",
+      "America/Manaus",
+      "America/Eirunepe",
+      "America/Rio_Branco"
+    ]
   },
   {
     "country": "Brunei",
@@ -809,7 +934,10 @@
       "unicode": "U+1F1E7 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg"
     },
-    "phoneNumberCode": "673"
+    "phoneNumberCode": "673",
+    "timezone": [
+      "Asia/Brunei"
+    ]
   },
   {
     "country": "Bulgaria",
@@ -851,7 +979,10 @@
       "unicode": "U+1F1E7 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg"
     },
-    "phoneNumberCode": "359"
+    "phoneNumberCode": "359",
+    "timezone": [
+      "Europe/Sofia"
+    ]
   },
   {
     "country": "Burkina Faso",
@@ -910,7 +1041,10 @@
       "unicode": "U+1F1E7 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg"
     },
-    "phoneNumberCode": "226"
+    "phoneNumberCode": "226",
+    "timezone": [
+      "Africa/Ouagadougou"
+    ]
   },
   {
     "country": "Myanmar",
@@ -938,7 +1072,10 @@
       "unicode": "U+1F1F2 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg"
     },
-    "phoneNumberCode": "95"
+    "phoneNumberCode": "95",
+    "timezone": [
+      "Asia/Yangon"
+    ]
   },
   {
     "country": "Burundi",
@@ -969,7 +1106,10 @@
       "unicode": "U+1F1E7 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg"
     },
-    "phoneNumberCode": "257"
+    "phoneNumberCode": "257",
+    "timezone": [
+      "Africa/Bujumbura"
+    ]
   },
   {
     "country": "Cambodia",
@@ -1007,7 +1147,10 @@
       "unicode": "U+1F1F0 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg"
     },
-    "phoneNumberCode": "855"
+    "phoneNumberCode": "855",
+    "timezone": [
+      "Asia/Phnom_Penh"
+    ]
   },
   {
     "country": "Cameroon",
@@ -1031,7 +1174,10 @@
       "unicode": "U+1F1E8 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg"
     },
-    "phoneNumberCode": "237"
+    "phoneNumberCode": "237",
+    "timezone": [
+      "Africa/Douala"
+    ]
   },
   {
     "country": "Canada",
@@ -1058,7 +1204,37 @@
       "unicode": "U+1F1E8 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg"
     },
-    "phoneNumberCode": "1"
+    "phoneNumberCode": "1",
+    "timezone": [
+      "America/St_Johns",
+      "America/Halifax",
+      "America/Glace_Bay",
+      "America/Moncton",
+      "America/Goose_Bay",
+      "America/Blanc-Sablon",
+      "America/Toronto",
+      "America/Nipigon",
+      "America/Thunder_Bay",
+      "America/Iqaluit",
+      "America/Pangnirtung",
+      "America/Atikokan",
+      "America/Winnipeg",
+      "America/Rainy_River",
+      "America/Resolute",
+      "America/Rankin_Inlet",
+      "America/Regina",
+      "America/Swift_Current",
+      "America/Edmonton",
+      "America/Cambridge_Bay",
+      "America/Yellowknife",
+      "America/Inuvik",
+      "America/Creston",
+      "America/Dawson_Creek",
+      "America/Fort_Nelson",
+      "America/Vancouver",
+      "America/Whitehorse",
+      "America/Dawson"
+    ]
   },
   {
     "country": "Cape Verde",
@@ -1082,7 +1258,10 @@
       "unicode": "U+1F1E8 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg"
     },
-    "phoneNumberCode": "238"
+    "phoneNumberCode": "238",
+    "timezone": [
+      "Atlantic/Cape_Verde"
+    ]
   },
   {
     "country": "Central African Republic",
@@ -1113,7 +1292,10 @@
       "unicode": "U+1F1E8 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg"
     },
-    "phoneNumberCode": "236"
+    "phoneNumberCode": "236",
+    "timezone": [
+      "Africa/Bangui"
+    ]
   },
   {
     "country": "Chad",
@@ -1141,7 +1323,10 @@
       "unicode": "U+1F1F9 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg"
     },
-    "phoneNumberCode": "235"
+    "phoneNumberCode": "235",
+    "timezone": [
+      "Africa/Ndjamena"
+    ]
   },
   {
     "country": "Chile",
@@ -1168,7 +1353,12 @@
       "unicode": "U+1F1E8 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg"
     },
-    "phoneNumberCode": "56"
+    "phoneNumberCode": "56",
+    "timezone": [
+      "America/Santiago",
+      "America/Punta_Arenas",
+      "Pacific/Easter"
+    ]
   },
   {
     "country": "China",
@@ -1213,7 +1403,11 @@
       "unicode": "U+1F1E8 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg"
     },
-    "phoneNumberCode": "86"
+    "phoneNumberCode": "86",
+    "timezone": [
+      "Asia/Shanghai",
+      "Asia/Urumqi"
+    ]
   },
   {
     "country": "Colombia",
@@ -1260,7 +1454,10 @@
       "unicode": "U+1F1E8 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg"
     },
-    "phoneNumberCode": "57"
+    "phoneNumberCode": "57",
+    "timezone": [
+      "America/Bogota"
+    ]
   },
   {
     "country": "Comoros",
@@ -1277,7 +1474,10 @@
       "unicode": "U+1F1F0 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg"
     },
-    "phoneNumberCode": "269"
+    "phoneNumberCode": "269",
+    "timezone": [
+      "Indian/Comoro"
+    ]
   },
   {
     "country": "Congo, Democratic Republic",
@@ -1302,7 +1502,11 @@
       "unicode": "U+1F1E8 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg"
     },
-    "phoneNumberCode": "243"
+    "phoneNumberCode": "243",
+    "timezone": [
+      "Africa/Kinshasa",
+      "Africa/Lubumbashi"
+    ]
   },
   {
     "country": "Congo, Republic of the",
@@ -1327,7 +1531,10 @@
       "unicode": "U+1F1E8 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg"
     },
-    "phoneNumberCode": "242"
+    "phoneNumberCode": "242",
+    "timezone": [
+      "Africa/Brazzaville"
+    ]
   },
   {
     "country": "Costa Rica",
@@ -1348,7 +1555,10 @@
       "unicode": "U+1F1E8 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg"
     },
-    "phoneNumberCode": "506"
+    "phoneNumberCode": "506",
+    "timezone": [
+      "America/Costa_Rica"
+    ]
   },
   {
     "country": "Cote d'Ivoire",
@@ -1376,7 +1586,10 @@
       "unicode": "U+1F1E8 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg"
     },
-    "phoneNumberCode": "225"
+    "phoneNumberCode": "225",
+    "timezone": [
+      "Africa/Abidjan"
+    ]
   },
   {
     "country": "Croatia",
@@ -1411,7 +1624,10 @@
       "unicode": "U+1F1ED U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg"
     },
-    "phoneNumberCode": "385"
+    "phoneNumberCode": "385",
+    "timezone": [
+      "Europe/Zagreb"
+    ]
   },
   {
     "country": "Cuba",
@@ -1440,7 +1656,10 @@
       "unicode": "U+1F1E8 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg"
     },
-    "phoneNumberCode": "53"
+    "phoneNumberCode": "53",
+    "timezone": [
+      "America/Havana"
+    ]
   },
   {
     "country": "Cyprus",
@@ -1460,7 +1679,11 @@
       "unicode": "U+1F1E8 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg"
     },
-    "phoneNumberCode": "357"
+    "phoneNumberCode": "357",
+    "timezone": [
+      "Asia/Nicosia",
+      "Asia/Famagusta"
+    ]
   },
   {
     "country": "Czech Republic",
@@ -1488,7 +1711,10 @@
       "unicode": "U+1F1E8 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg"
     },
-    "phoneNumberCode": "420"
+    "phoneNumberCode": "420",
+    "timezone": [
+      "Europe/Prague"
+    ]
   },
   {
     "country": "Denmark",
@@ -1518,7 +1744,10 @@
       "unicode": "U+1F1E9 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg"
     },
-    "phoneNumberCode": "45"
+    "phoneNumberCode": "45",
+    "timezone": [
+      "Europe/Copenhagen"
+    ]
   },
   {
     "country": "Djibouti",
@@ -1537,7 +1766,10 @@
       "unicode": "U+1F1E9 U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg"
     },
-    "phoneNumberCode": "253"
+    "phoneNumberCode": "253",
+    "timezone": [
+      "Africa/Djibouti"
+    ]
   },
   {
     "country": "Dominica",
@@ -1561,7 +1793,10 @@
       "unicode": "U+1F1E9 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg"
     },
-    "phoneNumberCode": "1-767"
+    "phoneNumberCode": "1-767",
+    "timezone": [
+      "America/Dominica"
+    ]
   },
   {
     "country": "Dominican Republic",
@@ -1607,7 +1842,10 @@
       "unicode": "U+1F1E9 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg"
     },
-    "phoneNumberCode": "1-809, 1-829, 1-849"
+    "phoneNumberCode": "1-809, 1-829, 1-849",
+    "timezone": [
+      "America/Santo_Domingo"
+    ]
   },
   {
     "country": "East Timor",
@@ -1634,7 +1872,10 @@
       "unicode": "U+1F1F9 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg"
     },
-    "phoneNumberCode": "670"
+    "phoneNumberCode": "670",
+    "timezone": [
+      "Asia/Dili"
+    ]
   },
   {
     "country": "Ecuador",
@@ -1670,7 +1911,11 @@
       "unicode": "U+1F1EA U+1F1E8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg"
     },
-    "phoneNumberCode": "593"
+    "phoneNumberCode": "593",
+    "timezone": [
+      "America/Guayaquil",
+      "Pacific/Galapagos"
+    ]
   },
   {
     "country": "Egypt",
@@ -1710,7 +1955,10 @@
       "unicode": "U+1F1EA U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg"
     },
-    "phoneNumberCode": "20"
+    "phoneNumberCode": "20",
+    "timezone": [
+      "Africa/Cairo"
+    ]
   },
   {
     "country": "El Salvador",
@@ -1738,7 +1986,10 @@
       "unicode": "U+1F1F8 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg"
     },
-    "phoneNumberCode": "503"
+    "phoneNumberCode": "503",
+    "timezone": [
+      "America/El_Salvador"
+    ]
   },
   {
     "country": "Equatorial Guinea",
@@ -1759,7 +2010,10 @@
       "unicode": "U+1F1EC U+1F1F6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg"
     },
-    "phoneNumberCode": "240"
+    "phoneNumberCode": "240",
+    "timezone": [
+      "Africa/Malabo"
+    ]
   },
   {
     "country": "Eritrea",
@@ -1779,7 +2033,10 @@
       "unicode": "U+1F1EA U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg"
     },
-    "phoneNumberCode": "291"
+    "phoneNumberCode": "291",
+    "timezone": [
+      "Africa/Asmara"
+    ]
   },
   {
     "country": "Estonia",
@@ -1808,7 +2065,10 @@
       "unicode": "U+1F1EA U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg"
     },
-    "phoneNumberCode": "372"
+    "phoneNumberCode": "372",
+    "timezone": [
+      "Europe/Tallinn"
+    ]
   },
   {
     "country": "Ethiopia",
@@ -1833,7 +2093,10 @@
       "unicode": "U+1F1EA U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg"
     },
-    "phoneNumberCode": "251"
+    "phoneNumberCode": "251",
+    "timezone": [
+      "Africa/Addis_Ababa"
+    ]
   },
   {
     "country": "Fiji",
@@ -1852,7 +2115,10 @@
       "unicode": "U+1F1EB U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg"
     },
-    "phoneNumberCode": "679"
+    "phoneNumberCode": "679",
+    "timezone": [
+      "Pacific/Fiji"
+    ]
   },
   {
     "country": "Finland",
@@ -1872,7 +2138,10 @@
       "unicode": "U+1F1EB U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg"
     },
-    "phoneNumberCode": "358"
+    "phoneNumberCode": "358",
+    "timezone": [
+      "Europe/Helsinki"
+    ]
   },
   {
     "country": "France",
@@ -1908,7 +2177,10 @@
       "unicode": "U+1F1EB U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg"
     },
-    "phoneNumberCode": "33"
+    "phoneNumberCode": "33",
+    "timezone": [
+      "Europe/Paris"
+    ]
   },
   {
     "country": "French Guiana",
@@ -1944,7 +2216,10 @@
       "unicode": "U+1F1EC U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg"
     },
-    "phoneNumberCode": "594"
+    "phoneNumberCode": "594",
+    "timezone": [
+      "America/Cayenne"
+    ]
   },
   {
     "country": "French Polynesia",
@@ -1963,7 +2238,12 @@
       "unicode": "U+1F1F5 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg"
     },
-    "phoneNumberCode": "689"
+    "phoneNumberCode": "689",
+    "timezone": [
+      "Pacific/Tahiti",
+      "Pacific/Marquesas",
+      "Pacific/Gambier"
+    ]
   },
   {
     "country": "Gabon",
@@ -1986,7 +2266,10 @@
       "unicode": "U+1F1EC U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg"
     },
-    "phoneNumberCode": "241"
+    "phoneNumberCode": "241",
+    "timezone": [
+      "Africa/Libreville"
+    ]
   },
   {
     "country": "Gambia",
@@ -2006,7 +2289,10 @@
       "unicode": "U+1F1EC U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg"
     },
-    "phoneNumberCode": "220"
+    "phoneNumberCode": "220",
+    "timezone": [
+      "Africa/Banjul"
+    ]
   },
   {
     "country": "Georgia",
@@ -2032,7 +2318,10 @@
       "unicode": "U+1F1EC U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg"
     },
-    "phoneNumberCode": "220"
+    "phoneNumberCode": "220",
+    "timezone": [
+      "Africa/Banjul"
+    ]
   },
   {
     "country": "Germany",
@@ -2062,7 +2351,11 @@
       "unicode": "U+1F1E9 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg"
     },
-    "phoneNumberCode": "49"
+    "phoneNumberCode": "49",
+    "timezone": [
+      "Europe/Berlin",
+      "Europe/Busingen"
+    ]
   },
   {
     "country": "Ghana",
@@ -2086,7 +2379,10 @@
       "unicode": "U+1F1EC U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg"
     },
-    "phoneNumberCode": "233"
+    "phoneNumberCode": "233",
+    "timezone": [
+      "Africa/Accra"
+    ]
   },
   {
     "country": "Greece",
@@ -2152,7 +2448,10 @@
       "unicode": "U+1F1EC U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg"
     },
-    "phoneNumberCode": "30"
+    "phoneNumberCode": "30",
+    "timezone": [
+      "Europe/Athens"
+    ]
   },
   {
     "country": "Greenland",
@@ -2169,7 +2468,13 @@
       "unicode": "U+1F1EC U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg"
     },
-    "phoneNumberCode": "299"
+    "phoneNumberCode": "299",
+    "timezone": [
+      "America/Godthab",
+      "America/Danmarkshavn",
+      "America/Scoresbysund",
+      "America/Thule"
+    ]
   },
   {
     "country": "Grenada",
@@ -2190,7 +2495,10 @@
       "unicode": "U+1F1EC U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg"
     },
-    "phoneNumberCode": "1-473"
+    "phoneNumberCode": "1-473",
+    "timezone": [
+      "America/Grenada"
+    ]
   },
   {
     "country": "Guatemala",
@@ -2226,7 +2534,10 @@
       "unicode": "U+1F1EC U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg"
     },
-    "phoneNumberCode": "502"
+    "phoneNumberCode": "502",
+    "timezone": [
+      "America/Guatemala"
+    ]
   },
   {
     "country": "Guinea",
@@ -2274,7 +2585,10 @@
       "unicode": "U+1F1EC U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg"
     },
-    "phoneNumberCode": "224"
+    "phoneNumberCode": "224",
+    "timezone": [
+      "Africa/Conakry"
+    ]
   },
   {
     "country": "Guinea-Bissau",
@@ -2297,7 +2611,10 @@
       "unicode": "U+1F1EC U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg"
     },
-    "phoneNumberCode": "245"
+    "phoneNumberCode": "245",
+    "timezone": [
+      "Africa/Bissau"
+    ]
   },
   {
     "country": "Guyana",
@@ -2321,7 +2638,10 @@
       "unicode": "U+1F1EC U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg"
     },
-    "phoneNumberCode": "592"
+    "phoneNumberCode": "592",
+    "timezone": [
+      "America/Guyana"
+    ]
   },
   {
     "country": "Haiti",
@@ -2344,7 +2664,10 @@
       "unicode": "U+1F1ED U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg"
     },
-    "phoneNumberCode": "509"
+    "phoneNumberCode": "509",
+    "timezone": [
+      "America/Port-au-Prince"
+    ]
   },
   {
     "country": "Honduras",
@@ -2376,7 +2699,10 @@
       "unicode": "U+1F1ED U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg"
     },
-    "phoneNumberCode": "504"
+    "phoneNumberCode": "504",
+    "timezone": [
+      "America/Tegucigalpa"
+    ]
   },
   {
     "country": "Hong Kong",
@@ -2408,7 +2734,10 @@
       "unicode": "U+1F1ED U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg"
     },
-    "phoneNumberCode": "852"
+    "phoneNumberCode": "852",
+    "timezone": [
+      "Asia/Hong_Kong"
+    ]
   },
   {
     "country": "Hungary",
@@ -2441,7 +2770,10 @@
       "unicode": "U+1F1ED U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg"
     },
-    "phoneNumberCode": "36"
+    "phoneNumberCode": "36",
+    "timezone": [
+      "Europe/Budapest"
+    ]
   },
   {
     "country": "Iceland",
@@ -2463,7 +2795,10 @@
       "unicode": "U+1F1EE U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg"
     },
-    "phoneNumberCode": "354"
+    "phoneNumberCode": "354",
+    "timezone": [
+      "Atlantic/Reykjavik"
+    ]
   },
   {
     "country": "India",
@@ -2514,7 +2849,10 @@
       "unicode": "U+1F1EE U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
     },
-    "phoneNumberCode": "91"
+    "phoneNumberCode": "91",
+    "timezone": [
+      "Asia/Kolkata"
+    ]
   },
   {
     "country": "Indonesia",
@@ -2561,7 +2899,13 @@
       "unicode": "U+1F1EE U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg"
     },
-    "phoneNumberCode": "62"
+    "phoneNumberCode": "62",
+    "timezone": [
+      "Asia/Jakarta",
+      "Asia/Pontianak",
+      "Asia/Makassar",
+      "Asia/Jayapura"
+    ]
   },
   {
     "country": "Iran",
@@ -2605,7 +2949,10 @@
       "unicode": "U+1F1EE U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg"
     },
-    "phoneNumberCode": "98"
+    "phoneNumberCode": "98",
+    "timezone": [
+      "Asia/Tehran"
+    ]
   },
   {
     "country": "Iraq",
@@ -2637,7 +2984,10 @@
       "unicode": "U+1F1EE U+1F1F6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg"
     },
-    "phoneNumberCode": "964"
+    "phoneNumberCode": "964",
+    "timezone": [
+      "Asia/Baghdad"
+    ]
   },
   {
     "country": "Ireland",
@@ -2677,7 +3027,10 @@
       "unicode": "U+1F1EE U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg"
     },
-    "phoneNumberCode": "353"
+    "phoneNumberCode": "353",
+    "timezone": [
+      "Europe/Dublin"
+    ]
   },
   {
     "country": "Israel",
@@ -2697,7 +3050,10 @@
       "unicode": "U+1F1EE U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg"
     },
-    "phoneNumberCode": "972"
+    "phoneNumberCode": "972",
+    "timezone": [
+      "Asia/Jerusalem"
+    ]
   },
   {
     "country": "Italy",
@@ -2731,7 +3087,10 @@
       "unicode": "U+1F1EE U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg"
     },
-    "phoneNumberCode": "39"
+    "phoneNumberCode": "39",
+    "timezone": [
+      "Europe/Rome"
+    ]
   },
   {
     "country": "Jamaica",
@@ -2759,7 +3118,10 @@
       "unicode": "U+1F1EF U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg"
     },
-    "phoneNumberCode": "1-876"
+    "phoneNumberCode": "1-876",
+    "timezone": [
+      "America/Jamaica"
+    ]
   },
   {
     "country": "Japan",
@@ -2820,7 +3182,10 @@
       "unicode": "U+1F1EF U+1F1F5",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg"
     },
-    "phoneNumberCode": "81"
+    "phoneNumberCode": "81",
+    "timezone": [
+      "Asia/Tokyo"
+    ]
   },
   {
     "country": "Jordan",
@@ -2846,7 +3211,10 @@
       "unicode": "U+1F1EF U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg"
     },
-    "phoneNumberCode": "962"
+    "phoneNumberCode": "962",
+    "timezone": [
+      "Asia/Amman"
+    ]
   },
   {
     "country": "Kazakhstan",
@@ -2877,7 +3245,15 @@
       "unicode": "U+1F1F0 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg"
     },
-    "phoneNumberCode": "7"
+    "phoneNumberCode": "7",
+    "timezone": [
+      "Asia/Almaty",
+      "Asia/Qyzylorda",
+      "Asia/Aqtobe",
+      "Asia/Aqtau",
+      "Asia/Atyrau",
+      "Asia/Oral"
+    ]
   },
   {
     "country": "Kenya",
@@ -2899,7 +3275,10 @@
       "unicode": "U+1F1F0 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg"
     },
-    "phoneNumberCode": "254"
+    "phoneNumberCode": "254",
+    "timezone": [
+      "Africa/Nairobi"
+    ]
   },
   {
     "country": "Kiribati",
@@ -2919,7 +3298,12 @@
       "unicode": "U+1F1F0 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg"
     },
-    "phoneNumberCode": "686"
+    "phoneNumberCode": "686",
+    "timezone": [
+      "Pacific/Tarawa",
+      "Pacific/Enderbury",
+      "Pacific/Kiritimati"
+    ]
   },
   {
     "country": "Korea North",
@@ -2946,7 +3330,10 @@
       "unicode": "U+1F1F0 U+1F1F5",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg"
     },
-    "phoneNumberCode": "850"
+    "phoneNumberCode": "850",
+    "timezone": [
+      "Asia/Pyongyang"
+    ]
   },
   {
     "country": "Korea South",
@@ -2976,7 +3363,10 @@
       "unicode": "U+1F1F0 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg"
     },
-    "phoneNumberCode": "82"
+    "phoneNumberCode": "82",
+    "timezone": [
+      "Asia/Seoul"
+    ]
   },
   {
     "country": "Kuwait",
@@ -2996,7 +3386,10 @@
       "unicode": "U+1F1F0 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg"
     },
-    "phoneNumberCode": "965"
+    "phoneNumberCode": "965",
+    "timezone": [
+      "Asia/Kuwait"
+    ]
   },
   {
     "country": "Kyrgyzstan",
@@ -3018,7 +3411,10 @@
       "unicode": "U+1F1F0 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg"
     },
-    "phoneNumberCode": "996"
+    "phoneNumberCode": "996",
+    "timezone": [
+      "Asia/Bishkek"
+    ]
   },
   {
     "country": "Laos",
@@ -3050,7 +3446,10 @@
       "unicode": "U+1F1F1 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg"
     },
-    "phoneNumberCode": "856"
+    "phoneNumberCode": "856",
+    "timezone": [
+      "Asia/Vientiane"
+    ]
   },
   {
     "country": "Latvia",
@@ -3097,7 +3496,10 @@
       "unicode": "U+1F1F1 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg"
     },
-    "phoneNumberCode": "371"
+    "phoneNumberCode": "371",
+    "timezone": [
+      "Europe/Riga"
+    ]
   },
   {
     "country": "Lebanon",
@@ -3117,7 +3519,10 @@
       "unicode": "U+1F1F1 U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg"
     },
-    "phoneNumberCode": "961"
+    "phoneNumberCode": "961",
+    "timezone": [
+      "Asia/Beirut"
+    ]
   },
   {
     "country": "Lesotho",
@@ -3141,7 +3546,10 @@
       "unicode": "U+1F1F1 U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg"
     },
-    "phoneNumberCode": "266"
+    "phoneNumberCode": "266",
+    "timezone": [
+      "Africa/Maseru"
+    ]
   },
   {
     "country": "Liberia",
@@ -3170,7 +3578,10 @@
       "unicode": "U+1F1F1 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg"
     },
-    "phoneNumberCode": "231"
+    "phoneNumberCode": "231",
+    "timezone": [
+      "Africa/Monrovia"
+    ]
   },
   {
     "country": "Libya",
@@ -3209,7 +3620,10 @@
       "unicode": "U+1F1F1 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg"
     },
-    "phoneNumberCode": "218"
+    "phoneNumberCode": "218",
+    "timezone": [
+      "Africa/Tripoli"
+    ]
   },
   {
     "country": "Liechtenstein",
@@ -3234,7 +3648,10 @@
       "unicode": "U+1F1F1 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg"
     },
-    "phoneNumberCode": "423"
+    "phoneNumberCode": "423",
+    "timezone": [
+      "Europe/Vaduz"
+    ]
   },
   {
     "country": "Lithuania",
@@ -3258,7 +3675,10 @@
       "unicode": "U+1F1F1 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg"
     },
-    "phoneNumberCode": "370"
+    "phoneNumberCode": "370",
+    "timezone": [
+      "Europe/Vilnius"
+    ]
   },
   {
     "country": "Luxembourg",
@@ -3275,7 +3695,10 @@
       "unicode": "U+1F1F1 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg"
     },
-    "phoneNumberCode": "352"
+    "phoneNumberCode": "352",
+    "timezone": [
+      "Europe/Luxembourg"
+    ]
   },
   {
     "country": "Macedonia",
@@ -3374,7 +3797,10 @@
       "unicode": "U+1F1F2 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg"
     },
-    "phoneNumberCode": "389"
+    "phoneNumberCode": "389",
+    "timezone": [
+      "Europe/Skopje"
+    ]
   },
   {
     "country": "Madagascar",
@@ -3394,7 +3820,10 @@
       "unicode": "U+1F1F2 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg"
     },
-    "phoneNumberCode": "261"
+    "phoneNumberCode": "261",
+    "timezone": [
+      "Indian/Antananarivo"
+    ]
   },
   {
     "country": "Malawi",
@@ -3435,7 +3864,10 @@
       "unicode": "U+1F1F2 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg"
     },
-    "phoneNumberCode": "265"
+    "phoneNumberCode": "265",
+    "timezone": [
+      "Africa/Blantyre"
+    ]
   },
   {
     "country": "Malaysia",
@@ -3464,7 +3896,11 @@
       "unicode": "U+1F1F2 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg"
     },
-    "phoneNumberCode": "60"
+    "phoneNumberCode": "60",
+    "timezone": [
+      "Asia/Kuala_Lumpur",
+      "Asia/Kuching"
+    ]
   },
   {
     "country": "Maldives",
@@ -3498,7 +3934,10 @@
       "unicode": "U+1F1F2 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg"
     },
-    "phoneNumberCode": "960"
+    "phoneNumberCode": "960",
+    "timezone": [
+      "Indian/Maldives"
+    ]
   },
   {
     "country": "Mali",
@@ -3521,7 +3960,10 @@
       "unicode": "U+1F1F2 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg"
     },
-    "phoneNumberCode": "223"
+    "phoneNumberCode": "223",
+    "timezone": [
+      "Africa/Bamako"
+    ]
   },
   {
     "country": "Malta",
@@ -3540,7 +3982,10 @@
       "unicode": "U+1F1F2 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg"
     },
-    "phoneNumberCode": "356"
+    "phoneNumberCode": "356",
+    "timezone": [
+      "Europe/Malta"
+    ]
   },
   {
     "country": "Marshall Islands",
@@ -3587,7 +4032,11 @@
       "unicode": "U+1F1F2 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg"
     },
-    "phoneNumberCode": "692"
+    "phoneNumberCode": "692",
+    "timezone": [
+      "Pacific/Majuro",
+      "Pacific/Kwajalein"
+    ]
   },
   {
     "country": "Mauritania",
@@ -3614,7 +4063,10 @@
       "unicode": "U+1F1F2 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg"
     },
-    "phoneNumberCode": "222"
+    "phoneNumberCode": "222",
+    "timezone": [
+      "Africa/Nouakchott"
+    ]
   },
   {
     "country": "Mauritius",
@@ -3640,7 +4092,10 @@
       "unicode": "U+1F1F2 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg"
     },
-    "phoneNumberCode": "230"
+    "phoneNumberCode": "230",
+    "timezone": [
+      "Indian/Mauritius"
+    ]
   },
   {
     "country": "Mexico",
@@ -3686,7 +4141,20 @@
       "unicode": "U+1F1F2 U+1F1FD",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg"
     },
-    "phoneNumberCode": "52"
+    "phoneNumberCode": "52",
+    "timezone": [
+      "America/Mexico_City",
+      "America/Cancun",
+      "America/Merida",
+      "America/Monterrey",
+      "America/Matamoros",
+      "America/Mazatlan",
+      "America/Chihuahua",
+      "America/Ojinaga",
+      "America/Hermosillo",
+      "America/Tijuana",
+      "America/Bahia_Banderas"
+    ]
   },
   {
     "country": "Micronesia",
@@ -3704,7 +4172,12 @@
       "unicode": "U+1F1EB U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg"
     },
-    "phoneNumberCode": "691"
+    "phoneNumberCode": "691",
+    "timezone": [
+      "Pacific/Chuuk",
+      "Pacific/Pohnpei",
+      "Pacific/Kosrae"
+    ]
   },
   {
     "country": "Moldova",
@@ -3755,7 +4228,10 @@
       "unicode": "U+1F1F2 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg"
     },
-    "phoneNumberCode": "373"
+    "phoneNumberCode": "373",
+    "timezone": [
+      "Europe/Chisinau"
+    ]
   },
   {
     "country": "Monaco",
@@ -3773,7 +4249,10 @@
       "unicode": "U+1F1F2 U+1F1E8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg"
     },
-    "phoneNumberCode": "377"
+    "phoneNumberCode": "377",
+    "timezone": [
+      "Europe/Monaco"
+    ]
   },
   {
     "country": "Mongolia",
@@ -3809,7 +4288,12 @@
       "unicode": "U+1F1F2 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg"
     },
-    "phoneNumberCode": "976"
+    "phoneNumberCode": "976",
+    "timezone": [
+      "Asia/Ulaanbaatar",
+      "Asia/Hovd",
+      "Asia/Choibalsan"
+    ]
   },
   {
     "country": "Morocco",
@@ -3862,7 +4346,10 @@
       "unicode": "U+1F1F2 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg"
     },
-    "phoneNumberCode": "212"
+    "phoneNumberCode": "212",
+    "timezone": [
+      "Africa/Casablanca"
+    ]
   },
   {
     "country": "Mozambique",
@@ -3887,7 +4374,10 @@
       "unicode": "U+1F1F2 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg"
     },
-    "phoneNumberCode": "258"
+    "phoneNumberCode": "258",
+    "timezone": [
+      "Africa/Maputo"
+    ]
   },
   {
     "country": "Namibia",
@@ -3914,7 +4404,10 @@
       "unicode": "U+1F1F3 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg"
     },
-    "phoneNumberCode": "264"
+    "phoneNumberCode": "264",
+    "timezone": [
+      "Africa/Windhoek"
+    ]
   },
   {
     "country": "Nauru",
@@ -3932,7 +4425,10 @@
       "unicode": "U+1F1F3 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg"
     },
-    "phoneNumberCode": "674"
+    "phoneNumberCode": "674",
+    "timezone": [
+      "Pacific/Nauru"
+    ]
   },
   {
     "country": "Nepal",
@@ -3960,7 +4456,10 @@
       "unicode": "U+1F1F3 U+1F1F5",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg"
     },
-    "phoneNumberCode": "977"
+    "phoneNumberCode": "977",
+    "timezone": [
+      "Asia/Kathmandu"
+    ]
   },
   {
     "country": "Netherlands",
@@ -3986,7 +4485,10 @@
       "unicode": "U+1F1F3 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg"
     },
-    "phoneNumberCode": "31"
+    "phoneNumberCode": "31",
+    "timezone": [
+      "Europe/Amsterdam"
+    ]
   },
   {
     "country": "New Zealand",
@@ -4017,7 +4519,11 @@
       "unicode": "U+1F1F3 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg"
     },
-    "phoneNumberCode": "64"
+    "phoneNumberCode": "64",
+    "timezone": [
+      "Pacific/Auckland",
+      "Pacific/Chatham"
+    ]
   },
   {
     "country": "Nicaragua",
@@ -4048,7 +4554,10 @@
       "unicode": "U+1F1F3 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg"
     },
-    "phoneNumberCode": "505"
+    "phoneNumberCode": "505",
+    "timezone": [
+      "America/Managua"
+    ]
   },
   {
     "country": "Niger",
@@ -4070,7 +4579,10 @@
       "unicode": "U+1F1F3 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg"
     },
-    "phoneNumberCode": "227"
+    "phoneNumberCode": "227",
+    "timezone": [
+      "Africa/Niamey"
+    ]
   },
   {
     "country": "Nigeria",
@@ -4121,7 +4633,10 @@
       "unicode": "U+1F1F3 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg"
     },
-    "phoneNumberCode": "234"
+    "phoneNumberCode": "234",
+    "timezone": [
+      "Africa/Lagos"
+    ]
   },
   {
     "country": "Norway",
@@ -4154,7 +4669,10 @@
       "unicode": "U+1F1F3 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg"
     },
-    "phoneNumberCode": "47"
+    "phoneNumberCode": "47",
+    "timezone": [
+      "Europe/Oslo"
+    ]
   },
   {
     "country": "Oman",
@@ -4176,7 +4694,10 @@
       "unicode": "U+1F1F4 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg"
     },
-    "phoneNumberCode": "968"
+    "phoneNumberCode": "968",
+    "timezone": [
+      "Asia/Muscat"
+    ]
   },
   {
     "country": "Pakistan",
@@ -4196,7 +4717,10 @@
       "unicode": "U+1F1F5 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg"
     },
-    "phoneNumberCode": "92"
+    "phoneNumberCode": "92",
+    "timezone": [
+      "Asia/Karachi"
+    ]
   },
   {
     "country": "Panama",
@@ -4220,7 +4744,10 @@
       "unicode": "U+1F1F5 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg"
     },
-    "phoneNumberCode": "507"
+    "phoneNumberCode": "507",
+    "timezone": [
+      "America/Panama"
+    ]
   },
   {
     "country": "Papua New Guinea",
@@ -4254,7 +4781,11 @@
       "unicode": "U+1F1F5 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg"
     },
-    "phoneNumberCode": "675"
+    "phoneNumberCode": "675",
+    "timezone": [
+      "Pacific/Port_Moresby",
+      "Pacific/Bougainville"
+    ]
   },
   {
     "country": "Paraguay",
@@ -4286,7 +4817,10 @@
       "unicode": "U+1F1F5 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg"
     },
-    "phoneNumberCode": "595"
+    "phoneNumberCode": "595",
+    "timezone": [
+      "America/Asuncion"
+    ]
   },
   {
     "country": "Peru",
@@ -4325,7 +4859,10 @@
       "unicode": "U+1F1F5 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg"
     },
-    "phoneNumberCode": "51"
+    "phoneNumberCode": "51",
+    "timezone": [
+      "America/Lima"
+    ]
   },
   {
     "country": "Philippines",
@@ -4418,7 +4955,10 @@
       "unicode": "U+1F1F5 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg"
     },
-    "phoneNumberCode": "63"
+    "phoneNumberCode": "63",
+    "timezone": [
+      "Asia/Manila"
+    ]
   },
   {
     "country": "Poland",
@@ -4448,7 +4988,10 @@
       "unicode": "U+1F1F5 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg"
     },
-    "phoneNumberCode": "48"
+    "phoneNumberCode": "48",
+    "timezone": [
+      "Europe/Warsaw"
+    ]
   },
   {
     "country": "Portugal",
@@ -4482,7 +5025,12 @@
       "unicode": "U+1F1F5 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg"
     },
-    "phoneNumberCode": "351"
+    "phoneNumberCode": "351",
+    "timezone": [
+      "Europe/Lisbon",
+      "Atlantic/Madeira",
+      "Atlantic/Azores"
+    ]
   },
   {
     "country": "Qatar",
@@ -4506,7 +5054,10 @@
       "unicode": "U+1F1F6 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg"
     },
-    "phoneNumberCode": "974"
+    "phoneNumberCode": "974",
+    "timezone": [
+      "Asia/Qatar"
+    ]
   },
   {
     "country": "Romania",
@@ -4562,7 +5113,10 @@
       "unicode": "U+1F1F7 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg"
     },
-    "phoneNumberCode": "40"
+    "phoneNumberCode": "40",
+    "timezone": [
+      "Europe/Bucharest"
+    ]
   },
   {
     "country": "Russia",
@@ -4665,7 +5219,36 @@
       "unicode": "U+1F1F7 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg"
     },
-    "phoneNumberCode": "7"
+    "phoneNumberCode": "7",
+    "timezone": [
+      "Europe/Kaliningrad",
+      "Europe/Moscow",
+      "Europe/Simferopol",
+      "Europe/Volgograd",
+      "Europe/Kirov",
+      "Europe/Astrakhan",
+      "Europe/Saratov",
+      "Europe/Ulyanovsk",
+      "Europe/Samara",
+      "Asia/Yekaterinburg",
+      "Asia/Omsk",
+      "Asia/Novosibirsk",
+      "Asia/Barnaul",
+      "Asia/Tomsk",
+      "Asia/Novokuznetsk",
+      "Asia/Krasnoyarsk",
+      "Asia/Irkutsk",
+      "Asia/Chita",
+      "Asia/Yakutsk",
+      "Asia/Khandyga",
+      "Asia/Vladivostok",
+      "Asia/Ust-Nera",
+      "Asia/Magadan",
+      "Asia/Sakhalin",
+      "Asia/Srednekolymsk",
+      "Asia/Kamchatka",
+      "Asia/Anadyr"
+    ]
   },
   {
     "country": "Rwanda",
@@ -4691,7 +5274,10 @@
       "unicode": "U+1F1F7 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg"
     },
-    "phoneNumberCode": "250"
+    "phoneNumberCode": "250",
+    "timezone": [
+      "Africa/Kigali"
+    ]
   },
   {
     "country": "Samoa",
@@ -4716,7 +5302,10 @@
       "unicode": "U+1F1FC U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg"
     },
-    "phoneNumberCode": "685"
+    "phoneNumberCode": "685",
+    "timezone": [
+      "Pacific/Apia"
+    ]
   },
   {
     "country": "San Marino",
@@ -4739,7 +5328,10 @@
       "unicode": "U+1F1F8 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg"
     },
-    "phoneNumberCode": "378"
+    "phoneNumberCode": "378",
+    "timezone": [
+      "Europe/San_Marino"
+    ]
   },
   {
     "country": "Sao Tome",
@@ -4760,7 +5352,10 @@
       "unicode": "U+1F1F8 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg"
     },
-    "phoneNumberCode": "239"
+    "phoneNumberCode": "239",
+    "timezone": [
+      "Africa/Sao_Tome"
+    ]
   },
   {
     "country": "Saudi Arabia",
@@ -4787,7 +5382,10 @@
       "unicode": "U+1F1F8 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg"
     },
-    "phoneNumberCode": "966"
+    "phoneNumberCode": "966",
+    "timezone": [
+      "Asia/Riyadh"
+    ]
   },
   {
     "country": "Senegal",
@@ -4812,7 +5410,10 @@
       "unicode": "U+1F1F8 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg"
     },
-    "phoneNumberCode": "221"
+    "phoneNumberCode": "221",
+    "timezone": [
+      "Africa/Dakar"
+    ]
   },
   {
     "country": "Serbia",
@@ -4850,7 +5451,10 @@
       "unicode": "U+1F1F7 U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg"
     },
-    "phoneNumberCode": "381"
+    "phoneNumberCode": "381",
+    "timezone": [
+      "Europe/Belgrade"
+    ]
   },
   {
     "country": "Montenegro",
@@ -4889,7 +5493,10 @@
       "unicode": "U+1F1F2 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg"
     },
-    "phoneNumberCode": "382"
+    "phoneNumberCode": "382",
+    "timezone": [
+      "Europe/Podgorica"
+    ]
   },
   {
     "country": "Kosovo",
@@ -4910,7 +5517,10 @@
       "unicode": "U+1F1FD U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/XK.svg"
     },
-    "phoneNumberCode": "383"
+    "phoneNumberCode": "383",
+    "timezone": [
+      "Europe/Belgrade"
+    ]
   },
   {
     "country": "Seychelles",
@@ -4947,7 +5557,10 @@
       "unicode": "U+1F1F8 U+1F1E8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg"
     },
-    "phoneNumberCode": "248"
+    "phoneNumberCode": "248",
+    "timezone": [
+      "Indian/Mahe"
+    ]
   },
   {
     "country": "Sierra Leone",
@@ -4966,7 +5579,10 @@
       "unicode": "U+1F1F8 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg"
     },
-    "phoneNumberCode": "232"
+    "phoneNumberCode": "232",
+    "timezone": [
+      "Africa/Freetown"
+    ]
   },
   {
     "country": "Singapore",
@@ -4996,7 +5612,10 @@
       "unicode": "U+1F1F8 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg"
     },
-    "phoneNumberCode": "65"
+    "phoneNumberCode": "65",
+    "timezone": [
+      "Asia/Singapore"
+    ]
   },
   {
     "country": "Slovakia",
@@ -5018,7 +5637,10 @@
       "unicode": "U+1F1F8 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg"
     },
-    "phoneNumberCode": "421"
+    "phoneNumberCode": "421",
+    "timezone": [
+      "Europe/Bratislava"
+    ]
   },
   {
     "country": "Slovenia",
@@ -5225,7 +5847,10 @@
       "unicode": "U+1F1F8 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg"
     },
-    "phoneNumberCode": "386"
+    "phoneNumberCode": "386",
+    "timezone": [
+      "Europe/Ljubljana"
+    ]
   },
   {
     "country": "Solomon Islands",
@@ -5249,7 +5874,10 @@
       "unicode": "U+1F1F8 U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg"
     },
-    "phoneNumberCode": "677"
+    "phoneNumberCode": "677",
+    "timezone": [
+      "Pacific/Guadalcanal"
+    ]
   },
   {
     "country": "Somalia",
@@ -5281,7 +5909,10 @@
       "unicode": "U+1F1F8 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg"
     },
-    "phoneNumberCode": "252"
+    "phoneNumberCode": "252",
+    "timezone": [
+      "Africa/Mogadishu"
+    ]
   },
   {
     "country": "South Africa",
@@ -5304,7 +5935,10 @@
       "unicode": "U+1F1FF U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg"
     },
-    "phoneNumberCode": "27"
+    "phoneNumberCode": "27",
+    "timezone": [
+      "Africa/Johannesburg"
+    ]
   },
   {
     "country": "Spain",
@@ -5337,7 +5971,12 @@
       "unicode": "U+1F1EA U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg"
     },
-    "phoneNumberCode": "34"
+    "phoneNumberCode": "34",
+    "timezone": [
+      "Europe/Madrid",
+      "Africa/Ceuta",
+      "Atlantic/Canary"
+    ]
   },
   {
     "country": "Sri Lanka",
@@ -5360,7 +5999,10 @@
       "unicode": "U+1F1F1 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg"
     },
-    "phoneNumberCode": "94"
+    "phoneNumberCode": "94",
+    "timezone": [
+      "Asia/Colombo"
+    ]
   },
   {
     "country": "Sudan",
@@ -5400,7 +6042,10 @@
       "unicode": "U+1F1F8 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg"
     },
-    "phoneNumberCode": "249"
+    "phoneNumberCode": "249",
+    "timezone": [
+      "Africa/Khartoum"
+    ]
   },
   {
     "country": "Suriname",
@@ -5424,7 +6069,10 @@
       "unicode": "U+1F1F8 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg"
     },
-    "phoneNumberCode": "597"
+    "phoneNumberCode": "597",
+    "timezone": [
+      "America/Paramaribo"
+    ]
   },
   {
     "country": "Swaziland",
@@ -5442,7 +6090,10 @@
       "unicode": "U+1F1F8 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg"
     },
-    "phoneNumberCode": "268"
+    "phoneNumberCode": "268",
+    "timezone": [
+      "Africa/Mbabane"
+    ]
   },
   {
     "country": "Sweden",
@@ -5477,7 +6128,10 @@
       "unicode": "U+1F1F8 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg"
     },
-    "phoneNumberCode": "46"
+    "phoneNumberCode": "46",
+    "timezone": [
+      "Europe/Stockholm"
+    ]
   },
   {
     "country": "Switzerland",
@@ -5517,7 +6171,10 @@
       "unicode": "U+1F1E8 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg"
     },
-    "phoneNumberCode": "41"
+    "phoneNumberCode": "41",
+    "timezone": [
+      "Europe/Zurich"
+    ]
   },
   {
     "country": "Syria",
@@ -5545,7 +6202,10 @@
       "unicode": "U+1F1F8 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg"
     },
-    "phoneNumberCode": "963"
+    "phoneNumberCode": "963",
+    "timezone": [
+      "Asia/Damascus"
+    ]
   },
   {
     "country": "Taiwan",
@@ -5584,7 +6244,10 @@
       "unicode": "U+1F1F9 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg"
     },
-    "phoneNumberCode": "886"
+    "phoneNumberCode": "886",
+    "timezone": [
+      "Asia/Taipei"
+    ]
   },
   {
     "country": "Tajikistan",
@@ -5603,7 +6266,10 @@
       "unicode": "U+1F1F9 U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg"
     },
-    "phoneNumberCode": "992"
+    "phoneNumberCode": "992",
+    "timezone": [
+      "Asia/Dushanbe"
+    ]
   },
   {
     "country": "Tanzania",
@@ -5643,7 +6309,10 @@
       "unicode": "U+1F1F9 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg"
     },
-    "phoneNumberCode": "255"
+    "phoneNumberCode": "255",
+    "timezone": [
+      "Africa/Dar_es_Salaam"
+    ]
   },
   {
     "country": "Thailand",
@@ -5733,7 +6402,10 @@
       "unicode": "U+1F1F9 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg"
     },
-    "phoneNumberCode": "66"
+    "phoneNumberCode": "66",
+    "timezone": [
+      "Asia/Bangkok"
+    ]
   },
   {
     "country": "Togo",
@@ -5752,7 +6424,10 @@
       "unicode": "U+1F1F9 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg"
     },
-    "phoneNumberCode": "228"
+    "phoneNumberCode": "228",
+    "timezone": [
+      "Africa/Lome"
+    ]
   },
   {
     "country": "Tonga",
@@ -5772,7 +6447,10 @@
       "unicode": "U+1F1F9 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg"
     },
-    "phoneNumberCode": "676"
+    "phoneNumberCode": "676",
+    "timezone": [
+      "Pacific/Tongatapu"
+    ]
   },
   {
     "country": "Trinidad and Tobago",
@@ -5801,7 +6479,10 @@
       "unicode": "U+1F1F9 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg"
     },
-    "phoneNumberCode": "1-868"
+    "phoneNumberCode": "1-868",
+    "timezone": [
+      "America/Port_of_Spain"
+    ]
   },
   {
     "country": "Tunisia",
@@ -5839,7 +6520,10 @@
       "unicode": "U+1F1F9 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg"
     },
-    "phoneNumberCode": "216"
+    "phoneNumberCode": "216",
+    "timezone": [
+      "Africa/Tunis"
+    ]
   },
   {
     "country": "Turkey",
@@ -5934,7 +6618,10 @@
       "unicode": "U+1F1F9 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg"
     },
-    "phoneNumberCode": "90"
+    "phoneNumberCode": "90",
+    "timezone": [
+      "Europe/Istanbul"
+    ]
   },
   {
     "country": "Turkmenistan",
@@ -5953,7 +6640,10 @@
       "unicode": "U+1F1F9 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg"
     },
-    "phoneNumberCode": "993"
+    "phoneNumberCode": "993",
+    "timezone": [
+      "Asia/Ashgabat"
+    ]
   },
   {
     "country": "Uganda",
@@ -6023,7 +6713,10 @@
       "unicode": "U+1F1FA U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg"
     },
-    "phoneNumberCode": "256"
+    "phoneNumberCode": "256",
+    "timezone": [
+      "Africa/Kampala"
+    ]
   },
   {
     "country": "Ukraine",
@@ -6064,7 +6757,12 @@
       "unicode": "U+1F1FA U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg"
     },
-    "phoneNumberCode": "380"
+    "phoneNumberCode": "380",
+    "timezone": [
+      "Europe/Kiev",
+      "Europe/Uzhgorod",
+      "Europe/Zaporozhye"
+    ]
   },
   {
     "country": "United Arab Emirates",
@@ -6085,7 +6783,10 @@
       "unicode": "U+1F1E6 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg"
     },
-    "phoneNumberCode": "971"
+    "phoneNumberCode": "971",
+    "timezone": [
+      "Asia/Dubai"
+    ]
   },
   {
     "country": "United Kingdom",
@@ -6245,7 +6946,10 @@
       "unicode": "U+1F1EC U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg"
     },
-    "phoneNumberCode": "44"
+    "phoneNumberCode": "44",
+    "timezone": [
+      "Europe/London"
+    ]
   },
   {
     "country": "United States",
@@ -6310,7 +7014,38 @@
       "unicode": "U+1F1FA U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg"
     },
-    "phoneNumberCode": "1"
+    "phoneNumberCode": "1",
+    "timezone": [
+      "America/New_York",
+      "America/Detroit",
+      "America/Kentucky/Louisville",
+      "America/Kentucky/Monticello",
+      "America/Indiana/Indianapolis",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Indiana/Marengo",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vevay",
+      "America/Chicago",
+      "America/Indiana/Tell_City",
+      "America/Indiana/Knox",
+      "America/Menominee",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/North_Dakota/Beulah",
+      "America/Denver",
+      "America/Boise",
+      "America/Phoenix",
+      "America/Los_Angeles",
+      "America/Anchorage",
+      "America/Juneau",
+      "America/Sitka",
+      "America/Metlakatla",
+      "America/Yakutat",
+      "America/Nome",
+      "America/Adak",
+      "Pacific/Honolulu"
+    ]
   },
   {
     "country": "Uruguay",
@@ -6343,7 +7078,10 @@
       "unicode": "U+1F1FA U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg"
     },
-    "phoneNumberCode": "598"
+    "phoneNumberCode": "598",
+    "timezone": [
+      "America/Montevideo"
+    ]
   },
   {
     "country": "Uzbekistan",
@@ -6371,7 +7109,11 @@
       "unicode": "U+1F1FA U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg"
     },
-    "phoneNumberCode": "998"
+    "phoneNumberCode": "998",
+    "timezone": [
+      "Asia/Samarkand",
+      "Asia/Tashkent"
+    ]
   },
   {
     "country": "Vanuatu",
@@ -6391,7 +7133,10 @@
       "unicode": "U+1F1FB U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg"
     },
-    "phoneNumberCode": "678"
+    "phoneNumberCode": "678",
+    "timezone": [
+      "Pacific/Efate"
+    ]
   },
   {
     "country": "Venezuela",
@@ -6430,7 +7175,10 @@
       "unicode": "U+1F1FB U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg"
     },
-    "phoneNumberCode": "58"
+    "phoneNumberCode": "58",
+    "timezone": [
+      "America/Caracas"
+    ]
   },
   {
     "country": "Vietnam",
@@ -6508,7 +7256,10 @@
       "unicode": "U+1F1FB U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg"
     },
-    "phoneNumberCode": "84"
+    "phoneNumberCode": "84",
+    "timezone": [
+      "Asia/Ho_Chi_Minh"
+    ]
   },
   {
     "country": "Yemen",
@@ -6541,7 +7292,10 @@
       "unicode": "U+1F1FE U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg"
     },
-    "phoneNumberCode": "967"
+    "phoneNumberCode": "967",
+    "timezone": [
+      "Asia/Aden"
+    ]
   },
   {
     "country": "Zambia",
@@ -6564,7 +7318,10 @@
       "unicode": "U+1F1FF U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg"
     },
-    "phoneNumberCode": "260"
+    "phoneNumberCode": "260",
+    "timezone": [
+      "Africa/Lusaka"
+    ]
   },
   {
     "country": "Zimbabwe",
@@ -6588,6 +7345,9 @@
       "unicode": "U+1F1FF U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg"
     },
-    "phoneNumberCode": "263"
+    "phoneNumberCode": "263",
+    "timezone": [
+      "Africa/Harare"
+    ]
   }
 ]

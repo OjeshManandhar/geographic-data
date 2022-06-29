@@ -78,4 +78,22 @@ finalData = finalData.map(data => {
   return data;
 });
 
+// time zone
+
+const timeZones = readJSONFile<{ [index: string]: Array<string> }>('timezones');
+
+finalData = finalData.map(data => {
+  const timeZone = timeZones[data.alpha2Code as string];
+
+  if (!timeZone) {
+    console.log(`===== No timeZone found for: ${data.alpha2Code} =====`);
+
+    return data;
+  }
+
+  data.timezone = timeZone;
+
+  return data;
+});
+
 writeJSONFile(finalData, 'list');
