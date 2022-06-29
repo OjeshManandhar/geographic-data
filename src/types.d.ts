@@ -9,8 +9,10 @@ export type TFinalFormat = {
   alpha2Code: string;
   alpha3Code: string;
   numberCode: number;
-  states: Array<string>;
-  flag: TCountryFlags;
+  capital: string;
+  currency: string;
   phoneNumberCode: string;
+  flag: TCountryFlags;
   timezone: Array<string>;
+  states: Array<string>;
 };

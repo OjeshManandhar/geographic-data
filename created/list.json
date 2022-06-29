@@ -48,7 +48,9 @@
     "phoneNumberCode": "93",
     "timezone": [
       "Asia/Kabul"
-    ]
+    ],
+    "capital": "Kabul",
+    "currency": "AFN"
   },
   {
     "country": "Albania",
@@ -77,7 +79,9 @@
     "phoneNumberCode": "355",
     "timezone": [
       "Europe/Tirane"
-    ]
+    ],
+    "capital": "Tirana",
+    "currency": "ALL"
   },
   {
     "country": "Algeria",
@@ -142,7 +146,9 @@
     "phoneNumberCode": "213",
     "timezone": [
       "Africa/Algiers"
-    ]
+    ],
+    "capital": "Algiers",
+    "currency": "DZD"
   },
   {
     "country": "Andorra",
@@ -166,7 +172,9 @@
     "phoneNumberCode": "376",
     "timezone": [
       "Europe/Andorra"
-    ]
+    ],
+    "capital": "Andorra la Vella",
+    "currency": "EUR"
   },
   {
     "country": "Angola",
@@ -201,7 +209,9 @@
     "phoneNumberCode": "244",
     "timezone": [
       "Africa/Luanda"
-    ]
+    ],
+    "capital": "Luanda",
+    "currency": "AOA"
   },
   {
     "country": "Antarctica",
@@ -226,7 +236,9 @@
       "Antarctica/Syowa",
       "Antarctica/Troll",
       "Antarctica/Vostok"
-    ]
+    ],
+    "capital": "",
+    "currency": ""
   },
   {
     "country": "Antigua and Barbuda",
@@ -251,7 +263,9 @@
     "phoneNumberCode": "1-268",
     "timezone": [
       "America/Antigua"
-    ]
+    ],
+    "capital": "St. John's",
+    "currency": "XCD"
   },
   {
     "country": "Argentina",
@@ -303,7 +317,9 @@
       "America/Argentina/San_Luis",
       "America/Argentina/Rio_Gallegos",
       "America/Argentina/Ushuaia"
-    ]
+    ],
+    "capital": "Buenos Aires",
+    "currency": "ARS"
   },
   {
     "country": "Armenia",
@@ -331,7 +347,9 @@
     "phoneNumberCode": "374",
     "timezone": [
       "Asia/Yerevan"
-    ]
+    ],
+    "capital": "Yerevan",
+    "currency": "AMD"
   },
   {
     "country": "Australia",
@@ -368,7 +386,9 @@
       "Australia/Darwin",
       "Australia/Perth",
       "Australia/Eucla"
-    ]
+    ],
+    "capital": "Canberra",
+    "currency": "AUD"
   },
   {
     "country": "Austria",
@@ -394,7 +414,9 @@
     "phoneNumberCode": "43",
     "timezone": [
       "Europe/Vienna"
-    ]
+    ],
+    "capital": "Vienna",
+    "currency": "EUR"
   },
   {
     "country": "Azerbaijan",
@@ -482,7 +504,9 @@
     "phoneNumberCode": "994",
     "timezone": [
       "Asia/Baku"
-    ]
+    ],
+    "capital": "Baku",
+    "currency": "AZN"
   },
   {
     "country": "Bahamas",
@@ -520,7 +544,9 @@
     "phoneNumberCode": "1-242",
     "timezone": [
       "America/Nassau"
-    ]
+    ],
+    "capital": "Nassau",
+    "currency": "BSD"
   },
   {
     "country": "Bahrain",
@@ -549,7 +575,9 @@
     "phoneNumberCode": "973",
     "timezone": [
       "Asia/Bahrain"
-    ]
+    ],
+    "capital": "Manama",
+    "currency": "BHD"
   },
   {
     "country": "Bangladesh",
@@ -572,7 +600,9 @@
     "phoneNumberCode": "880",
     "timezone": [
       "Asia/Dhaka"
-    ]
+    ],
+    "capital": "Dhaka",
+    "currency": "BDT"
   },
   {
     "country": "Barbados",
@@ -600,7 +630,9 @@
     "phoneNumberCode": "1-246",
     "timezone": [
       "America/Barbados"
-    ]
+    ],
+    "capital": "Bridgetown",
+    "currency": "BBD"
   },
   {
     "country": "Belarus",
@@ -624,7 +656,9 @@
     "phoneNumberCode": "375",
     "timezone": [
       "Europe/Minsk"
-    ]
+    ],
+    "capital": "Minsk",
+    "currency": "BYR"
   },
   {
     "country": "Belgium",
@@ -654,7 +688,9 @@
     "phoneNumberCode": "32",
     "timezone": [
       "Europe/Brussels"
-    ]
+    ],
+    "capital": "Brussels",
+    "currency": "EUR"
   },
   {
     "country": "Belize",
@@ -677,7 +713,9 @@
     "phoneNumberCode": "501",
     "timezone": [
       "America/Belize"
-    ]
+    ],
+    "capital": "Belmopan",
+    "currency": "BZD"
   },
   {
     "country": "Benin",
@@ -706,7 +744,9 @@
     "phoneNumberCode": "229",
     "timezone": [
       "Africa/Porto-Novo"
-    ]
+    ],
+    "capital": "Porto-Novo",
+    "currency": "XOF"
   },
   {
     "country": "Bermuda",
@@ -734,7 +774,9 @@
     "phoneNumberCode": "1-441",
     "timezone": [
       "Atlantic/Bermuda"
-    ]
+    ],
+    "capital": "Hamilton",
+    "currency": "BMD"
   },
   {
     "country": "Bhutan",
@@ -771,7 +813,9 @@
     "phoneNumberCode": "975",
     "timezone": [
       "Asia/Thimphu"
-    ]
+    ],
+    "capital": "Thimphu",
+    "currency": "BTN"
   },
   {
     "country": "Bolivia",
@@ -797,7 +841,9 @@
     "phoneNumberCode": "591",
     "timezone": [
       "America/La_Paz"
-    ]
+    ],
+    "capital": "Sucre",
+    "currency": "BOB"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -831,7 +877,9 @@
     "phoneNumberCode": "387",
     "timezone": [
       "Europe/Sarajevo"
-    ]
+    ],
+    "capital": "Sarajevo",
+    "currency": "BAM"
   },
   {
     "country": "Botswana",
@@ -857,7 +905,9 @@
     "phoneNumberCode": "267",
     "timezone": [
       "Africa/Gaborone"
-    ]
+    ],
+    "capital": "Gaborone",
+    "currency": "BWP"
   },
   {
     "country": "Brazil",
@@ -916,7 +966,9 @@
       "America/Manaus",
       "America/Eirunepe",
       "America/Rio_Branco"
-    ]
+    ],
+    "capital": "Brasilia",
+    "currency": "BRL"
   },
   {
     "country": "Brunei",
@@ -937,7 +989,9 @@
     "phoneNumberCode": "673",
     "timezone": [
       "Asia/Brunei"
-    ]
+    ],
+    "capital": "Bandar Seri Begawan",
+    "currency": "BND"
   },
   {
     "country": "Bulgaria",
@@ -982,7 +1036,9 @@
     "phoneNumberCode": "359",
     "timezone": [
       "Europe/Sofia"
-    ]
+    ],
+    "capital": "Sofia",
+    "currency": "BGN"
   },
   {
     "country": "Burkina Faso",
@@ -1044,7 +1100,9 @@
     "phoneNumberCode": "226",
     "timezone": [
       "Africa/Ouagadougou"
-    ]
+    ],
+    "capital": "Ouagadougou",
+    "currency": "XOF"
   },
   {
     "country": "Myanmar",
@@ -1075,7 +1133,9 @@
     "phoneNumberCode": "95",
     "timezone": [
       "Asia/Yangon"
-    ]
+    ],
+    "capital": "Nay Pyi Taw",
+    "currency": "MMK"
   },
   {
     "country": "Burundi",
@@ -1109,7 +1169,9 @@
     "phoneNumberCode": "257",
     "timezone": [
       "Africa/Bujumbura"
-    ]
+    ],
+    "capital": "Bujumbura",
+    "currency": "BIF"
   },
   {
     "country": "Cambodia",
@@ -1150,7 +1212,9 @@
     "phoneNumberCode": "855",
     "timezone": [
       "Asia/Phnom_Penh"
-    ]
+    ],
+    "capital": "Phnom Penh",
+    "currency": "KHR"
   },
   {
     "country": "Cameroon",
@@ -1177,7 +1241,9 @@
     "phoneNumberCode": "237",
     "timezone": [
       "Africa/Douala"
-    ]
+    ],
+    "capital": "Yaounde",
+    "currency": "XAF"
   },
   {
     "country": "Canada",
@@ -1234,7 +1300,9 @@
       "America/Vancouver",
       "America/Whitehorse",
       "America/Dawson"
-    ]
+    ],
+    "capital": "Ottawa",
+    "currency": "CAD"
   },
   {
     "country": "Cape Verde",
@@ -1261,7 +1329,9 @@
     "phoneNumberCode": "238",
     "timezone": [
       "Atlantic/Cape_Verde"
-    ]
+    ],
+    "capital": "Praia",
+    "currency": "CVE"
   },
   {
     "country": "Central African Republic",
@@ -1295,7 +1365,9 @@
     "phoneNumberCode": "236",
     "timezone": [
       "Africa/Bangui"
-    ]
+    ],
+    "capital": "Bangui",
+    "currency": "XAF"
   },
   {
     "country": "Chad",
@@ -1326,7 +1398,9 @@
     "phoneNumberCode": "235",
     "timezone": [
       "Africa/Ndjamena"
-    ]
+    ],
+    "capital": "N'Djamena",
+    "currency": "XAF"
   },
   {
     "country": "Chile",
@@ -1358,7 +1432,9 @@
       "America/Santiago",
       "America/Punta_Arenas",
       "Pacific/Easter"
-    ]
+    ],
+    "capital": "Santiago",
+    "currency": "CLP"
   },
   {
     "country": "China",
@@ -1407,7 +1483,9 @@
     "timezone": [
       "Asia/Shanghai",
       "Asia/Urumqi"
-    ]
+    ],
+    "capital": "Beijing",
+    "currency": "CNY"
   },
   {
     "country": "Colombia",
@@ -1457,7 +1535,9 @@
     "phoneNumberCode": "57",
     "timezone": [
       "America/Bogota"
-    ]
+    ],
+    "capital": "Bogota",
+    "currency": "COP"
   },
   {
     "country": "Comoros",
@@ -1477,7 +1557,9 @@
     "phoneNumberCode": "269",
     "timezone": [
       "Indian/Comoro"
-    ]
+    ],
+    "capital": "Moroni",
+    "currency": "KMF"
   },
   {
     "country": "Congo, Democratic Republic",
@@ -1506,7 +1588,9 @@
     "timezone": [
       "Africa/Kinshasa",
       "Africa/Lubumbashi"
-    ]
+    ],
+    "capital": "Kinshasa",
+    "currency": "CDF"
   },
   {
     "country": "Congo, Republic of the",
@@ -1534,7 +1618,9 @@
     "phoneNumberCode": "242",
     "timezone": [
       "Africa/Brazzaville"
-    ]
+    ],
+    "capital": "Brazzaville",
+    "currency": "XAF"
   },
   {
     "country": "Costa Rica",
@@ -1558,7 +1644,9 @@
     "phoneNumberCode": "506",
     "timezone": [
       "America/Costa_Rica"
-    ]
+    ],
+    "capital": "San Jose",
+    "currency": "CRC"
   },
   {
     "country": "Cote d'Ivoire",
@@ -1589,7 +1677,9 @@
     "phoneNumberCode": "225",
     "timezone": [
       "Africa/Abidjan"
-    ]
+    ],
+    "capital": "Yamoussoukro",
+    "currency": "XOF"
   },
   {
     "country": "Croatia",
@@ -1627,7 +1717,9 @@
     "phoneNumberCode": "385",
     "timezone": [
       "Europe/Zagreb"
-    ]
+    ],
+    "capital": "Zagreb",
+    "currency": "HRK"
   },
   {
     "country": "Cuba",
@@ -1659,7 +1751,9 @@
     "phoneNumberCode": "53",
     "timezone": [
       "America/Havana"
-    ]
+    ],
+    "capital": "Havana",
+    "currency": "CUP"
   },
   {
     "country": "Cyprus",
@@ -1683,7 +1777,9 @@
     "timezone": [
       "Asia/Nicosia",
       "Asia/Famagusta"
-    ]
+    ],
+    "capital": "Nicosia",
+    "currency": "EUR"
   },
   {
     "country": "Czech Republic",
@@ -1714,7 +1810,9 @@
     "phoneNumberCode": "420",
     "timezone": [
       "Europe/Prague"
-    ]
+    ],
+    "capital": "Prague",
+    "currency": "CZK"
   },
   {
     "country": "Denmark",
@@ -1747,7 +1845,9 @@
     "phoneNumberCode": "45",
     "timezone": [
       "Europe/Copenhagen"
-    ]
+    ],
+    "capital": "Copenhagen",
+    "currency": "DKK"
   },
   {
     "country": "Djibouti",
@@ -1769,7 +1869,9 @@
     "phoneNumberCode": "253",
     "timezone": [
       "Africa/Djibouti"
-    ]
+    ],
+    "capital": "Djibouti",
+    "currency": "DJF"
   },
   {
     "country": "Dominica",
@@ -1796,7 +1898,9 @@
     "phoneNumberCode": "1-767",
     "timezone": [
       "America/Dominica"
-    ]
+    ],
+    "capital": "Roseau",
+    "currency": "XCD"
   },
   {
     "country": "Dominican Republic",
@@ -1845,7 +1949,9 @@
     "phoneNumberCode": "1-809, 1-829, 1-849",
     "timezone": [
       "America/Santo_Domingo"
-    ]
+    ],
+    "capital": "Santo Domingo",
+    "currency": "DOP"
   },
   {
     "country": "East Timor",
@@ -1875,7 +1981,9 @@
     "phoneNumberCode": "670",
     "timezone": [
       "Asia/Dili"
-    ]
+    ],
+    "capital": "Dili",
+    "currency": "USD"
   },
   {
     "country": "Ecuador",
@@ -1915,7 +2023,9 @@
     "timezone": [
       "America/Guayaquil",
       "Pacific/Galapagos"
-    ]
+    ],
+    "capital": "Quito",
+    "currency": "USD"
   },
   {
     "country": "Egypt",
@@ -1958,7 +2068,9 @@
     "phoneNumberCode": "20",
     "timezone": [
       "Africa/Cairo"
-    ]
+    ],
+    "capital": "Cairo",
+    "currency": "EGP"
   },
   {
     "country": "El Salvador",
@@ -1989,7 +2101,9 @@
     "phoneNumberCode": "503",
     "timezone": [
       "America/El_Salvador"
-    ]
+    ],
+    "capital": "San Salvador",
+    "currency": "USD"
   },
   {
     "country": "Equatorial Guinea",
@@ -2013,7 +2127,9 @@
     "phoneNumberCode": "240",
     "timezone": [
       "Africa/Malabo"
-    ]
+    ],
+    "capital": "Malabo",
+    "currency": "XAF"
   },
   {
     "country": "Eritrea",
@@ -2036,7 +2152,9 @@
     "phoneNumberCode": "291",
     "timezone": [
       "Africa/Asmara"
-    ]
+    ],
+    "capital": "Asmara",
+    "currency": "ERN"
   },
   {
     "country": "Estonia",
@@ -2068,7 +2186,9 @@
     "phoneNumberCode": "372",
     "timezone": [
       "Europe/Tallinn"
-    ]
+    ],
+    "capital": "Tallinn",
+    "currency": "EUR"
   },
   {
     "country": "Ethiopia",
@@ -2096,7 +2216,9 @@
     "phoneNumberCode": "251",
     "timezone": [
       "Africa/Addis_Ababa"
-    ]
+    ],
+    "capital": "Addis Ababa",
+    "currency": "ETB"
   },
   {
     "country": "Fiji",
@@ -2118,7 +2240,9 @@
     "phoneNumberCode": "679",
     "timezone": [
       "Pacific/Fiji"
-    ]
+    ],
+    "capital": "Suva",
+    "currency": "FJD"
   },
   {
     "country": "Finland",
@@ -2141,7 +2265,9 @@
     "phoneNumberCode": "358",
     "timezone": [
       "Europe/Helsinki"
-    ]
+    ],
+    "capital": "Helsinki",
+    "currency": "EUR"
   },
   {
     "country": "France",
@@ -2180,7 +2306,9 @@
     "phoneNumberCode": "33",
     "timezone": [
       "Europe/Paris"
-    ]
+    ],
+    "capital": "Paris",
+    "currency": "EUR"
   },
   {
     "country": "French Guiana",
@@ -2219,7 +2347,9 @@
     "phoneNumberCode": "594",
     "timezone": [
       "America/Cayenne"
-    ]
+    ],
+    "capital": "Cayenne",
+    "currency": "EUR"
   },
   {
     "country": "French Polynesia",
@@ -2243,7 +2373,9 @@
       "Pacific/Tahiti",
       "Pacific/Marquesas",
       "Pacific/Gambier"
-    ]
+    ],
+    "capital": "Papeete",
+    "currency": "XPF"
   },
   {
     "country": "Gabon",
@@ -2269,7 +2401,9 @@
     "phoneNumberCode": "241",
     "timezone": [
       "Africa/Libreville"
-    ]
+    ],
+    "capital": "Libreville",
+    "currency": "XAF"
   },
   {
     "country": "Gambia",
@@ -2292,7 +2426,9 @@
     "phoneNumberCode": "220",
     "timezone": [
       "Africa/Banjul"
-    ]
+    ],
+    "capital": "Banjul",
+    "currency": "GMD"
   },
   {
     "country": "Georgia",
@@ -2321,7 +2457,9 @@
     "phoneNumberCode": "220",
     "timezone": [
       "Africa/Banjul"
-    ]
+    ],
+    "capital": "Banjul",
+    "currency": "GMD"
   },
   {
     "country": "Germany",
@@ -2355,7 +2493,9 @@
     "timezone": [
       "Europe/Berlin",
       "Europe/Busingen"
-    ]
+    ],
+    "capital": "Berlin",
+    "currency": "EUR"
   },
   {
     "country": "Ghana",
@@ -2382,7 +2522,9 @@
     "phoneNumberCode": "233",
     "timezone": [
       "Africa/Accra"
-    ]
+    ],
+    "capital": "Accra",
+    "currency": "GHS"
   },
   {
     "country": "Greece",
@@ -2451,7 +2593,9 @@
     "phoneNumberCode": "30",
     "timezone": [
       "Europe/Athens"
-    ]
+    ],
+    "capital": "Athens",
+    "currency": "EUR"
   },
   {
     "country": "Greenland",
@@ -2474,7 +2618,9 @@
       "America/Danmarkshavn",
       "America/Scoresbysund",
       "America/Thule"
-    ]
+    ],
+    "capital": "Nuuk",
+    "currency": "DKK"
   },
   {
     "country": "Grenada",
@@ -2498,7 +2644,9 @@
     "phoneNumberCode": "1-473",
     "timezone": [
       "America/Grenada"
-    ]
+    ],
+    "capital": "St. George's",
+    "currency": "XCD"
   },
   {
     "country": "Guatemala",
@@ -2537,7 +2685,9 @@
     "phoneNumberCode": "502",
     "timezone": [
       "America/Guatemala"
-    ]
+    ],
+    "capital": "Guatemala City",
+    "currency": "GTQ"
   },
   {
     "country": "Guinea",
@@ -2588,7 +2738,9 @@
     "phoneNumberCode": "224",
     "timezone": [
       "Africa/Conakry"
-    ]
+    ],
+    "capital": "Conakry",
+    "currency": "GNF"
   },
   {
     "country": "Guinea-Bissau",
@@ -2614,7 +2766,9 @@
     "phoneNumberCode": "245",
     "timezone": [
       "Africa/Bissau"
-    ]
+    ],
+    "capital": "Bissau",
+    "currency": "XOF"
   },
   {
     "country": "Guyana",
@@ -2641,7 +2795,9 @@
     "phoneNumberCode": "592",
     "timezone": [
       "America/Guyana"
-    ]
+    ],
+    "capital": "Georgetown",
+    "currency": "GYD"
   },
   {
     "country": "Haiti",
@@ -2667,7 +2823,9 @@
     "phoneNumberCode": "509",
     "timezone": [
       "America/Port-au-Prince"
-    ]
+    ],
+    "capital": "Port-au-Prince",
+    "currency": "HTG"
   },
   {
     "country": "Honduras",
@@ -2702,7 +2860,9 @@
     "phoneNumberCode": "504",
     "timezone": [
       "America/Tegucigalpa"
-    ]
+    ],
+    "capital": "Tegucigalpa",
+    "currency": "HNL"
   },
   {
     "country": "Hong Kong",
@@ -2737,7 +2897,9 @@
     "phoneNumberCode": "852",
     "timezone": [
       "Asia/Hong_Kong"
-    ]
+    ],
+    "capital": "Hong Kong",
+    "currency": "HKD"
   },
   {
     "country": "Hungary",
@@ -2773,7 +2935,9 @@
     "phoneNumberCode": "36",
     "timezone": [
       "Europe/Budapest"
-    ]
+    ],
+    "capital": "Budapest",
+    "currency": "HUF"
   },
   {
     "country": "Iceland",
@@ -2798,7 +2962,9 @@
     "phoneNumberCode": "354",
     "timezone": [
       "Atlantic/Reykjavik"
-    ]
+    ],
+    "capital": "Reykjavik",
+    "currency": "ISK"
   },
   {
     "country": "India",
@@ -2852,7 +3018,9 @@
     "phoneNumberCode": "91",
     "timezone": [
       "Asia/Kolkata"
-    ]
+    ],
+    "capital": "New Delhi",
+    "currency": "INR"
   },
   {
     "country": "Indonesia",
@@ -2905,7 +3073,9 @@
       "Asia/Pontianak",
       "Asia/Makassar",
       "Asia/Jayapura"
-    ]
+    ],
+    "capital": "Jakarta",
+    "currency": "IDR"
   },
   {
     "country": "Iran",
@@ -2952,7 +3122,9 @@
     "phoneNumberCode": "98",
     "timezone": [
       "Asia/Tehran"
-    ]
+    ],
+    "capital": "Tehran",
+    "currency": "IRR"
   },
   {
     "country": "Iraq",
@@ -2987,7 +3159,9 @@
     "phoneNumberCode": "964",
     "timezone": [
       "Asia/Baghdad"
-    ]
+    ],
+    "capital": "Baghdad",
+    "currency": "IQD"
   },
   {
     "country": "Ireland",
@@ -3030,7 +3204,9 @@
     "phoneNumberCode": "353",
     "timezone": [
       "Europe/Dublin"
-    ]
+    ],
+    "capital": "Dublin",
+    "currency": "EUR"
   },
   {
     "country": "Israel",
@@ -3053,7 +3229,9 @@
     "phoneNumberCode": "972",
     "timezone": [
       "Asia/Jerusalem"
-    ]
+    ],
+    "capital": "Jerusalem",
+    "currency": "ILS"
   },
   {
     "country": "Italy",
@@ -3090,7 +3268,9 @@
     "phoneNumberCode": "39",
     "timezone": [
       "Europe/Rome"
-    ]
+    ],
+    "capital": "Rome",
+    "currency": "EUR"
   },
   {
     "country": "Jamaica",
@@ -3121,7 +3301,9 @@
     "phoneNumberCode": "1-876",
     "timezone": [
       "America/Jamaica"
-    ]
+    ],
+    "capital": "Kingston",
+    "currency": "JMD"
   },
   {
     "country": "Japan",
@@ -3185,7 +3367,9 @@
     "phoneNumberCode": "81",
     "timezone": [
       "Asia/Tokyo"
-    ]
+    ],
+    "capital": "Tokyo",
+    "currency": "JPY"
   },
   {
     "country": "Jordan",
@@ -3214,7 +3398,9 @@
     "phoneNumberCode": "962",
     "timezone": [
       "Asia/Amman"
-    ]
+    ],
+    "capital": "Amman",
+    "currency": "JOD"
   },
   {
     "country": "Kazakhstan",
@@ -3253,7 +3439,9 @@
       "Asia/Aqtau",
       "Asia/Atyrau",
       "Asia/Oral"
-    ]
+    ],
+    "capital": "Astana",
+    "currency": "KZT"
   },
   {
     "country": "Kenya",
@@ -3278,7 +3466,9 @@
     "phoneNumberCode": "254",
     "timezone": [
       "Africa/Nairobi"
-    ]
+    ],
+    "capital": "Nairobi",
+    "currency": "KES"
   },
   {
     "country": "Kiribati",
@@ -3303,7 +3493,9 @@
       "Pacific/Tarawa",
       "Pacific/Enderbury",
       "Pacific/Kiritimati"
-    ]
+    ],
+    "capital": "Tarawa",
+    "currency": "AUD"
   },
   {
     "country": "Korea North",
@@ -3333,7 +3525,9 @@
     "phoneNumberCode": "850",
     "timezone": [
       "Asia/Pyongyang"
-    ]
+    ],
+    "capital": "Pyongyang",
+    "currency": "KPW"
   },
   {
     "country": "Korea South",
@@ -3366,7 +3560,9 @@
     "phoneNumberCode": "82",
     "timezone": [
       "Asia/Seoul"
-    ]
+    ],
+    "capital": "Seoul",
+    "currency": "KRW"
   },
   {
     "country": "Kuwait",
@@ -3389,7 +3585,9 @@
     "phoneNumberCode": "965",
     "timezone": [
       "Asia/Kuwait"
-    ]
+    ],
+    "capital": "Kuwait City",
+    "currency": "KWD"
   },
   {
     "country": "Kyrgyzstan",
@@ -3414,7 +3612,9 @@
     "phoneNumberCode": "996",
     "timezone": [
       "Asia/Bishkek"
-    ]
+    ],
+    "capital": "Bishkek",
+    "currency": "KGS"
   },
   {
     "country": "Laos",
@@ -3449,7 +3649,9 @@
     "phoneNumberCode": "856",
     "timezone": [
       "Asia/Vientiane"
-    ]
+    ],
+    "capital": "Vientiane",
+    "currency": "LAK"
   },
   {
     "country": "Latvia",
@@ -3499,7 +3701,9 @@
     "phoneNumberCode": "371",
     "timezone": [
       "Europe/Riga"
-    ]
+    ],
+    "capital": "Riga",
+    "currency": "EUR"
   },
   {
     "country": "Lebanon",
@@ -3522,7 +3726,9 @@
     "phoneNumberCode": "961",
     "timezone": [
       "Asia/Beirut"
-    ]
+    ],
+    "capital": "Beirut",
+    "currency": "LBP"
   },
   {
     "country": "Lesotho",
@@ -3549,7 +3755,9 @@
     "phoneNumberCode": "266",
     "timezone": [
       "Africa/Maseru"
-    ]
+    ],
+    "capital": "Maseru",
+    "currency": "LSL"
   },
   {
     "country": "Liberia",
@@ -3581,7 +3789,9 @@
     "phoneNumberCode": "231",
     "timezone": [
       "Africa/Monrovia"
-    ]
+    ],
+    "capital": "Monrovia",
+    "currency": "LRD"
   },
   {
     "country": "Libya",
@@ -3623,7 +3833,9 @@
     "phoneNumberCode": "218",
     "timezone": [
       "Africa/Tripoli"
-    ]
+    ],
+    "capital": "Tripolis",
+    "currency": "LYD"
   },
   {
     "country": "Liechtenstein",
@@ -3651,7 +3863,9 @@
     "phoneNumberCode": "423",
     "timezone": [
       "Europe/Vaduz"
-    ]
+    ],
+    "capital": "Vaduz",
+    "currency": "CHF"
   },
   {
     "country": "Lithuania",
@@ -3678,7 +3892,9 @@
     "phoneNumberCode": "370",
     "timezone": [
       "Europe/Vilnius"
-    ]
+    ],
+    "capital": "Vilnius",
+    "currency": "LTL"
   },
   {
     "country": "Luxembourg",
@@ -3698,7 +3914,9 @@
     "phoneNumberCode": "352",
     "timezone": [
       "Europe/Luxembourg"
-    ]
+    ],
+    "capital": "Luxembourg",
+    "currency": "EUR"
   },
   {
     "country": "Macedonia",
@@ -3800,7 +4018,9 @@
     "phoneNumberCode": "389",
     "timezone": [
       "Europe/Skopje"
-    ]
+    ],
+    "capital": "Skopje",
+    "currency": "MKD"
   },
   {
     "country": "Madagascar",
@@ -3823,7 +4043,9 @@
     "phoneNumberCode": "261",
     "timezone": [
       "Indian/Antananarivo"
-    ]
+    ],
+    "capital": "Antananarivo",
+    "currency": "MGA"
   },
   {
     "country": "Malawi",
@@ -3867,7 +4089,9 @@
     "phoneNumberCode": "265",
     "timezone": [
       "Africa/Blantyre"
-    ]
+    ],
+    "capital": "Lilongwe",
+    "currency": "MWK"
   },
   {
     "country": "Malaysia",
@@ -3900,7 +4124,9 @@
     "timezone": [
       "Asia/Kuala_Lumpur",
       "Asia/Kuching"
-    ]
+    ],
+    "capital": "Kuala Lumpur",
+    "currency": "MYR"
   },
   {
     "country": "Maldives",
@@ -3937,7 +4163,9 @@
     "phoneNumberCode": "960",
     "timezone": [
       "Indian/Maldives"
-    ]
+    ],
+    "capital": "Male",
+    "currency": "MVR"
   },
   {
     "country": "Mali",
@@ -3963,7 +4191,9 @@
     "phoneNumberCode": "223",
     "timezone": [
       "Africa/Bamako"
-    ]
+    ],
+    "capital": "Bamako",
+    "currency": "XOF"
   },
   {
     "country": "Malta",
@@ -3985,7 +4215,9 @@
     "phoneNumberCode": "356",
     "timezone": [
       "Europe/Malta"
-    ]
+    ],
+    "capital": "Valletta",
+    "currency": "EUR"
   },
   {
     "country": "Marshall Islands",
@@ -4036,7 +4268,9 @@
     "timezone": [
       "Pacific/Majuro",
       "Pacific/Kwajalein"
-    ]
+    ],
+    "capital": "Majuro",
+    "currency": "USD"
   },
   {
     "country": "Mauritania",
@@ -4066,7 +4300,9 @@
     "phoneNumberCode": "222",
     "timezone": [
       "Africa/Nouakchott"
-    ]
+    ],
+    "capital": "Nouakchott",
+    "currency": "MRO"
   },
   {
     "country": "Mauritius",
@@ -4095,7 +4331,9 @@
     "phoneNumberCode": "230",
     "timezone": [
       "Indian/Mauritius"
-    ]
+    ],
+    "capital": "Port Louis",
+    "currency": "MUR"
   },
   {
     "country": "Mexico",
@@ -4154,7 +4392,9 @@
       "America/Hermosillo",
       "America/Tijuana",
       "America/Bahia_Banderas"
-    ]
+    ],
+    "capital": "Mexico City",
+    "currency": "MXN"
   },
   {
     "country": "Micronesia",
@@ -4177,7 +4417,9 @@
       "Pacific/Chuuk",
       "Pacific/Pohnpei",
       "Pacific/Kosrae"
-    ]
+    ],
+    "capital": "Palikir",
+    "currency": "USD"
   },
   {
     "country": "Moldova",
@@ -4231,7 +4473,9 @@
     "phoneNumberCode": "373",
     "timezone": [
       "Europe/Chisinau"
-    ]
+    ],
+    "capital": "Chisinau",
+    "currency": "MDL"
   },
   {
     "country": "Monaco",
@@ -4252,7 +4496,9 @@
     "phoneNumberCode": "377",
     "timezone": [
       "Europe/Monaco"
-    ]
+    ],
+    "capital": "Monaco",
+    "currency": "EUR"
   },
   {
     "country": "Mongolia",
@@ -4293,7 +4539,9 @@
       "Asia/Ulaanbaatar",
       "Asia/Hovd",
       "Asia/Choibalsan"
-    ]
+    ],
+    "capital": "Ulan Bator",
+    "currency": "MNT"
   },
   {
     "country": "Morocco",
@@ -4349,7 +4597,9 @@
     "phoneNumberCode": "212",
     "timezone": [
       "Africa/Casablanca"
-    ]
+    ],
+    "capital": "Rabat",
+    "currency": "MAD"
   },
   {
     "country": "Mozambique",
@@ -4377,7 +4627,9 @@
     "phoneNumberCode": "258",
     "timezone": [
       "Africa/Maputo"
-    ]
+    ],
+    "capital": "Maputo",
+    "currency": "MZN"
   },
   {
     "country": "Namibia",
@@ -4407,7 +4659,9 @@
     "phoneNumberCode": "264",
     "timezone": [
       "Africa/Windhoek"
-    ]
+    ],
+    "capital": "Windhoek",
+    "currency": "NAD"
   },
   {
     "country": "Nauru",
@@ -4428,7 +4682,9 @@
     "phoneNumberCode": "674",
     "timezone": [
       "Pacific/Nauru"
-    ]
+    ],
+    "capital": "Yaren",
+    "currency": "AUD"
   },
   {
     "country": "Nepal",
@@ -4459,7 +4715,9 @@
     "phoneNumberCode": "977",
     "timezone": [
       "Asia/Kathmandu"
-    ]
+    ],
+    "capital": "Kathmandu",
+    "currency": "NPR"
   },
   {
     "country": "Netherlands",
@@ -4488,7 +4746,9 @@
     "phoneNumberCode": "31",
     "timezone": [
       "Europe/Amsterdam"
-    ]
+    ],
+    "capital": "Amsterdam",
+    "currency": "EUR"
   },
   {
     "country": "New Zealand",
@@ -4523,7 +4783,9 @@
     "timezone": [
       "Pacific/Auckland",
       "Pacific/Chatham"
-    ]
+    ],
+    "capital": "Wellington",
+    "currency": "NZD"
   },
   {
     "country": "Nicaragua",
@@ -4557,7 +4819,9 @@
     "phoneNumberCode": "505",
     "timezone": [
       "America/Managua"
-    ]
+    ],
+    "capital": "Managua",
+    "currency": "NIO"
   },
   {
     "country": "Niger",
@@ -4582,7 +4846,9 @@
     "phoneNumberCode": "227",
     "timezone": [
       "Africa/Niamey"
-    ]
+    ],
+    "capital": "Niamey",
+    "currency": "XOF"
   },
   {
     "country": "Nigeria",
@@ -4636,7 +4902,9 @@
     "phoneNumberCode": "234",
     "timezone": [
       "Africa/Lagos"
-    ]
+    ],
+    "capital": "Abuja",
+    "currency": "NGN"
   },
   {
     "country": "Norway",
@@ -4672,7 +4940,9 @@
     "phoneNumberCode": "47",
     "timezone": [
       "Europe/Oslo"
-    ]
+    ],
+    "capital": "Oslo",
+    "currency": "NOK"
   },
   {
     "country": "Oman",
@@ -4697,7 +4967,9 @@
     "phoneNumberCode": "968",
     "timezone": [
       "Asia/Muscat"
-    ]
+    ],
+    "capital": "Muscat",
+    "currency": "OMR"
   },
   {
     "country": "Pakistan",
@@ -4720,7 +4992,9 @@
     "phoneNumberCode": "92",
     "timezone": [
       "Asia/Karachi"
-    ]
+    ],
+    "capital": "Islamabad",
+    "currency": "PKR"
   },
   {
     "country": "Panama",
@@ -4747,7 +5021,9 @@
     "phoneNumberCode": "507",
     "timezone": [
       "America/Panama"
-    ]
+    ],
+    "capital": "Panama City",
+    "currency": "PAB"
   },
   {
     "country": "Papua New Guinea",
@@ -4785,7 +5061,9 @@
     "timezone": [
       "Pacific/Port_Moresby",
       "Pacific/Bougainville"
-    ]
+    ],
+    "capital": "Port Moresby",
+    "currency": "PGK"
   },
   {
     "country": "Paraguay",
@@ -4820,7 +5098,9 @@
     "phoneNumberCode": "595",
     "timezone": [
       "America/Asuncion"
-    ]
+    ],
+    "capital": "Asuncion",
+    "currency": "PYG"
   },
   {
     "country": "Peru",
@@ -4862,7 +5142,9 @@
     "phoneNumberCode": "51",
     "timezone": [
       "America/Lima"
-    ]
+    ],
+    "capital": "Lima",
+    "currency": "PEN"
   },
   {
     "country": "Philippines",
@@ -4958,7 +5240,9 @@
     "phoneNumberCode": "63",
     "timezone": [
       "Asia/Manila"
-    ]
+    ],
+    "capital": "Manila",
+    "currency": "PHP"
   },
   {
     "country": "Poland",
@@ -4991,7 +5275,9 @@
     "phoneNumberCode": "48",
     "timezone": [
       "Europe/Warsaw"
-    ]
+    ],
+    "capital": "Warsaw",
+    "currency": "PLN"
   },
   {
     "country": "Portugal",
@@ -5030,7 +5316,9 @@
       "Europe/Lisbon",
       "Atlantic/Madeira",
       "Atlantic/Azores"
-    ]
+    ],
+    "capital": "Lisbon",
+    "currency": "EUR"
   },
   {
     "country": "Qatar",
@@ -5057,7 +5345,9 @@
     "phoneNumberCode": "974",
     "timezone": [
       "Asia/Qatar"
-    ]
+    ],
+    "capital": "Doha",
+    "currency": "QAR"
   },
   {
     "country": "Romania",
@@ -5116,7 +5406,9 @@
     "phoneNumberCode": "40",
     "timezone": [
       "Europe/Bucharest"
-    ]
+    ],
+    "capital": "Bucharest",
+    "currency": "RON"
   },
   {
     "country": "Russia",
@@ -5248,7 +5540,9 @@
       "Asia/Srednekolymsk",
       "Asia/Kamchatka",
       "Asia/Anadyr"
-    ]
+    ],
+    "capital": "Moscow",
+    "currency": "RUB"
   },
   {
     "country": "Rwanda",
@@ -5277,7 +5571,9 @@
     "phoneNumberCode": "250",
     "timezone": [
       "Africa/Kigali"
-    ]
+    ],
+    "capital": "Kigali",
+    "currency": "RWF"
   },
   {
     "country": "Samoa",
@@ -5305,7 +5601,9 @@
     "phoneNumberCode": "685",
     "timezone": [
       "Pacific/Apia"
-    ]
+    ],
+    "capital": "Apia",
+    "currency": "WST"
   },
   {
     "country": "San Marino",
@@ -5331,7 +5629,9 @@
     "phoneNumberCode": "378",
     "timezone": [
       "Europe/San_Marino"
-    ]
+    ],
+    "capital": "San Marino",
+    "currency": "EUR"
   },
   {
     "country": "Sao Tome",
@@ -5355,7 +5655,9 @@
     "phoneNumberCode": "239",
     "timezone": [
       "Africa/Sao_Tome"
-    ]
+    ],
+    "capital": "Sao Tome",
+    "currency": "STD"
   },
   {
     "country": "Saudi Arabia",
@@ -5385,7 +5687,9 @@
     "phoneNumberCode": "966",
     "timezone": [
       "Asia/Riyadh"
-    ]
+    ],
+    "capital": "Riyadh",
+    "currency": "SAR"
   },
   {
     "country": "Senegal",
@@ -5413,7 +5717,9 @@
     "phoneNumberCode": "221",
     "timezone": [
       "Africa/Dakar"
-    ]
+    ],
+    "capital": "Dakar",
+    "currency": "XOF"
   },
   {
     "country": "Serbia",
@@ -5454,7 +5760,9 @@
     "phoneNumberCode": "381",
     "timezone": [
       "Europe/Belgrade"
-    ]
+    ],
+    "capital": "Belgrade",
+    "currency": "RSD"
   },
   {
     "country": "Montenegro",
@@ -5496,7 +5804,9 @@
     "phoneNumberCode": "382",
     "timezone": [
       "Europe/Podgorica"
-    ]
+    ],
+    "capital": "Podgorica",
+    "currency": "EUR"
   },
   {
     "country": "Kosovo",
@@ -5520,7 +5830,9 @@
     "phoneNumberCode": "383",
     "timezone": [
       "Europe/Belgrade"
-    ]
+    ],
+    "capital": "Pristina",
+    "currency": "EUR"
   },
   {
     "country": "Seychelles",
@@ -5560,7 +5872,9 @@
     "phoneNumberCode": "248",
     "timezone": [
       "Indian/Mahe"
-    ]
+    ],
+    "capital": "Victoria",
+    "currency": "SCR"
   },
   {
     "country": "Sierra Leone",
@@ -5582,7 +5896,9 @@
     "phoneNumberCode": "232",
     "timezone": [
       "Africa/Freetown"
-    ]
+    ],
+    "capital": "Freetown",
+    "currency": "SLL"
   },
   {
     "country": "Singapore",
@@ -5615,7 +5931,9 @@
     "phoneNumberCode": "65",
     "timezone": [
       "Asia/Singapore"
-    ]
+    ],
+    "capital": "Singapur",
+    "currency": "SGD"
   },
   {
     "country": "Slovakia",
@@ -5640,7 +5958,9 @@
     "phoneNumberCode": "421",
     "timezone": [
       "Europe/Bratislava"
-    ]
+    ],
+    "capital": "Bratislava",
+    "currency": "EUR"
   },
   {
     "country": "Slovenia",
@@ -5850,7 +6170,9 @@
     "phoneNumberCode": "386",
     "timezone": [
       "Europe/Ljubljana"
-    ]
+    ],
+    "capital": "Ljubljana",
+    "currency": "EUR"
   },
   {
     "country": "Solomon Islands",
@@ -5877,7 +6199,9 @@
     "phoneNumberCode": "677",
     "timezone": [
       "Pacific/Guadalcanal"
-    ]
+    ],
+    "capital": "Honiara",
+    "currency": "SBD"
   },
   {
     "country": "Somalia",
@@ -5912,7 +6236,9 @@
     "phoneNumberCode": "252",
     "timezone": [
       "Africa/Mogadishu"
-    ]
+    ],
+    "capital": "Mogadishu",
+    "currency": "SOS"
   },
   {
     "country": "South Africa",
@@ -5938,7 +6264,9 @@
     "phoneNumberCode": "27",
     "timezone": [
       "Africa/Johannesburg"
-    ]
+    ],
+    "capital": "Pretoria",
+    "currency": "ZAR"
   },
   {
     "country": "Spain",
@@ -5976,7 +6304,9 @@
       "Europe/Madrid",
       "Africa/Ceuta",
       "Atlantic/Canary"
-    ]
+    ],
+    "capital": "Madrid",
+    "currency": "EUR"
   },
   {
     "country": "Sri Lanka",
@@ -6002,7 +6332,9 @@
     "phoneNumberCode": "94",
     "timezone": [
       "Asia/Colombo"
-    ]
+    ],
+    "capital": "Colombo",
+    "currency": "LKR"
   },
   {
     "country": "Sudan",
@@ -6045,7 +6377,9 @@
     "phoneNumberCode": "249",
     "timezone": [
       "Africa/Khartoum"
-    ]
+    ],
+    "capital": "Khartoum",
+    "currency": "SDG"
   },
   {
     "country": "Suriname",
@@ -6072,7 +6406,9 @@
     "phoneNumberCode": "597",
     "timezone": [
       "America/Paramaribo"
-    ]
+    ],
+    "capital": "Paramaribo",
+    "currency": "SRD"
   },
   {
     "country": "Swaziland",
@@ -6093,7 +6429,9 @@
     "phoneNumberCode": "268",
     "timezone": [
       "Africa/Mbabane"
-    ]
+    ],
+    "capital": "Mbabane",
+    "currency": "SZL"
   },
   {
     "country": "Sweden",
@@ -6131,7 +6469,9 @@
     "phoneNumberCode": "46",
     "timezone": [
       "Europe/Stockholm"
-    ]
+    ],
+    "capital": "Stockholm",
+    "currency": "SEK"
   },
   {
     "country": "Switzerland",
@@ -6174,7 +6514,9 @@
     "phoneNumberCode": "41",
     "timezone": [
       "Europe/Zurich"
-    ]
+    ],
+    "capital": "Berne",
+    "currency": "CHF"
   },
   {
     "country": "Syria",
@@ -6205,7 +6547,9 @@
     "phoneNumberCode": "963",
     "timezone": [
       "Asia/Damascus"
-    ]
+    ],
+    "capital": "Damascus",
+    "currency": "SYP"
   },
   {
     "country": "Taiwan",
@@ -6247,7 +6591,9 @@
     "phoneNumberCode": "886",
     "timezone": [
       "Asia/Taipei"
-    ]
+    ],
+    "capital": "Taipei",
+    "currency": "TWD"
   },
   {
     "country": "Tajikistan",
@@ -6269,7 +6615,9 @@
     "phoneNumberCode": "992",
     "timezone": [
       "Asia/Dushanbe"
-    ]
+    ],
+    "capital": "Dushanbe",
+    "currency": "TJS"
   },
   {
     "country": "Tanzania",
@@ -6312,7 +6660,9 @@
     "phoneNumberCode": "255",
     "timezone": [
       "Africa/Dar_es_Salaam"
-    ]
+    ],
+    "capital": "Dodoma",
+    "currency": "TZS"
   },
   {
     "country": "Thailand",
@@ -6405,7 +6755,9 @@
     "phoneNumberCode": "66",
     "timezone": [
       "Asia/Bangkok"
-    ]
+    ],
+    "capital": "Bangkok",
+    "currency": "THB"
   },
   {
     "country": "Togo",
@@ -6427,7 +6779,9 @@
     "phoneNumberCode": "228",
     "timezone": [
       "Africa/Lome"
-    ]
+    ],
+    "capital": "Lome",
+    "currency": "XOF"
   },
   {
     "country": "Tonga",
@@ -6450,7 +6804,9 @@
     "phoneNumberCode": "676",
     "timezone": [
       "Pacific/Tongatapu"
-    ]
+    ],
+    "capital": "Nuku'alofa",
+    "currency": "TOP"
   },
   {
     "country": "Trinidad and Tobago",
@@ -6482,7 +6838,9 @@
     "phoneNumberCode": "1-868",
     "timezone": [
       "America/Port_of_Spain"
-    ]
+    ],
+    "capital": "Port of Spain",
+    "currency": "TTD"
   },
   {
     "country": "Tunisia",
@@ -6523,7 +6881,9 @@
     "phoneNumberCode": "216",
     "timezone": [
       "Africa/Tunis"
-    ]
+    ],
+    "capital": "Tunis",
+    "currency": "TND"
   },
   {
     "country": "Turkey",
@@ -6621,7 +6981,9 @@
     "phoneNumberCode": "90",
     "timezone": [
       "Europe/Istanbul"
-    ]
+    ],
+    "capital": "Ankara",
+    "currency": "TRY"
   },
   {
     "country": "Turkmenistan",
@@ -6643,7 +7005,9 @@
     "phoneNumberCode": "993",
     "timezone": [
       "Asia/Ashgabat"
-    ]
+    ],
+    "capital": "Ashgabat",
+    "currency": "TMT"
   },
   {
     "country": "Uganda",
@@ -6716,7 +7080,9 @@
     "phoneNumberCode": "256",
     "timezone": [
       "Africa/Kampala"
-    ]
+    ],
+    "capital": "Kampala",
+    "currency": "UGX"
   },
   {
     "country": "Ukraine",
@@ -6762,7 +7128,9 @@
       "Europe/Kiev",
       "Europe/Uzhgorod",
       "Europe/Zaporozhye"
-    ]
+    ],
+    "capital": "Kiev",
+    "currency": "UAH"
   },
   {
     "country": "United Arab Emirates",
@@ -6786,7 +7154,9 @@
     "phoneNumberCode": "971",
     "timezone": [
       "Asia/Dubai"
-    ]
+    ],
+    "capital": "Abu Dhabi",
+    "currency": "AED"
   },
   {
     "country": "United Kingdom",
@@ -6949,7 +7319,9 @@
     "phoneNumberCode": "44",
     "timezone": [
       "Europe/London"
-    ]
+    ],
+    "capital": "London",
+    "currency": "GBP"
   },
   {
     "country": "United States",
@@ -7045,7 +7417,9 @@
       "America/Nome",
       "America/Adak",
       "Pacific/Honolulu"
-    ]
+    ],
+    "capital": "Washington",
+    "currency": "USD"
   },
   {
     "country": "Uruguay",
@@ -7081,7 +7455,9 @@
     "phoneNumberCode": "598",
     "timezone": [
       "America/Montevideo"
-    ]
+    ],
+    "capital": "Montevideo",
+    "currency": "UYU"
   },
   {
     "country": "Uzbekistan",
@@ -7113,7 +7489,9 @@
     "timezone": [
       "Asia/Samarkand",
       "Asia/Tashkent"
-    ]
+    ],
+    "capital": "Tashkent",
+    "currency": "UZS"
   },
   {
     "country": "Vanuatu",
@@ -7136,7 +7514,9 @@
     "phoneNumberCode": "678",
     "timezone": [
       "Pacific/Efate"
-    ]
+    ],
+    "capital": "Port Vila",
+    "currency": "VUV"
   },
   {
     "country": "Venezuela",
@@ -7178,7 +7558,9 @@
     "phoneNumberCode": "58",
     "timezone": [
       "America/Caracas"
-    ]
+    ],
+    "capital": "Caracas",
+    "currency": "VEF"
   },
   {
     "country": "Vietnam",
@@ -7259,7 +7641,9 @@
     "phoneNumberCode": "84",
     "timezone": [
       "Asia/Ho_Chi_Minh"
-    ]
+    ],
+    "capital": "Hanoi",
+    "currency": "VND"
   },
   {
     "country": "Yemen",
@@ -7295,7 +7679,9 @@
     "phoneNumberCode": "967",
     "timezone": [
       "Asia/Aden"
-    ]
+    ],
+    "capital": "Sanaa",
+    "currency": "YER"
   },
   {
     "country": "Zambia",
@@ -7321,7 +7707,9 @@
     "phoneNumberCode": "260",
     "timezone": [
       "Africa/Lusaka"
-    ]
+    ],
+    "capital": "Lusaka",
+    "currency": "ZMK"
   },
   {
     "country": "Zimbabwe",
@@ -7348,6 +7736,8 @@
     "phoneNumberCode": "263",
     "timezone": [
       "Africa/Harare"
-    ]
+    ],
+    "capital": "Harare",
+    "currency": "ZWL"
   }
 ]

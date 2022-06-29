@@ -96,6 +96,38 @@ finalData = finalData.map(data => {
   return data;
 });
 
+// currency and capital
+
+const currencies = readJSONFile<
+  Array<{
+    continent_name: string;
+    country_code: string;
+    country_name: string;
+    continent_code: string;
+    capital_name: string;
+    currency_code: string;
+    phone_code: string;
+    three_letter_country_code: string;
+  }>
+>('country-continent');
+
+finalData = finalData.map(data => {
+  const currency = currencies.find(
+    currency => currency.country_code === data.alpha2Code,
+  );
+
+  if (!currency) {
+    console.log(`===== No currency found for: ${data.alpha2Code} =====`);
+
+    return data;
+  }
+
+  data.capital = currency.capital_name;
+  data.currency = currency.currency_code;
+
+  return data;
+});
+
 // check
 
 finalData.forEach(data => {
@@ -128,6 +160,12 @@ finalData.forEach(data => {
   }
   if (!data.timezone || !data.timezone.length) {
     console.log(`===== No timezone found for: ${data.country} =====`);
+  }
+  if (!data.currency) {
+    console.log(`===== No currency found for: ${data.country} =====`);
+  }
+  if (!data.capital) {
+    console.log(`===== No capital found for: ${data.country} =====`);
   }
 });
 
