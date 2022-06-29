@@ -3,7 +3,7 @@
     "country": "Afghanistan",
     "alpha2Code": "AF",
     "alpha3Code": "AFG",
-    "numberCode": "004",
+    "numberCode": 4,
     "states": [
       "Badakhshan",
       "Badghis",
@@ -39,13 +39,18 @@
       "Takhar",
       "Vardak",
       "Zabol"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇫",
+      "unicode": "U+1F1E6 U+1F1EB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg"
+    }
   },
   {
     "country": "Albania",
     "alpha2Code": "AL",
     "alpha3Code": "ALB",
-    "numberCode": "008",
+    "numberCode": 8,
     "states": [
       "Berat",
       "Dibres",
@@ -59,13 +64,18 @@
       "Shkoder",
       "Tirane",
       "Vlore"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇱",
+      "unicode": "U+1F1E6 U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg"
+    }
   },
   {
     "country": "Algeria",
     "alpha2Code": "DZ",
     "alpha3Code": "DZA",
-    "numberCode": "012",
+    "numberCode": 12,
     "states": [
       "Adrar",
       "Ain Defla",
@@ -115,13 +125,18 @@
       "Tissemsilt",
       "Tizi Ouzou",
       "Tlemcen"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇩🇿",
+      "unicode": "U+1F1E9 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg"
+    }
   },
   {
     "country": "Andorra",
     "alpha2Code": "AD",
     "alpha3Code": "AND",
-    "numberCode": "020",
+    "numberCode": 20,
     "states": [
       "Andorra la Vella",
       "Canillo",
@@ -130,13 +145,18 @@
       "La Massana",
       "Ordino",
       "Sant Julia de Loria"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇩",
+      "unicode": "U+1F1E6 U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg"
+    }
   },
   {
     "country": "Angola",
     "alpha2Code": "AO",
     "alpha3Code": "AGO",
-    "numberCode": "024",
+    "numberCode": 24,
     "states": [
       "Bengo",
       "Benguela",
@@ -156,20 +176,30 @@
       "Namibe",
       "Uige",
       "Zaire"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇴",
+      "unicode": "U+1F1E6 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg"
+    }
   },
   {
     "country": "Antarctica",
     "alpha2Code": "AQ",
     "alpha3Code": "ATA",
-    "numberCode": "010",
-    "states": []
+    "numberCode": 10,
+    "states": [],
+    "flag": {
+      "emoji": "🇦🇶",
+      "unicode": "U+1F1E6 U+1F1F6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg"
+    }
   },
   {
     "country": "Antigua and Barbuda",
     "alpha2Code": "AG",
     "alpha3Code": "ATG",
-    "numberCode": "028",
+    "numberCode": 28,
     "states": [
       "Barbuda",
       "Redonda",
@@ -179,13 +209,18 @@
       "Saint Paul",
       "Saint Peter",
       "Saint Philip"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇬",
+      "unicode": "U+1F1E6 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg"
+    }
   },
   {
     "country": "Argentina",
     "alpha2Code": "AR",
     "alpha3Code": "ARG",
-    "numberCode": "032",
+    "numberCode": 32,
     "states": [
       "Buenos Aires",
       "Buenos Aires Capital",
@@ -211,13 +246,18 @@
       "Santiago del Estero",
       "Tierra del Fuego",
       "Tucuman"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇷",
+      "unicode": "U+1F1E6 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg"
+    }
   },
   {
     "country": "Armenia",
     "alpha2Code": "AM",
     "alpha3Code": "ARM",
-    "numberCode": "051",
+    "numberCode": 51,
     "states": [
       "Aragatsotn",
       "Ararat",
@@ -230,13 +270,18 @@
       "Tavush",
       "Vayots' Dzor",
       "Yerevan"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇲",
+      "unicode": "U+1F1E6 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg"
+    }
   },
   {
     "country": "Australia",
     "alpha2Code": "AU",
     "alpha3Code": "AUS",
-    "numberCode": "036",
+    "numberCode": 36,
     "states": [
       "Australian Capital Territory",
       "New South Wales",
@@ -246,13 +291,18 @@
       "Tasmania",
       "Victoria",
       "Western Australia"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇺",
+      "unicode": "U+1F1E6 U+1F1FA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg"
+    }
   },
   {
     "country": "Austria",
     "alpha2Code": "AT",
     "alpha3Code": "AUT",
-    "numberCode": "040",
+    "numberCode": 40,
     "states": [
       "Burgenland",
       "Kaernten",
@@ -263,13 +313,18 @@
       "Tirol",
       "Vorarlberg",
       "Wien"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇹",
+      "unicode": "U+1F1E6 U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg"
+    }
   },
   {
     "country": "Azerbaijan",
     "alpha2Code": "AZ",
     "alpha3Code": "AZE",
-    "numberCode": "031",
+    "numberCode": 31,
     "states": [
       "Abseron Rayonu",
       "Agcabadi Rayonu",
@@ -342,13 +397,18 @@
       "Xankandi Sahari",
       "Yevlax Sahari",
       "Naxcivan Muxtar"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇿",
+      "unicode": "U+1F1E6 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg"
+    }
   },
   {
     "country": "Bahamas",
     "alpha2Code": "BS",
     "alpha3Code": "BHS",
-    "numberCode": "044",
+    "numberCode": 44,
     "states": [
       "Acklins and Crooked Islands",
       "Bimini",
@@ -371,13 +431,18 @@
       "Rock Sound",
       "Sandy Point",
       "San Salvador and Rum Cay"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇸",
+      "unicode": "U+1F1E7 U+1F1F8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg"
+    }
   },
   {
     "country": "Bahrain",
     "alpha2Code": "BH",
     "alpha3Code": "BHR",
-    "numberCode": "048",
+    "numberCode": 48,
     "states": [
       "Al Hadd",
       "Al Manamah",
@@ -391,20 +456,37 @@
       "Madinat 'Isa",
       "Juzur Hawar",
       "Sitrah"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇭",
+      "unicode": "U+1F1E7 U+1F1ED",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg"
+    }
   },
   {
     "country": "Bangladesh",
     "alpha2Code": "BD",
     "alpha3Code": "BGD",
-    "numberCode": "050",
-    "states": ["Barisal", "Chittagong", "Dhaka", "Khulna", "Rajshahi", "Sylhet"]
+    "numberCode": 50,
+    "states": [
+      "Barisal",
+      "Chittagong",
+      "Dhaka",
+      "Khulna",
+      "Rajshahi",
+      "Sylhet"
+    ],
+    "flag": {
+      "emoji": "🇧🇩",
+      "unicode": "U+1F1E7 U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg"
+    }
   },
   {
     "country": "Barbados",
     "alpha2Code": "BB",
     "alpha3Code": "BRB",
-    "numberCode": "052",
+    "numberCode": 52,
     "states": [
       "Christ Church",
       "Saint Andrew",
@@ -417,13 +499,18 @@
       "Saint Peter",
       "Saint Philip",
       "Saint Thomas"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇧",
+      "unicode": "U+1F1E7 U+1F1E7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg"
+    }
   },
   {
     "country": "Belarus",
     "alpha2Code": "BY",
     "alpha3Code": "BLR",
-    "numberCode": "112",
+    "numberCode": 112,
     "states": [
       "Brest",
       "Homyel",
@@ -432,13 +519,18 @@
       "Mahilyow",
       "Minsk",
       "Vitsyebsk"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇾",
+      "unicode": "U+1F1E7 U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg"
+    }
   },
   {
     "country": "Belgium",
     "alpha2Code": "BE",
     "alpha3Code": "BEL",
-    "numberCode": "056",
+    "numberCode": 56,
     "states": [
       "Antwerpen",
       "Brabant Wallon",
@@ -453,13 +545,18 @@
       "Vlaams-Brabant",
       "Wallonia",
       "West-Vlaanderen"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇪",
+      "unicode": "U+1F1E7 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg"
+    }
   },
   {
     "country": "Belize",
     "alpha2Code": "BZ",
     "alpha3Code": "BLZ",
-    "numberCode": "084",
+    "numberCode": 84,
     "states": [
       "Belize",
       "Cayo",
@@ -467,13 +564,18 @@
       "Orange Walk",
       "Stann Creek",
       "Toledo"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇿",
+      "unicode": "U+1F1E7 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg"
+    }
   },
   {
     "country": "Benin",
     "alpha2Code": "BJ",
     "alpha3Code": "BEN",
-    "numberCode": "204",
+    "numberCode": 204,
     "states": [
       "Alibori",
       "Atakora",
@@ -487,13 +589,18 @@
       "Oueme",
       "Plateau",
       "Zou"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇯",
+      "unicode": "U+1F1E7 U+1F1EF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg"
+    }
   },
   {
     "country": "Bermuda",
     "alpha2Code": "BM",
     "alpha3Code": "BMU",
-    "numberCode": "060",
+    "numberCode": 60,
     "states": [
       "Devonshire",
       "Hamilton",
@@ -506,13 +613,18 @@
       "Smith's",
       "Southampton",
       "Warwick"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇲",
+      "unicode": "U+1F1E7 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg"
+    }
   },
   {
     "country": "Bhutan",
     "alpha2Code": "BT",
     "alpha3Code": "BTN",
-    "numberCode": "064",
+    "numberCode": 64,
     "states": [
       "Bumthang",
       "Chukha",
@@ -534,13 +646,18 @@
       "Tsirang",
       "Wangdue Phodrang",
       "Zhemgang"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇹",
+      "unicode": "U+1F1E7 U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg"
+    }
   },
   {
     "country": "Bolivia",
     "alpha2Code": "BO",
     "alpha3Code": "BOL",
-    "numberCode": "068",
+    "numberCode": 68,
     "states": [
       "Chuquisaca",
       "Cochabamba",
@@ -551,13 +668,18 @@
       "Potosi",
       "Santa Cruz",
       "Tarija"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇴",
+      "unicode": "U+1F1E7 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg"
+    }
   },
   {
     "country": "Bosnia and Herzegovina",
     "alpha2Code": "BA",
     "alpha3Code": "BIH",
-    "numberCode": "070",
+    "numberCode": 70,
     "states": [
       "Una-Sana [Federation]",
       "Posavina [Federation]",
@@ -576,13 +698,18 @@
       "Sarajevo-Romanija [RS]",
       "Trebinje [RS]",
       "Vlasenica [RS]"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇦",
+      "unicode": "U+1F1E7 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg"
+    }
   },
   {
     "country": "Botswana",
     "alpha2Code": "BW",
     "alpha3Code": "BWA",
-    "numberCode": "072",
+    "numberCode": 72,
     "states": [
       "Central",
       "Ghanzi",
@@ -593,13 +720,18 @@
       "North West",
       "South East",
       "Southern"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇼",
+      "unicode": "U+1F1E7 U+1F1FC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg"
+    }
   },
   {
     "country": "Brazil",
     "alpha2Code": "BR",
     "alpha3Code": "BRA",
-    "numberCode": "076",
+    "numberCode": 76,
     "states": [
       "Acre",
       "Alagoas",
@@ -628,20 +760,35 @@
       "Sao Paulo",
       "Sergipe",
       "Tocantins"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇷",
+      "unicode": "U+1F1E7 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg"
+    }
   },
   {
     "country": "Brunei",
     "alpha2Code": "BN",
     "alpha3Code": "BRN",
-    "numberCode": "096",
-    "states": ["Belait", "Brunei and Muara", "Temburong", "Tutong"]
+    "numberCode": 96,
+    "states": [
+      "Belait",
+      "Brunei and Muara",
+      "Temburong",
+      "Tutong"
+    ],
+    "flag": {
+      "emoji": "🇧🇳",
+      "unicode": "U+1F1E7 U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg"
+    }
   },
   {
     "country": "Bulgaria",
     "alpha2Code": "BG",
     "alpha3Code": "BGR",
-    "numberCode": "100",
+    "numberCode": 100,
     "states": [
       "Blagoevgrad",
       "Burgas",
@@ -671,13 +818,18 @@
       "Vidin",
       "Vratsa",
       "Yambol"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇬",
+      "unicode": "U+1F1E7 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg"
+    }
   },
   {
     "country": "Burkina Faso",
     "alpha2Code": "BF",
     "alpha3Code": "BFA",
-    "numberCode": "854",
+    "numberCode": 854,
     "states": [
       "Bale",
       "Bam",
@@ -724,13 +876,18 @@
       "Ziro",
       "Zondoma",
       "Zoundweogo"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇫",
+      "unicode": "U+1F1E7 U+1F1EB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg"
+    }
   },
   {
     "country": "Myanmar",
     "alpha2Code": "MM",
     "alpha3Code": "MMR",
-    "numberCode": "104",
+    "numberCode": 104,
     "states": [
       "Ayeyarwady",
       "Bago",
@@ -746,13 +903,18 @@
       "Mon State",
       "Rakhine State",
       "Shan State"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇲",
+      "unicode": "U+1F1F2 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg"
+    }
   },
   {
     "country": "Burundi",
     "alpha2Code": "BI",
     "alpha3Code": "BDI",
-    "numberCode": "108",
+    "numberCode": 108,
     "states": [
       "Bubanza",
       "Bujumbura Mairie",
@@ -771,13 +933,18 @@
       "Ngozi",
       "Rutana",
       "Ruyigi"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇧🇮",
+      "unicode": "U+1F1E7 U+1F1EE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg"
+    }
   },
   {
     "country": "Cambodia",
     "alpha2Code": "KH",
     "alpha3Code": "KHM",
-    "numberCode": "116",
+    "numberCode": 116,
     "states": [
       "Banteay Mean Chey",
       "Batdambang",
@@ -803,13 +970,18 @@
       "Pailin",
       "Phnom Penh",
       "Preah Seihanu"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇭",
+      "unicode": "U+1F1F0 U+1F1ED",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg"
+    }
   },
   {
     "country": "Cameroon",
     "alpha2Code": "CM",
     "alpha3Code": "CMR",
-    "numberCode": "120",
+    "numberCode": 120,
     "states": [
       "Adamaoua",
       "Centre",
@@ -821,13 +993,18 @@
       "Ouest",
       "Sud",
       "Sud-Ouest"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇲",
+      "unicode": "U+1F1E8 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg"
+    }
   },
   {
     "country": "Canada",
     "alpha2Code": "CA",
     "alpha3Code": "CAN",
-    "numberCode": "124",
+    "numberCode": 124,
     "states": [
       "Alberta",
       "British Columbia",
@@ -842,13 +1019,18 @@
       "Quebec",
       "Saskatchewan",
       "Yukon Territory"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇦",
+      "unicode": "U+1F1E8 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg"
+    }
   },
   {
     "country": "Cape Verde",
     "alpha2Code": "CV",
     "alpha3Code": "CPV",
-    "numberCode": "132",
+    "numberCode": 132,
     "states": [
       "Santo Antão",
       "São Vicente",
@@ -860,13 +1042,18 @@
       "Santiago",
       "Fogo",
       "Brava"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇻",
+      "unicode": "U+1F1E8 U+1F1FB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg"
+    }
   },
   {
     "country": "Central African Republic",
     "alpha2Code": "CF",
     "alpha3Code": "CAF",
-    "numberCode": "140",
+    "numberCode": 140,
     "states": [
       "Bamingui-Bangoran",
       "Bangui",
@@ -885,13 +1072,18 @@
       "Ouham-Pende",
       "Sangha-Mbaere",
       "Vakaga"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇫",
+      "unicode": "U+1F1E8 U+1F1EB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg"
+    }
   },
   {
     "country": "Chad",
     "alpha2Code": "TD",
     "alpha3Code": "TCD",
-    "numberCode": "148",
+    "numberCode": 148,
     "states": [
       "Batha",
       "Biltine",
@@ -907,13 +1099,18 @@
       "Ouaddaï",
       "Salamat",
       "Tandjile"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇩",
+      "unicode": "U+1F1F9 U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg"
+    }
   },
   {
     "country": "Chile",
     "alpha2Code": "CL",
     "alpha3Code": "CHL",
-    "numberCode": "152",
+    "numberCode": 152,
     "states": [
       "Aysen",
       "Antofagasta",
@@ -928,13 +1125,18 @@
       "Santiago Region Metropolitana",
       "Tarapaca",
       "Valparaiso"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇱",
+      "unicode": "U+1F1E8 U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg"
+    }
   },
   {
     "country": "China",
     "alpha2Code": "CN",
     "alpha3Code": "CHN",
-    "numberCode": "156",
+    "numberCode": 156,
     "states": [
       "Anhui",
       "Fujian",
@@ -967,13 +1169,18 @@
       "Chongqing",
       "Shanghai",
       "Tianjin"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇳",
+      "unicode": "U+1F1E8 U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg"
+    }
   },
   {
     "country": "Colombia",
     "alpha2Code": "CO",
     "alpha3Code": "COL",
-    "numberCode": "170",
+    "numberCode": 170,
     "states": [
       "Amazonas",
       "Antioquia",
@@ -1008,20 +1215,34 @@
       "Valle del Cauca",
       "Vaupes",
       "Vichada"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇴",
+      "unicode": "U+1F1E8 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg"
+    }
   },
   {
     "country": "Comoros",
     "alpha2Code": "KM",
     "alpha3Code": "COM",
-    "numberCode": "174",
-    "states": ["Grande Comore (Njazidja)", "Anjouan (Nzwani)", "Moheli (Mwali)"]
+    "numberCode": 174,
+    "states": [
+      "Grande Comore (Njazidja)",
+      "Anjouan (Nzwani)",
+      "Moheli (Mwali)"
+    ],
+    "flag": {
+      "emoji": "🇰🇲",
+      "unicode": "U+1F1F0 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg"
+    }
   },
   {
     "country": "Congo, Democratic Republic",
     "alpha2Code": "CD",
     "alpha3Code": "COD",
-    "numberCode": "180",
+    "numberCode": 180,
     "states": [
       "Bandundu",
       "Bas-Congo",
@@ -1034,13 +1255,18 @@
       "Nord-Kivu",
       "Orientale",
       "Sud-Kivu"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇩",
+      "unicode": "U+1F1E8 U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg"
+    }
   },
   {
     "country": "Congo, Republic of the",
     "alpha2Code": "CG",
     "alpha3Code": "COG",
-    "numberCode": "178",
+    "numberCode": 178,
     "states": [
       "Bouenza",
       "Brazzaville",
@@ -1053,13 +1279,18 @@
       "Plateaux",
       "Pool",
       "Sangha"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇬",
+      "unicode": "U+1F1E8 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg"
+    }
   },
   {
     "country": "Costa Rica",
     "alpha2Code": "CR",
     "alpha3Code": "CRI",
-    "numberCode": "188",
+    "numberCode": 188,
     "states": [
       "Alajuela",
       "Cartago",
@@ -1068,13 +1299,18 @@
       "Limon",
       "Puntarenas",
       "San Jose"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇷",
+      "unicode": "U+1F1E8 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg"
+    }
   },
   {
     "country": "Cote d'Ivoire",
     "alpha2Code": "CI",
     "alpha3Code": "CIV",
-    "numberCode": "384",
+    "numberCode": 384,
     "states": [
       "Abidjan",
       "Bas-Sassandra",
@@ -1090,13 +1326,18 @@
       "Woroba",
       "Yamoussoukro",
       "Zanzan"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇮",
+      "unicode": "U+1F1E8 U+1F1EE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg"
+    }
   },
   {
     "country": "Croatia",
     "alpha2Code": "HR",
     "alpha3Code": "HRV",
-    "numberCode": "191",
+    "numberCode": 191,
     "states": [
       "Bjelovarsko-Bilogorska",
       "Brodsko-Posavska",
@@ -1119,13 +1360,18 @@
       "Zadarska",
       "Zagreb",
       "Zagrebacka"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇭🇷",
+      "unicode": "U+1F1ED U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg"
+    }
   },
   {
     "country": "Cuba",
     "alpha2Code": "CU",
     "alpha3Code": "CUB",
-    "numberCode": "192",
+    "numberCode": 192,
     "states": [
       "Camaguey",
       "Ciego de Avila",
@@ -1142,13 +1388,18 @@
       "Sancti Spiritus",
       "Santiago de Cuba",
       "Villa Clara"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇺",
+      "unicode": "U+1F1E8 U+1F1FA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg"
+    }
   },
   {
     "country": "Cyprus",
     "alpha2Code": "CY",
     "alpha3Code": "CYP",
-    "numberCode": "196",
+    "numberCode": 196,
     "states": [
       "Famagusta",
       "Kyrenia",
@@ -1156,13 +1407,18 @@
       "Limassol",
       "Nicosia",
       "Paphos"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇾",
+      "unicode": "U+1F1E8 U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg"
+    }
   },
   {
     "country": "Czech Republic",
     "alpha2Code": "CZ",
     "alpha3Code": "CZE",
-    "numberCode": "203",
+    "numberCode": 203,
     "states": [
       "Jihocesky Kraj",
       "Jihomoravsky Kraj",
@@ -1178,13 +1434,18 @@
       "Ustecky Kraj",
       "Vysocina",
       "Zlinsky Kraj"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇿",
+      "unicode": "U+1F1E8 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg"
+    }
   },
   {
     "country": "Denmark",
     "alpha2Code": "DK",
     "alpha3Code": "DNK",
-    "numberCode": "208",
+    "numberCode": 208,
     "states": [
       "Arhus",
       "Bornholm",
@@ -1202,20 +1463,36 @@
       "Vejle",
       "Vestsjalland",
       "Viborg"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇩🇰",
+      "unicode": "U+1F1E9 U+1F1F0",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg"
+    }
   },
   {
     "country": "Djibouti",
     "alpha2Code": "DJ",
     "alpha3Code": "DJI",
-    "numberCode": "262",
-    "states": ["Ali Sabih", "Dikhil", "Djibouti", "Obock", "Tadjoura"]
+    "numberCode": 262,
+    "states": [
+      "Ali Sabih",
+      "Dikhil",
+      "Djibouti",
+      "Obock",
+      "Tadjoura"
+    ],
+    "flag": {
+      "emoji": "🇩🇯",
+      "unicode": "U+1F1E9 U+1F1EF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg"
+    }
   },
   {
     "country": "Dominica",
     "alpha2Code": "DM",
     "alpha3Code": "DMA",
-    "numberCode": "212",
+    "numberCode": 212,
     "states": [
       "Saint Andrew",
       "Saint David",
@@ -1227,13 +1504,18 @@
       "Saint Patrick",
       "Saint Paul",
       "Saint Peter"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇩🇲",
+      "unicode": "U+1F1E9 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg"
+    }
   },
   {
     "country": "Dominican Republic",
     "alpha2Code": "DO",
     "alpha3Code": "DOM",
-    "numberCode": "214",
+    "numberCode": 214,
     "states": [
       "Azua",
       "Baoruco",
@@ -1267,13 +1549,18 @@
       "Santiago Rodriguez",
       "Santo Domingo",
       "Valverde"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇩🇴",
+      "unicode": "U+1F1E9 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg"
+    }
   },
   {
     "country": "East Timor",
     "alpha2Code": "TL",
     "alpha3Code": "TLS",
-    "numberCode": "626",
+    "numberCode": 626,
     "states": [
       "Aileu",
       "Ainaro",
@@ -1288,13 +1575,18 @@
       "Manufahi",
       "Oecussi",
       "Viqueque"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇱",
+      "unicode": "U+1F1F9 U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg"
+    }
   },
   {
     "country": "Ecuador",
     "alpha2Code": "EC",
     "alpha3Code": "ECU",
-    "numberCode": "218",
+    "numberCode": 218,
     "states": [
       "Azuay",
       "Bolivar",
@@ -1318,13 +1610,18 @@
       "Sucumbios",
       "Tungurahua",
       "Zamora-Chinchipe"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇪🇨",
+      "unicode": "U+1F1EA U+1F1E8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg"
+    }
   },
   {
     "country": "Egypt",
     "alpha2Code": "EG",
     "alpha3Code": "EGY",
-    "numberCode": "818",
+    "numberCode": 818,
     "states": [
       "Ad Daqahliyah",
       "Al Bahr al Ahmar",
@@ -1352,13 +1649,18 @@
       "Qina",
       "Shamal Sina'",
       "Suhaj"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇪🇬",
+      "unicode": "U+1F1EA U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg"
+    }
   },
   {
     "country": "El Salvador",
     "alpha2Code": "SV",
     "alpha3Code": "SLV",
-    "numberCode": "222",
+    "numberCode": 222,
     "states": [
       "Ahuachapan",
       "Cabanas",
@@ -1374,13 +1676,18 @@
       "San Vicente",
       "Sonsonate",
       "Usulutan"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇻",
+      "unicode": "U+1F1F8 U+1F1FB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg"
+    }
   },
   {
     "country": "Equatorial Guinea",
     "alpha2Code": "GQ",
     "alpha3Code": "GNQ",
-    "numberCode": "226",
+    "numberCode": 226,
     "states": [
       "Annobon",
       "Bioko Norte",
@@ -1389,13 +1696,18 @@
       "Kie-Ntem",
       "Litoral",
       "Wele-Nzas"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇶",
+      "unicode": "U+1F1EC U+1F1F6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg"
+    }
   },
   {
     "country": "Eritrea",
     "alpha2Code": "ER",
     "alpha3Code": "ERI",
-    "numberCode": "232",
+    "numberCode": 232,
     "states": [
       "Anseba",
       "Debub",
@@ -1403,13 +1715,18 @@
       "Gash Barka",
       "Ma'akel",
       "Semenawi Keyih Bahri"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇪🇷",
+      "unicode": "U+1F1EA U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg"
+    }
   },
   {
     "country": "Estonia",
     "alpha2Code": "EE",
     "alpha3Code": "EST",
-    "numberCode": "233",
+    "numberCode": 233,
     "states": [
       "Harjumaa (Tallinn)",
       "Hiiumaa (Kardla)",
@@ -1426,13 +1743,18 @@
       "Valgamaa (Valga)",
       "Viljandimaa (Viljandi)",
       "Vorumaa (Voru)"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇪🇪",
+      "unicode": "U+1F1EA U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg"
+    }
   },
   {
     "country": "Ethiopia",
     "alpha2Code": "ET",
     "alpha3Code": "ETH",
-    "numberCode": "231",
+    "numberCode": 231,
     "states": [
       "Addis Ababa",
       "Afar",
@@ -1445,26 +1767,36 @@
       "Somali",
       "Tigray",
       "Southern Nations, Nationalities, and Peoples Region"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇪🇹",
+      "unicode": "U+1F1EA U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg"
+    }
   },
   {
     "country": "Fiji",
     "alpha2Code": "FJ",
     "alpha3Code": "FJI",
-    "numberCode": "242",
+    "numberCode": 242,
     "states": [
       "Central (Suva)",
       "Eastern (Levuka)",
       "Northern (Labasa)",
       "Rotuma",
       "Western (Lautoka)"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇫🇯",
+      "unicode": "U+1F1EB U+1F1EF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg"
+    }
   },
   {
     "country": "Finland",
     "alpha2Code": "FI",
     "alpha3Code": "FIN",
-    "numberCode": "246",
+    "numberCode": 246,
     "states": [
       "Aland",
       "Etela-Suomen Laani",
@@ -1472,13 +1804,18 @@
       "Lansi-Suomen Laani",
       "Lappi",
       "Oulun Laani"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇫🇮",
+      "unicode": "U+1F1EB U+1F1EE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg"
+    }
   },
   {
     "country": "France",
     "alpha2Code": "FR",
     "alpha3Code": "FRA",
-    "numberCode": "250",
+    "numberCode": 250,
     "states": [
       "Alsace",
       "Aquitaine",
@@ -1502,13 +1839,18 @@
       "Poitou-Charentes",
       "Provence-Alpes-Cote d'Azur",
       "Rhone-Alpes"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇫🇷",
+      "unicode": "U+1F1EB U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg"
+    }
   },
   {
     "country": "French Guiana",
     "alpha2Code": "GF",
     "alpha3Code": "GUF",
-    "numberCode": "254",
+    "numberCode": 254,
     "states": [
       "Awala-Yalimapo",
       "Mana",
@@ -1532,26 +1874,36 @@
       "Matoury",
       "Cayenne",
       "Remire-Montjoly"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇫",
+      "unicode": "U+1F1EC U+1F1EB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg"
+    }
   },
   {
     "country": "French Polynesia",
     "alpha2Code": "PF",
     "alpha3Code": "PYF",
-    "numberCode": "258",
+    "numberCode": 258,
     "states": [
       "Marquesas Islands",
       "Leeward Islands",
       "Windward Islands",
       "Tuāmotu-Gambier ",
       "Austral Islands"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇫",
+      "unicode": "U+1F1F5 U+1F1EB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg"
+    }
   },
   {
     "country": "Gabon",
     "alpha2Code": "GA",
     "alpha3Code": "GAB",
-    "numberCode": "266",
+    "numberCode": 266,
     "states": [
       "Estuaire",
       "Haut-Ogooue",
@@ -1562,13 +1914,18 @@
       "Ogooue-Lolo",
       "Ogooue-Maritime",
       "Woleu-Ntem"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇦",
+      "unicode": "U+1F1EC U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg"
+    }
   },
   {
     "country": "Gambia",
     "alpha2Code": "GM",
     "alpha3Code": "GMB",
-    "numberCode": "270",
+    "numberCode": 270,
     "states": [
       "Banjul",
       "Central River",
@@ -1576,13 +1933,18 @@
       "North Bank",
       "Upper River",
       "Western"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇲",
+      "unicode": "U+1F1EC U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg"
+    }
   },
   {
     "country": "Georgia",
     "alpha2Code": "GM",
     "alpha3Code": "GMB",
-    "numberCode": "270",
+    "numberCode": 270,
     "states": [
       "Abkhazia",
       "Adjara",
@@ -1596,13 +1958,18 @@
       "Samtskhe-Javakheti",
       "Shida Kartli",
       "Tbilisi"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇲",
+      "unicode": "U+1F1EC U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg"
+    }
   },
   {
     "country": "Germany",
     "alpha2Code": "DE",
     "alpha3Code": "DEU",
-    "numberCode": "276",
+    "numberCode": 276,
     "states": [
       "Baden-Wuerttemberg",
       "Bayern",
@@ -1620,13 +1987,18 @@
       "Sachsen-Anhalt",
       "Schleswig-Holstein",
       "Thueringen"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇩🇪",
+      "unicode": "U+1F1E9 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg"
+    }
   },
   {
     "country": "Ghana",
     "alpha2Code": "GH",
     "alpha3Code": "GHA",
-    "numberCode": "288",
+    "numberCode": 288,
     "states": [
       "Ashanti",
       "Brong-Ahafo",
@@ -1638,13 +2010,18 @@
       "Upper West",
       "Volta",
       "Western"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇭",
+      "unicode": "U+1F1EC U+1F1ED",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg"
+    }
   },
   {
     "country": "Greece",
     "alpha2Code": "GR",
     "alpha3Code": "GRC",
-    "numberCode": "300",
+    "numberCode": 300,
     "states": [
       "Agion Oros",
       "Achaia",
@@ -1698,24 +2075,34 @@
       "Voiotia",
       "Xanthi",
       "Zakynthos"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇷",
+      "unicode": "U+1F1EC U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg"
+    }
   },
   {
     "country": "Greenland",
     "alpha2Code": "GL",
     "alpha3Code": "GRL",
-    "numberCode": "304",
+    "numberCode": 304,
     "states": [
       "Avannaa (Nordgronland)",
       "Tunu (Ostgronland)",
       "Kitaa (Vestgronland)"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇱",
+      "unicode": "U+1F1EC U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg"
+    }
   },
   {
     "country": "Grenada",
     "alpha2Code": "GD",
     "alpha3Code": "GRD",
-    "numberCode": "308",
+    "numberCode": 308,
     "states": [
       "Carriacou and Petit Martinique",
       "Saint Andrew",
@@ -1724,13 +2111,18 @@
       "Saint John",
       "Saint Mark",
       "Saint Patrick"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇩",
+      "unicode": "U+1F1EC U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg"
+    }
   },
   {
     "country": "Guatemala",
     "alpha2Code": "GT",
     "alpha3Code": "GTM",
-    "numberCode": "320",
+    "numberCode": 320,
     "states": [
       "Alta Verapaz",
       "Baja Verapaz",
@@ -1754,13 +2146,18 @@
       "Suchitepequez",
       "Totonicapan",
       "Zacapa"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇹",
+      "unicode": "U+1F1EC U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg"
+    }
   },
   {
     "country": "Guinea",
     "alpha2Code": "GN",
     "alpha3Code": "GIN",
-    "numberCode": "324",
+    "numberCode": 324,
     "states": [
       "Beyla",
       "Boffa",
@@ -1796,13 +2193,18 @@
       "Telimele",
       "Tougue",
       "Yomou"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇳",
+      "unicode": "U+1F1EC U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg"
+    }
   },
   {
     "country": "Guinea-Bissau",
     "alpha2Code": "GW",
     "alpha3Code": "GNB",
-    "numberCode": "624",
+    "numberCode": 624,
     "states": [
       "Bafata",
       "Biombo",
@@ -1813,13 +2215,18 @@
       "Oio",
       "Quinara",
       "Tombali"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇼",
+      "unicode": "U+1F1EC U+1F1FC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg"
+    }
   },
   {
     "country": "Guyana",
     "alpha2Code": "GY",
     "alpha3Code": "GUY",
-    "numberCode": "328",
+    "numberCode": 328,
     "states": [
       "Barima-Waini",
       "Cuyuni-Mazaruni",
@@ -1831,13 +2238,18 @@
       "Potaro-Siparuni",
       "Upper Demerara-Berbice",
       "Upper Takutu-Upper Essequibo"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇾",
+      "unicode": "U+1F1EC U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg"
+    }
   },
   {
     "country": "Haiti",
     "alpha2Code": "HT",
     "alpha3Code": "HTI",
-    "numberCode": "332",
+    "numberCode": 332,
     "states": [
       "Artibonite",
       "Centre",
@@ -1848,13 +2260,18 @@
       "Ouest",
       "Sud",
       "Sud-Est"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇭🇹",
+      "unicode": "U+1F1ED U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg"
+    }
   },
   {
     "country": "Honduras",
     "alpha2Code": "HN",
     "alpha3Code": "HND",
-    "numberCode": "340",
+    "numberCode": 340,
     "states": [
       "Atlantida",
       "Choluteca",
@@ -1874,13 +2291,18 @@
       "Santa Barbara",
       "Valle",
       "Yoro"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇭🇳",
+      "unicode": "U+1F1ED U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg"
+    }
   },
   {
     "country": "Hong Kong",
     "alpha2Code": "HK",
     "alpha3Code": "HKG",
-    "numberCode": "344",
+    "numberCode": 344,
     "states": [
       "Islands",
       "Kwai Tsing",
@@ -1900,13 +2322,18 @@
       "Eastern",
       "Southern",
       "Wan Chai"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇭🇰",
+      "unicode": "U+1F1ED U+1F1F0",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg"
+    }
   },
   {
     "country": "Hungary",
     "alpha2Code": "HU",
     "alpha3Code": "HUN",
-    "numberCode": "348",
+    "numberCode": 348,
     "states": [
       "Bacs-Kiskun",
       "Baranya",
@@ -1927,13 +2354,18 @@
       "Vas",
       "Veszprem",
       "Zala"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇭🇺",
+      "unicode": "U+1F1ED U+1F1FA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg"
+    }
   },
   {
     "country": "Iceland",
     "alpha2Code": "IS",
     "alpha3Code": "ISL",
-    "numberCode": "352",
+    "numberCode": 352,
     "states": [
       "Austurland",
       "Hofudhborgarsvaedhi",
@@ -1943,13 +2375,18 @@
       "Sudhurnes",
       "Vestfirdhir",
       "Vesturland"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇸",
+      "unicode": "U+1F1EE U+1F1F8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg"
+    }
   },
   {
     "country": "India",
     "alpha2Code": "IN",
     "alpha3Code": "IND",
-    "numberCode": "356",
+    "numberCode": 356,
     "states": [
       "Andaman and Nicobar Islands",
       "Andhra Pradesh",
@@ -1988,13 +2425,18 @@
       "Uttaranchal",
       "Uttar Pradesh",
       "West Bengal"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇳",
+      "unicode": "U+1F1EE U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+    }
   },
   {
     "country": "Indonesia",
     "alpha2Code": "ID",
     "alpha3Code": "IDN",
-    "numberCode": "360",
+    "numberCode": 360,
     "states": [
       "Aceh",
       "Bali",
@@ -2029,13 +2471,18 @@
       "Sumatera Selatan",
       "Sumatera Utara",
       "Yogyakarta"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇩",
+      "unicode": "U+1F1EE U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg"
+    }
   },
   {
     "country": "Iran",
     "alpha2Code": "IR",
     "alpha3Code": "IRN",
-    "numberCode": "364",
+    "numberCode": 364,
     "states": [
       "Ardabil",
       "Azarbayjan-e Gharbi",
@@ -2067,13 +2514,18 @@
       "Tehran",
       "Yazd",
       "Zanjan"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇷",
+      "unicode": "U+1F1EE U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg"
+    }
   },
   {
     "country": "Iraq",
     "alpha2Code": "IQ",
     "alpha3Code": "IRQ",
-    "numberCode": "368",
+    "numberCode": 368,
     "states": [
       "Al Anbar",
       "Al Basrah",
@@ -2093,13 +2545,18 @@
       "Ninawa",
       "Salah ad Din",
       "Wasit"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇶",
+      "unicode": "U+1F1EE U+1F1F6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg"
+    }
   },
   {
     "country": "Ireland",
     "alpha2Code": "IE",
     "alpha3Code": "IRL",
-    "numberCode": "372",
+    "numberCode": 372,
     "states": [
       "Carlow",
       "Cavan",
@@ -2127,13 +2584,18 @@
       "Westmeath",
       "Wexford",
       "Wicklow"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇪",
+      "unicode": "U+1F1EE U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg"
+    }
   },
   {
     "country": "Israel",
     "alpha2Code": "IL",
     "alpha3Code": "ISR",
-    "numberCode": "376",
+    "numberCode": 376,
     "states": [
       "Central",
       "Haifa",
@@ -2141,13 +2603,18 @@
       "Northern",
       "Southern",
       "Tel Aviv"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇱",
+      "unicode": "U+1F1EE U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg"
+    }
   },
   {
     "country": "Italy",
     "alpha2Code": "IT",
     "alpha3Code": "ITA",
-    "numberCode": "380",
+    "numberCode": 380,
     "states": [
       "Abruzzo",
       "Basilicata",
@@ -2169,13 +2636,18 @@
       "Umbria",
       "Valle d'Aosta",
       "Veneto"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇮🇹",
+      "unicode": "U+1F1EE U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg"
+    }
   },
   {
     "country": "Jamaica",
     "alpha2Code": "JM",
     "alpha3Code": "JAM",
-    "numberCode": "388",
+    "numberCode": 388,
     "states": [
       "Clarendon",
       "Hanover",
@@ -2191,13 +2663,18 @@
       "Saint Thomas",
       "Trelawny",
       "Westmoreland"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇯🇲",
+      "unicode": "U+1F1EF U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg"
+    }
   },
   {
     "country": "Japan",
     "alpha2Code": "JP",
     "alpha3Code": "JPN",
-    "numberCode": "392",
+    "numberCode": 392,
     "states": [
       "Aichi",
       "Akita",
@@ -2246,13 +2723,18 @@
       "Yamagata",
       "Yamaguchi",
       "Yamanashi"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇯🇵",
+      "unicode": "U+1F1EF U+1F1F5",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg"
+    }
   },
   {
     "country": "Jordan",
     "alpha2Code": "JO",
     "alpha3Code": "JOR",
-    "numberCode": "400",
+    "numberCode": 400,
     "states": [
       "Ajlun",
       "Al 'Aqabah",
@@ -2266,13 +2748,18 @@
       "Jarash",
       "Ma'an",
       "Madaba"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇯🇴",
+      "unicode": "U+1F1EF U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg"
+    }
   },
   {
     "country": "Kazakhstan",
     "alpha2Code": "KZ",
     "alpha3Code": "KAZ",
-    "numberCode": "398",
+    "numberCode": 398,
     "states": [
       "Almaty Oblysy",
       "Almaty Qalasy",
@@ -2291,13 +2778,18 @@
       "Shyghys Qazaqstan Oblysy",
       "Soltustik Qazaqstan Oblysy",
       "Zhambyl Oblysy"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇿",
+      "unicode": "U+1F1F0 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg"
+    }
   },
   {
     "country": "Kenya",
     "alpha2Code": "KE",
     "alpha3Code": "KEN",
-    "numberCode": "404",
+    "numberCode": 404,
     "states": [
       "Central",
       "Coast",
@@ -2307,13 +2799,18 @@
       "Nyanza",
       "Rift Valley",
       "Western"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇪",
+      "unicode": "U+1F1F0 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg"
+    }
   },
   {
     "country": "Kiribati",
     "alpha2Code": "KI",
     "alpha3Code": "KIR",
-    "numberCode": "296",
+    "numberCode": 296,
     "states": [
       "Banaba",
       "Tarawa",
@@ -2321,13 +2818,18 @@
       "Central Gilbert Island",
       "Southern Gilbert Islands",
       "Line Islands"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇮",
+      "unicode": "U+1F1F0 U+1F1EE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg"
+    }
   },
   {
     "country": "Korea North",
     "alpha2Code": "KP",
     "alpha3Code": "PRK",
-    "numberCode": "408",
+    "numberCode": 408,
     "states": [
       "Chagang",
       "North Hamgyong",
@@ -2342,13 +2844,18 @@
       "Najin",
       "Namp'o",
       "Pyongyang"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇵",
+      "unicode": "U+1F1F0 U+1F1F5",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg"
+    }
   },
   {
     "country": "Korea South",
     "alpha2Code": "KR",
     "alpha3Code": "KOR",
-    "numberCode": "410",
+    "numberCode": 410,
     "states": [
       "Seoul",
       "Busan City",
@@ -2366,13 +2873,18 @@
       "North Gyeongsang Province",
       "South Gyeongsang Province",
       "Jeju"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇷",
+      "unicode": "U+1F1F0 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg"
+    }
   },
   {
     "country": "Kuwait",
     "alpha2Code": "KW",
     "alpha3Code": "KWT",
-    "numberCode": "414",
+    "numberCode": 414,
     "states": [
       "Al Ahmadi",
       "Al Farwaniyah",
@@ -2380,13 +2892,18 @@
       "Al Jahra",
       "Hawalli",
       "Mubarak Al-Kabeer"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇼",
+      "unicode": "U+1F1F0 U+1F1FC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg"
+    }
   },
   {
     "country": "Kyrgyzstan",
     "alpha2Code": "KG",
     "alpha3Code": "KGZ",
-    "numberCode": "417",
+    "numberCode": 417,
     "states": [
       "Batken Oblasty",
       "Bishkek Shaary",
@@ -2396,13 +2913,18 @@
       "Osh Oblasty",
       "Talas Oblasty",
       "Ysyk-Kol Oblasty"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇰🇬",
+      "unicode": "U+1F1F0 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg"
+    }
   },
   {
     "country": "Laos",
     "alpha2Code": "LA",
     "alpha3Code": "LAO",
-    "numberCode": "418",
+    "numberCode": 418,
     "states": [
       "Attapu",
       "Bokeo",
@@ -2422,13 +2944,18 @@
       "Xaisomboun",
       "Xekong",
       "Xiangkhoang"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇦",
+      "unicode": "U+1F1F1 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg"
+    }
   },
   {
     "country": "Latvia",
     "alpha2Code": "LV",
     "alpha3Code": "LVA",
-    "numberCode": "428",
+    "numberCode": 428,
     "states": [
       "Aizkraukles Rajons",
       "Aluksnes Rajons",
@@ -2463,13 +2990,18 @@
       "Valmieras Rajons",
       "Ventspils",
       "Ventspils Rajons"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇻",
+      "unicode": "U+1F1F1 U+1F1FB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg"
+    }
   },
   {
     "country": "Lebanon",
     "alpha2Code": "LB",
     "alpha3Code": "LBN",
-    "numberCode": "422",
+    "numberCode": 422,
     "states": [
       "Beyrouth",
       "Beqaa",
@@ -2477,13 +3009,18 @@
       "Liban-Sud",
       "Mont-Liban",
       "Nabatiye"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇧",
+      "unicode": "U+1F1F1 U+1F1E7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg"
+    }
   },
   {
     "country": "Lesotho",
     "alpha2Code": "LS",
     "alpha3Code": "LSO",
-    "numberCode": "426",
+    "numberCode": 426,
     "states": [
       "Berea",
       "Butha-Buthe",
@@ -2495,13 +3032,18 @@
       "Qacha's Nek",
       "Quthing",
       "Thaba-Tseka"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇸",
+      "unicode": "U+1F1F1 U+1F1F8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg"
+    }
   },
   {
     "country": "Liberia",
     "alpha2Code": "LR",
     "alpha3Code": "LBR",
-    "numberCode": "430",
+    "numberCode": 430,
     "states": [
       "Bomi",
       "Bong",
@@ -2518,13 +3060,18 @@
       "River Cess",
       "River Gee",
       "Sinoe"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇷",
+      "unicode": "U+1F1F1 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg"
+    }
   },
   {
     "country": "Libya",
     "alpha2Code": "LY",
     "alpha3Code": "LBY",
-    "numberCode": "434",
+    "numberCode": 434,
     "states": [
       "Ajdabiya",
       "Al 'Aziziyah",
@@ -2551,13 +3098,18 @@
       "Tubruq",
       "Yafran",
       "Zlitan"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇾",
+      "unicode": "U+1F1F1 U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg"
+    }
   },
   {
     "country": "Liechtenstein",
     "alpha2Code": "LI",
     "alpha3Code": "LIE",
-    "numberCode": "438",
+    "numberCode": 438,
     "states": [
       "Balzers",
       "Eschen",
@@ -2570,13 +3122,18 @@
       "Triesen",
       "Triesenberg",
       "Vaduz"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇮",
+      "unicode": "U+1F1F1 U+1F1EE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg"
+    }
   },
   {
     "country": "Lithuania",
     "alpha2Code": "LT",
     "alpha3Code": "LTU",
-    "numberCode": "440",
+    "numberCode": 440,
     "states": [
       "Alytaus",
       "Kauno",
@@ -2588,20 +3145,34 @@
       "Telsiu",
       "Utenos",
       "Vilniaus"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇹",
+      "unicode": "U+1F1F1 U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg"
+    }
   },
   {
     "country": "Luxembourg",
     "alpha2Code": "LU",
     "alpha3Code": "LUX",
-    "numberCode": "442",
-    "states": ["Diekirch", "Grevenmacher", "Luxembourg"]
+    "numberCode": 442,
+    "states": [
+      "Diekirch",
+      "Grevenmacher",
+      "Luxembourg"
+    ],
+    "flag": {
+      "emoji": "🇱🇺",
+      "unicode": "U+1F1F1 U+1F1FA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg"
+    }
   },
   {
     "country": "Macedonia",
     "alpha2Code": "MK",
     "alpha3Code": "MKD",
-    "numberCode": "807",
+    "numberCode": 807,
     "states": [
       "Aerodrom",
       "Aracinovo",
@@ -2688,13 +3259,18 @@
       "Zelenikovo",
       "Zelino",
       "Zrnovci"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇰",
+      "unicode": "U+1F1F2 U+1F1F0",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg"
+    }
   },
   {
     "country": "Madagascar",
     "alpha2Code": "MG",
     "alpha3Code": "MDG",
-    "numberCode": "450",
+    "numberCode": 450,
     "states": [
       "Antananarivo",
       "Antsiranana",
@@ -2702,13 +3278,18 @@
       "Mahajanga",
       "Toamasina",
       "Toliara"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇬",
+      "unicode": "U+1F1F2 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg"
+    }
   },
   {
     "country": "Malawi",
     "alpha2Code": "MW",
     "alpha3Code": "MWI",
-    "numberCode": "454",
+    "numberCode": 454,
     "states": [
       "Balaka",
       "Blantyre",
@@ -2737,13 +3318,18 @@
       "Salima",
       "Thyolo",
       "Zomba"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇼",
+      "unicode": "U+1F1F2 U+1F1FC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg"
+    }
   },
   {
     "country": "Malaysia",
     "alpha2Code": "MY",
     "alpha3Code": "MYS",
-    "numberCode": "458",
+    "numberCode": 458,
     "states": [
       "Johor",
       "Kedah",
@@ -2760,13 +3346,18 @@
       "Sarawak",
       "Selangor",
       "Terengganu"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇾",
+      "unicode": "U+1F1F2 U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg"
+    }
   },
   {
     "country": "Maldives",
     "alpha2Code": "MV",
     "alpha3Code": "MDV",
-    "numberCode": "462",
+    "numberCode": 462,
     "states": [
       "Alifu",
       "Baa",
@@ -2788,13 +3379,18 @@
       "Shaviyani",
       "Thaa",
       "Vaavu"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇻",
+      "unicode": "U+1F1F2 U+1F1FB",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg"
+    }
   },
   {
     "country": "Mali",
     "alpha2Code": "ML",
     "alpha3Code": "MLI",
-    "numberCode": "466",
+    "numberCode": 466,
     "states": [
       "Bamako (Capital)",
       "Gao",
@@ -2805,26 +3401,36 @@
       "Segou",
       "Sikasso",
       "Tombouctou"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇱",
+      "unicode": "U+1F1F2 U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg"
+    }
   },
   {
     "country": "Malta",
     "alpha2Code": "MT",
     "alpha3Code": "MLT",
-    "numberCode": "470",
+    "numberCode": 470,
     "states": [
       "Southern Harbour",
       "Northern Harbour",
       "Western District",
       "Northern District",
       "Gozo and Comino"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇹",
+      "unicode": "U+1F1F2 U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg"
+    }
   },
   {
     "country": "Marshall Islands",
     "alpha2Code": "MH",
     "alpha3Code": "MHL",
-    "numberCode": "584",
+    "numberCode": 584,
     "states": [
       "Ailuk",
       "Ailinglaplap",
@@ -2859,13 +3465,18 @@
       "Rongrik",
       "Toke",
       "Ujelang"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇭",
+      "unicode": "U+1F1F2 U+1F1ED",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg"
+    }
   },
   {
     "country": "Mauritania",
     "alpha2Code": "MR",
     "alpha3Code": "MRT",
-    "numberCode": "478",
+    "numberCode": 478,
     "states": [
       "Adrar",
       "Assaba",
@@ -2880,13 +3491,18 @@
       "Tagant",
       "Tiris Zemmour",
       "Trarza"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇷",
+      "unicode": "U+1F1F2 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg"
+    }
   },
   {
     "country": "Mauritius",
     "alpha2Code": "MU",
     "alpha3Code": "MUS",
-    "numberCode": "480",
+    "numberCode": 480,
     "states": [
       "Agalega Islands",
       "Black River",
@@ -2900,13 +3516,18 @@
       "Riviere du Rempart",
       "Rodrigues",
       "Savanne"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇺",
+      "unicode": "U+1F1F2 U+1F1FA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg"
+    }
   },
   {
     "country": "Mexico",
     "alpha2Code": "MX",
     "alpha3Code": "MEX",
-    "numberCode": "484",
+    "numberCode": 484,
     "states": [
       "Aguascalientes",
       "Baja California",
@@ -2940,20 +3561,35 @@
       "Veracruz-Llave",
       "Yucatan",
       "Zacatecas"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇽",
+      "unicode": "U+1F1F2 U+1F1FD",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg"
+    }
   },
   {
     "country": "Micronesia",
     "alpha2Code": "FM",
     "alpha3Code": "FSM",
-    "numberCode": "583",
-    "states": ["Chuuk", "Kosrae", "Pohnpei", "Yap"]
+    "numberCode": 583,
+    "states": [
+      "Chuuk",
+      "Kosrae",
+      "Pohnpei",
+      "Yap"
+    ],
+    "flag": {
+      "emoji": "🇫🇲",
+      "unicode": "U+1F1EB U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg"
+    }
   },
   {
     "country": "Moldova",
     "alpha2Code": "MD",
     "alpha3Code": "MDA",
-    "numberCode": "498",
+    "numberCode": 498,
     "states": [
       "Anenii Noi",
       "Basarabeasca",
@@ -2992,20 +3628,35 @@
       "Chisinau",
       "Gagauzia",
       "Stinga Nistrului"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇩",
+      "unicode": "U+1F1F2 U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg"
+    }
   },
   {
     "country": "Monaco",
     "alpha2Code": "MC",
     "alpha3Code": "MCO",
-    "numberCode": "492",
-    "states": ["Monaco-Ville", "La Condamine", "Monte Carlo", "Fontvieille"]
+    "numberCode": 492,
+    "states": [
+      "Monaco-Ville",
+      "La Condamine",
+      "Monte Carlo",
+      "Fontvieille"
+    ],
+    "flag": {
+      "emoji": "🇲🇨",
+      "unicode": "U+1F1F2 U+1F1E8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg"
+    }
   },
   {
     "country": "Mongolia",
     "alpha2Code": "MN",
     "alpha3Code": "MNG",
-    "numberCode": "496",
+    "numberCode": 496,
     "states": [
       "Arhangay",
       "Bayanhongor",
@@ -3029,13 +3680,18 @@
       "Tov",
       "Ulaanbaatar",
       "Uvs"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇳",
+      "unicode": "U+1F1F2 U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg"
+    }
   },
   {
     "country": "Morocco",
     "alpha2Code": "MA",
     "alpha3Code": "MAR",
-    "numberCode": "504",
+    "numberCode": 504,
     "states": [
       "Agadir",
       "Al Hoceima",
@@ -3076,13 +3732,18 @@
       "Taza",
       "Tetouan",
       "Tiznit"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇦",
+      "unicode": "U+1F1F2 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg"
+    }
   },
   {
     "country": "Mozambique",
     "alpha2Code": "MZ",
     "alpha3Code": "MZ",
-    "numberCode": "508",
+    "numberCode": 508,
     "states": [
       "Cabo Delgado",
       "Gaza",
@@ -3095,13 +3756,18 @@
       "Sofala",
       "Tete",
       "Zambezia"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇿",
+      "unicode": "U+1F1F2 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg"
+    }
   },
   {
     "country": "Namibia",
     "alpha2Code": "NA",
     "alpha3Code": "NAM",
-    "numberCode": "516",
+    "numberCode": 516,
     "states": [
       "Caprivi",
       "Erongo",
@@ -3116,20 +3782,35 @@
       "Oshana",
       "Oshikoto",
       "Otjozondjupa"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇦",
+      "unicode": "U+1F1F3 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg"
+    }
   },
   {
     "country": "Nauru",
     "alpha2Code": "NR",
     "alpha3Code": "NRU",
-    "numberCode": "520",
-    "states": ["Aiwo", "Anabar", "Anetan", "Anibare"]
+    "numberCode": 520,
+    "states": [
+      "Aiwo",
+      "Anabar",
+      "Anetan",
+      "Anibare"
+    ],
+    "flag": {
+      "emoji": "🇳🇷",
+      "unicode": "U+1F1F3 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg"
+    }
   },
   {
     "country": "Nepal",
     "alpha2Code": "NP",
     "alpha3Code": "NPL",
-    "numberCode": "524",
+    "numberCode": 524,
     "states": [
       "Bagmati",
       "Bheri",
@@ -3145,13 +3826,18 @@
       "Rapti",
       "Sagarmatha",
       "Seti"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇵",
+      "unicode": "U+1F1F3 U+1F1F5",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg"
+    }
   },
   {
     "country": "Netherlands",
     "alpha2Code": "NL",
     "alpha3Code": "NLD",
-    "numberCode": "528",
+    "numberCode": 528,
     "states": [
       "Drenthe",
       "Flevoland",
@@ -3165,13 +3851,18 @@
       "Utrecht",
       "Zeeland",
       "Zuid-Holland"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇱",
+      "unicode": "U+1F1F3 U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg"
+    }
   },
   {
     "country": "New Zealand",
     "alpha2Code": "NZ",
     "alpha3Code": "NZL",
-    "numberCode": "554",
+    "numberCode": 554,
     "states": [
       "Auckland",
       "Bay of Plenty",
@@ -3190,13 +3881,18 @@
       "Waikato",
       "Wellington",
       "West Coast"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇿",
+      "unicode": "U+1F1F3 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg"
+    }
   },
   {
     "country": "Nicaragua",
     "alpha2Code": "NI",
     "alpha3Code": "NIC",
-    "numberCode": "558",
+    "numberCode": 558,
     "states": [
       "Atlantico Norte",
       "Atlantico Sur",
@@ -3215,13 +3911,18 @@
       "Nueva Segovia",
       "Rio San Juan",
       "Rivas"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇮",
+      "unicode": "U+1F1F3 U+1F1EE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg"
+    }
   },
   {
     "country": "Niger",
     "alpha2Code": "NE",
     "alpha3Code": "NER",
-    "numberCode": "562",
+    "numberCode": 562,
     "states": [
       "Agadez",
       "Diffa",
@@ -3231,13 +3932,18 @@
       "Tahoua",
       "Tillaberi",
       "Zinder"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇪",
+      "unicode": "U+1F1F3 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg"
+    }
   },
   {
     "country": "Nigeria",
     "alpha2Code": "NG",
     "alpha3Code": "NGA",
-    "numberCode": "566",
+    "numberCode": 566,
     "states": [
       "Abia",
       "Abuja Federal Capital",
@@ -3276,13 +3982,18 @@
       "Taraba",
       "Yobe",
       "Zamfara"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇬",
+      "unicode": "U+1F1F3 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg"
+    }
   },
   {
     "country": "Norway",
     "alpha2Code": "NO",
     "alpha3Code": "NOR",
-    "numberCode": "578",
+    "numberCode": 578,
     "states": [
       "Akershus",
       "Aust-Agder",
@@ -3303,13 +4014,18 @@
       "Troms",
       "Vest-Agder",
       "Vestfold"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇳🇴",
+      "unicode": "U+1F1F3 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg"
+    }
   },
   {
     "country": "Oman",
     "alpha2Code": "OM",
     "alpha3Code": "OMN",
-    "numberCode": "512",
+    "numberCode": 512,
     "states": [
       "Ad Dakhiliyah",
       "Al Batinah",
@@ -3319,13 +4035,18 @@
       "Masqat",
       "Musandam",
       "Dhofar"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇴🇲",
+      "unicode": "U+1F1F4 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg"
+    }
   },
   {
     "country": "Pakistan",
     "alpha2Code": "PK",
     "alpha3Code": "PAK",
-    "numberCode": "586",
+    "numberCode": 586,
     "states": [
       "Balochistan",
       "North-West Frontier Province",
@@ -3333,13 +4054,18 @@
       "Sindh",
       "Islamabad Capital Territory",
       "Federally Administered Tribal Areas"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇰",
+      "unicode": "U+1F1F5 U+1F1F0",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg"
+    }
   },
   {
     "country": "Panama",
     "alpha2Code": "PA",
     "alpha3Code": "PAN",
-    "numberCode": "591",
+    "numberCode": 591,
     "states": [
       "Bocas del Toro",
       "Chiriqui",
@@ -3351,13 +4077,18 @@
       "Panama",
       "San Blas",
       "Veraguas"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇦",
+      "unicode": "U+1F1F5 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg"
+    }
   },
   {
     "country": "Papua New Guinea",
     "alpha2Code": "PG",
     "alpha3Code": "PNG",
-    "numberCode": "598",
+    "numberCode": 598,
     "states": [
       "Bougainville",
       "Central",
@@ -3379,13 +4110,18 @@
       "Western",
       "Western Highlands",
       "West New Britain"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇬",
+      "unicode": "U+1F1F5 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg"
+    }
   },
   {
     "country": "Paraguay",
     "alpha2Code": "PY",
     "alpha3Code": "PRY",
-    "numberCode": "600",
+    "numberCode": 600,
     "states": [
       "Alto Paraguay",
       "Alto Parana",
@@ -3405,13 +4141,18 @@
       "Paraguari",
       "Presidente Hayes",
       "San Pedro"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇾",
+      "unicode": "U+1F1F5 U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg"
+    }
   },
   {
     "country": "Peru",
     "alpha2Code": "PE",
     "alpha3Code": "PER",
-    "numberCode": "604",
+    "numberCode": 604,
     "states": [
       "Amazonas",
       "Ancash",
@@ -3438,13 +4179,18 @@
       "Tacna",
       "Tumbes",
       "Ucayali"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇪",
+      "unicode": "U+1F1F5 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg"
+    }
   },
   {
     "country": "Philippines",
     "alpha2Code": "PH",
     "alpha3Code": "PHL",
-    "numberCode": "608",
+    "numberCode": 608,
     "states": [
       "Abra",
       "Agusan del Norte",
@@ -3525,13 +4271,18 @@
       "Zamboanga del Norte",
       "Zamboanga del Sur",
       "Zamboanga Sibugay"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇭",
+      "unicode": "U+1F1F5 U+1F1ED",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg"
+    }
   },
   {
     "country": "Poland",
     "alpha2Code": "PL",
     "alpha3Code": "POL",
-    "numberCode": "616",
+    "numberCode": 616,
     "states": [
       "Greater Poland (Wielkopolskie)",
       "Kuyavian-Pomeranian (Kujawsko-Pomorskie)",
@@ -3549,13 +4300,18 @@
       "Swietokrzyskie (Swietokrzyskie)",
       "Warmian-Masurian (Warminsko-Mazurskie)",
       "West Pomeranian (Zachodniopomorskie)"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇱",
+      "unicode": "U+1F1F5 U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg"
+    }
   },
   {
     "country": "Portugal",
     "alpha2Code": "PT",
     "alpha3Code": "PRT",
-    "numberCode": "620",
+    "numberCode": 620,
     "states": [
       "Aveiro",
       "Acores",
@@ -3577,13 +4333,18 @@
       "Viana do Castelo",
       "Vila Real",
       "Viseu"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇵🇹",
+      "unicode": "U+1F1F5 U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg"
+    }
   },
   {
     "country": "Qatar",
     "alpha2Code": "QA",
     "alpha3Code": "QAT",
-    "numberCode": "634",
+    "numberCode": 634,
     "states": [
       "Ad Dawhah",
       "Al Ghuwayriyah",
@@ -3595,13 +4356,18 @@
       "Madinat ash Shamal",
       "Umm Sa'id",
       "Umm Salal"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇶🇦",
+      "unicode": "U+1F1F6 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg"
+    }
   },
   {
     "country": "Romania",
     "alpha2Code": "RO",
     "alpha3Code": "ROU",
-    "numberCode": "642",
+    "numberCode": 642,
     "states": [
       "Alba",
       "Arad",
@@ -3645,13 +4411,18 @@
       "Vaslui",
       "Vilcea",
       "Vrancea"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇷🇴",
+      "unicode": "U+1F1F7 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg"
+    }
   },
   {
     "country": "Russia",
     "alpha2Code": "RU",
     "alpha3Code": "RUS",
-    "numberCode": "643",
+    "numberCode": 643,
     "states": [
       "Amur",
       "Arkhangel'sk",
@@ -3742,13 +4513,18 @@
       "Moscow",
       "St. Petersburg",
       "Yevrey"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇷🇺",
+      "unicode": "U+1F1F7 U+1F1FA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg"
+    }
   },
   {
     "country": "Rwanda",
     "alpha2Code": "RW",
     "alpha3Code": "RWA",
-    "numberCode": "646",
+    "numberCode": 646,
     "states": [
       "Butare",
       "Byumba",
@@ -3762,13 +4538,18 @@
       "Kigali-ville",
       "Umutara",
       "Ruhengeri"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇷🇼",
+      "unicode": "U+1F1F7 U+1F1FC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg"
+    }
   },
   {
     "country": "Samoa",
     "alpha2Code": "WS",
     "alpha3Code": "WSM",
-    "numberCode": "882",
+    "numberCode": 882,
     "states": [
       "A'ana",
       "Aiga-i-le-Tai",
@@ -3781,13 +4562,18 @@
       "Tuamasaga",
       "Va'a-o-Fonoti",
       "Vaisigano"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇼🇸",
+      "unicode": "U+1F1FC U+1F1F8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg"
+    }
   },
   {
     "country": "San Marino",
     "alpha2Code": "SM",
     "alpha3Code": "SMR",
-    "numberCode": "674",
+    "numberCode": 674,
     "states": [
       "Acquaviva",
       "Borgo Maggiore",
@@ -3798,13 +4584,18 @@
       "Montegiardino",
       "San Marino Citta",
       "Serravalle"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇲",
+      "unicode": "U+1F1F8 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg"
+    }
   },
   {
     "country": "Sao Tome",
     "alpha2Code": "ST",
     "alpha3Code": "STP",
-    "numberCode": "678",
+    "numberCode": 678,
     "states": [
       "Água Grande",
       "Cantagalo",
@@ -3813,13 +4604,18 @@
       "Lobata",
       "Mé-Zóchi",
       "Autonomous Region of Príncipe"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇹",
+      "unicode": "U+1F1F8 U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg"
+    }
   },
   {
     "country": "Saudi Arabia",
     "alpha2Code": "SA",
     "alpha3Code": "SAU",
-    "numberCode": "682",
+    "numberCode": 682,
     "states": [
       "Al Bahah",
       "Al Hudud ash Shamaliyah",
@@ -3834,13 +4630,18 @@
       "Makkah",
       "Najran",
       "Tabuk"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇦",
+      "unicode": "U+1F1F8 U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg"
+    }
   },
   {
     "country": "Senegal",
     "alpha2Code": "SN",
     "alpha3Code": "SEN",
-    "numberCode": "686",
+    "numberCode": 686,
     "states": [
       "Dakar",
       "Diourbel",
@@ -3853,13 +4654,18 @@
       "Tambacounda",
       "Thies",
       "Ziguinchor"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇳",
+      "unicode": "U+1F1F8 U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg"
+    }
   },
   {
     "country": "Serbia",
     "alpha2Code": "RS",
     "alpha3Code": "SRB",
-    "numberCode": "688",
+    "numberCode": 688,
     "states": [
       "Valjevo",
       "Šabac",
@@ -3885,13 +4691,18 @@
       "Pančevo",
       "Sremska Mitrovica",
       "Sombor"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇷🇸",
+      "unicode": "U+1F1F7 U+1F1F8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg"
+    }
   },
   {
     "country": "Montenegro",
     "alpha2Code": "ME",
     "alpha3Code": "MNE",
-    "numberCode": "499",
+    "numberCode": 499,
     "states": [
       "Andrijevica",
       "Bar",
@@ -3918,13 +4729,18 @@
       "Tuzi",
       "Ulcinj",
       "Žabljak"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇲🇪",
+      "unicode": "U+1F1F2 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg"
+    }
   },
   {
     "country": "Kosovo",
     "alpha2Code": "XK",
     "alpha3Code": "XXK",
-    "numberCode": "",
+    "numberCode": null,
     "states": [
       "Ferizaj",
       "Gjakova",
@@ -3933,13 +4749,18 @@
       "Peja",
       "Pristina",
       "Prizren"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇽🇰",
+      "unicode": "U+1F1FD U+1F1F0",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/XK.svg"
+    }
   },
   {
     "country": "Seychelles",
     "alpha2Code": "SC",
     "alpha3Code": "SYC",
-    "numberCode": "690",
+    "numberCode": 690,
     "states": [
       "Anse aux Pins",
       "Anse Boileau",
@@ -3964,26 +4785,36 @@
       "Port Glaud",
       "Saint Louis",
       "Takamaka"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇨",
+      "unicode": "U+1F1F8 U+1F1E8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg"
+    }
   },
   {
     "country": "Sierra Leone",
     "alpha2Code": "SL",
     "alpha3Code": "SLE",
-    "numberCode": "694",
+    "numberCode": 694,
     "states": [
       "Eastern Province",
       "Northern Province",
       "Southern Province",
       "North West Province",
       "Western Area"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇱",
+      "unicode": "U+1F1F8 U+1F1F1",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg"
+    }
   },
   {
     "country": "Singapore",
     "alpha2Code": "SG",
     "alpha3Code": "SGP",
-    "numberCode": "702",
+    "numberCode": 702,
     "states": [
       "Aljunied Group Representation Constituency",
       "Ang Mo Kio Group Representation Constituency",
@@ -4001,13 +4832,18 @@
       "Tampines Group Representation Constituency",
       "Tanjong Pagar Group Representation Constituency",
       "West Coast Group Representation Constituency"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇬",
+      "unicode": "U+1F1F8 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg"
+    }
   },
   {
     "country": "Slovakia",
     "alpha2Code": "SK",
     "alpha3Code": "SVK",
-    "numberCode": "703",
+    "numberCode": 703,
     "states": [
       "Banskobystricky",
       "Bratislavsky",
@@ -4017,13 +4853,18 @@
       "Trenciansky",
       "Trnavsky",
       "Zilinsky"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇰",
+      "unicode": "U+1F1F8 U+1F1F0",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg"
+    }
   },
   {
     "country": "Slovenia",
     "alpha2Code": "SI",
     "alpha3Code": "SVN",
-    "numberCode": "705",
+    "numberCode": 705,
     "states": [
       "Ajdovscina",
       "Beltinci",
@@ -4218,13 +5059,18 @@
       "Zirovnica",
       "Zuzemberk",
       "Zrece"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇮",
+      "unicode": "U+1F1F8 U+1F1EE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg"
+    }
   },
   {
     "country": "Solomon Islands",
     "alpha2Code": "SB",
     "alpha3Code": "SLB",
-    "numberCode": "090",
+    "numberCode": 90,
     "states": [
       "Central",
       "Choiseul",
@@ -4236,13 +5082,18 @@
       "Rennell and Bellona",
       "Temotu",
       "Western"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇧",
+      "unicode": "U+1F1F8 U+1F1E7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg"
+    }
   },
   {
     "country": "Somalia",
     "alpha2Code": "SO",
     "alpha3Code": "SOM",
-    "numberCode": "706",
+    "numberCode": 706,
     "states": [
       "Awdal",
       "Bakool",
@@ -4262,13 +5113,18 @@
       "Sool",
       "Togdheer",
       "Woqooyi Galbeed"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇴",
+      "unicode": "U+1F1F8 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg"
+    }
   },
   {
     "country": "South Africa",
     "alpha2Code": "ZA",
     "alpha3Code": "ZAF",
-    "numberCode": "710",
+    "numberCode": 710,
     "states": [
       "Eastern Cape",
       "Free State",
@@ -4279,13 +5135,18 @@
       "North-West",
       "Northern Cape",
       "Western Cape"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇿🇦",
+      "unicode": "U+1F1FF U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg"
+    }
   },
   {
     "country": "Spain",
     "alpha2Code": "ES",
     "alpha3Code": "ESP",
-    "numberCode": "724",
+    "numberCode": 724,
     "states": [
       "Andalucia",
       "Aragon",
@@ -4306,13 +5167,18 @@
       "Murcia",
       "Navarra",
       "Pais Vasco"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇪🇸",
+      "unicode": "U+1F1EA U+1F1F8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg"
+    }
   },
   {
     "country": "Sri Lanka",
     "alpha2Code": "LK",
     "alpha3Code": "LKA",
-    "numberCode": "144",
+    "numberCode": 144,
     "states": [
       "Central",
       "North Central",
@@ -4323,13 +5189,18 @@
       "Southern",
       "Uva",
       "Western"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇱🇰",
+      "unicode": "U+1F1F1 U+1F1F0",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg"
+    }
   },
   {
     "country": "Sudan",
     "alpha2Code": "SD",
     "alpha3Code": "SDN",
-    "numberCode": "729",
+    "numberCode": 729,
     "states": [
       "A'ali an Nil",
       "Al Bahr al Ahmar",
@@ -4357,13 +5228,18 @@
       "Sharq al Istiwa'iyah",
       "Sinnar",
       "Warab"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇩",
+      "unicode": "U+1F1F8 U+1F1E9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg"
+    }
   },
   {
     "country": "Suriname",
     "alpha2Code": "SR",
     "alpha3Code": "SUR",
-    "numberCode": "740",
+    "numberCode": 740,
     "states": [
       "Brokopondo",
       "Commewijne",
@@ -4375,20 +5251,35 @@
       "Saramacca",
       "Sipaliwini",
       "Wanica"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇷",
+      "unicode": "U+1F1F8 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg"
+    }
   },
   {
     "country": "Swaziland",
     "alpha2Code": "SZ",
     "alpha3Code": "SWZ",
-    "numberCode": "748",
-    "states": ["Hhohho", "Lubombo", "Manzini", "Shiselweni"]
+    "numberCode": 748,
+    "states": [
+      "Hhohho",
+      "Lubombo",
+      "Manzini",
+      "Shiselweni"
+    ],
+    "flag": {
+      "emoji": "🇸🇿",
+      "unicode": "U+1F1F8 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg"
+    }
   },
   {
     "country": "Sweden",
     "alpha2Code": "SE",
     "alpha3Code": "SWE",
-    "numberCode": "752",
+    "numberCode": 752,
     "states": [
       "Blekinge",
       "Dalarna",
@@ -4411,13 +5302,18 @@
       "Västernorrland",
       "Västmanland",
       "Västra Götaland"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇪",
+      "unicode": "U+1F1F8 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg"
+    }
   },
   {
     "country": "Switzerland",
     "alpha2Code": "CH",
     "alpha3Code": "CHE",
-    "numberCode": "756",
+    "numberCode": 756,
     "states": [
       "Aargau",
       "Appenzell Ausser-Rhoden",
@@ -4445,13 +5341,18 @@
       "Vaud",
       "Zug",
       "Zurich"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇨🇭",
+      "unicode": "U+1F1E8 U+1F1ED",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg"
+    }
   },
   {
     "country": "Syria",
     "alpha2Code": "SY",
     "alpha3Code": "SY",
-    "numberCode": "760",
+    "numberCode": 760,
     "states": [
       "Al Hasakah",
       "Al Ladhiqiyah",
@@ -4467,13 +5368,18 @@
       "Idlib",
       "Rif Dimashq",
       "Tartus"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇸🇾",
+      "unicode": "U+1F1F8 U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg"
+    }
   },
   {
     "country": "Taiwan",
     "alpha2Code": "TW",
     "alpha3Code": "TWN",
-    "numberCode": "158",
+    "numberCode": 158,
     "states": [
       "Chang-hua",
       "Chia-i",
@@ -4500,26 +5406,36 @@
       "T'ai-nan",
       "Kao-hsiung city",
       "T'ai-pei city"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇼",
+      "unicode": "U+1F1F9 U+1F1FC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg"
+    }
   },
   {
     "country": "Tajikistan",
     "alpha2Code": "TJ",
     "alpha3Code": "TJK",
-    "numberCode": "762",
+    "numberCode": 762,
     "states": [
       "Sughd Region",
       "Districts of Republican Subordination",
       "Khatlon Region",
       "Gorno-Badakhshan Autonomous Region",
       "Dushanbe"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇯",
+      "unicode": "U+1F1F9 U+1F1EF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg"
+    }
   },
   {
     "country": "Tanzania",
     "alpha2Code": "TZ",
     "alpha3Code": "TZA",
-    "numberCode": "834",
+    "numberCode": 834,
     "states": [
       "Arusha",
       "Dar es Salaam",
@@ -4547,13 +5463,18 @@
       "Zanzibar Central/South",
       "Zanzibar North",
       "Zanzibar Urban/West"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇿",
+      "unicode": "U+1F1F9 U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg"
+    }
   },
   {
     "country": "Thailand",
     "alpha2Code": "TH",
     "alpha3Code": "THA",
-    "numberCode": "764",
+    "numberCode": 764,
     "states": [
       "Amnat Charoen",
       "Ang Thong",
@@ -4631,27 +5552,55 @@
       "Uttaradit",
       "Yala",
       "Yasothon"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇭",
+      "unicode": "U+1F1F9 U+1F1ED",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg"
+    }
   },
   {
     "country": "Togo",
     "alpha2Code": "TG",
     "alpha3Code": "TGO",
-    "numberCode": "768",
-    "states": ["Kara", "Plateaux", "Savanes", "Centrale", "Maritime"]
+    "numberCode": 768,
+    "states": [
+      "Kara",
+      "Plateaux",
+      "Savanes",
+      "Centrale",
+      "Maritime"
+    ],
+    "flag": {
+      "emoji": "🇹🇬",
+      "unicode": "U+1F1F9 U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg"
+    }
   },
   {
     "country": "Tonga",
     "alpha2Code": "TO",
     "alpha3Code": "TON",
-    "numberCode": "776",
-    "states": ["Tongatapu", "Vavaʻu", "Haʻapai", "ʻEua", "Ongo Niua", "Tonga"]
+    "numberCode": 776,
+    "states": [
+      "Tongatapu",
+      "Vavaʻu",
+      "Haʻapai",
+      "ʻEua",
+      "Ongo Niua",
+      "Tonga"
+    ],
+    "flag": {
+      "emoji": "🇹🇴",
+      "unicode": "U+1F1F9 U+1F1F4",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg"
+    }
   },
   {
     "country": "Trinidad and Tobago",
     "alpha2Code": "TT",
     "alpha3Code": "TTO",
-    "numberCode": "780",
+    "numberCode": 780,
     "states": [
       "Couva",
       "Diego Martin",
@@ -4668,13 +5617,18 @@
       "Point Fortin",
       "Chaguanas",
       "Tobago"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇹",
+      "unicode": "U+1F1F9 U+1F1F9",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg"
+    }
   },
   {
     "country": "Tunisia",
     "alpha2Code": "TN",
     "alpha3Code": "TUN",
-    "numberCode": "788",
+    "numberCode": 788,
     "states": [
       "Ariana (Aryanah)",
       "Beja (Bajah)",
@@ -4700,13 +5654,18 @@
       "Tozeur (Tawzar)",
       "Tunis",
       "Zaghouan (Zaghwan)"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇳",
+      "unicode": "U+1F1F9 U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg"
+    }
   },
   {
     "country": "Turkey",
     "alpha2Code": "TR",
     "alpha3Code": "TUR",
-    "numberCode": "792",
+    "numberCode": 792,
     "states": [
       "Adana",
       "Adiyaman",
@@ -4789,26 +5748,36 @@
       "Yalova",
       "Yozgat",
       "Zonguldak"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇷",
+      "unicode": "U+1F1F9 U+1F1F7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg"
+    }
   },
   {
     "country": "Turkmenistan",
     "alpha2Code": "TM",
     "alpha3Code": "TKM",
-    "numberCode": "795",
+    "numberCode": 795,
     "states": [
       "Ahal Welayaty (Ashgabat)",
       "Balkan Welayaty (Balkanabat)",
       "Dashoguz Welayaty",
       "Lebap Welayaty (Turkmenabat)",
       "Mary Welayaty"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇹🇲",
+      "unicode": "U+1F1F9 U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg"
+    }
   },
   {
     "country": "Uganda",
     "alpha2Code": "UG",
     "alpha3Code": "UGA",
-    "numberCode": "800",
+    "numberCode": 800,
     "states": [
       "Adjumani",
       "Apac",
@@ -4866,13 +5835,18 @@
       "Tororo",
       "Wakiso",
       "Yumbe"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇺🇬",
+      "unicode": "U+1F1FA U+1F1EC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg"
+    }
   },
   {
     "country": "Ukraine",
     "alpha2Code": "UA",
     "alpha3Code": "UKR",
-    "numberCode": "804",
+    "numberCode": 804,
     "states": [
       "Cherkasy",
       "Chernihiv",
@@ -4901,13 +5875,18 @@
       "Zakarpattya",
       "Zaporizhzhya",
       "Zhytomyr"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇺🇦",
+      "unicode": "U+1F1FA U+1F1E6",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg"
+    }
   },
   {
     "country": "United Arab Emirates",
     "alpha2Code": "AE",
     "alpha3Code": "ARE",
-    "numberCode": "784",
+    "numberCode": 784,
     "states": [
       "Abu Dhabi",
       "'Ajman",
@@ -4916,13 +5895,18 @@
       "Dubai",
       "Ra's al Khaymah",
       "Umm al Qaywayn"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇦🇪",
+      "unicode": "U+1F1E6 U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg"
+    }
   },
   {
     "country": "United Kingdom",
     "alpha2Code": "GB",
     "alpha3Code": "GBR",
-    "numberCode": "826",
+    "numberCode": 826,
     "states": [
       "Aberconwy and Colwyn",
       "Aberdeen City",
@@ -5070,13 +6054,18 @@
       "Worcestershire",
       "Wrexham",
       "York"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇬🇧",
+      "unicode": "U+1F1EC U+1F1E7",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg"
+    }
   },
   {
     "country": "United States",
     "alpha2Code": "US",
     "alpha3Code": "USA",
-    "numberCode": "840",
+    "numberCode": 840,
     "states": [
       "Alabama",
       "Alaska",
@@ -5129,13 +6118,18 @@
       "West Virginia",
       "Wisconsin",
       "Wyoming"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇺🇸",
+      "unicode": "U+1F1FA U+1F1F8",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg"
+    }
   },
   {
     "country": "Uruguay",
     "alpha2Code": "UY",
     "alpha3Code": "URY",
-    "numberCode": "858",
+    "numberCode": 858,
     "states": [
       "Artigas",
       "Canelones",
@@ -5156,13 +6150,18 @@
       "Soriano",
       "Tacuarembo",
       "Treinta y Tres"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇺🇾",
+      "unicode": "U+1F1FA U+1F1FE",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg"
+    }
   },
   {
     "country": "Uzbekistan",
     "alpha2Code": "UZ",
     "alpha3Code": "UZB",
-    "numberCode": "860",
+    "numberCode": 860,
     "states": [
       "Andijon Viloyati",
       "Buxoro Viloyati",
@@ -5178,20 +6177,37 @@
       "Toshkent Shahri",
       "Toshkent Viloyati",
       "Xorazm Viloyati"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇺🇿",
+      "unicode": "U+1F1FA U+1F1FF",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg"
+    }
   },
   {
     "country": "Vanuatu",
     "alpha2Code": "VU",
     "alpha3Code": "VUT",
-    "numberCode": "548",
-    "states": ["Malampa", "Penama", "Sanma", "Shefa", "Tafea", "Torba"]
+    "numberCode": 548,
+    "states": [
+      "Malampa",
+      "Penama",
+      "Sanma",
+      "Shefa",
+      "Tafea",
+      "Torba"
+    ],
+    "flag": {
+      "emoji": "🇻🇺",
+      "unicode": "U+1F1FB U+1F1FA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg"
+    }
   },
   {
     "country": "Venezuela",
     "alpha2Code": "VE",
     "alpha3Code": "VEN",
-    "numberCode": "862",
+    "numberCode": 862,
     "states": [
       "Amazonas",
       "Anzoategui",
@@ -5218,13 +6234,18 @@
       "Vargas",
       "Yaracuy",
       "Zulia"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇻🇪",
+      "unicode": "U+1F1FB U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg"
+    }
   },
   {
     "country": "Vietnam",
     "alpha2Code": "VN",
     "alpha3Code": "VNM",
-    "numberCode": "704",
+    "numberCode": 704,
     "states": [
       "An Giang",
       "Bac Giang",
@@ -5290,13 +6311,18 @@
       "Hai Phong",
       "Hanoi",
       "Ho Chi Minh"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇻🇳",
+      "unicode": "U+1F1FB U+1F1F3",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg"
+    }
   },
   {
     "country": "Yemen",
     "alpha2Code": "YE",
     "alpha3Code": "YEM",
-    "numberCode": "887",
+    "numberCode": 887,
     "states": [
       "Abyan",
       "'Adan",
@@ -5317,13 +6343,18 @@
       "San'a'",
       "Shabwah",
       "Ta'izz"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇾🇪",
+      "unicode": "U+1F1FE U+1F1EA",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg"
+    }
   },
   {
     "country": "Zambia",
     "alpha2Code": "ZM",
     "alpha3Code": "ZMB",
-    "numberCode": "894",
+    "numberCode": 894,
     "states": [
       "Central",
       "Copperbelt",
@@ -5334,13 +6365,18 @@
       "North-Western",
       "Southern",
       "Western"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇿🇲",
+      "unicode": "U+1F1FF U+1F1F2",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg"
+    }
   },
   {
     "country": "Zimbabwe",
     "alpha2Code": "ZW",
     "alpha3Code": "ZWE",
-    "numberCode": "716",
+    "numberCode": 716,
     "states": [
       "Bulawayo",
       "Harare",
@@ -5352,6 +6388,11 @@
       "Matabeleland North",
       "Matabeleland South",
       "Midlands"
-    ]
+    ],
+    "flag": {
+      "emoji": "🇿🇼",
+      "unicode": "U+1F1FF U+1F1FC",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg"
+    }
   }
 ]
