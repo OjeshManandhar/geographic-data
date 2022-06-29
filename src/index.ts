@@ -24,7 +24,7 @@ finalData = countriesWithState.map(data => ({
 
 // flags
 
-const flags = readJSONFile<
+const countryFlags = readJSONFile<
   Array<{
     name: string;
     code: string;
@@ -35,7 +35,7 @@ const flags = readJSONFile<
 >('country-flag');
 
 finalData = finalData.map(data => {
-  const flag = flags.find(flag => flag.code === data.alpha2Code);
+  const flag = countryFlags.find(flag => flag.code === data.alpha2Code);
 
   if (!flag) {
     console.log(`===== No flag found for: ${data.alpha2Code} =====`);
@@ -54,7 +54,7 @@ finalData = finalData.map(data => {
 
 // phone number code
 
-const phoneNumbers = readJSONFile<
+const countryPhoneNumbers = readJSONFile<
   Array<{
     country: string;
     code: string;
@@ -63,7 +63,7 @@ const phoneNumbers = readJSONFile<
 >('country-phone-code-2');
 
 finalData = finalData.map(data => {
-  const phoneNumber = phoneNumbers.find(
+  const phoneNumber = countryPhoneNumbers.find(
     phoneNumber => phoneNumber.iso === data.alpha2Code,
   );
 
@@ -80,10 +80,12 @@ finalData = finalData.map(data => {
 
 // time zone
 
-const timeZones = readJSONFile<{ [index: string]: Array<string> }>('timezones');
+const countryTimeZones = readJSONFile<{ [index: string]: Array<string> }>(
+  'timezones',
+);
 
 finalData = finalData.map(data => {
-  const timeZone = timeZones[data.alpha2Code as string];
+  const timeZone = countryTimeZones[data.alpha2Code as string];
 
   if (!timeZone) {
     console.log(`===== No timeZone found for: ${data.alpha2Code} =====`);
@@ -98,7 +100,7 @@ finalData = finalData.map(data => {
 
 // currency and capital
 
-const currencies = readJSONFile<
+const countyCurrencies = readJSONFile<
   Array<{
     continent_name: string;
     country_code: string;
@@ -112,7 +114,7 @@ const currencies = readJSONFile<
 >('country-continent');
 
 finalData = finalData.map(data => {
-  const currency = currencies.find(
+  const currency = countyCurrencies.find(
     currency => currency.country_code === data.alpha2Code,
   );
 
@@ -170,3 +172,19 @@ finalData.forEach(data => {
 });
 
 writeJSONFile(finalData, 'list');
+
+// copy currencies
+
+const currenciesCopy = readJSONFile<
+  Array<{
+    code: string;
+    name: string;
+    name_plural: string;
+    symbol: string;
+    symbol_native: string;
+    decimal_digits: number;
+    rounding: number;
+  }>
+>('currencies');
+
+writeJSONFile(currenciesCopy, 'currencies');
