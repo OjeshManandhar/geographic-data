@@ -44,7 +44,8 @@
       "emoji": "🇦🇫",
       "unicode": "U+1F1E6 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg"
-    }
+    },
+    "phoneNumberCode": "93"
   },
   {
     "country": "Albania",
@@ -69,7 +70,8 @@
       "emoji": "🇦🇱",
       "unicode": "U+1F1E6 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg"
-    }
+    },
+    "phoneNumberCode": "355"
   },
   {
     "country": "Algeria",
@@ -130,7 +132,8 @@
       "emoji": "🇩🇿",
       "unicode": "U+1F1E9 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg"
-    }
+    },
+    "phoneNumberCode": "213"
   },
   {
     "country": "Andorra",
@@ -150,7 +153,8 @@
       "emoji": "🇦🇩",
       "unicode": "U+1F1E6 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg"
-    }
+    },
+    "phoneNumberCode": "376"
   },
   {
     "country": "Angola",
@@ -181,7 +185,8 @@
       "emoji": "🇦🇴",
       "unicode": "U+1F1E6 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg"
-    }
+    },
+    "phoneNumberCode": "244"
   },
   {
     "country": "Antarctica",
@@ -193,7 +198,8 @@
       "emoji": "🇦🇶",
       "unicode": "U+1F1E6 U+1F1F6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg"
-    }
+    },
+    "phoneNumberCode": "672"
   },
   {
     "country": "Antigua and Barbuda",
@@ -214,7 +220,8 @@
       "emoji": "🇦🇬",
       "unicode": "U+1F1E6 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg"
-    }
+    },
+    "phoneNumberCode": "1-268"
   },
   {
     "country": "Argentina",
@@ -251,7 +258,8 @@
       "emoji": "🇦🇷",
       "unicode": "U+1F1E6 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg"
-    }
+    },
+    "phoneNumberCode": "54"
   },
   {
     "country": "Armenia",
@@ -275,7 +283,8 @@
       "emoji": "🇦🇲",
       "unicode": "U+1F1E6 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg"
-    }
+    },
+    "phoneNumberCode": "374"
   },
   {
     "country": "Australia",
@@ -296,7 +305,8 @@
       "emoji": "🇦🇺",
       "unicode": "U+1F1E6 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg"
-    }
+    },
+    "phoneNumberCode": "61"
   },
   {
     "country": "Austria",
@@ -318,7 +328,8 @@
       "emoji": "🇦🇹",
       "unicode": "U+1F1E6 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg"
-    }
+    },
+    "phoneNumberCode": "43"
   },
   {
     "country": "Azerbaijan",
@@ -402,7 +413,8 @@
       "emoji": "🇦🇿",
       "unicode": "U+1F1E6 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg"
-    }
+    },
+    "phoneNumberCode": "994"
   },
   {
     "country": "Bahamas",
@@ -436,7 +448,8 @@
       "emoji": "🇧🇸",
       "unicode": "U+1F1E7 U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg"
-    }
+    },
+    "phoneNumberCode": "1-242"
   },
   {
     "country": "Bahrain",
@@ -461,7 +474,8 @@
       "emoji": "🇧🇭",
       "unicode": "U+1F1E7 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg"
-    }
+    },
+    "phoneNumberCode": "973"
   },
   {
     "country": "Bangladesh",
@@ -480,7 +494,8 @@
       "emoji": "🇧🇩",
       "unicode": "U+1F1E7 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg"
-    }
+    },
+    "phoneNumberCode": "880"
   },
   {
     "country": "Barbados",
@@ -504,7 +519,8 @@
       "emoji": "🇧🇧",
       "unicode": "U+1F1E7 U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg"
-    }
+    },
+    "phoneNumberCode": "1-246"
   },
   {
     "country": "Belarus",
@@ -524,7 +540,8 @@
       "emoji": "🇧🇾",
       "unicode": "U+1F1E7 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg"
-    }
+    },
+    "phoneNumberCode": "375"
   },
   {
     "country": "Belgium",
@@ -550,7 +567,8 @@
       "emoji": "🇧🇪",
       "unicode": "U+1F1E7 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg"
-    }
+    },
+    "phoneNumberCode": "32"
   },
   {
     "country": "Belize",
@@ -569,7 +587,8 @@
       "emoji": "🇧🇿",
       "unicode": "U+1F1E7 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg"
-    }
+    },
+    "phoneNumberCode": "501"
   },
   {
     "country": "Benin",
@@ -594,7 +613,8 @@
       "emoji": "🇧🇯",
       "unicode": "U+1F1E7 U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg"
-    }
+    },
+    "phoneNumberCode": "229"
   },
   {
     "country": "Bermuda",
@@ -618,7 +638,8 @@
       "emoji": "🇧🇲",
       "unicode": "U+1F1E7 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg"
-    }
+    },
+    "phoneNumberCode": "1-441"
   },
   {
     "country": "Bhutan",
@@ -651,7 +672,8 @@
       "emoji": "🇧🇹",
       "unicode": "U+1F1E7 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg"
-    }
+    },
+    "phoneNumberCode": "975"
   },
   {
     "country": "Bolivia",
@@ -673,7 +695,8 @@
       "emoji": "🇧🇴",
       "unicode": "U+1F1E7 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg"
-    }
+    },
+    "phoneNumberCode": "591"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -703,7 +726,8 @@
       "emoji": "🇧🇦",
       "unicode": "U+1F1E7 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg"
-    }
+    },
+    "phoneNumberCode": "387"
   },
   {
     "country": "Botswana",
@@ -725,7 +749,8 @@
       "emoji": "🇧🇼",
       "unicode": "U+1F1E7 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg"
-    }
+    },
+    "phoneNumberCode": "267"
   },
   {
     "country": "Brazil",
@@ -765,7 +790,8 @@
       "emoji": "🇧🇷",
       "unicode": "U+1F1E7 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg"
-    }
+    },
+    "phoneNumberCode": "55"
   },
   {
     "country": "Brunei",
@@ -782,7 +808,8 @@
       "emoji": "🇧🇳",
       "unicode": "U+1F1E7 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg"
-    }
+    },
+    "phoneNumberCode": "673"
   },
   {
     "country": "Bulgaria",
@@ -823,7 +850,8 @@
       "emoji": "🇧🇬",
       "unicode": "U+1F1E7 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg"
-    }
+    },
+    "phoneNumberCode": "359"
   },
   {
     "country": "Burkina Faso",
@@ -881,7 +909,8 @@
       "emoji": "🇧🇫",
       "unicode": "U+1F1E7 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg"
-    }
+    },
+    "phoneNumberCode": "226"
   },
   {
     "country": "Myanmar",
@@ -908,7 +937,8 @@
       "emoji": "🇲🇲",
       "unicode": "U+1F1F2 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg"
-    }
+    },
+    "phoneNumberCode": "95"
   },
   {
     "country": "Burundi",
@@ -938,7 +968,8 @@
       "emoji": "🇧🇮",
       "unicode": "U+1F1E7 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg"
-    }
+    },
+    "phoneNumberCode": "257"
   },
   {
     "country": "Cambodia",
@@ -975,7 +1006,8 @@
       "emoji": "🇰🇭",
       "unicode": "U+1F1F0 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg"
-    }
+    },
+    "phoneNumberCode": "855"
   },
   {
     "country": "Cameroon",
@@ -998,7 +1030,8 @@
       "emoji": "🇨🇲",
       "unicode": "U+1F1E8 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg"
-    }
+    },
+    "phoneNumberCode": "237"
   },
   {
     "country": "Canada",
@@ -1024,7 +1057,8 @@
       "emoji": "🇨🇦",
       "unicode": "U+1F1E8 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg"
-    }
+    },
+    "phoneNumberCode": "1"
   },
   {
     "country": "Cape Verde",
@@ -1047,7 +1081,8 @@
       "emoji": "🇨🇻",
       "unicode": "U+1F1E8 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg"
-    }
+    },
+    "phoneNumberCode": "238"
   },
   {
     "country": "Central African Republic",
@@ -1077,7 +1112,8 @@
       "emoji": "🇨🇫",
       "unicode": "U+1F1E8 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg"
-    }
+    },
+    "phoneNumberCode": "236"
   },
   {
     "country": "Chad",
@@ -1104,7 +1140,8 @@
       "emoji": "🇹🇩",
       "unicode": "U+1F1F9 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg"
-    }
+    },
+    "phoneNumberCode": "235"
   },
   {
     "country": "Chile",
@@ -1130,7 +1167,8 @@
       "emoji": "🇨🇱",
       "unicode": "U+1F1E8 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg"
-    }
+    },
+    "phoneNumberCode": "56"
   },
   {
     "country": "China",
@@ -1174,7 +1212,8 @@
       "emoji": "🇨🇳",
       "unicode": "U+1F1E8 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg"
-    }
+    },
+    "phoneNumberCode": "86"
   },
   {
     "country": "Colombia",
@@ -1220,7 +1259,8 @@
       "emoji": "🇨🇴",
       "unicode": "U+1F1E8 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg"
-    }
+    },
+    "phoneNumberCode": "57"
   },
   {
     "country": "Comoros",
@@ -1236,7 +1276,8 @@
       "emoji": "🇰🇲",
       "unicode": "U+1F1F0 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg"
-    }
+    },
+    "phoneNumberCode": "269"
   },
   {
     "country": "Congo, Democratic Republic",
@@ -1260,7 +1301,8 @@
       "emoji": "🇨🇩",
       "unicode": "U+1F1E8 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg"
-    }
+    },
+    "phoneNumberCode": "243"
   },
   {
     "country": "Congo, Republic of the",
@@ -1284,7 +1326,8 @@
       "emoji": "🇨🇬",
       "unicode": "U+1F1E8 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg"
-    }
+    },
+    "phoneNumberCode": "242"
   },
   {
     "country": "Costa Rica",
@@ -1304,7 +1347,8 @@
       "emoji": "🇨🇷",
       "unicode": "U+1F1E8 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg"
-    }
+    },
+    "phoneNumberCode": "506"
   },
   {
     "country": "Cote d'Ivoire",
@@ -1331,7 +1375,8 @@
       "emoji": "🇨🇮",
       "unicode": "U+1F1E8 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg"
-    }
+    },
+    "phoneNumberCode": "225"
   },
   {
     "country": "Croatia",
@@ -1365,7 +1410,8 @@
       "emoji": "🇭🇷",
       "unicode": "U+1F1ED U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg"
-    }
+    },
+    "phoneNumberCode": "385"
   },
   {
     "country": "Cuba",
@@ -1393,7 +1439,8 @@
       "emoji": "🇨🇺",
       "unicode": "U+1F1E8 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg"
-    }
+    },
+    "phoneNumberCode": "53"
   },
   {
     "country": "Cyprus",
@@ -1412,7 +1459,8 @@
       "emoji": "🇨🇾",
       "unicode": "U+1F1E8 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg"
-    }
+    },
+    "phoneNumberCode": "357"
   },
   {
     "country": "Czech Republic",
@@ -1439,7 +1487,8 @@
       "emoji": "🇨🇿",
       "unicode": "U+1F1E8 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg"
-    }
+    },
+    "phoneNumberCode": "420"
   },
   {
     "country": "Denmark",
@@ -1468,7 +1517,8 @@
       "emoji": "🇩🇰",
       "unicode": "U+1F1E9 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg"
-    }
+    },
+    "phoneNumberCode": "45"
   },
   {
     "country": "Djibouti",
@@ -1486,7 +1536,8 @@
       "emoji": "🇩🇯",
       "unicode": "U+1F1E9 U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg"
-    }
+    },
+    "phoneNumberCode": "253"
   },
   {
     "country": "Dominica",
@@ -1509,7 +1560,8 @@
       "emoji": "🇩🇲",
       "unicode": "U+1F1E9 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg"
-    }
+    },
+    "phoneNumberCode": "1-767"
   },
   {
     "country": "Dominican Republic",
@@ -1554,7 +1606,8 @@
       "emoji": "🇩🇴",
       "unicode": "U+1F1E9 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg"
-    }
+    },
+    "phoneNumberCode": "1-809, 1-829, 1-849"
   },
   {
     "country": "East Timor",
@@ -1580,7 +1633,8 @@
       "emoji": "🇹🇱",
       "unicode": "U+1F1F9 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg"
-    }
+    },
+    "phoneNumberCode": "670"
   },
   {
     "country": "Ecuador",
@@ -1615,7 +1669,8 @@
       "emoji": "🇪🇨",
       "unicode": "U+1F1EA U+1F1E8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg"
-    }
+    },
+    "phoneNumberCode": "593"
   },
   {
     "country": "Egypt",
@@ -1654,7 +1709,8 @@
       "emoji": "🇪🇬",
       "unicode": "U+1F1EA U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg"
-    }
+    },
+    "phoneNumberCode": "20"
   },
   {
     "country": "El Salvador",
@@ -1681,7 +1737,8 @@
       "emoji": "🇸🇻",
       "unicode": "U+1F1F8 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg"
-    }
+    },
+    "phoneNumberCode": "503"
   },
   {
     "country": "Equatorial Guinea",
@@ -1701,7 +1758,8 @@
       "emoji": "🇬🇶",
       "unicode": "U+1F1EC U+1F1F6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg"
-    }
+    },
+    "phoneNumberCode": "240"
   },
   {
     "country": "Eritrea",
@@ -1720,7 +1778,8 @@
       "emoji": "🇪🇷",
       "unicode": "U+1F1EA U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg"
-    }
+    },
+    "phoneNumberCode": "291"
   },
   {
     "country": "Estonia",
@@ -1748,7 +1807,8 @@
       "emoji": "🇪🇪",
       "unicode": "U+1F1EA U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg"
-    }
+    },
+    "phoneNumberCode": "372"
   },
   {
     "country": "Ethiopia",
@@ -1772,7 +1832,8 @@
       "emoji": "🇪🇹",
       "unicode": "U+1F1EA U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg"
-    }
+    },
+    "phoneNumberCode": "251"
   },
   {
     "country": "Fiji",
@@ -1790,7 +1851,8 @@
       "emoji": "🇫🇯",
       "unicode": "U+1F1EB U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg"
-    }
+    },
+    "phoneNumberCode": "679"
   },
   {
     "country": "Finland",
@@ -1809,7 +1871,8 @@
       "emoji": "🇫🇮",
       "unicode": "U+1F1EB U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg"
-    }
+    },
+    "phoneNumberCode": "358"
   },
   {
     "country": "France",
@@ -1844,7 +1907,8 @@
       "emoji": "🇫🇷",
       "unicode": "U+1F1EB U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg"
-    }
+    },
+    "phoneNumberCode": "33"
   },
   {
     "country": "French Guiana",
@@ -1879,7 +1943,8 @@
       "emoji": "🇬🇫",
       "unicode": "U+1F1EC U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg"
-    }
+    },
+    "phoneNumberCode": "594"
   },
   {
     "country": "French Polynesia",
@@ -1897,7 +1962,8 @@
       "emoji": "🇵🇫",
       "unicode": "U+1F1F5 U+1F1EB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg"
-    }
+    },
+    "phoneNumberCode": "689"
   },
   {
     "country": "Gabon",
@@ -1919,7 +1985,8 @@
       "emoji": "🇬🇦",
       "unicode": "U+1F1EC U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg"
-    }
+    },
+    "phoneNumberCode": "241"
   },
   {
     "country": "Gambia",
@@ -1938,7 +2005,8 @@
       "emoji": "🇬🇲",
       "unicode": "U+1F1EC U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg"
-    }
+    },
+    "phoneNumberCode": "220"
   },
   {
     "country": "Georgia",
@@ -1963,7 +2031,8 @@
       "emoji": "🇬🇲",
       "unicode": "U+1F1EC U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg"
-    }
+    },
+    "phoneNumberCode": "220"
   },
   {
     "country": "Germany",
@@ -1992,7 +2061,8 @@
       "emoji": "🇩🇪",
       "unicode": "U+1F1E9 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg"
-    }
+    },
+    "phoneNumberCode": "49"
   },
   {
     "country": "Ghana",
@@ -2015,7 +2085,8 @@
       "emoji": "🇬🇭",
       "unicode": "U+1F1EC U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg"
-    }
+    },
+    "phoneNumberCode": "233"
   },
   {
     "country": "Greece",
@@ -2080,7 +2151,8 @@
       "emoji": "🇬🇷",
       "unicode": "U+1F1EC U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg"
-    }
+    },
+    "phoneNumberCode": "30"
   },
   {
     "country": "Greenland",
@@ -2096,7 +2168,8 @@
       "emoji": "🇬🇱",
       "unicode": "U+1F1EC U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg"
-    }
+    },
+    "phoneNumberCode": "299"
   },
   {
     "country": "Grenada",
@@ -2116,7 +2189,8 @@
       "emoji": "🇬🇩",
       "unicode": "U+1F1EC U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg"
-    }
+    },
+    "phoneNumberCode": "1-473"
   },
   {
     "country": "Guatemala",
@@ -2151,7 +2225,8 @@
       "emoji": "🇬🇹",
       "unicode": "U+1F1EC U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg"
-    }
+    },
+    "phoneNumberCode": "502"
   },
   {
     "country": "Guinea",
@@ -2198,7 +2273,8 @@
       "emoji": "🇬🇳",
       "unicode": "U+1F1EC U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg"
-    }
+    },
+    "phoneNumberCode": "224"
   },
   {
     "country": "Guinea-Bissau",
@@ -2220,7 +2296,8 @@
       "emoji": "🇬🇼",
       "unicode": "U+1F1EC U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg"
-    }
+    },
+    "phoneNumberCode": "245"
   },
   {
     "country": "Guyana",
@@ -2243,7 +2320,8 @@
       "emoji": "🇬🇾",
       "unicode": "U+1F1EC U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg"
-    }
+    },
+    "phoneNumberCode": "592"
   },
   {
     "country": "Haiti",
@@ -2265,7 +2343,8 @@
       "emoji": "🇭🇹",
       "unicode": "U+1F1ED U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg"
-    }
+    },
+    "phoneNumberCode": "509"
   },
   {
     "country": "Honduras",
@@ -2296,7 +2375,8 @@
       "emoji": "🇭🇳",
       "unicode": "U+1F1ED U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg"
-    }
+    },
+    "phoneNumberCode": "504"
   },
   {
     "country": "Hong Kong",
@@ -2327,7 +2407,8 @@
       "emoji": "🇭🇰",
       "unicode": "U+1F1ED U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg"
-    }
+    },
+    "phoneNumberCode": "852"
   },
   {
     "country": "Hungary",
@@ -2359,7 +2440,8 @@
       "emoji": "🇭🇺",
       "unicode": "U+1F1ED U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg"
-    }
+    },
+    "phoneNumberCode": "36"
   },
   {
     "country": "Iceland",
@@ -2380,7 +2462,8 @@
       "emoji": "🇮🇸",
       "unicode": "U+1F1EE U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg"
-    }
+    },
+    "phoneNumberCode": "354"
   },
   {
     "country": "India",
@@ -2430,7 +2513,8 @@
       "emoji": "🇮🇳",
       "unicode": "U+1F1EE U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
-    }
+    },
+    "phoneNumberCode": "91"
   },
   {
     "country": "Indonesia",
@@ -2476,7 +2560,8 @@
       "emoji": "🇮🇩",
       "unicode": "U+1F1EE U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg"
-    }
+    },
+    "phoneNumberCode": "62"
   },
   {
     "country": "Iran",
@@ -2519,7 +2604,8 @@
       "emoji": "🇮🇷",
       "unicode": "U+1F1EE U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg"
-    }
+    },
+    "phoneNumberCode": "98"
   },
   {
     "country": "Iraq",
@@ -2550,7 +2636,8 @@
       "emoji": "🇮🇶",
       "unicode": "U+1F1EE U+1F1F6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg"
-    }
+    },
+    "phoneNumberCode": "964"
   },
   {
     "country": "Ireland",
@@ -2589,7 +2676,8 @@
       "emoji": "🇮🇪",
       "unicode": "U+1F1EE U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg"
-    }
+    },
+    "phoneNumberCode": "353"
   },
   {
     "country": "Israel",
@@ -2608,7 +2696,8 @@
       "emoji": "🇮🇱",
       "unicode": "U+1F1EE U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg"
-    }
+    },
+    "phoneNumberCode": "972"
   },
   {
     "country": "Italy",
@@ -2641,7 +2730,8 @@
       "emoji": "🇮🇹",
       "unicode": "U+1F1EE U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg"
-    }
+    },
+    "phoneNumberCode": "39"
   },
   {
     "country": "Jamaica",
@@ -2668,7 +2758,8 @@
       "emoji": "🇯🇲",
       "unicode": "U+1F1EF U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg"
-    }
+    },
+    "phoneNumberCode": "1-876"
   },
   {
     "country": "Japan",
@@ -2728,7 +2819,8 @@
       "emoji": "🇯🇵",
       "unicode": "U+1F1EF U+1F1F5",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg"
-    }
+    },
+    "phoneNumberCode": "81"
   },
   {
     "country": "Jordan",
@@ -2753,7 +2845,8 @@
       "emoji": "🇯🇴",
       "unicode": "U+1F1EF U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg"
-    }
+    },
+    "phoneNumberCode": "962"
   },
   {
     "country": "Kazakhstan",
@@ -2783,7 +2876,8 @@
       "emoji": "🇰🇿",
       "unicode": "U+1F1F0 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg"
-    }
+    },
+    "phoneNumberCode": "7"
   },
   {
     "country": "Kenya",
@@ -2804,7 +2898,8 @@
       "emoji": "🇰🇪",
       "unicode": "U+1F1F0 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg"
-    }
+    },
+    "phoneNumberCode": "254"
   },
   {
     "country": "Kiribati",
@@ -2823,7 +2918,8 @@
       "emoji": "🇰🇮",
       "unicode": "U+1F1F0 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg"
-    }
+    },
+    "phoneNumberCode": "686"
   },
   {
     "country": "Korea North",
@@ -2849,7 +2945,8 @@
       "emoji": "🇰🇵",
       "unicode": "U+1F1F0 U+1F1F5",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg"
-    }
+    },
+    "phoneNumberCode": "850"
   },
   {
     "country": "Korea South",
@@ -2878,7 +2975,8 @@
       "emoji": "🇰🇷",
       "unicode": "U+1F1F0 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg"
-    }
+    },
+    "phoneNumberCode": "82"
   },
   {
     "country": "Kuwait",
@@ -2897,7 +2995,8 @@
       "emoji": "🇰🇼",
       "unicode": "U+1F1F0 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg"
-    }
+    },
+    "phoneNumberCode": "965"
   },
   {
     "country": "Kyrgyzstan",
@@ -2918,7 +3017,8 @@
       "emoji": "🇰🇬",
       "unicode": "U+1F1F0 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg"
-    }
+    },
+    "phoneNumberCode": "996"
   },
   {
     "country": "Laos",
@@ -2949,7 +3049,8 @@
       "emoji": "🇱🇦",
       "unicode": "U+1F1F1 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg"
-    }
+    },
+    "phoneNumberCode": "856"
   },
   {
     "country": "Latvia",
@@ -2995,7 +3096,8 @@
       "emoji": "🇱🇻",
       "unicode": "U+1F1F1 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg"
-    }
+    },
+    "phoneNumberCode": "371"
   },
   {
     "country": "Lebanon",
@@ -3014,7 +3116,8 @@
       "emoji": "🇱🇧",
       "unicode": "U+1F1F1 U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg"
-    }
+    },
+    "phoneNumberCode": "961"
   },
   {
     "country": "Lesotho",
@@ -3037,7 +3140,8 @@
       "emoji": "🇱🇸",
       "unicode": "U+1F1F1 U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg"
-    }
+    },
+    "phoneNumberCode": "266"
   },
   {
     "country": "Liberia",
@@ -3065,7 +3169,8 @@
       "emoji": "🇱🇷",
       "unicode": "U+1F1F1 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg"
-    }
+    },
+    "phoneNumberCode": "231"
   },
   {
     "country": "Libya",
@@ -3103,7 +3208,8 @@
       "emoji": "🇱🇾",
       "unicode": "U+1F1F1 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg"
-    }
+    },
+    "phoneNumberCode": "218"
   },
   {
     "country": "Liechtenstein",
@@ -3127,7 +3233,8 @@
       "emoji": "🇱🇮",
       "unicode": "U+1F1F1 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg"
-    }
+    },
+    "phoneNumberCode": "423"
   },
   {
     "country": "Lithuania",
@@ -3150,7 +3257,8 @@
       "emoji": "🇱🇹",
       "unicode": "U+1F1F1 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg"
-    }
+    },
+    "phoneNumberCode": "370"
   },
   {
     "country": "Luxembourg",
@@ -3166,7 +3274,8 @@
       "emoji": "🇱🇺",
       "unicode": "U+1F1F1 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg"
-    }
+    },
+    "phoneNumberCode": "352"
   },
   {
     "country": "Macedonia",
@@ -3264,7 +3373,8 @@
       "emoji": "🇲🇰",
       "unicode": "U+1F1F2 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg"
-    }
+    },
+    "phoneNumberCode": "389"
   },
   {
     "country": "Madagascar",
@@ -3283,7 +3393,8 @@
       "emoji": "🇲🇬",
       "unicode": "U+1F1F2 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg"
-    }
+    },
+    "phoneNumberCode": "261"
   },
   {
     "country": "Malawi",
@@ -3323,7 +3434,8 @@
       "emoji": "🇲🇼",
       "unicode": "U+1F1F2 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg"
-    }
+    },
+    "phoneNumberCode": "265"
   },
   {
     "country": "Malaysia",
@@ -3351,7 +3463,8 @@
       "emoji": "🇲🇾",
       "unicode": "U+1F1F2 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg"
-    }
+    },
+    "phoneNumberCode": "60"
   },
   {
     "country": "Maldives",
@@ -3384,7 +3497,8 @@
       "emoji": "🇲🇻",
       "unicode": "U+1F1F2 U+1F1FB",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg"
-    }
+    },
+    "phoneNumberCode": "960"
   },
   {
     "country": "Mali",
@@ -3406,7 +3520,8 @@
       "emoji": "🇲🇱",
       "unicode": "U+1F1F2 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg"
-    }
+    },
+    "phoneNumberCode": "223"
   },
   {
     "country": "Malta",
@@ -3424,7 +3539,8 @@
       "emoji": "🇲🇹",
       "unicode": "U+1F1F2 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg"
-    }
+    },
+    "phoneNumberCode": "356"
   },
   {
     "country": "Marshall Islands",
@@ -3470,7 +3586,8 @@
       "emoji": "🇲🇭",
       "unicode": "U+1F1F2 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg"
-    }
+    },
+    "phoneNumberCode": "692"
   },
   {
     "country": "Mauritania",
@@ -3496,7 +3613,8 @@
       "emoji": "🇲🇷",
       "unicode": "U+1F1F2 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg"
-    }
+    },
+    "phoneNumberCode": "222"
   },
   {
     "country": "Mauritius",
@@ -3521,7 +3639,8 @@
       "emoji": "🇲🇺",
       "unicode": "U+1F1F2 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg"
-    }
+    },
+    "phoneNumberCode": "230"
   },
   {
     "country": "Mexico",
@@ -3566,7 +3685,8 @@
       "emoji": "🇲🇽",
       "unicode": "U+1F1F2 U+1F1FD",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg"
-    }
+    },
+    "phoneNumberCode": "52"
   },
   {
     "country": "Micronesia",
@@ -3583,7 +3703,8 @@
       "emoji": "🇫🇲",
       "unicode": "U+1F1EB U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg"
-    }
+    },
+    "phoneNumberCode": "691"
   },
   {
     "country": "Moldova",
@@ -3633,7 +3754,8 @@
       "emoji": "🇲🇩",
       "unicode": "U+1F1F2 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg"
-    }
+    },
+    "phoneNumberCode": "373"
   },
   {
     "country": "Monaco",
@@ -3650,7 +3772,8 @@
       "emoji": "🇲🇨",
       "unicode": "U+1F1F2 U+1F1E8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg"
-    }
+    },
+    "phoneNumberCode": "377"
   },
   {
     "country": "Mongolia",
@@ -3685,7 +3808,8 @@
       "emoji": "🇲🇳",
       "unicode": "U+1F1F2 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg"
-    }
+    },
+    "phoneNumberCode": "976"
   },
   {
     "country": "Morocco",
@@ -3737,7 +3861,8 @@
       "emoji": "🇲🇦",
       "unicode": "U+1F1F2 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg"
-    }
+    },
+    "phoneNumberCode": "212"
   },
   {
     "country": "Mozambique",
@@ -3761,7 +3886,8 @@
       "emoji": "🇲🇿",
       "unicode": "U+1F1F2 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg"
-    }
+    },
+    "phoneNumberCode": "258"
   },
   {
     "country": "Namibia",
@@ -3787,7 +3913,8 @@
       "emoji": "🇳🇦",
       "unicode": "U+1F1F3 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg"
-    }
+    },
+    "phoneNumberCode": "264"
   },
   {
     "country": "Nauru",
@@ -3804,7 +3931,8 @@
       "emoji": "🇳🇷",
       "unicode": "U+1F1F3 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg"
-    }
+    },
+    "phoneNumberCode": "674"
   },
   {
     "country": "Nepal",
@@ -3831,7 +3959,8 @@
       "emoji": "🇳🇵",
       "unicode": "U+1F1F3 U+1F1F5",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg"
-    }
+    },
+    "phoneNumberCode": "977"
   },
   {
     "country": "Netherlands",
@@ -3856,7 +3985,8 @@
       "emoji": "🇳🇱",
       "unicode": "U+1F1F3 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg"
-    }
+    },
+    "phoneNumberCode": "31"
   },
   {
     "country": "New Zealand",
@@ -3886,7 +4016,8 @@
       "emoji": "🇳🇿",
       "unicode": "U+1F1F3 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg"
-    }
+    },
+    "phoneNumberCode": "64"
   },
   {
     "country": "Nicaragua",
@@ -3916,7 +4047,8 @@
       "emoji": "🇳🇮",
       "unicode": "U+1F1F3 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg"
-    }
+    },
+    "phoneNumberCode": "505"
   },
   {
     "country": "Niger",
@@ -3937,7 +4069,8 @@
       "emoji": "🇳🇪",
       "unicode": "U+1F1F3 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg"
-    }
+    },
+    "phoneNumberCode": "227"
   },
   {
     "country": "Nigeria",
@@ -3987,7 +4120,8 @@
       "emoji": "🇳🇬",
       "unicode": "U+1F1F3 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg"
-    }
+    },
+    "phoneNumberCode": "234"
   },
   {
     "country": "Norway",
@@ -4019,7 +4153,8 @@
       "emoji": "🇳🇴",
       "unicode": "U+1F1F3 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg"
-    }
+    },
+    "phoneNumberCode": "47"
   },
   {
     "country": "Oman",
@@ -4040,7 +4175,8 @@
       "emoji": "🇴🇲",
       "unicode": "U+1F1F4 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg"
-    }
+    },
+    "phoneNumberCode": "968"
   },
   {
     "country": "Pakistan",
@@ -4059,7 +4195,8 @@
       "emoji": "🇵🇰",
       "unicode": "U+1F1F5 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg"
-    }
+    },
+    "phoneNumberCode": "92"
   },
   {
     "country": "Panama",
@@ -4082,7 +4219,8 @@
       "emoji": "🇵🇦",
       "unicode": "U+1F1F5 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg"
-    }
+    },
+    "phoneNumberCode": "507"
   },
   {
     "country": "Papua New Guinea",
@@ -4115,7 +4253,8 @@
       "emoji": "🇵🇬",
       "unicode": "U+1F1F5 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg"
-    }
+    },
+    "phoneNumberCode": "675"
   },
   {
     "country": "Paraguay",
@@ -4146,7 +4285,8 @@
       "emoji": "🇵🇾",
       "unicode": "U+1F1F5 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg"
-    }
+    },
+    "phoneNumberCode": "595"
   },
   {
     "country": "Peru",
@@ -4184,7 +4324,8 @@
       "emoji": "🇵🇪",
       "unicode": "U+1F1F5 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg"
-    }
+    },
+    "phoneNumberCode": "51"
   },
   {
     "country": "Philippines",
@@ -4276,7 +4417,8 @@
       "emoji": "🇵🇭",
       "unicode": "U+1F1F5 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg"
-    }
+    },
+    "phoneNumberCode": "63"
   },
   {
     "country": "Poland",
@@ -4305,7 +4447,8 @@
       "emoji": "🇵🇱",
       "unicode": "U+1F1F5 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg"
-    }
+    },
+    "phoneNumberCode": "48"
   },
   {
     "country": "Portugal",
@@ -4338,7 +4481,8 @@
       "emoji": "🇵🇹",
       "unicode": "U+1F1F5 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg"
-    }
+    },
+    "phoneNumberCode": "351"
   },
   {
     "country": "Qatar",
@@ -4361,7 +4505,8 @@
       "emoji": "🇶🇦",
       "unicode": "U+1F1F6 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg"
-    }
+    },
+    "phoneNumberCode": "974"
   },
   {
     "country": "Romania",
@@ -4416,7 +4561,8 @@
       "emoji": "🇷🇴",
       "unicode": "U+1F1F7 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg"
-    }
+    },
+    "phoneNumberCode": "40"
   },
   {
     "country": "Russia",
@@ -4518,7 +4664,8 @@
       "emoji": "🇷🇺",
       "unicode": "U+1F1F7 U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg"
-    }
+    },
+    "phoneNumberCode": "7"
   },
   {
     "country": "Rwanda",
@@ -4543,7 +4690,8 @@
       "emoji": "🇷🇼",
       "unicode": "U+1F1F7 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg"
-    }
+    },
+    "phoneNumberCode": "250"
   },
   {
     "country": "Samoa",
@@ -4567,7 +4715,8 @@
       "emoji": "🇼🇸",
       "unicode": "U+1F1FC U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg"
-    }
+    },
+    "phoneNumberCode": "685"
   },
   {
     "country": "San Marino",
@@ -4589,7 +4738,8 @@
       "emoji": "🇸🇲",
       "unicode": "U+1F1F8 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg"
-    }
+    },
+    "phoneNumberCode": "378"
   },
   {
     "country": "Sao Tome",
@@ -4609,7 +4759,8 @@
       "emoji": "🇸🇹",
       "unicode": "U+1F1F8 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg"
-    }
+    },
+    "phoneNumberCode": "239"
   },
   {
     "country": "Saudi Arabia",
@@ -4635,7 +4786,8 @@
       "emoji": "🇸🇦",
       "unicode": "U+1F1F8 U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg"
-    }
+    },
+    "phoneNumberCode": "966"
   },
   {
     "country": "Senegal",
@@ -4659,7 +4811,8 @@
       "emoji": "🇸🇳",
       "unicode": "U+1F1F8 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg"
-    }
+    },
+    "phoneNumberCode": "221"
   },
   {
     "country": "Serbia",
@@ -4696,7 +4849,8 @@
       "emoji": "🇷🇸",
       "unicode": "U+1F1F7 U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg"
-    }
+    },
+    "phoneNumberCode": "381"
   },
   {
     "country": "Montenegro",
@@ -4734,7 +4888,8 @@
       "emoji": "🇲🇪",
       "unicode": "U+1F1F2 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg"
-    }
+    },
+    "phoneNumberCode": "382"
   },
   {
     "country": "Kosovo",
@@ -4754,7 +4909,8 @@
       "emoji": "🇽🇰",
       "unicode": "U+1F1FD U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/XK.svg"
-    }
+    },
+    "phoneNumberCode": "383"
   },
   {
     "country": "Seychelles",
@@ -4790,7 +4946,8 @@
       "emoji": "🇸🇨",
       "unicode": "U+1F1F8 U+1F1E8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg"
-    }
+    },
+    "phoneNumberCode": "248"
   },
   {
     "country": "Sierra Leone",
@@ -4808,7 +4965,8 @@
       "emoji": "🇸🇱",
       "unicode": "U+1F1F8 U+1F1F1",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg"
-    }
+    },
+    "phoneNumberCode": "232"
   },
   {
     "country": "Singapore",
@@ -4837,7 +4995,8 @@
       "emoji": "🇸🇬",
       "unicode": "U+1F1F8 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg"
-    }
+    },
+    "phoneNumberCode": "65"
   },
   {
     "country": "Slovakia",
@@ -4858,7 +5017,8 @@
       "emoji": "🇸🇰",
       "unicode": "U+1F1F8 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg"
-    }
+    },
+    "phoneNumberCode": "421"
   },
   {
     "country": "Slovenia",
@@ -5064,7 +5224,8 @@
       "emoji": "🇸🇮",
       "unicode": "U+1F1F8 U+1F1EE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg"
-    }
+    },
+    "phoneNumberCode": "386"
   },
   {
     "country": "Solomon Islands",
@@ -5087,7 +5248,8 @@
       "emoji": "🇸🇧",
       "unicode": "U+1F1F8 U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg"
-    }
+    },
+    "phoneNumberCode": "677"
   },
   {
     "country": "Somalia",
@@ -5118,7 +5280,8 @@
       "emoji": "🇸🇴",
       "unicode": "U+1F1F8 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg"
-    }
+    },
+    "phoneNumberCode": "252"
   },
   {
     "country": "South Africa",
@@ -5140,7 +5303,8 @@
       "emoji": "🇿🇦",
       "unicode": "U+1F1FF U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg"
-    }
+    },
+    "phoneNumberCode": "27"
   },
   {
     "country": "Spain",
@@ -5172,7 +5336,8 @@
       "emoji": "🇪🇸",
       "unicode": "U+1F1EA U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg"
-    }
+    },
+    "phoneNumberCode": "34"
   },
   {
     "country": "Sri Lanka",
@@ -5194,7 +5359,8 @@
       "emoji": "🇱🇰",
       "unicode": "U+1F1F1 U+1F1F0",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg"
-    }
+    },
+    "phoneNumberCode": "94"
   },
   {
     "country": "Sudan",
@@ -5233,7 +5399,8 @@
       "emoji": "🇸🇩",
       "unicode": "U+1F1F8 U+1F1E9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg"
-    }
+    },
+    "phoneNumberCode": "249"
   },
   {
     "country": "Suriname",
@@ -5256,7 +5423,8 @@
       "emoji": "🇸🇷",
       "unicode": "U+1F1F8 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg"
-    }
+    },
+    "phoneNumberCode": "597"
   },
   {
     "country": "Swaziland",
@@ -5273,7 +5441,8 @@
       "emoji": "🇸🇿",
       "unicode": "U+1F1F8 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg"
-    }
+    },
+    "phoneNumberCode": "268"
   },
   {
     "country": "Sweden",
@@ -5307,7 +5476,8 @@
       "emoji": "🇸🇪",
       "unicode": "U+1F1F8 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg"
-    }
+    },
+    "phoneNumberCode": "46"
   },
   {
     "country": "Switzerland",
@@ -5346,7 +5516,8 @@
       "emoji": "🇨🇭",
       "unicode": "U+1F1E8 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg"
-    }
+    },
+    "phoneNumberCode": "41"
   },
   {
     "country": "Syria",
@@ -5373,7 +5544,8 @@
       "emoji": "🇸🇾",
       "unicode": "U+1F1F8 U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg"
-    }
+    },
+    "phoneNumberCode": "963"
   },
   {
     "country": "Taiwan",
@@ -5411,7 +5583,8 @@
       "emoji": "🇹🇼",
       "unicode": "U+1F1F9 U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg"
-    }
+    },
+    "phoneNumberCode": "886"
   },
   {
     "country": "Tajikistan",
@@ -5429,7 +5602,8 @@
       "emoji": "🇹🇯",
       "unicode": "U+1F1F9 U+1F1EF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg"
-    }
+    },
+    "phoneNumberCode": "992"
   },
   {
     "country": "Tanzania",
@@ -5468,7 +5642,8 @@
       "emoji": "🇹🇿",
       "unicode": "U+1F1F9 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg"
-    }
+    },
+    "phoneNumberCode": "255"
   },
   {
     "country": "Thailand",
@@ -5557,7 +5732,8 @@
       "emoji": "🇹🇭",
       "unicode": "U+1F1F9 U+1F1ED",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg"
-    }
+    },
+    "phoneNumberCode": "66"
   },
   {
     "country": "Togo",
@@ -5575,7 +5751,8 @@
       "emoji": "🇹🇬",
       "unicode": "U+1F1F9 U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg"
-    }
+    },
+    "phoneNumberCode": "228"
   },
   {
     "country": "Tonga",
@@ -5594,7 +5771,8 @@
       "emoji": "🇹🇴",
       "unicode": "U+1F1F9 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg"
-    }
+    },
+    "phoneNumberCode": "676"
   },
   {
     "country": "Trinidad and Tobago",
@@ -5622,7 +5800,8 @@
       "emoji": "🇹🇹",
       "unicode": "U+1F1F9 U+1F1F9",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg"
-    }
+    },
+    "phoneNumberCode": "1-868"
   },
   {
     "country": "Tunisia",
@@ -5659,7 +5838,8 @@
       "emoji": "🇹🇳",
       "unicode": "U+1F1F9 U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg"
-    }
+    },
+    "phoneNumberCode": "216"
   },
   {
     "country": "Turkey",
@@ -5753,7 +5933,8 @@
       "emoji": "🇹🇷",
       "unicode": "U+1F1F9 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg"
-    }
+    },
+    "phoneNumberCode": "90"
   },
   {
     "country": "Turkmenistan",
@@ -5771,7 +5952,8 @@
       "emoji": "🇹🇲",
       "unicode": "U+1F1F9 U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg"
-    }
+    },
+    "phoneNumberCode": "993"
   },
   {
     "country": "Uganda",
@@ -5840,7 +6022,8 @@
       "emoji": "🇺🇬",
       "unicode": "U+1F1FA U+1F1EC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg"
-    }
+    },
+    "phoneNumberCode": "256"
   },
   {
     "country": "Ukraine",
@@ -5880,7 +6063,8 @@
       "emoji": "🇺🇦",
       "unicode": "U+1F1FA U+1F1E6",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg"
-    }
+    },
+    "phoneNumberCode": "380"
   },
   {
     "country": "United Arab Emirates",
@@ -5900,7 +6084,8 @@
       "emoji": "🇦🇪",
       "unicode": "U+1F1E6 U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg"
-    }
+    },
+    "phoneNumberCode": "971"
   },
   {
     "country": "United Kingdom",
@@ -6059,7 +6244,8 @@
       "emoji": "🇬🇧",
       "unicode": "U+1F1EC U+1F1E7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg"
-    }
+    },
+    "phoneNumberCode": "44"
   },
   {
     "country": "United States",
@@ -6123,7 +6309,8 @@
       "emoji": "🇺🇸",
       "unicode": "U+1F1FA U+1F1F8",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg"
-    }
+    },
+    "phoneNumberCode": "1"
   },
   {
     "country": "Uruguay",
@@ -6155,7 +6342,8 @@
       "emoji": "🇺🇾",
       "unicode": "U+1F1FA U+1F1FE",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg"
-    }
+    },
+    "phoneNumberCode": "598"
   },
   {
     "country": "Uzbekistan",
@@ -6182,7 +6370,8 @@
       "emoji": "🇺🇿",
       "unicode": "U+1F1FA U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg"
-    }
+    },
+    "phoneNumberCode": "998"
   },
   {
     "country": "Vanuatu",
@@ -6201,7 +6390,8 @@
       "emoji": "🇻🇺",
       "unicode": "U+1F1FB U+1F1FA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg"
-    }
+    },
+    "phoneNumberCode": "678"
   },
   {
     "country": "Venezuela",
@@ -6239,7 +6429,8 @@
       "emoji": "🇻🇪",
       "unicode": "U+1F1FB U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg"
-    }
+    },
+    "phoneNumberCode": "58"
   },
   {
     "country": "Vietnam",
@@ -6316,7 +6507,8 @@
       "emoji": "🇻🇳",
       "unicode": "U+1F1FB U+1F1F3",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg"
-    }
+    },
+    "phoneNumberCode": "84"
   },
   {
     "country": "Yemen",
@@ -6348,7 +6540,8 @@
       "emoji": "🇾🇪",
       "unicode": "U+1F1FE U+1F1EA",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg"
-    }
+    },
+    "phoneNumberCode": "967"
   },
   {
     "country": "Zambia",
@@ -6370,7 +6563,8 @@
       "emoji": "🇿🇲",
       "unicode": "U+1F1FF U+1F1F2",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg"
-    }
+    },
+    "phoneNumberCode": "260"
   },
   {
     "country": "Zimbabwe",
@@ -6393,6 +6587,7 @@
       "emoji": "🇿🇼",
       "unicode": "U+1F1FF U+1F1FC",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg"
-    }
+    },
+    "phoneNumberCode": "263"
   }
 ]

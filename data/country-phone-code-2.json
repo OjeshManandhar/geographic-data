@@ -76,6 +76,7 @@
   { "country": "Fiji", "code": "679", "iso": "FJ" },
   { "country": "Finland", "code": "358", "iso": "FI" },
   { "country": "France", "code": "33", "iso": "FR" },
+  { "country": "French Guiana", "code": "594", "iso": "GF" },
   { "country": "French Polynesia", "code": "689", "iso": "PF" },
   { "country": "Gabon", "code": "241", "iso": "GA" },
   { "country": "Gambia", "code": "220", "iso": "GM" },

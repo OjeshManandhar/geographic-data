@@ -5,6 +5,8 @@ import type { TFinalFormat } from './types';
 
 let finalData: Array<Partial<TFinalFormat>> = [];
 
+// name, states, alpha codes, number code
+
 const countriesWithState = readJSONFile<
   Array<{
     country: string;
@@ -20,7 +22,7 @@ finalData = countriesWithState.map(data => ({
   numberCode: parseInt(data.numberCode, 10),
 }));
 
-// console.log('finalData:', finalData);
+// flags
 
 const flags = readJSONFile<
   Array<{
@@ -46,6 +48,32 @@ finalData = finalData.map(data => {
     unicode: flag.unicode,
     image: flag.image,
   };
+
+  return data;
+});
+
+// phone number code
+
+const phoneNumbers = readJSONFile<
+  Array<{
+    country: string;
+    code: string;
+    iso: string;
+  }>
+>('country-phone-code-2');
+
+finalData = finalData.map(data => {
+  const phoneNumber = phoneNumbers.find(
+    phoneNumber => phoneNumber.iso === data.alpha2Code,
+  );
+
+  if (!phoneNumber) {
+    console.log(`===== No phoneNumber found for: ${data.alpha2Code} =====`);
+
+    return data;
+  }
+
+  data.phoneNumberCode = phoneNumber.code;
 
   return data;
 });
