@@ -3,6 +3,33 @@ import { readJSONFile, writeJSONFile } from './utils';
 // types
 import type { TFinalFormat } from './types';
 
+// copy currencies
+
+const currenciesCopy = readJSONFile<
+  Array<{
+    code: string;
+    name: string;
+    name_plural: string;
+    symbol: string;
+    symbol_native: string;
+    decimal_digits: number;
+    rounding: number;
+  }>
+>('currencies');
+
+writeJSONFile(currenciesCopy, 'currencies');
+
+// copy continents
+
+const continentsMap = readJSONFile<{ [index: string]: string }>('continents');
+
+const continents: Array<{ code: string; name: string }> = [];
+for (const [code, name] of Object.entries(continentsMap)) {
+  continents.push({ code, name });
+}
+
+writeJSONFile(continents, 'continents');
+
 let finalData: Array<Partial<TFinalFormat>> = [];
 
 // name, states, alpha codes, number code
@@ -172,19 +199,3 @@ finalData.forEach(data => {
 });
 
 writeJSONFile(finalData, 'list');
-
-// copy currencies
-
-const currenciesCopy = readJSONFile<
-  Array<{
-    code: string;
-    name: string;
-    name_plural: string;
-    symbol: string;
-    symbol_native: string;
-    decimal_digits: number;
-    rounding: number;
-  }>
->('currencies');
-
-writeJSONFile(currenciesCopy, 'currencies');
