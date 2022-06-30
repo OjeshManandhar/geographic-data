@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 const SOURCE_DIR = 'sources',
-  DESTINATION_DIR = 'created';
+  DESTINATION_DIR = 'generated';
 
 export function readJSONFile<T extends object>(fileName: string): T {
   const filePath = path.join(__dirname, SOURCE_DIR, fileName + '.json');
