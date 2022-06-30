@@ -1,3 +1,9 @@
 {
-  "ignore": ["node_modules/*", "sources/*", "dist/*", "generated/*"]
+  "ignore": [
+    "node_modules/*",
+    "sources/*",
+    "dist/*",
+    "generated/*",
+    "seedable/*"
+  ]
 }

@@ -203,3 +203,94 @@ finalData.forEach(data => {
 });
 
 writeJSONFile(finalData, 'list');
+
+// seed files
+
+// continent and currencies
+
+const currenciesSeed = readJSONFile<
+  Array<{
+    code: string;
+    name: string;
+    name_plural: string;
+    symbol: string;
+    symbol_native: string;
+    decimal_digits: number;
+    rounding: number;
+  }>
+>([__dirname, 'generated', 'currencies.json']);
+
+writeJSONFile(currenciesSeed, [__dirname, 'seedable', 'currencies.json']);
+
+const continentsSeed = readJSONFile<
+  Array<{
+    code: string;
+    name: string;
+  }>
+>([__dirname, 'generated', 'continents.json']);
+
+writeJSONFile(currenciesSeed, [__dirname, 'seedable', 'continents.json']);
+
+const countries: Array<{
+    id: number;
+    name: string;
+    alpha2Code: string;
+    alpha3code: string;
+    numberCode: number;
+    phoneNumberCode: string;
+    timezone: Array<string>;
+    capital: string;
+    currencyCode: string;
+    continentCode: string;
+  }> = [],
+  flags: Array<{
+    countryId: number;
+    emoji: string;
+    unicode: string;
+    image: string;
+  }> = [],
+  states: Array<{
+    countryId: number;
+    name: string;
+  }> = [];
+
+const countriesSeed = readJSONFile<Array<TFinalFormat>>([
+  __dirname,
+  'generated',
+  'list.json',
+]);
+
+countriesSeed.forEach((data, index) => {
+  const countryId = index + 1;
+
+  countries.push({
+    id: countryId,
+    name: data.country,
+    alpha2Code: data.alpha2Code,
+    alpha3code: data.alpha3Code,
+    numberCode: data.numberCode,
+    continentCode: data.continentCode,
+    capital: data.capital,
+    phoneNumberCode: data.phoneNumberCode,
+    currencyCode: data.currencyCode,
+    timezone: data.timezone,
+  });
+
+  data.states.forEach(state => {
+    states.push({
+      countryId,
+      name: state,
+    });
+  });
+
+  flags.push({
+    countryId,
+    emoji: data.flag.emoji,
+    unicode: data.flag.unicode,
+    image: data.flag.image,
+  });
+});
+
+writeJSONFile(flags, [__dirname, 'seedable', 'flags.json']);
+writeJSONFile(states, [__dirname, 'seedable', 'states.json']);
+writeJSONFile(countries, [__dirname, 'seedable', 'countries.json']);
