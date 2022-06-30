@@ -156,8 +156,6 @@ finalData = finalData.map(data => {
 
   if (currenciesCopy.find(currency => currency.code === found.currency_code)) {
     data.currencyCode = found.currency_code;
-  } else {
-    console.log(`===== Currency not found: ${found.currency_code} =====`);
   }
 
   return data;

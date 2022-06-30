@@ -355,7 +355,7 @@
     "country_name": "Belarus",
     "continent_code": "EU",
     "capital_name": "Minsk",
-    "currency_code": "BYR",
+    "currency_code": "BYN",
     "phone_code": "375",
     "three_letter_country_code": "BLR"
   },
@@ -1325,7 +1325,7 @@
     "country_name": "Lithuania",
     "continent_code": "EU",
     "capital_name": "Vilnius",
-    "currency_code": "LTL",
+    "currency_code": "EUR",
     "phone_code": "370",
     "three_letter_country_code": "LTU"
   },
@@ -1505,7 +1505,7 @@
     "country_name": "Mauritania",
     "continent_code": "AF",
     "capital_name": "Nouakchott",
-    "currency_code": "MRO",
+    "currency_code": "MRU",
     "phone_code": "222",
     "three_letter_country_code": "MRT"
   },
@@ -2085,7 +2085,7 @@
     "country_name": "Sao Tome and Principe",
     "continent_code": "AF",
     "capital_name": "Sao Tome",
-    "currency_code": "STD",
+    "currency_code": "STN",
     "phone_code": "239",
     "three_letter_country_code": "STP"
   },
@@ -2483,7 +2483,7 @@
     "country_name": "Zambia",
     "continent_code": "AF",
     "capital_name": "Lusaka",
-    "currency_code": "ZMK",
+    "currency_code": "ZMW",
     "phone_code": "260",
     "three_letter_country_code": "ZMB"
   },

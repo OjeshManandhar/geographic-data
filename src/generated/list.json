@@ -673,7 +673,8 @@
       "Europe/Minsk"
     ],
     "capital": "Minsk",
-    "continentCode": "EU"
+    "continentCode": "EU",
+    "currencyCode": "BYN"
   },
   {
     "country": "Belgium",
@@ -3999,7 +4000,8 @@
       "Europe/Vilnius"
     ],
     "capital": "Vilnius",
-    "continentCode": "EU"
+    "continentCode": "EU",
+    "currencyCode": "EUR"
   },
   {
     "country": "Luxembourg",
@@ -4416,7 +4418,8 @@
       "Africa/Nouakchott"
     ],
     "capital": "Nouakchott",
-    "continentCode": "AF"
+    "continentCode": "AF",
+    "currencyCode": "MRU"
   },
   {
     "country": "Mauritius",
@@ -5803,7 +5806,8 @@
       "Africa/Sao_Tome"
     ],
     "capital": "Sao Tome",
-    "continentCode": "AF"
+    "continentCode": "AF",
+    "currencyCode": "STN"
   },
   {
     "country": "Saudi Arabia",
@@ -7897,7 +7901,8 @@
       "Africa/Lusaka"
     ],
     "capital": "Lusaka",
-    "continentCode": "AF"
+    "continentCode": "AF",
+    "currencyCode": "ZMW"
   },
   {
     "country": "Zimbabwe",
