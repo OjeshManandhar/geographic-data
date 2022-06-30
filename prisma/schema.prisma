@@ -1,0 +1,77 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Continent {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+  code String @unique
+
+  countries Country[]
+}
+
+model Currency {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  code           String @unique
+  name           String
+  name_plural    String
+  symbol         String
+  symbol_native  String
+  decimal_digits Int
+  rounding       Int
+}
+
+model Country {
+  id        Int      @id
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name            String
+  alpha2Code      String
+  alpha3code      String
+  numberCode      Int
+  continentCode   String
+  capital         String
+  phoneNumberCode String
+  currencyCode    String
+  timezone        String[]
+
+  flag      Flag?
+  states    State[]
+  continent Continent @relation(fields: [continentCode], references: [code])
+}
+
+model Flag {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  countryId Int    @unique
+  emoji     String
+  unicode   String
+  image     String
+
+  Country Country @relation(fields: [countryId], references: [id])
+}
+
+model State {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  countryId Int
+  name      String
+
+  country Country @relation(fields: [countryId], references: [id])
+}
