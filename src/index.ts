@@ -229,7 +229,7 @@ const continentsSeed = readJSONFile<
   }>
 >([__dirname, 'generated', 'continents.json']);
 
-writeJSONFile(currenciesSeed, [__dirname, 'seedable', 'continents.json']);
+writeJSONFile(continentsSeed, [__dirname, 'seedable', 'continents.json']);
 
 const countries: Array<{
     id: number;
