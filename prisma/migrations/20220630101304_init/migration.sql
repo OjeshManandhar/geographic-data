@@ -37,7 +37,7 @@ CREATE TABLE "Country" (
     "continentCode" TEXT NOT NULL,
     "capital" TEXT NOT NULL,
     "phoneNumberCode" TEXT NOT NULL,
-    "currencyCode" TEXT NOT NULL,
+    "currencyCode" TEXT,
     "timezone" TEXT[],
 
     CONSTRAINT "Country_pkey" PRIMARY KEY ("id")
@@ -78,6 +78,9 @@ CREATE UNIQUE INDEX "Flag_countryId_key" ON "Flag"("countryId");
 
 -- AddForeignKey
 ALTER TABLE "Country" ADD CONSTRAINT "Country_continentCode_fkey" FOREIGN KEY ("continentCode") REFERENCES "Continent"("code") ON DELETE RESTRICT ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "Country" ADD CONSTRAINT "Country_currencyCode_fkey" FOREIGN KEY ("currencyCode") REFERENCES "Currency"("code") ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE "Flag" ADD CONSTRAINT "Flag_countryId_fkey" FOREIGN KEY ("countryId") REFERENCES "Country"("id") ON DELETE RESTRICT ON UPDATE CASCADE;

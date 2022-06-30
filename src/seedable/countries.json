@@ -78,7 +78,6 @@
     "continentCode": "AN",
     "capital": "",
     "phoneNumberCode": "672",
-    "currencyCode": "",
     "timezone": [
       "Antarctica/McMurdo",
       "Antarctica/Casey",
@@ -264,7 +263,6 @@
     "continentCode": "EU",
     "capital": "Minsk",
     "phoneNumberCode": "375",
-    "currencyCode": "BYR",
     "timezone": [
       "Europe/Minsk"
     ]
@@ -1602,7 +1600,6 @@
     "continentCode": "EU",
     "capital": "Vilnius",
     "phoneNumberCode": "370",
-    "currencyCode": "LTL",
     "timezone": [
       "Europe/Vilnius"
     ]
@@ -1744,7 +1741,6 @@
     "continentCode": "AF",
     "capital": "Nouakchott",
     "phoneNumberCode": "222",
-    "currencyCode": "MRO",
     "timezone": [
       "Africa/Nouakchott"
     ]
@@ -2250,7 +2246,6 @@
     "continentCode": "AF",
     "capital": "Sao Tome",
     "phoneNumberCode": "239",
-    "currencyCode": "STD",
     "timezone": [
       "Africa/Sao_Tome"
     ]
@@ -2885,7 +2880,6 @@
     "continentCode": "AF",
     "capital": "Lusaka",
     "phoneNumberCode": "260",
-    "currencyCode": "ZMK",
     "timezone": [
       "Africa/Lusaka"
     ]

@@ -127,7 +127,7 @@ finalData = finalData.map(data => {
 
 // continent, currency and capital
 
-const countyMeta = readJSONFile<
+const countryMeta = readJSONFile<
   Array<{
     continent_name: string;
     country_code: string;
@@ -141,19 +141,24 @@ const countyMeta = readJSONFile<
 >('country-continent');
 
 finalData = finalData.map(data => {
-  const currency = countyMeta.find(
+  const found = countryMeta.find(
     currency => currency.country_code === data.alpha2Code,
   );
 
-  if (!currency) {
+  if (!found) {
     console.log(`===== No currency found for: ${data.alpha2Code} =====`);
 
     return data;
   }
 
-  data.capital = currency.capital_name;
-  data.currencyCode = currency.currency_code;
-  data.continentCode = currency.continent_code;
+  data.capital = found.capital_name;
+  data.continentCode = found.continent_code;
+
+  if (currenciesCopy.find(currency => currency.code === found.currency_code)) {
+    data.currencyCode = found.currency_code;
+  } else {
+    console.log(`===== Currency not found: ${found.currency_code} =====`);
+  }
 
   return data;
 });

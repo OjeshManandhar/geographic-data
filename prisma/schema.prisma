@@ -30,6 +30,8 @@ model Currency {
   symbol_native  String
   decimal_digits Int
   rounding       Int
+
+  countries Country[]
 }
 
 model Country {
@@ -44,11 +46,12 @@ model Country {
   continentCode   String
   capital         String
   phoneNumberCode String
-  currencyCode    String
+  currencyCode    String?
   timezone        String[]
 
   flag      Flag?
   states    State[]
+  currency  Currency? @relation(fields: [currencyCode], references: [code])
   continent Continent @relation(fields: [continentCode], references: [code])
 }
 
@@ -62,7 +65,7 @@ model Flag {
   unicode   String
   image     String
 
-  Country Country @relation(fields: [countryId], references: [id])
+  country Country @relation(fields: [countryId], references: [id])
 }
 
 model State {
