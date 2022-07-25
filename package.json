@@ -9,8 +9,13 @@
   },
   "keywords": [
     "geographic",
-    "state",
-    "phone-code"
+    "countries",
+    "states",
+    "timezone",
+    "continents",
+    "currencies",
+    "flags",
+    "phone-number-codes"
   ],
   "author": "Ojesh Manandhar",
   "license": "ISC",

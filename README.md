@@ -1,6 +1,6 @@
 # Geographic data
 
-This repo contains data about countries, states, timezone, continents, currencies and flags.
+This repo contains data about countries, states, timezone, continents, currencies, flags and phone number codes.
 
 - [src/sources](./src/sources) folder has all the data I collected from online sources
 - [src/index](./src/index.ts) file creates the generated and seedable files
