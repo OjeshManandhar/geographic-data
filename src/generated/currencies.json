@@ -949,7 +949,7 @@
     "name": "Nepalese Rupee",
     "name_plural": "Nepalese rupees",
     "symbol": "NPRs",
-    "symbol_native": "नेरू",
+    "symbol_native": "रू",
     "decimal_digits": 2,
     "rounding": 0
   },
