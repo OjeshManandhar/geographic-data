@@ -1,0 +1,7130 @@
+[
+  {
+    "lang": "af",
+    "langType": "af",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "af.xml"
+  },
+  {
+    "lang": "af-NA",
+    "langType": "af",
+    "territory": "NA",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "af_NA.xml"
+  },
+  {
+    "lang": "af-ZA",
+    "langType": "af",
+    "territory": "ZA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "af_ZA.xml"
+  },
+  {
+    "lang": "agq",
+    "langType": "agq",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "agq.xml"
+  },
+  {
+    "lang": "agq-CM",
+    "langType": "agq",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "agq_CM.xml"
+  },
+  {
+    "lang": "ak",
+    "langType": "ak",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ak.xml"
+  },
+  {
+    "lang": "ak-GH",
+    "langType": "ak",
+    "territory": "GH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ak_GH.xml"
+  },
+  {
+    "lang": "am",
+    "langType": "am",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "am.xml"
+  },
+  {
+    "lang": "am-ET",
+    "langType": "am",
+    "territory": "ET",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "am_ET.xml"
+  },
+  {
+    "lang": "ar",
+    "langType": "ar",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "ar.xml"
+  },
+  {
+    "lang": "ar-001",
+    "langType": "ar",
+    "territory": "001",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ar_001.xml"
+  },
+  {
+    "lang": "ar-AE",
+    "langType": "ar",
+    "territory": "AE",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "ar_AE.xml"
+  },
+  {
+    "lang": "ar-BH",
+    "langType": "ar",
+    "territory": "BH",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_BH.xml"
+  },
+  {
+    "lang": "ar-DJ",
+    "langType": "ar",
+    "territory": "DJ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_DJ.xml"
+  },
+  {
+    "lang": "ar-DZ",
+    "langType": "ar",
+    "territory": "DZ",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "ar_DZ.xml"
+  },
+  {
+    "lang": "ar-EG",
+    "langType": "ar",
+    "territory": "EG",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_EG.xml"
+  },
+  {
+    "lang": "ar-EH",
+    "langType": "ar",
+    "territory": "EH",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_EH.xml"
+  },
+  {
+    "lang": "ar-ER",
+    "langType": "ar",
+    "territory": "ER",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_ER.xml"
+  },
+  {
+    "lang": "ar-IL",
+    "langType": "ar",
+    "territory": "IL",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_IL.xml"
+  },
+  {
+    "lang": "ar-IQ",
+    "langType": "ar",
+    "territory": "IQ",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_IQ.xml"
+  },
+  {
+    "lang": "ar-JO",
+    "langType": "ar",
+    "territory": "JO",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_JO.xml"
+  },
+  {
+    "lang": "ar-KM",
+    "langType": "ar",
+    "territory": "KM",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_KM.xml"
+  },
+  {
+    "lang": "ar-KW",
+    "langType": "ar",
+    "territory": "KW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_KW.xml"
+  },
+  {
+    "lang": "ar-LB",
+    "langType": "ar",
+    "territory": "LB",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "ar_LB.xml"
+  },
+  {
+    "lang": "ar-LY",
+    "langType": "ar",
+    "territory": "LY",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "ar_LY.xml"
+  },
+  {
+    "lang": "ar-MA",
+    "langType": "ar",
+    "territory": "MA",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "ar_MA.xml"
+  },
+  {
+    "lang": "ar-MR",
+    "langType": "ar",
+    "territory": "MR",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "ar_MR.xml"
+  },
+  {
+    "lang": "ar-OM",
+    "langType": "ar",
+    "territory": "OM",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_OM.xml"
+  },
+  {
+    "lang": "ar-PS",
+    "langType": "ar",
+    "territory": "PS",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_PS.xml"
+  },
+  {
+    "lang": "ar-QA",
+    "langType": "ar",
+    "territory": "QA",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_QA.xml"
+  },
+  {
+    "lang": "ar-SA",
+    "langType": "ar",
+    "territory": "SA",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "ar_SA.xml"
+  },
+  {
+    "lang": "ar-SD",
+    "langType": "ar",
+    "territory": "SD",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_SD.xml"
+  },
+  {
+    "lang": "ar-SO",
+    "langType": "ar",
+    "territory": "SO",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_SO.xml"
+  },
+  {
+    "lang": "ar-SS",
+    "langType": "ar",
+    "territory": "SS",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_SS.xml"
+  },
+  {
+    "lang": "ar-SY",
+    "langType": "ar",
+    "territory": "SY",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ar_SY.xml"
+  },
+  {
+    "lang": "ar-TD",
+    "langType": "ar",
+    "territory": "TD",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_TD.xml"
+  },
+  {
+    "lang": "ar-TN",
+    "langType": "ar",
+    "territory": "TN",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "ar_TN.xml"
+  },
+  {
+    "lang": "ar-YE",
+    "langType": "ar",
+    "territory": "YE",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ar_YE.xml"
+  },
+  {
+    "lang": "as",
+    "langType": "as",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "as.xml"
+  },
+  {
+    "lang": "as-IN",
+    "langType": "as",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "as_IN.xml"
+  },
+  {
+    "lang": "asa",
+    "langType": "asa",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "asa.xml"
+  },
+  {
+    "lang": "asa-TZ",
+    "langType": "asa",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "asa_TZ.xml"
+  },
+  {
+    "lang": "ast",
+    "langType": "ast",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "ast.xml"
+  },
+  {
+    "lang": "ast-ES",
+    "langType": "ast",
+    "territory": "ES",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ast_ES.xml"
+  },
+  {
+    "lang": "az",
+    "langType": "az",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "az.xml"
+  },
+  {
+    "lang": "az-Cyrl",
+    "langType": "az",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "az_Cyrl.xml"
+  },
+  {
+    "lang": "az-Cyrl-AZ",
+    "langType": "az",
+    "territory": "AZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "az_Cyrl_AZ.xml"
+  },
+  {
+    "lang": "az-Latn",
+    "langType": "az",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "az_Latn.xml"
+  },
+  {
+    "lang": "az-Latn-AZ",
+    "langType": "az",
+    "territory": "AZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "az_Latn_AZ.xml"
+  },
+  {
+    "lang": "bas",
+    "langType": "bas",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "bas.xml"
+  },
+  {
+    "lang": "bas-CM",
+    "langType": "bas",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bas_CM.xml"
+  },
+  {
+    "lang": "be",
+    "langType": "be",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "be.xml"
+  },
+  {
+    "lang": "be-BY",
+    "langType": "be",
+    "territory": "BY",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "be_BY.xml"
+  },
+  {
+    "lang": "bem",
+    "langType": "bem",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "bem.xml"
+  },
+  {
+    "lang": "bem-ZM",
+    "langType": "bem",
+    "territory": "ZM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bem_ZM.xml"
+  },
+  {
+    "lang": "bez",
+    "langType": "bez",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "bez.xml"
+  },
+  {
+    "lang": "bez-TZ",
+    "langType": "bez",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bez_TZ.xml"
+  },
+  {
+    "lang": "bg",
+    "langType": "bg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "bg.xml"
+  },
+  {
+    "lang": "bg-BG",
+    "langType": "bg",
+    "territory": "BG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bg_BG.xml"
+  },
+  {
+    "lang": "bm",
+    "langType": "bm",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "bm.xml"
+  },
+  {
+    "lang": "bm-ML",
+    "langType": "bm",
+    "territory": "ML",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bm_ML.xml"
+  },
+  {
+    "lang": "bn",
+    "langType": "bn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "bn.xml"
+  },
+  {
+    "lang": "bn-BD",
+    "langType": "bn",
+    "territory": "BD",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bn_BD.xml"
+  },
+  {
+    "lang": "bn-IN",
+    "langType": "bn",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "bn_IN.xml"
+  },
+  {
+    "lang": "bo",
+    "langType": "bo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "bo.xml"
+  },
+  {
+    "lang": "bo-CN",
+    "langType": "bo",
+    "territory": "CN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bo_CN.xml"
+  },
+  {
+    "lang": "bo-IN",
+    "langType": "bo",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "bo_IN.xml"
+  },
+  {
+    "lang": "br",
+    "langType": "br",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "br.xml"
+  },
+  {
+    "lang": "br-FR",
+    "langType": "br",
+    "territory": "FR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "br_FR.xml"
+  },
+  {
+    "lang": "brx",
+    "langType": "brx",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "brx.xml"
+  },
+  {
+    "lang": "brx-IN",
+    "langType": "brx",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "brx_IN.xml"
+  },
+  {
+    "lang": "bs",
+    "langType": "bs",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "bs.xml"
+  },
+  {
+    "lang": "bs-Cyrl",
+    "langType": "bs",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "bs_Cyrl.xml"
+  },
+  {
+    "lang": "bs-Cyrl-BA",
+    "langType": "bs",
+    "territory": "BA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bs_Cyrl_BA.xml"
+  },
+  {
+    "lang": "bs-Latn",
+    "langType": "bs",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bs_Latn.xml"
+  },
+  {
+    "lang": "bs-Latn-BA",
+    "langType": "bs",
+    "territory": "BA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "bs_Latn_BA.xml"
+  },
+  {
+    "lang": "ca",
+    "langType": "ca",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "ca.xml"
+  },
+  {
+    "lang": "ca-AD",
+    "langType": "ca",
+    "territory": "AD",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ca_AD.xml"
+  },
+  {
+    "lang": "ca-ES",
+    "langType": "ca",
+    "territory": "ES",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ca_ES.xml"
+  },
+  {
+    "lang": "ca-ES-VALENCIA",
+    "langType": "ca",
+    "territory": "ES",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ca_ES_VALENCIA.xml"
+  },
+  {
+    "lang": "ca-FR",
+    "langType": "ca",
+    "territory": "FR",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ca_FR.xml"
+  },
+  {
+    "lang": "ca-IT",
+    "langType": "ca",
+    "territory": "IT",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ca_IT.xml"
+  },
+  {
+    "lang": "ccp",
+    "langType": "ccp",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ccp.xml"
+  },
+  {
+    "lang": "ccp-BD",
+    "langType": "ccp",
+    "territory": "BD",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ccp_BD.xml"
+  },
+  {
+    "lang": "ccp-IN",
+    "langType": "ccp",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ccp_IN.xml"
+  },
+  {
+    "lang": "ce",
+    "langType": "ce",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ce.xml"
+  },
+  {
+    "lang": "ce-RU",
+    "langType": "ce",
+    "territory": "RU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ce_RU.xml"
+  },
+  {
+    "lang": "ceb",
+    "langType": "ceb",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "ceb.xml"
+  },
+  {
+    "lang": "ceb-PH",
+    "langType": "ceb",
+    "territory": "PH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ceb_PH.xml"
+  },
+  {
+    "lang": "cgg",
+    "langType": "cgg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "cgg.xml"
+  },
+  {
+    "lang": "cgg-UG",
+    "langType": "cgg",
+    "territory": "UG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "cgg_UG.xml"
+  },
+  {
+    "lang": "chr",
+    "langType": "chr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "chr.xml"
+  },
+  {
+    "lang": "chr-US",
+    "langType": "chr",
+    "territory": "US",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "chr_US.xml"
+  },
+  {
+    "lang": "ckb",
+    "langType": "ckb",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "ckb.xml"
+  },
+  {
+    "lang": "ckb-IQ",
+    "langType": "ckb",
+    "territory": "IQ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ckb_IQ.xml"
+  },
+  {
+    "lang": "ckb-IR",
+    "langType": "ckb",
+    "territory": "IR",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ckb_IR.xml"
+  },
+  {
+    "lang": "cs",
+    "langType": "cs",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "cs.xml"
+  },
+  {
+    "lang": "cs-CZ",
+    "langType": "cs",
+    "territory": "CZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "cs_CZ.xml"
+  },
+  {
+    "lang": "cu",
+    "langType": "cu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "cu.xml"
+  },
+  {
+    "lang": "cu-RU",
+    "langType": "cu",
+    "territory": "RU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "cu_RU.xml"
+  },
+  {
+    "lang": "cy",
+    "langType": "cy",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "cy.xml"
+  },
+  {
+    "lang": "cy-GB",
+    "langType": "cy",
+    "territory": "GB",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "cy_GB.xml"
+  },
+  {
+    "lang": "da",
+    "langType": "da",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "da.xml"
+  },
+  {
+    "lang": "da-DK",
+    "langType": "da",
+    "territory": "DK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "da_DK.xml"
+  },
+  {
+    "lang": "da-GL",
+    "langType": "da",
+    "territory": "GL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "da_GL.xml"
+  },
+  {
+    "lang": "dav",
+    "langType": "dav",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "dav.xml"
+  },
+  {
+    "lang": "dav-KE",
+    "langType": "dav",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "dav_KE.xml"
+  },
+  {
+    "lang": "de",
+    "langType": "de",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "de.xml"
+  },
+  {
+    "lang": "de-AT",
+    "langType": "de",
+    "territory": "AT",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "de_AT.xml"
+  },
+  {
+    "lang": "de-BE",
+    "langType": "de",
+    "territory": "BE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "de_BE.xml"
+  },
+  {
+    "lang": "de-CH",
+    "langType": "de",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "de_CH.xml"
+  },
+  {
+    "lang": "de-DE",
+    "langType": "de",
+    "territory": "DE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "de_DE.xml"
+  },
+  {
+    "lang": "de-IT",
+    "langType": "de",
+    "territory": "IT",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "de_IT.xml"
+  },
+  {
+    "lang": "de-LI",
+    "langType": "de",
+    "territory": "LI",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "de_LI.xml"
+  },
+  {
+    "lang": "de-LU",
+    "langType": "de",
+    "territory": "LU",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "de_LU.xml"
+  },
+  {
+    "lang": "dje",
+    "langType": "dje",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "dje.xml"
+  },
+  {
+    "lang": "dje-NE",
+    "langType": "dje",
+    "territory": "NE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "dje_NE.xml"
+  },
+  {
+    "lang": "dsb",
+    "langType": "dsb",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "dsb.xml"
+  },
+  {
+    "lang": "dsb-DE",
+    "langType": "dsb",
+    "territory": "DE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "dsb_DE.xml"
+  },
+  {
+    "lang": "dua",
+    "langType": "dua",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "dua.xml"
+  },
+  {
+    "lang": "dua-CM",
+    "langType": "dua",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "dua_CM.xml"
+  },
+  {
+    "lang": "dv",
+    "langType": "dv",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "",
+    "file": ""
+  },
+  {
+    "lang": "dv-MW",
+    "langType": "dv",
+    "territory": "MV",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "",
+    "file": ""
+  },
+  {
+    "lang": "dyo",
+    "langType": "dyo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "dyo.xml"
+  },
+  {
+    "lang": "dyo-SN",
+    "langType": "dyo",
+    "territory": "SN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "dyo_SN.xml"
+  },
+  {
+    "lang": "dz",
+    "langType": "dz",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "dz.xml"
+  },
+  {
+    "lang": "dz-BT",
+    "langType": "dz",
+    "territory": "BT",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "dz_BT.xml"
+  },
+  {
+    "lang": "ebu",
+    "langType": "ebu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ebu.xml"
+  },
+  {
+    "lang": "ebu-KE",
+    "langType": "ebu",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ebu_KE.xml"
+  },
+  {
+    "lang": "ee",
+    "langType": "ee",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "ee.xml"
+  },
+  {
+    "lang": "ee-GH",
+    "langType": "ee",
+    "territory": "GH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ee_GH.xml"
+  },
+  {
+    "lang": "ee-TG",
+    "langType": "ee",
+    "territory": "TG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ee_TG.xml"
+  },
+  {
+    "lang": "el",
+    "langType": "el",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "el.xml"
+  },
+  {
+    "lang": "el-CY",
+    "langType": "el",
+    "territory": "CY",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "el_CY.xml"
+  },
+  {
+    "lang": "el-GR",
+    "langType": "el",
+    "territory": "GR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "el_GR.xml"
+  },
+  {
+    "lang": "en",
+    "langType": "en",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "en.xml"
+  },
+  {
+    "lang": "en-001",
+    "langType": "en",
+    "territory": "001",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "en_001.xml"
+  },
+  {
+    "lang": "en-150",
+    "langType": "en",
+    "territory": 150,
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_150.xml"
+  },
+  {
+    "lang": "en-AE",
+    "langType": "en",
+    "territory": "AE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_AE.xml"
+  },
+  {
+    "lang": "en-AG",
+    "langType": "en",
+    "territory": "AG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_AG.xml"
+  },
+  {
+    "lang": "en-AI",
+    "langType": "en",
+    "territory": "AI",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_AI.xml"
+  },
+  {
+    "lang": "en-AS",
+    "langType": "en",
+    "territory": "AS",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_AS.xml"
+  },
+  {
+    "lang": "en-AT",
+    "langType": "en",
+    "territory": "AT",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_AT.xml"
+  },
+  {
+    "lang": "en-AU",
+    "langType": "en",
+    "territory": "AU",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "en_AU.xml"
+  },
+  {
+    "lang": "en-BB",
+    "langType": "en",
+    "territory": "BB",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_BB.xml"
+  },
+  {
+    "lang": "en-BE",
+    "langType": "en",
+    "territory": "BE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_BE.xml"
+  },
+  {
+    "lang": "en-BI",
+    "langType": "en",
+    "territory": "BI",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_BI.xml"
+  },
+  {
+    "lang": "en-BM",
+    "langType": "en",
+    "territory": "BM",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_BM.xml"
+  },
+  {
+    "lang": "en-BS",
+    "langType": "en",
+    "territory": "BS",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_BS.xml"
+  },
+  {
+    "lang": "en-BW",
+    "langType": "en",
+    "territory": "BW",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_BW.xml"
+  },
+  {
+    "lang": "en-BZ",
+    "langType": "en",
+    "territory": "BZ",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "en_BZ.xml"
+  },
+  {
+    "lang": "en-CA",
+    "langType": "en",
+    "territory": "CA",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "en_CA.xml"
+  },
+  {
+    "lang": "en-CC",
+    "langType": "en",
+    "territory": "CC",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_CC.xml"
+  },
+  {
+    "lang": "en-CH",
+    "langType": "en",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_CH.xml"
+  },
+  {
+    "lang": "en-CK",
+    "langType": "en",
+    "territory": "CK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_CK.xml"
+  },
+  {
+    "lang": "en-CM",
+    "langType": "en",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_CM.xml"
+  },
+  {
+    "lang": "en-CX",
+    "langType": "en",
+    "territory": "CX",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_CX.xml"
+  },
+  {
+    "lang": "en-CY",
+    "langType": "en",
+    "territory": "CY",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_CY.xml"
+  },
+  {
+    "lang": "en-DE",
+    "langType": "en",
+    "territory": "DE",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_DE.xml"
+  },
+  {
+    "lang": "en-DG",
+    "langType": "en",
+    "territory": "DG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_DG.xml"
+  },
+  {
+    "lang": "en-DK",
+    "langType": "en",
+    "territory": "DK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_DK.xml"
+  },
+  {
+    "lang": "en-DM",
+    "langType": "en",
+    "territory": "DM",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_DM.xml"
+  },
+  {
+    "lang": "en-ER",
+    "langType": "en",
+    "territory": "ER",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_ER.xml"
+  },
+  {
+    "lang": "en-FI",
+    "langType": "en",
+    "territory": "FI",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "en_FI.xml"
+  },
+  {
+    "lang": "en-FJ",
+    "langType": "en",
+    "territory": "FJ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_FJ.xml"
+  },
+  {
+    "lang": "en-FK",
+    "langType": "en",
+    "territory": "FK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_FK.xml"
+  },
+  {
+    "lang": "en-FM",
+    "langType": "en",
+    "territory": "FM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_FM.xml"
+  },
+  {
+    "lang": "en-GB",
+    "langType": "en",
+    "territory": "GB",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "en_GB.xml"
+  },
+  {
+    "lang": "en-GD",
+    "langType": "en",
+    "territory": "GD",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_GD.xml"
+  },
+  {
+    "lang": "en-GG",
+    "langType": "en",
+    "territory": "GG",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_GG.xml"
+  },
+  {
+    "lang": "en-GH",
+    "langType": "en",
+    "territory": "GH",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_GH.xml"
+  },
+  {
+    "lang": "en-GI",
+    "langType": "en",
+    "territory": "GI",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_GI.xml"
+  },
+  {
+    "lang": "en-GM",
+    "langType": "en",
+    "territory": "GM",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_GM.xml"
+  },
+  {
+    "lang": "en-GU",
+    "langType": "en",
+    "territory": "GU",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_GU.xml"
+  },
+  {
+    "lang": "en-GY",
+    "langType": "en",
+    "territory": "GY",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_GY.xml"
+  },
+  {
+    "lang": "en-HK",
+    "langType": "en",
+    "territory": "HK",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_HK.xml"
+  },
+  {
+    "lang": "en-IE",
+    "langType": "en",
+    "territory": "IE",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_IE.xml"
+  },
+  {
+    "lang": "en-IL",
+    "langType": "en",
+    "territory": "IL",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_IL.xml"
+  },
+  {
+    "lang": "en-IM",
+    "langType": "en",
+    "territory": "IM",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_IM.xml"
+  },
+  {
+    "lang": "en-IN",
+    "langType": "en",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "en_IN.xml"
+  },
+  {
+    "lang": "en-IO",
+    "langType": "en",
+    "territory": "IO",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_IO.xml"
+  },
+  {
+    "lang": "en-JE",
+    "langType": "en",
+    "territory": "JE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_JE.xml"
+  },
+  {
+    "lang": "en-JM",
+    "langType": "en",
+    "territory": "JM",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_JM.xml"
+  },
+  {
+    "lang": "en-KE",
+    "langType": "en",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_KE.xml"
+  },
+  {
+    "lang": "en-KI",
+    "langType": "en",
+    "territory": "KI",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_KI.xml"
+  },
+  {
+    "lang": "en-KN",
+    "langType": "en",
+    "territory": "KN",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_KN.xml"
+  },
+  {
+    "lang": "en-KY",
+    "langType": "en",
+    "territory": "KY",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_KY.xml"
+  },
+  {
+    "lang": "en-LC",
+    "langType": "en",
+    "territory": "LC",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_LC.xml"
+  },
+  {
+    "lang": "en-LR",
+    "langType": "en",
+    "territory": "LR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_LR.xml"
+  },
+  {
+    "lang": "en-LS",
+    "langType": "en",
+    "territory": "LS",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_LS.xml"
+  },
+  {
+    "lang": "en-MG",
+    "langType": "en",
+    "territory": "MG",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_MG.xml"
+  },
+  {
+    "lang": "en-MH",
+    "langType": "en",
+    "territory": "MH",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_MH.xml"
+  },
+  {
+    "lang": "en-MO",
+    "langType": "en",
+    "territory": "MO",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_MO.xml"
+  },
+  {
+    "lang": "en-MP",
+    "langType": "en",
+    "territory": "MP",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_MP.xml"
+  },
+  {
+    "lang": "en-MS",
+    "langType": "en",
+    "territory": "MS",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_MS.xml"
+  },
+  {
+    "lang": "en-MT",
+    "langType": "en",
+    "territory": "MT",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_MT.xml"
+  },
+  {
+    "lang": "en-MU",
+    "langType": "en",
+    "territory": "MU",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_MU.xml"
+  },
+  {
+    "lang": "en-MW",
+    "langType": "en",
+    "territory": "MW",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_MW.xml"
+  },
+  {
+    "lang": "en-MY",
+    "langType": "en",
+    "territory": "MY",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_MY.xml"
+  },
+  {
+    "lang": "en-NA",
+    "langType": "en",
+    "territory": "NA",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_NA.xml"
+  },
+  {
+    "lang": "en-NF",
+    "langType": "en",
+    "territory": "NF",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_NF.xml"
+  },
+  {
+    "lang": "en-NG",
+    "langType": "en",
+    "territory": "NG",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_NG.xml"
+  },
+  {
+    "lang": "en-NL",
+    "langType": "en",
+    "territory": "NL",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_NL.xml"
+  },
+  {
+    "lang": "en-NR",
+    "langType": "en",
+    "territory": "NR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_NR.xml"
+  },
+  {
+    "lang": "en-NU",
+    "langType": "en",
+    "territory": "NU",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_NU.xml"
+  },
+  {
+    "lang": "en-NZ",
+    "langType": "en",
+    "territory": "NZ",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "en_NZ.xml"
+  },
+  {
+    "lang": "en-PG",
+    "langType": "en",
+    "territory": "PG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_PG.xml"
+  },
+  {
+    "lang": "en-PH",
+    "langType": "en",
+    "territory": "PH",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_PH.xml"
+  },
+  {
+    "lang": "en-PK",
+    "langType": "en",
+    "territory": "PK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_PK.xml"
+  },
+  {
+    "lang": "en-PN",
+    "langType": "en",
+    "territory": "PN",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_PN.xml"
+  },
+  {
+    "lang": "en-PR",
+    "langType": "en",
+    "territory": "PR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_PR.xml"
+  },
+  {
+    "lang": "en-PW",
+    "langType": "en",
+    "territory": "PW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_PW.xml"
+  },
+  {
+    "lang": "en-RW",
+    "langType": "en",
+    "territory": "RW",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_RW.xml"
+  },
+  {
+    "lang": "en-SB",
+    "langType": "en",
+    "territory": "SB",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_SB.xml"
+  },
+  {
+    "lang": "en-SC",
+    "langType": "en",
+    "territory": "SC",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_SC.xml"
+  },
+  {
+    "lang": "en-SD",
+    "langType": "en",
+    "territory": "SD",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_SD.xml"
+  },
+  {
+    "lang": "en-SE",
+    "langType": "en",
+    "territory": "SE",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "en_SE.xml"
+  },
+  {
+    "lang": "en-SG",
+    "langType": "en",
+    "territory": "SG",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_SG.xml"
+  },
+  {
+    "lang": "en-SH",
+    "langType": "en",
+    "territory": "SH",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_SH.xml"
+  },
+  {
+    "lang": "en-SI",
+    "langType": "en",
+    "territory": "SI",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_SI.xml"
+  },
+  {
+    "lang": "en-SL",
+    "langType": "en",
+    "territory": "SL",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_SL.xml"
+  },
+  {
+    "lang": "en-SS",
+    "langType": "en",
+    "territory": "SS",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_SS.xml"
+  },
+  {
+    "lang": "en-SX",
+    "langType": "en",
+    "territory": "SX",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_SX.xml"
+  },
+  {
+    "lang": "en-SZ",
+    "langType": "en",
+    "territory": "SZ",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_SZ.xml"
+  },
+  {
+    "lang": "en-TC",
+    "langType": "en",
+    "territory": "TC",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_TC.xml"
+  },
+  {
+    "lang": "en-TK",
+    "langType": "en",
+    "territory": "TK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_TK.xml"
+  },
+  {
+    "lang": "en-TO",
+    "langType": "en",
+    "territory": "TO",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_TO.xml"
+  },
+  {
+    "lang": "en-TT",
+    "langType": "en",
+    "territory": "TT",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_TT.xml"
+  },
+  {
+    "lang": "en-TV",
+    "langType": "en",
+    "territory": "TV",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_TV.xml"
+  },
+  {
+    "lang": "en-TZ",
+    "langType": "en",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_TZ.xml"
+  },
+  {
+    "lang": "en-UG",
+    "langType": "en",
+    "territory": "UG",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_UG.xml"
+  },
+  {
+    "lang": "en-UM",
+    "langType": "en",
+    "territory": "UM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_UM.xml"
+  },
+  {
+    "lang": "en-US",
+    "langType": "en",
+    "territory": "US",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_US.xml"
+  },
+  {
+    "lang": "en-US-POSIX",
+    "langType": "en",
+    "territory": "US",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_US_POSIX.xml"
+  },
+  {
+    "lang": "en-VC",
+    "langType": "en",
+    "territory": "VC",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_VC.xml"
+  },
+  {
+    "lang": "en-VG",
+    "langType": "en",
+    "territory": "VG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_VG.xml"
+  },
+  {
+    "lang": "en-VI",
+    "langType": "en",
+    "territory": "VI",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "en_VI.xml"
+  },
+  {
+    "lang": "en-VU",
+    "langType": "en",
+    "territory": "VU",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_VU.xml"
+  },
+  {
+    "lang": "en-WS",
+    "langType": "en",
+    "territory": "WS",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_WS.xml"
+  },
+  {
+    "lang": "en-ZA",
+    "langType": "en",
+    "territory": "ZA",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "en_ZA.xml"
+  },
+  {
+    "lang": "en-ZM",
+    "langType": "en",
+    "territory": "ZM",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "en_ZM.xml"
+  },
+  {
+    "lang": "en-ZW",
+    "langType": "en",
+    "territory": "ZW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "en_ZW.xml"
+  },
+  {
+    "lang": "eo",
+    "langType": "eo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "eo.xml"
+  },
+  {
+    "lang": "eo-001",
+    "langType": "eo",
+    "territory": "001",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "eo_001.xml"
+  },
+  {
+    "lang": "es",
+    "langType": "es",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "es.xml"
+  },
+  {
+    "lang": "es-419",
+    "langType": "es",
+    "territory": 419,
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "es_419.xml"
+  },
+  {
+    "lang": "es-AR",
+    "langType": "es",
+    "territory": "AR",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "es_AR.xml"
+  },
+  {
+    "lang": "es-BO",
+    "langType": "es",
+    "territory": "BO",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_BO.xml"
+  },
+  {
+    "lang": "es-BR",
+    "langType": "es",
+    "territory": "BR",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "es_BR.xml"
+  },
+  {
+    "lang": "es-BZ",
+    "langType": "es",
+    "territory": "BZ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "es_BZ.xml"
+  },
+  {
+    "lang": "es-CL",
+    "langType": "es",
+    "territory": "CL",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "es_CL.xml"
+  },
+  {
+    "lang": "es-CO",
+    "langType": "es",
+    "territory": "CO",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "es_CO.xml"
+  },
+  {
+    "lang": "es-CR",
+    "langType": "es",
+    "territory": "CR",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "es_CR.xml"
+  },
+  {
+    "lang": "es-CU",
+    "langType": "es",
+    "territory": "CU",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "es_CU.xml"
+  },
+  {
+    "lang": "es-DO",
+    "langType": "es",
+    "territory": "DO",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "es_DO.xml"
+  },
+  {
+    "lang": "es-EA",
+    "langType": "es",
+    "territory": "EA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "es_EA.xml"
+  },
+  {
+    "lang": "es-EC",
+    "langType": "es",
+    "territory": "EC",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_EC.xml"
+  },
+  {
+    "lang": "es-ES",
+    "langType": "es",
+    "territory": "ES",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "es_ES.xml"
+  },
+  {
+    "lang": "es-GQ",
+    "langType": "es",
+    "territory": "GQ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "es_GQ.xml"
+  },
+  {
+    "lang": "es-GT",
+    "langType": "es",
+    "territory": "GT",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "es_GT.xml"
+  },
+  {
+    "lang": "es-HN",
+    "langType": "es",
+    "territory": "HN",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_HN.xml"
+  },
+  {
+    "lang": "es-IC",
+    "langType": "es",
+    "territory": "IC",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "es_IC.xml"
+  },
+  {
+    "lang": "es-MX",
+    "langType": "es",
+    "territory": "MX",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "es_MX.xml"
+  },
+  {
+    "lang": "es-NI",
+    "langType": "es",
+    "territory": "NI",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_NI.xml"
+  },
+  {
+    "lang": "es-PA",
+    "langType": "es",
+    "territory": "PA",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_PA.xml"
+  },
+  {
+    "lang": "es-PE",
+    "langType": "es",
+    "territory": "PE",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_PE.xml"
+  },
+  {
+    "lang": "es-PH",
+    "langType": "es",
+    "territory": "PH",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "es_PH.xml"
+  },
+  {
+    "lang": "es-PR",
+    "langType": "es",
+    "territory": "PR",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "es_PR.xml"
+  },
+  {
+    "lang": "es-PY",
+    "langType": "es",
+    "territory": "PY",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "es_PY.xml"
+  },
+  {
+    "lang": "es-SV",
+    "langType": "es",
+    "territory": "SV",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_SV.xml"
+  },
+  {
+    "lang": "es-US",
+    "langType": "es",
+    "territory": "US",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "es_US.xml"
+  },
+  {
+    "lang": "es-UY",
+    "langType": "es",
+    "territory": "UY",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "es_UY.xml"
+  },
+  {
+    "lang": "es-VE",
+    "langType": "es",
+    "territory": "VE",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "es_VE.xml"
+  },
+  {
+    "lang": "et",
+    "langType": "et",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "et.xml"
+  },
+  {
+    "lang": "et-EE",
+    "langType": "et",
+    "territory": "EE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "et_EE.xml"
+  },
+  {
+    "lang": "eu",
+    "langType": "eu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "eu.xml"
+  },
+  {
+    "lang": "eu-ES",
+    "langType": "eu",
+    "territory": "ES",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "eu_ES.xml"
+  },
+  {
+    "lang": "ewo",
+    "langType": "ewo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ewo.xml"
+  },
+  {
+    "lang": "ewo-CM",
+    "langType": "ewo",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ewo_CM.xml"
+  },
+  {
+    "lang": "fa",
+    "langType": "fa",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "fa.xml"
+  },
+  {
+    "lang": "fa-AF",
+    "langType": "fa",
+    "territory": "AF",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "fa_AF.xml"
+  },
+  {
+    "lang": "fa-IR",
+    "langType": "fa",
+    "territory": "IR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fa_IR.xml"
+  },
+  {
+    "lang": "ff",
+    "langType": "ff",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ff.xml"
+  },
+  {
+    "lang": "ff-Adlm",
+    "langType": "ff",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "ff_Adlm.xml"
+  },
+  {
+    "lang": "ff-Adlm-BF",
+    "langType": "ff",
+    "territory": "BF",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Adlm_BF.xml"
+  },
+  {
+    "lang": "ff-Adlm-CM",
+    "langType": "ff",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Adlm_CM.xml"
+  },
+  {
+    "lang": "ff-Adlm-GH",
+    "langType": "ff",
+    "territory": "GH",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Adlm_GH.xml"
+  },
+  {
+    "lang": "ff-Adlm-GM",
+    "langType": "ff",
+    "territory": "GM",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Adlm_GM.xml"
+  },
+  {
+    "lang": "ff-Adlm-GN",
+    "langType": "ff",
+    "territory": "GN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ff_Adlm_GN.xml"
+  },
+  {
+    "lang": "ff-Adlm-GW",
+    "langType": "ff",
+    "territory": "GW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Adlm_GW.xml"
+  },
+  {
+    "lang": "ff-Adlm-LR",
+    "langType": "ff",
+    "territory": "LR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Adlm_LR.xml"
+  },
+  {
+    "lang": "ff-Adlm-MR",
+    "langType": "ff",
+    "territory": "MR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Adlm_MR.xml"
+  },
+  {
+    "lang": "ff-Adlm-NE",
+    "langType": "ff",
+    "territory": "NE",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Adlm_NE.xml"
+  },
+  {
+    "lang": "ff-Adlm-NG",
+    "langType": "ff",
+    "territory": "NG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Adlm_NG.xml"
+  },
+  {
+    "lang": "ff-Adlm-SL",
+    "langType": "ff",
+    "territory": "SL",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Adlm_SL.xml"
+  },
+  {
+    "lang": "ff-Adlm-SN",
+    "langType": "ff",
+    "territory": "SN",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Adlm_SN.xml"
+  },
+  {
+    "lang": "ff-Latn",
+    "langType": "ff",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ff_Latn.xml"
+  },
+  {
+    "lang": "ff-Latn-BF",
+    "langType": "ff",
+    "territory": "BF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ff_Latn_BF.xml"
+  },
+  {
+    "lang": "ff-Latn-CM",
+    "langType": "ff",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ff_Latn_CM.xml"
+  },
+  {
+    "lang": "ff-Latn-GH",
+    "langType": "ff",
+    "territory": "GH",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Latn_GH.xml"
+  },
+  {
+    "lang": "ff-Latn-GM",
+    "langType": "ff",
+    "territory": "GM",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Latn_GM.xml"
+  },
+  {
+    "lang": "ff-Latn-GN",
+    "langType": "ff",
+    "territory": "GN",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Latn_GN.xml"
+  },
+  {
+    "lang": "ff-Latn-GW",
+    "langType": "ff",
+    "territory": "GW",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ff_Latn_GW.xml"
+  },
+  {
+    "lang": "ff-Latn-LR",
+    "langType": "ff",
+    "territory": "LR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Latn_LR.xml"
+  },
+  {
+    "lang": "ff-Latn-MR",
+    "langType": "ff",
+    "territory": "MR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Latn_MR.xml"
+  },
+  {
+    "lang": "ff-Latn-NE",
+    "langType": "ff",
+    "territory": "NE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ff_Latn_NE.xml"
+  },
+  {
+    "lang": "ff-Latn-NG",
+    "langType": "ff",
+    "territory": "NG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ff_Latn_NG.xml"
+  },
+  {
+    "lang": "ff-Latn-SL",
+    "langType": "ff",
+    "territory": "SL",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ff_Latn_SL.xml"
+  },
+  {
+    "lang": "ff-Latn-SN",
+    "langType": "ff",
+    "territory": "SN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ff_Latn_SN.xml"
+  },
+  {
+    "lang": "fi",
+    "langType": "fi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "fi.xml"
+  },
+  {
+    "lang": "fi-FI",
+    "langType": "fi",
+    "territory": "FI",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fi_FI.xml"
+  },
+  {
+    "lang": "fil",
+    "langType": "fil",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "fil.xml"
+  },
+  {
+    "lang": "fil-PH",
+    "langType": "fil",
+    "territory": "PH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fil_PH.xml"
+  },
+  {
+    "lang": "fo",
+    "langType": "fo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "fo.xml"
+  },
+  {
+    "lang": "fo-DK",
+    "langType": "fo",
+    "territory": "DK",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fo_DK.xml"
+  },
+  {
+    "lang": "fo-FO",
+    "langType": "fo",
+    "territory": "FO",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fo_FO.xml"
+  },
+  {
+    "lang": "fr",
+    "langType": "fr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "fr.xml"
+  },
+  {
+    "lang": "fr-BE",
+    "langType": "fr",
+    "territory": "BE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_BE.xml"
+  },
+  {
+    "lang": "fr-BF",
+    "langType": "fr",
+    "territory": "BF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_BF.xml"
+  },
+  {
+    "lang": "fr-BI",
+    "langType": "fr",
+    "territory": "BI",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_BI.xml"
+  },
+  {
+    "lang": "fr-BJ",
+    "langType": "fr",
+    "territory": "BJ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_BJ.xml"
+  },
+  {
+    "lang": "fr-BL",
+    "langType": "fr",
+    "territory": "BL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_BL.xml"
+  },
+  {
+    "lang": "fr-CA",
+    "langType": "fr",
+    "territory": "CA",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "fr_CA.xml"
+  },
+  {
+    "lang": "fr-CD",
+    "langType": "fr",
+    "territory": "CD",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_CD.xml"
+  },
+  {
+    "lang": "fr-CF",
+    "langType": "fr",
+    "territory": "CF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_CF.xml"
+  },
+  {
+    "lang": "fr-CG",
+    "langType": "fr",
+    "territory": "CG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_CG.xml"
+  },
+  {
+    "lang": "fr-CH",
+    "langType": "fr",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "fr_CH.xml"
+  },
+  {
+    "lang": "fr-CI",
+    "langType": "fr",
+    "territory": "CI",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_CI.xml"
+  },
+  {
+    "lang": "fr-CM",
+    "langType": "fr",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_CM.xml"
+  },
+  {
+    "lang": "fr-DJ",
+    "langType": "fr",
+    "territory": "DJ",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_DJ.xml"
+  },
+  {
+    "lang": "fr-DZ",
+    "langType": "fr",
+    "territory": "DZ",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_DZ.xml"
+  },
+  {
+    "lang": "fr-FR",
+    "langType": "fr",
+    "territory": "FR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_FR.xml"
+  },
+  {
+    "lang": "fr-GA",
+    "langType": "fr",
+    "territory": "GA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_GA.xml"
+  },
+  {
+    "lang": "fr-GF",
+    "langType": "fr",
+    "territory": "GF",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_GF.xml"
+  },
+  {
+    "lang": "fr-GN",
+    "langType": "fr",
+    "territory": "GN",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_GN.xml"
+  },
+  {
+    "lang": "fr-GP",
+    "langType": "fr",
+    "territory": "GP",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_GP.xml"
+  },
+  {
+    "lang": "fr-GQ",
+    "langType": "fr",
+    "territory": "GQ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_GQ.xml"
+  },
+  {
+    "lang": "fr-HT",
+    "langType": "fr",
+    "territory": "HT",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "fr_HT.xml"
+  },
+  {
+    "lang": "fr-KM",
+    "langType": "fr",
+    "territory": "KM",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_KM.xml"
+  },
+  {
+    "lang": "fr-LU",
+    "langType": "fr",
+    "territory": "LU",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_LU.xml"
+  },
+  {
+    "lang": "fr-MA",
+    "langType": "fr",
+    "territory": "MA",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "fr_MA.xml"
+  },
+  {
+    "lang": "fr-MC",
+    "langType": "fr",
+    "territory": "MC",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_MC.xml"
+  },
+  {
+    "lang": "fr-MF",
+    "langType": "fr",
+    "territory": "MF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_MF.xml"
+  },
+  {
+    "lang": "fr-MG",
+    "langType": "fr",
+    "territory": "MG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_MG.xml"
+  },
+  {
+    "lang": "fr-ML",
+    "langType": "fr",
+    "territory": "ML",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_ML.xml"
+  },
+  {
+    "lang": "fr-MQ",
+    "langType": "fr",
+    "territory": "MQ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_MQ.xml"
+  },
+  {
+    "lang": "fr-MR",
+    "langType": "fr",
+    "territory": "MR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_MR.xml"
+  },
+  {
+    "lang": "fr-MU",
+    "langType": "fr",
+    "territory": "MU",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_MU.xml"
+  },
+  {
+    "lang": "fr-NC",
+    "langType": "fr",
+    "territory": "NC",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_NC.xml"
+  },
+  {
+    "lang": "fr-NE",
+    "langType": "fr",
+    "territory": "NE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_NE.xml"
+  },
+  {
+    "lang": "fr-PF",
+    "langType": "fr",
+    "territory": "PF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_PF.xml"
+  },
+  {
+    "lang": "fr-PM",
+    "langType": "fr",
+    "territory": "PM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_PM.xml"
+  },
+  {
+    "lang": "fr-RE",
+    "langType": "fr",
+    "territory": "RE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_RE.xml"
+  },
+  {
+    "lang": "fr-RW",
+    "langType": "fr",
+    "territory": "RW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_RW.xml"
+  },
+  {
+    "lang": "fr-SC",
+    "langType": "fr",
+    "territory": "SC",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_SC.xml"
+  },
+  {
+    "lang": "fr-SN",
+    "langType": "fr",
+    "territory": "SN",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_SN.xml"
+  },
+  {
+    "lang": "fr-SY",
+    "langType": "fr",
+    "territory": "SY",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_SY.xml"
+  },
+  {
+    "lang": "fr-TD",
+    "langType": "fr",
+    "territory": "TD",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "fr_TD.xml"
+  },
+  {
+    "lang": "fr-TG",
+    "langType": "fr",
+    "territory": "TG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_TG.xml"
+  },
+  {
+    "lang": "fr-TN",
+    "langType": "fr",
+    "territory": "TN",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_TN.xml"
+  },
+  {
+    "lang": "fr-VU",
+    "langType": "fr",
+    "territory": "VU",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "fr_VU.xml"
+  },
+  {
+    "lang": "fr-WF",
+    "langType": "fr",
+    "territory": "WF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_WF.xml"
+  },
+  {
+    "lang": "fr-YT",
+    "langType": "fr",
+    "territory": "YT",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fr_YT.xml"
+  },
+  {
+    "lang": "fur",
+    "langType": "fur",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "fur.xml"
+  },
+  {
+    "lang": "fur-IT",
+    "langType": "fur",
+    "territory": "IT",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fur_IT.xml"
+  },
+  {
+    "lang": "fy",
+    "langType": "fy",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "fy.xml"
+  },
+  {
+    "lang": "fy-NL",
+    "langType": "fy",
+    "territory": "NL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "fy_NL.xml"
+  },
+  {
+    "lang": "ga",
+    "langType": "ga",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "ga.xml"
+  },
+  {
+    "lang": "ga-GB",
+    "langType": "ga",
+    "territory": "GB",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ga_GB.xml"
+  },
+  {
+    "lang": "ga-IE",
+    "langType": "ga",
+    "territory": "IE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ga_IE.xml"
+  },
+  {
+    "lang": "gd",
+    "langType": "gd",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "gd.xml"
+  },
+  {
+    "lang": "gd-GB",
+    "langType": "gd",
+    "territory": "GB",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "gd_GB.xml"
+  },
+  {
+    "lang": "gl",
+    "langType": "gl",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "gl.xml"
+  },
+  {
+    "lang": "gl-ES",
+    "langType": "gl",
+    "territory": "ES",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "gl_ES.xml"
+  },
+  {
+    "lang": "gsw",
+    "langType": "gsw",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "gsw.xml"
+  },
+  {
+    "lang": "gsw-CH",
+    "langType": "gsw",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "gsw_CH.xml"
+  },
+  {
+    "lang": "gsw-FR",
+    "langType": "gsw",
+    "territory": "FR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "gsw_FR.xml"
+  },
+  {
+    "lang": "gsw-LI",
+    "langType": "gsw",
+    "territory": "LI",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "gsw_LI.xml"
+  },
+  {
+    "lang": "gu",
+    "langType": "gu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "gu.xml"
+  },
+  {
+    "lang": "gu-IN",
+    "langType": "gu",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "gu_IN.xml"
+  },
+  {
+    "lang": "guz",
+    "langType": "guz",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "guz.xml"
+  },
+  {
+    "lang": "guz-KE",
+    "langType": "guz",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "guz_KE.xml"
+  },
+  {
+    "lang": "gv",
+    "langType": "gv",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "gv.xml"
+  },
+  {
+    "lang": "gv-IM",
+    "langType": "gv",
+    "territory": "IM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "gv_IM.xml"
+  },
+  {
+    "lang": "ha",
+    "langType": "ha",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "ha.xml"
+  },
+  {
+    "lang": "ha-GH",
+    "langType": "ha",
+    "territory": "GH",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ha_GH.xml"
+  },
+  {
+    "lang": "ha-NE",
+    "langType": "ha",
+    "territory": "NE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ha_NE.xml"
+  },
+  {
+    "lang": "ha-NG",
+    "langType": "ha",
+    "territory": "NG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ha_NG.xml"
+  },
+  {
+    "lang": "haw",
+    "langType": "haw",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "haw.xml"
+  },
+  {
+    "lang": "haw-US",
+    "langType": "haw",
+    "territory": "US",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "haw_US.xml"
+  },
+  {
+    "lang": "he",
+    "langType": "he",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "he.xml"
+  },
+  {
+    "lang": "he-IL",
+    "langType": "he",
+    "territory": "IL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "he_IL.xml"
+  },
+  {
+    "lang": "hi",
+    "langType": "hi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "hi.xml"
+  },
+  {
+    "lang": "hi-IN",
+    "langType": "hi",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "hi_IN.xml"
+  },
+  {
+    "lang": "hr",
+    "langType": "hr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "hr.xml"
+  },
+  {
+    "lang": "hr-BA",
+    "langType": "hr",
+    "territory": "BA",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "hr_BA.xml"
+  },
+  {
+    "lang": "hr-HR",
+    "langType": "hr",
+    "territory": "HR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "hr_HR.xml"
+  },
+  {
+    "lang": "hsb",
+    "langType": "hsb",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "hsb.xml"
+  },
+  {
+    "lang": "hsb-DE",
+    "langType": "hsb",
+    "territory": "DE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "hsb_DE.xml"
+  },
+  {
+    "lang": "hu",
+    "langType": "hu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "hu.xml"
+  },
+  {
+    "lang": "hu-HU",
+    "langType": "hu",
+    "territory": "HU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "hu_HU.xml"
+  },
+  {
+    "lang": "hy",
+    "langType": "hy",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "hy.xml"
+  },
+  {
+    "lang": "hy-AM",
+    "langType": "hy",
+    "territory": "AM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "hy_AM.xml"
+  },
+  {
+    "lang": "ia",
+    "langType": "ia",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ia.xml"
+  },
+  {
+    "lang": "ia-001",
+    "langType": "ia",
+    "territory": "001",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ia_001.xml"
+  },
+  {
+    "lang": "id",
+    "langType": "id",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "id.xml"
+  },
+  {
+    "lang": "id-ID",
+    "langType": "id",
+    "territory": "ID",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "id_ID.xml"
+  },
+  {
+    "lang": "ig",
+    "langType": "ig",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "ig.xml"
+  },
+  {
+    "lang": "ig-NG",
+    "langType": "ig",
+    "territory": "NG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ig_NG.xml"
+  },
+  {
+    "lang": "ii",
+    "langType": "ii",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "ii.xml"
+  },
+  {
+    "lang": "ii-CN",
+    "langType": "ii",
+    "territory": "CN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ii_CN.xml"
+  },
+  {
+    "lang": "is",
+    "langType": "is",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "is.xml"
+  },
+  {
+    "lang": "is-IS",
+    "langType": "is",
+    "territory": "IS",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "is_IS.xml"
+  },
+  {
+    "lang": "it",
+    "langType": "it",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "it.xml"
+  },
+  {
+    "lang": "it-CH",
+    "langType": "it",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "it_CH.xml"
+  },
+  {
+    "lang": "it-IT",
+    "langType": "it",
+    "territory": "IT",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "it_IT.xml"
+  },
+  {
+    "lang": "it-SM",
+    "langType": "it",
+    "territory": "SM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "it_SM.xml"
+  },
+  {
+    "lang": "it-VA",
+    "langType": "it",
+    "territory": "VA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "it_VA.xml"
+  },
+  {
+    "lang": "ja",
+    "langType": "ja",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ja.xml"
+  },
+  {
+    "lang": "ja-JP",
+    "langType": "ja",
+    "territory": "JP",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ja_JP.xml"
+  },
+  {
+    "lang": "jgo",
+    "langType": "jgo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "jgo.xml"
+  },
+  {
+    "lang": "jgo-CM",
+    "langType": "jgo",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "jgo_CM.xml"
+  },
+  {
+    "lang": "jmc",
+    "langType": "jmc",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "jmc.xml"
+  },
+  {
+    "lang": "jmc-TZ",
+    "langType": "jmc",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "jmc_TZ.xml"
+  },
+  {
+    "lang": "jv",
+    "langType": "jv",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "jv.xml"
+  },
+  {
+    "lang": "jv-ID",
+    "langType": "jv",
+    "territory": "ID",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "jv_ID.xml"
+  },
+  {
+    "lang": "ka",
+    "langType": "ka",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ka.xml"
+  },
+  {
+    "lang": "ka-GE",
+    "langType": "ka",
+    "territory": "GE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ka_GE.xml"
+  },
+  {
+    "lang": "kab",
+    "langType": "kab",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "kab.xml"
+  },
+  {
+    "lang": "kab-DZ",
+    "langType": "kab",
+    "territory": "DZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kab_DZ.xml"
+  },
+  {
+    "lang": "kam",
+    "langType": "kam",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "kam.xml"
+  },
+  {
+    "lang": "kam-KE",
+    "langType": "kam",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kam_KE.xml"
+  },
+  {
+    "lang": "kde",
+    "langType": "kde",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "kde.xml"
+  },
+  {
+    "lang": "kde-TZ",
+    "langType": "kde",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kde_TZ.xml"
+  },
+  {
+    "lang": "kea",
+    "langType": "kea",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "kea.xml"
+  },
+  {
+    "lang": "kea-CV",
+    "langType": "kea",
+    "territory": "CV",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kea_CV.xml"
+  },
+  {
+    "lang": "khq",
+    "langType": "khq",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "khq.xml"
+  },
+  {
+    "lang": "khq-ML",
+    "langType": "khq",
+    "territory": "ML",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "khq_ML.xml"
+  },
+  {
+    "lang": "ki",
+    "langType": "ki",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ki.xml"
+  },
+  {
+    "lang": "ki-KE",
+    "langType": "ki",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ki_KE.xml"
+  },
+  {
+    "lang": "kk",
+    "langType": "kk",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "kk.xml"
+  },
+  {
+    "lang": "kk-KZ",
+    "langType": "kk",
+    "territory": "KZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kk_KZ.xml"
+  },
+  {
+    "lang": "kkj",
+    "langType": "kkj",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "kkj.xml"
+  },
+  {
+    "lang": "kkj-CM",
+    "langType": "kkj",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kkj_CM.xml"
+  },
+  {
+    "lang": "kl",
+    "langType": "kl",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "kl.xml"
+  },
+  {
+    "lang": "kl-GL",
+    "langType": "kl",
+    "territory": "GL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kl_GL.xml"
+  },
+  {
+    "lang": "kln",
+    "langType": "kln",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "kln.xml"
+  },
+  {
+    "lang": "kln-KE",
+    "langType": "kln",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kln_KE.xml"
+  },
+  {
+    "lang": "km",
+    "langType": "km",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "km.xml"
+  },
+  {
+    "lang": "km-KH",
+    "langType": "km",
+    "territory": "KH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "km_KH.xml"
+  },
+  {
+    "lang": "kn",
+    "langType": "kn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "kn.xml"
+  },
+  {
+    "lang": "kn-IN",
+    "langType": "kn",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kn_IN.xml"
+  },
+  {
+    "lang": "ko",
+    "langType": "ko",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ko.xml"
+  },
+  {
+    "lang": "ko-KP",
+    "langType": "ko",
+    "territory": "KP",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ko_KP.xml"
+  },
+  {
+    "lang": "ko-KR",
+    "langType": "ko",
+    "territory": "KR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ko_KR.xml"
+  },
+  {
+    "lang": "kok",
+    "langType": "kok",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "kok.xml"
+  },
+  {
+    "lang": "kok-IN",
+    "langType": "kok",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kok_IN.xml"
+  },
+  {
+    "lang": "ks",
+    "langType": "ks",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "ks.xml"
+  },
+  {
+    "lang": "ks-Arab",
+    "langType": "ks",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ks_Arab.xml"
+  },
+  {
+    "lang": "ks-Arab-IN",
+    "langType": "ks",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ks_Arab_IN.xml"
+  },
+  {
+    "lang": "ksb",
+    "langType": "ksb",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ksb.xml"
+  },
+  {
+    "lang": "ksb-TZ",
+    "langType": "ksb",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ksb_TZ.xml"
+  },
+  {
+    "lang": "ksf",
+    "langType": "ksf",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ksf.xml"
+  },
+  {
+    "lang": "ksf-CM",
+    "langType": "ksf",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ksf_CM.xml"
+  },
+  {
+    "lang": "ksh",
+    "langType": "ksh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "ksh.xml"
+  },
+  {
+    "lang": "ksh-DE",
+    "langType": "ksh",
+    "territory": "DE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ksh_DE.xml"
+  },
+  {
+    "lang": "ku",
+    "langType": "ku",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "ku.xml"
+  },
+  {
+    "lang": "ku-TR",
+    "langType": "ku",
+    "territory": "TR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ku_TR.xml"
+  },
+  {
+    "lang": "kw",
+    "langType": "kw",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "kw.xml"
+  },
+  {
+    "lang": "kw-GB",
+    "langType": "kw",
+    "territory": "GB",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "kw_GB.xml"
+  },
+  {
+    "lang": "ky",
+    "langType": "ky",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ky.xml"
+  },
+  {
+    "lang": "ky-KG",
+    "langType": "ky",
+    "territory": "KG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ky_KG.xml"
+  },
+  {
+    "lang": "lag",
+    "langType": "lag",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "lag.xml"
+  },
+  {
+    "lang": "lag-TZ",
+    "langType": "lag",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lag_TZ.xml"
+  },
+  {
+    "lang": "lb",
+    "langType": "lb",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "lb.xml"
+  },
+  {
+    "lang": "lb-LU",
+    "langType": "lb",
+    "territory": "LU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lb_LU.xml"
+  },
+  {
+    "lang": "lg",
+    "langType": "lg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "lg.xml"
+  },
+  {
+    "lang": "lg-UG",
+    "langType": "lg",
+    "territory": "UG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lg_UG.xml"
+  },
+  {
+    "lang": "lkt",
+    "langType": "lkt",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "lkt.xml"
+  },
+  {
+    "lang": "lkt-US",
+    "langType": "lkt",
+    "territory": "US",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lkt_US.xml"
+  },
+  {
+    "lang": "ln",
+    "langType": "ln",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "ln.xml"
+  },
+  {
+    "lang": "ln-AO",
+    "langType": "ln",
+    "territory": "AO",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ln_AO.xml"
+  },
+  {
+    "lang": "ln-CD",
+    "langType": "ln",
+    "territory": "CD",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ln_CD.xml"
+  },
+  {
+    "lang": "ln-CF",
+    "langType": "ln",
+    "territory": "CF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ln_CF.xml"
+  },
+  {
+    "lang": "ln-CG",
+    "langType": "ln",
+    "territory": "CG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ln_CG.xml"
+  },
+  {
+    "lang": "lo",
+    "langType": "lo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "lo.xml"
+  },
+  {
+    "lang": "lo-LA",
+    "langType": "lo",
+    "territory": "LA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lo_LA.xml"
+  },
+  {
+    "lang": "lrc",
+    "langType": "lrc",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "lrc.xml"
+  },
+  {
+    "lang": "lrc-IQ",
+    "langType": "lrc",
+    "territory": "IQ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "lrc_IQ.xml"
+  },
+  {
+    "lang": "lrc-IR",
+    "langType": "lrc",
+    "territory": "IR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lrc_IR.xml"
+  },
+  {
+    "lang": "lt",
+    "langType": "lt",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "lt.xml"
+  },
+  {
+    "lang": "lt-LT",
+    "langType": "lt",
+    "territory": "LT",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lt_LT.xml"
+  },
+  {
+    "lang": "lu",
+    "langType": "lu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "lu.xml"
+  },
+  {
+    "lang": "lu-CD",
+    "langType": "lu",
+    "territory": "CD",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lu_CD.xml"
+  },
+  {
+    "lang": "luo",
+    "langType": "luo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "luo.xml"
+  },
+  {
+    "lang": "luo-KE",
+    "langType": "luo",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "luo_KE.xml"
+  },
+  {
+    "lang": "luy",
+    "langType": "luy",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "luy.xml"
+  },
+  {
+    "lang": "luy-KE",
+    "langType": "luy",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "luy_KE.xml"
+  },
+  {
+    "lang": "lv",
+    "langType": "lv",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "lv.xml"
+  },
+  {
+    "lang": "lv-LV",
+    "langType": "lv",
+    "territory": "LV",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "lv_LV.xml"
+  },
+  {
+    "lang": "mai",
+    "langType": "mai",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "mai.xml"
+  },
+  {
+    "lang": "mai-IN",
+    "langType": "mai",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mai_IN.xml"
+  },
+  {
+    "lang": "mas",
+    "langType": "mas",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "mas.xml"
+  },
+  {
+    "lang": "mas-KE",
+    "langType": "mas",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mas_KE.xml"
+  },
+  {
+    "lang": "mas-TZ",
+    "langType": "mas",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "mas_TZ.xml"
+  },
+  {
+    "lang": "mer",
+    "langType": "mer",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "mer.xml"
+  },
+  {
+    "lang": "mer-KE",
+    "langType": "mer",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mer_KE.xml"
+  },
+  {
+    "lang": "mfe",
+    "langType": "mfe",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "mfe.xml"
+  },
+  {
+    "lang": "mfe-MU",
+    "langType": "mfe",
+    "territory": "MU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mfe_MU.xml"
+  },
+  {
+    "lang": "mg",
+    "langType": "mg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "mg.xml"
+  },
+  {
+    "lang": "mg-MG",
+    "langType": "mg",
+    "territory": "MG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mg_MG.xml"
+  },
+  {
+    "lang": "mgh",
+    "langType": "mgh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "mgh.xml"
+  },
+  {
+    "lang": "mgh-MZ",
+    "langType": "mgh",
+    "territory": "MZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mgh_MZ.xml"
+  },
+  {
+    "lang": "mgo",
+    "langType": "mgo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "mgo.xml"
+  },
+  {
+    "lang": "mgo-CM",
+    "langType": "mgo",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mgo_CM.xml"
+  },
+  {
+    "lang": "mi",
+    "langType": "mi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "mi.xml"
+  },
+  {
+    "lang": "mi-NZ",
+    "langType": "mi",
+    "territory": "NZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mi_NZ.xml"
+  },
+  {
+    "lang": "mk",
+    "langType": "mk",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "mk.xml"
+  },
+  {
+    "lang": "mk-MK",
+    "langType": "mk",
+    "territory": "MK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mk_MK.xml"
+  },
+  {
+    "lang": "ml",
+    "langType": "ml",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ml.xml"
+  },
+  {
+    "lang": "ml-IN",
+    "langType": "ml",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ml_IN.xml"
+  },
+  {
+    "lang": "mn",
+    "langType": "mn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "mn.xml"
+  },
+  {
+    "lang": "mn-MN",
+    "langType": "mn",
+    "territory": "MN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mn_MN.xml"
+  },
+  {
+    "lang": "mni",
+    "langType": "mni",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "mni.xml"
+  },
+  {
+    "lang": "mni-Beng",
+    "langType": "mni",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mni_Beng.xml"
+  },
+  {
+    "lang": "mni-Beng-IN",
+    "langType": "mni",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mni_Beng_IN.xml"
+  },
+  {
+    "lang": "mr",
+    "langType": "mr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "mr.xml"
+  },
+  {
+    "lang": "mr-IN",
+    "langType": "mr",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mr_IN.xml"
+  },
+  {
+    "lang": "ms",
+    "langType": "ms",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ms.xml"
+  },
+  {
+    "lang": "ms-BN",
+    "langType": "ms",
+    "territory": "BN",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ms_BN.xml"
+  },
+  {
+    "lang": "ms-ID",
+    "langType": "ms",
+    "territory": "ID",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ms_ID.xml"
+  },
+  {
+    "lang": "ms-MY",
+    "langType": "ms",
+    "territory": "MY",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ms_MY.xml"
+  },
+  {
+    "lang": "ms-SG",
+    "langType": "ms",
+    "territory": "SG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ms_SG.xml"
+  },
+  {
+    "lang": "mt",
+    "langType": "mt",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "mt.xml"
+  },
+  {
+    "lang": "mt-MT",
+    "langType": "mt",
+    "territory": "MT",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mt_MT.xml"
+  },
+  {
+    "lang": "mua",
+    "langType": "mua",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "mua.xml"
+  },
+  {
+    "lang": "mua-CM",
+    "langType": "mua",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mua_CM.xml"
+  },
+  {
+    "lang": "my",
+    "langType": "my",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "my.xml"
+  },
+  {
+    "lang": "my-MM",
+    "langType": "my",
+    "territory": "MM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "my_MM.xml"
+  },
+  {
+    "lang": "mzn",
+    "langType": "mzn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "mzn.xml"
+  },
+  {
+    "lang": "mzn-IR",
+    "langType": "mzn",
+    "territory": "IR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "mzn_IR.xml"
+  },
+  {
+    "lang": "naq",
+    "langType": "naq",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "naq.xml"
+  },
+  {
+    "lang": "naq-NA",
+    "langType": "naq",
+    "territory": "NA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "naq_NA.xml"
+  },
+  {
+    "lang": "nb",
+    "langType": "nb",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "nb.xml"
+  },
+  {
+    "lang": "nb-NO",
+    "langType": "nb",
+    "territory": "NO",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nb_NO.xml"
+  },
+  {
+    "lang": "nb-SJ",
+    "langType": "nb",
+    "territory": "SJ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nb_SJ.xml"
+  },
+  {
+    "lang": "nd",
+    "langType": "nd",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "nd.xml"
+  },
+  {
+    "lang": "nd-ZW",
+    "langType": "nd",
+    "territory": "ZW",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nd_ZW.xml"
+  },
+  {
+    "lang": "nds",
+    "langType": "nds",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "nds.xml"
+  },
+  {
+    "lang": "nds-DE",
+    "langType": "nds",
+    "territory": "DE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nds_DE.xml"
+  },
+  {
+    "lang": "nds-NL",
+    "langType": "nds",
+    "territory": "NL",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "nds_NL.xml"
+  },
+  {
+    "lang": "ne",
+    "langType": "ne",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ne.xml"
+  },
+  {
+    "lang": "ne-IN",
+    "langType": "ne",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ne_IN.xml"
+  },
+  {
+    "lang": "ne-NP",
+    "langType": "ne",
+    "territory": "NP",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ne_NP.xml"
+  },
+  {
+    "lang": "nl",
+    "langType": "nl",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "nl.xml"
+  },
+  {
+    "lang": "nl-AW",
+    "langType": "nl",
+    "territory": "AW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "nl_AW.xml"
+  },
+  {
+    "lang": "nl-BE",
+    "langType": "nl",
+    "territory": "BE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "nl_BE.xml"
+  },
+  {
+    "lang": "nl-BQ",
+    "langType": "nl",
+    "territory": "BQ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "nl_BQ.xml"
+  },
+  {
+    "lang": "nl-CW",
+    "langType": "nl",
+    "territory": "CW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "nl_CW.xml"
+  },
+  {
+    "lang": "nl-NL",
+    "langType": "nl",
+    "territory": "NL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nl_NL.xml"
+  },
+  {
+    "lang": "nl-SR",
+    "langType": "nl",
+    "territory": "SR",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "nl_SR.xml"
+  },
+  {
+    "lang": "nl-SX",
+    "langType": "nl",
+    "territory": "SX",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "nl_SX.xml"
+  },
+  {
+    "lang": "nmg",
+    "langType": "nmg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "nmg.xml"
+  },
+  {
+    "lang": "nmg-CM",
+    "langType": "nmg",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nmg_CM.xml"
+  },
+  {
+    "lang": "nn",
+    "langType": "nn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "nn.xml"
+  },
+  {
+    "lang": "nn-NO",
+    "langType": "nn",
+    "territory": "NO",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nn_NO.xml"
+  },
+  {
+    "lang": "nnh",
+    "langType": "nnh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "nnh.xml"
+  },
+  {
+    "lang": "nnh-CM",
+    "langType": "nnh",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nnh_CM.xml"
+  },
+  {
+    "lang": "nus",
+    "langType": "nus",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "nus.xml"
+  },
+  {
+    "lang": "nus-SS",
+    "langType": "nus",
+    "territory": "SS",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nus_SS.xml"
+  },
+  {
+    "lang": "nyn",
+    "langType": "nyn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "nyn.xml"
+  },
+  {
+    "lang": "nyn-UG",
+    "langType": "nyn",
+    "territory": "UG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "nyn_UG.xml"
+  },
+  {
+    "lang": "om",
+    "langType": "om",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "om.xml"
+  },
+  {
+    "lang": "om-ET",
+    "langType": "om",
+    "territory": "ET",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "om_ET.xml"
+  },
+  {
+    "lang": "om-KE",
+    "langType": "om",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "om_KE.xml"
+  },
+  {
+    "lang": "or",
+    "langType": "or",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "or.xml"
+  },
+  {
+    "lang": "or-IN",
+    "langType": "or",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "or_IN.xml"
+  },
+  {
+    "lang": "os",
+    "langType": "os",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "os.xml"
+  },
+  {
+    "lang": "os-GE",
+    "langType": "os",
+    "territory": "GE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "os_GE.xml"
+  },
+  {
+    "lang": "os-RU",
+    "langType": "os",
+    "territory": "RU",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "os_RU.xml"
+  },
+  {
+    "lang": "pa",
+    "langType": "pa",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "pa.xml"
+  },
+  {
+    "lang": "pa-Arab",
+    "langType": "pa",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "pa_Arab.xml"
+  },
+  {
+    "lang": "pa-Arab-PK",
+    "langType": "pa",
+    "territory": "PK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pa_Arab_PK.xml"
+  },
+  {
+    "lang": "pa-Guru",
+    "langType": "pa",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pa_Guru.xml"
+  },
+  {
+    "lang": "pa-Guru-IN",
+    "langType": "pa",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pa_Guru_IN.xml"
+  },
+  {
+    "lang": "pcm",
+    "langType": "pcm",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "pcm.xml"
+  },
+  {
+    "lang": "pcm-NG",
+    "langType": "pcm",
+    "territory": "NG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pcm_NG.xml"
+  },
+  {
+    "lang": "pl",
+    "langType": "pl",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "pl.xml"
+  },
+  {
+    "lang": "pl-PL",
+    "langType": "pl",
+    "territory": "PL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pl_PL.xml"
+  },
+  {
+    "lang": "prg",
+    "langType": "prg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "prg.xml"
+  },
+  {
+    "lang": "prg-001",
+    "langType": "prg",
+    "territory": "001",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "prg_001.xml"
+  },
+  {
+    "lang": "ps",
+    "langType": "ps",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ps.xml"
+  },
+  {
+    "lang": "ps-AF",
+    "langType": "ps",
+    "territory": "AF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ps_AF.xml"
+  },
+  {
+    "lang": "ps-PK",
+    "langType": "ps",
+    "territory": "PK",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "ps_PK.xml"
+  },
+  {
+    "lang": "pt",
+    "langType": "pt",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "pt.xml"
+  },
+  {
+    "lang": "pt-AO",
+    "langType": "pt",
+    "territory": "AO",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "pt_AO.xml"
+  },
+  {
+    "lang": "pt-BR",
+    "langType": "pt",
+    "territory": "BR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pt_BR.xml"
+  },
+  {
+    "lang": "pt-CH",
+    "langType": "pt",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pt_CH.xml"
+  },
+  {
+    "lang": "pt-CV",
+    "langType": "pt",
+    "territory": "CV",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "pt_CV.xml"
+  },
+  {
+    "lang": "pt-GQ",
+    "langType": "pt",
+    "territory": "GQ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "pt_GQ.xml"
+  },
+  {
+    "lang": "pt-GW",
+    "langType": "pt",
+    "territory": "GW",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "pt_GW.xml"
+  },
+  {
+    "lang": "pt-LU",
+    "langType": "pt",
+    "territory": "LU",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "pt_LU.xml"
+  },
+  {
+    "lang": "pt-MO",
+    "langType": "pt",
+    "territory": "MO",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "pt_MO.xml"
+  },
+  {
+    "lang": "pt-MZ",
+    "langType": "pt",
+    "territory": "MZ",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "pt_MZ.xml"
+  },
+  {
+    "lang": "pt-PT",
+    "langType": "pt",
+    "territory": "PT",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "pt_PT.xml"
+  },
+  {
+    "lang": "pt-ST",
+    "langType": "pt",
+    "territory": "ST",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "pt_ST.xml"
+  },
+  {
+    "lang": "pt-TL",
+    "langType": "pt",
+    "territory": "TL",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "pt_TL.xml"
+  },
+  {
+    "lang": "qu",
+    "langType": "qu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 7,
+    "dftLang": "False",
+    "file": "qu.xml"
+  },
+  {
+    "lang": "qu-BO",
+    "langType": "qu",
+    "territory": "BO",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "qu_BO.xml"
+  },
+  {
+    "lang": "qu-EC",
+    "langType": "qu",
+    "territory": "EC",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "qu_EC.xml"
+  },
+  {
+    "lang": "qu-PE",
+    "langType": "qu",
+    "territory": "PE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "qu_PE.xml"
+  },
+  {
+    "lang": "rm",
+    "langType": "rm",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "rm.xml"
+  },
+  {
+    "lang": "rm-CH",
+    "langType": "rm",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "rm_CH.xml"
+  },
+  {
+    "lang": "rn",
+    "langType": "rn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "rn.xml"
+  },
+  {
+    "lang": "rn-BI",
+    "langType": "rn",
+    "territory": "BI",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "rn_BI.xml"
+  },
+  {
+    "lang": "ro",
+    "langType": "ro",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "ro.xml"
+  },
+  {
+    "lang": "ro-MD",
+    "langType": "ro",
+    "territory": "MD",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "ro_MD.xml"
+  },
+  {
+    "lang": "ro-RO",
+    "langType": "ro",
+    "territory": "RO",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ro_RO.xml"
+  },
+  {
+    "lang": "rof",
+    "langType": "rof",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "rof.xml"
+  },
+  {
+    "lang": "rof-TZ",
+    "langType": "rof",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "rof_TZ.xml"
+  },
+  {
+    "lang": "root",
+    "langType": "root",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "root.xml"
+  },
+  {
+    "lang": "ru",
+    "langType": "ru",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "ru.xml"
+  },
+  {
+    "lang": "ru-BY",
+    "langType": "ru",
+    "territory": "BY",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ru_BY.xml"
+  },
+  {
+    "lang": "ru-KG",
+    "langType": "ru",
+    "territory": "KG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ru_KG.xml"
+  },
+  {
+    "lang": "ru-KZ",
+    "langType": "ru",
+    "territory": "KZ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ru_KZ.xml"
+  },
+  {
+    "lang": "ru-MD",
+    "langType": "ru",
+    "territory": "MD",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "ru_MD.xml"
+  },
+  {
+    "lang": "ru-RU",
+    "langType": "ru",
+    "territory": "RU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ru_RU.xml"
+  },
+  {
+    "lang": "ru-UA",
+    "langType": "ru",
+    "territory": "UA",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "ru_UA.xml"
+  },
+  {
+    "lang": "rw",
+    "langType": "rw",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "rw.xml"
+  },
+  {
+    "lang": "rw-RW",
+    "langType": "rw",
+    "territory": "RW",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "rw_RW.xml"
+  },
+  {
+    "lang": "rwk",
+    "langType": "rwk",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "rwk.xml"
+  },
+  {
+    "lang": "rwk-TZ",
+    "langType": "rwk",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "rwk_TZ.xml"
+  },
+  {
+    "lang": "sah",
+    "langType": "sah",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "sah.xml"
+  },
+  {
+    "lang": "sah-RU",
+    "langType": "sah",
+    "territory": "RU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sah_RU.xml"
+  },
+  {
+    "lang": "saq",
+    "langType": "saq",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "saq.xml"
+  },
+  {
+    "lang": "saq-KE",
+    "langType": "saq",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "saq_KE.xml"
+  },
+  {
+    "lang": "sat",
+    "langType": "sat",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "sat.xml"
+  },
+  {
+    "lang": "sat-Olck",
+    "langType": "sat",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sat_Olck.xml"
+  },
+  {
+    "lang": "sat-Olck-IN",
+    "langType": "sat",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sat_Olck_IN.xml"
+  },
+  {
+    "lang": "sbp",
+    "langType": "sbp",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "sbp.xml"
+  },
+  {
+    "lang": "sbp-TZ",
+    "langType": "sbp",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sbp_TZ.xml"
+  },
+  {
+    "lang": "sd",
+    "langType": "sd",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "sd.xml"
+  },
+  {
+    "lang": "sd-Arab",
+    "langType": "sd",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sd_Arab.xml"
+  },
+  {
+    "lang": "sd-Arab-PK",
+    "langType": "sd",
+    "territory": "PK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sd_Arab_PK.xml"
+  },
+  {
+    "lang": "sd-Deva",
+    "langType": "sd",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "sd_Deva.xml"
+  },
+  {
+    "lang": "sd-Deva-IN",
+    "langType": "sd",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sd_Deva_IN.xml"
+  },
+  {
+    "lang": "se",
+    "langType": "se",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "se.xml"
+  },
+  {
+    "lang": "se-FI",
+    "langType": "se",
+    "territory": "FI",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "se_FI.xml"
+  },
+  {
+    "lang": "se-NO",
+    "langType": "se",
+    "territory": "NO",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "se_NO.xml"
+  },
+  {
+    "lang": "se-SE",
+    "langType": "se",
+    "territory": "SE",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "se_SE.xml"
+  },
+  {
+    "lang": "seh",
+    "langType": "seh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "seh.xml"
+  },
+  {
+    "lang": "seh-MZ",
+    "langType": "seh",
+    "territory": "MZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "seh_MZ.xml"
+  },
+  {
+    "lang": "ses",
+    "langType": "ses",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ses.xml"
+  },
+  {
+    "lang": "ses-ML",
+    "langType": "ses",
+    "territory": "ML",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ses_ML.xml"
+  },
+  {
+    "lang": "sg",
+    "langType": "sg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "sg.xml"
+  },
+  {
+    "lang": "sg-CF",
+    "langType": "sg",
+    "territory": "CF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sg_CF.xml"
+  },
+  {
+    "lang": "shi",
+    "langType": "shi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "shi.xml"
+  },
+  {
+    "lang": "shi-Latn",
+    "langType": "shi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "shi_Latn.xml"
+  },
+  {
+    "lang": "shi-Latn-MA",
+    "langType": "shi",
+    "territory": "MA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "shi_Latn_MA.xml"
+  },
+  {
+    "lang": "shi-Tfng",
+    "langType": "shi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "shi_Tfng.xml"
+  },
+  {
+    "lang": "shi-Tfng-MA",
+    "langType": "shi",
+    "territory": "MA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "shi_Tfng_MA.xml"
+  },
+  {
+    "lang": "si",
+    "langType": "si",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "si.xml"
+  },
+  {
+    "lang": "si-LK",
+    "langType": "si",
+    "territory": "LK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "si_LK.xml"
+  },
+  {
+    "lang": "sk",
+    "langType": "sk",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "sk.xml"
+  },
+  {
+    "lang": "sk-SK",
+    "langType": "sk",
+    "territory": "SK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sk_SK.xml"
+  },
+  {
+    "lang": "sl",
+    "langType": "sl",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "sl.xml"
+  },
+  {
+    "lang": "sl-SI",
+    "langType": "sl",
+    "territory": "SI",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sl_SI.xml"
+  },
+  {
+    "lang": "smn",
+    "langType": "smn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "smn.xml"
+  },
+  {
+    "lang": "smn-FI",
+    "langType": "smn",
+    "territory": "FI",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "smn_FI.xml"
+  },
+  {
+    "lang": "sn",
+    "langType": "sn",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "sn.xml"
+  },
+  {
+    "lang": "sn-ZW",
+    "langType": "sn",
+    "territory": "ZW",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sn_ZW.xml"
+  },
+  {
+    "lang": "so",
+    "langType": "so",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "so.xml"
+  },
+  {
+    "lang": "so-DJ",
+    "langType": "so",
+    "territory": "DJ",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "so_DJ.xml"
+  },
+  {
+    "lang": "so-ET",
+    "langType": "so",
+    "territory": "ET",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "so_ET.xml"
+  },
+  {
+    "lang": "so-KE",
+    "langType": "so",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "so_KE.xml"
+  },
+  {
+    "lang": "so-SO",
+    "langType": "so",
+    "territory": "SO",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "so_SO.xml"
+  },
+  {
+    "lang": "sq",
+    "langType": "sq",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "sq.xml"
+  },
+  {
+    "lang": "sq-AL",
+    "langType": "sq",
+    "territory": "AL",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sq_AL.xml"
+  },
+  {
+    "lang": "sq-MK",
+    "langType": "sq",
+    "territory": "MK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "sq_MK.xml"
+  },
+  {
+    "lang": "sq-XK",
+    "langType": "sq",
+    "territory": "XK",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "sq_XK.xml"
+  },
+  {
+    "lang": "sr",
+    "langType": "sr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "sr.xml"
+  },
+  {
+    "lang": "sr-Cyrl",
+    "langType": "sr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sr_Cyrl.xml"
+  },
+  {
+    "lang": "sr-Cyrl-BA",
+    "langType": "sr",
+    "territory": "BA",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "sr_Cyrl_BA.xml"
+  },
+  {
+    "lang": "sr-Cyrl-ME",
+    "langType": "sr",
+    "territory": "ME",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "sr_Cyrl_ME.xml"
+  },
+  {
+    "lang": "sr-Cyrl-RS",
+    "langType": "sr",
+    "territory": "RS",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sr_Cyrl_RS.xml"
+  },
+  {
+    "lang": "sr-Cyrl-XK",
+    "langType": "sr",
+    "territory": "XK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "sr_Cyrl_XK.xml"
+  },
+  {
+    "lang": "sr-Latn",
+    "langType": "sr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "sr_Latn.xml"
+  },
+  {
+    "lang": "sr-Latn-BA",
+    "langType": "sr",
+    "territory": "BA",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "sr_Latn_BA.xml"
+  },
+  {
+    "lang": "sr-Latn-ME",
+    "langType": "sr",
+    "territory": "ME",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "sr_Latn_ME.xml"
+  },
+  {
+    "lang": "sr-Latn-RS",
+    "langType": "sr",
+    "territory": "RS",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sr_Latn_RS.xml"
+  },
+  {
+    "lang": "sr-Latn-XK",
+    "langType": "sr",
+    "territory": "XK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "sr_Latn_XK.xml"
+  },
+  {
+    "lang": "su",
+    "langType": "su",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "su.xml"
+  },
+  {
+    "lang": "su-Latn",
+    "langType": "su",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "su_Latn.xml"
+  },
+  {
+    "lang": "su-Latn-ID",
+    "langType": "su",
+    "territory": "ID",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "su_Latn_ID.xml"
+  },
+  {
+    "lang": "sv",
+    "langType": "sv",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "sv.xml"
+  },
+  {
+    "lang": "sv-AX",
+    "langType": "sv",
+    "territory": "AX",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sv_AX.xml"
+  },
+  {
+    "lang": "sv-FI",
+    "langType": "sv",
+    "territory": "FI",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "sv_FI.xml"
+  },
+  {
+    "lang": "sv-SE",
+    "langType": "sv",
+    "territory": "SE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sv_SE.xml"
+  },
+  {
+    "lang": "sw",
+    "langType": "sw",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "sw.xml"
+  },
+  {
+    "lang": "sw-CD",
+    "langType": "sw",
+    "territory": "CD",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "sw_CD.xml"
+  },
+  {
+    "lang": "sw-KE",
+    "langType": "sw",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "sw_KE.xml"
+  },
+  {
+    "lang": "sw-TZ",
+    "langType": "sw",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "sw_TZ.xml"
+  },
+  {
+    "lang": "sw-UG",
+    "langType": "sw",
+    "territory": "UG",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "sw_UG.xml"
+  },
+  {
+    "lang": "ta",
+    "langType": "ta",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "ta.xml"
+  },
+  {
+    "lang": "ta-IN",
+    "langType": "ta",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ta_IN.xml"
+  },
+  {
+    "lang": "ta-LK",
+    "langType": "ta",
+    "territory": "LK",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ta_LK.xml"
+  },
+  {
+    "lang": "ta-MY",
+    "langType": "ta",
+    "territory": "MY",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ta_MY.xml"
+  },
+  {
+    "lang": "ta-SG",
+    "langType": "ta",
+    "territory": "SG",
+    "revGenDate": "",
+    "defs": 2,
+    "dftLang": "False",
+    "file": "ta_SG.xml"
+  },
+  {
+    "lang": "te",
+    "langType": "te",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "te.xml"
+  },
+  {
+    "lang": "te-IN",
+    "langType": "te",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "te_IN.xml"
+  },
+  {
+    "lang": "teo",
+    "langType": "teo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "teo.xml"
+  },
+  {
+    "lang": "teo-KE",
+    "langType": "teo",
+    "territory": "KE",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "teo_KE.xml"
+  },
+  {
+    "lang": "teo-UG",
+    "langType": "teo",
+    "territory": "UG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "teo_UG.xml"
+  },
+  {
+    "lang": "tg",
+    "langType": "tg",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "tg.xml"
+  },
+  {
+    "lang": "tg-TJ",
+    "langType": "tg",
+    "territory": "TJ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "tg_TJ.xml"
+  },
+  {
+    "lang": "th",
+    "langType": "th",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "th.xml"
+  },
+  {
+    "lang": "th-TH",
+    "langType": "th",
+    "territory": "TH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "th_TH.xml"
+  },
+  {
+    "lang": "ti",
+    "langType": "ti",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "ti.xml"
+  },
+  {
+    "lang": "ti-ER",
+    "langType": "ti",
+    "territory": "ER",
+    "revGenDate": "",
+    "defs": 4,
+    "dftLang": "False",
+    "file": "ti_ER.xml"
+  },
+  {
+    "lang": "ti-ET",
+    "langType": "ti",
+    "territory": "ET",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ti_ET.xml"
+  },
+  {
+    "lang": "tk",
+    "langType": "tk",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "tk.xml"
+  },
+  {
+    "lang": "tk-TM",
+    "langType": "tk",
+    "territory": "TM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "tk_TM.xml"
+  },
+  {
+    "lang": "to",
+    "langType": "to",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "to.xml"
+  },
+  {
+    "lang": "to-TO",
+    "langType": "to",
+    "territory": "TO",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "to_TO.xml"
+  },
+  {
+    "lang": "tr",
+    "langType": "tr",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "tr.xml"
+  },
+  {
+    "lang": "tr-CY",
+    "langType": "tr",
+    "territory": "CY",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "tr_CY.xml"
+  },
+  {
+    "lang": "tr-TR",
+    "langType": "tr",
+    "territory": "TR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "tr_TR.xml"
+  },
+  {
+    "lang": "tt",
+    "langType": "tt",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "tt.xml"
+  },
+  {
+    "lang": "tt-RU",
+    "langType": "tt",
+    "territory": "RU",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "tt_RU.xml"
+  },
+  {
+    "lang": "twq",
+    "langType": "twq",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "twq.xml"
+  },
+  {
+    "lang": "twq-NE",
+    "langType": "twq",
+    "territory": "NE",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "twq_NE.xml"
+  },
+  {
+    "lang": "tzm",
+    "langType": "tzm",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "tzm.xml"
+  },
+  {
+    "lang": "tzm-MA",
+    "langType": "tzm",
+    "territory": "MA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "tzm_MA.xml"
+  },
+  {
+    "lang": "ug",
+    "langType": "ug",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 9,
+    "dftLang": "False",
+    "file": "ug.xml"
+  },
+  {
+    "lang": "ug-CN",
+    "langType": "ug",
+    "territory": "CN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ug_CN.xml"
+  },
+  {
+    "lang": "uk",
+    "langType": "uk",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "uk.xml"
+  },
+  {
+    "lang": "uk-UA",
+    "langType": "uk",
+    "territory": "UA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "uk_UA.xml"
+  },
+  {
+    "lang": "ur",
+    "langType": "ur",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "ur.xml"
+  },
+  {
+    "lang": "ur-IN",
+    "langType": "ur",
+    "territory": "IN",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "ur_IN.xml"
+  },
+  {
+    "lang": "ur-PK",
+    "langType": "ur",
+    "territory": "PK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "ur_PK.xml"
+  },
+  {
+    "lang": "uz",
+    "langType": "uz",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "uz.xml"
+  },
+  {
+    "lang": "uz-Arab",
+    "langType": "uz",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 5,
+    "dftLang": "False",
+    "file": "uz_Arab.xml"
+  },
+  {
+    "lang": "uz-Arab-AF",
+    "langType": "uz",
+    "territory": "AF",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "uz_Arab_AF.xml"
+  },
+  {
+    "lang": "uz-Cyrl",
+    "langType": "uz",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "uz_Cyrl.xml"
+  },
+  {
+    "lang": "uz-Cyrl-UZ",
+    "langType": "uz",
+    "territory": "UZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "uz_Cyrl_UZ.xml"
+  },
+  {
+    "lang": "uz-Latn",
+    "langType": "uz",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "uz_Latn.xml"
+  },
+  {
+    "lang": "uz-Latn-UZ",
+    "langType": "uz",
+    "territory": "UZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "uz_Latn_UZ.xml"
+  },
+  {
+    "lang": "vai",
+    "langType": "vai",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "vai.xml"
+  },
+  {
+    "lang": "vai-Latn",
+    "langType": "vai",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "vai_Latn.xml"
+  },
+  {
+    "lang": "vai-Latn-LR",
+    "langType": "vai",
+    "territory": "LR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "vai_Latn_LR.xml"
+  },
+  {
+    "lang": "vai-Vaii",
+    "langType": "vai",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "vai_Vaii.xml"
+  },
+  {
+    "lang": "vai-Vaii-LR",
+    "langType": "vai",
+    "territory": "LR",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "vai_Vaii_LR.xml"
+  },
+  {
+    "lang": "vi",
+    "langType": "vi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 11,
+    "dftLang": "False",
+    "file": "vi.xml"
+  },
+  {
+    "lang": "vi-VN",
+    "langType": "vi",
+    "territory": "VN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "vi_VN.xml"
+  },
+  {
+    "lang": "vo",
+    "langType": "vo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "vo.xml"
+  },
+  {
+    "lang": "vo-001",
+    "langType": "vo",
+    "territory": "001",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "vo_001.xml"
+  },
+  {
+    "lang": "vun",
+    "langType": "vun",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "vun.xml"
+  },
+  {
+    "lang": "vun-TZ",
+    "langType": "vun",
+    "territory": "TZ",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "vun_TZ.xml"
+  },
+  {
+    "lang": "wae",
+    "langType": "wae",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "wae.xml"
+  },
+  {
+    "lang": "wae-CH",
+    "langType": "wae",
+    "territory": "CH",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "wae_CH.xml"
+  },
+  {
+    "lang": "wo",
+    "langType": "wo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "wo.xml"
+  },
+  {
+    "lang": "wo-SN",
+    "langType": "wo",
+    "territory": "SN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "wo_SN.xml"
+  },
+  {
+    "lang": "xh",
+    "langType": "xh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "xh.xml"
+  },
+  {
+    "lang": "xh-ZA",
+    "langType": "xh",
+    "territory": "ZA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "xh_ZA.xml"
+  },
+  {
+    "lang": "xog",
+    "langType": "xog",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "xog.xml"
+  },
+  {
+    "lang": "xog-UG",
+    "langType": "xog",
+    "territory": "UG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "xog_UG.xml"
+  },
+  {
+    "lang": "yav",
+    "langType": "yav",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "yav.xml"
+  },
+  {
+    "lang": "yav-CM",
+    "langType": "yav",
+    "territory": "CM",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "yav_CM.xml"
+  },
+  {
+    "lang": "yi",
+    "langType": "yi",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "yi.xml"
+  },
+  {
+    "lang": "yi-001",
+    "langType": "yi",
+    "territory": "001",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "yi_001.xml"
+  },
+  {
+    "lang": "yo",
+    "langType": "yo",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "yo.xml"
+  },
+  {
+    "lang": "yo-BJ",
+    "langType": "yo",
+    "territory": "BJ",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "yo_BJ.xml"
+  },
+  {
+    "lang": "yo-NG",
+    "langType": "yo",
+    "territory": "NG",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "yo_NG.xml"
+  },
+  {
+    "lang": "yue",
+    "langType": "yue",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "yue.xml"
+  },
+  {
+    "lang": "yue-Hans",
+    "langType": "yue",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "yue_Hans.xml"
+  },
+  {
+    "lang": "yue-Hans-CN",
+    "langType": "yue",
+    "territory": "CN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "yue_Hans_CN.xml"
+  },
+  {
+    "lang": "yue-Hant",
+    "langType": "yue",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "yue_Hant.xml"
+  },
+  {
+    "lang": "yue-Hant-HK",
+    "langType": "yue",
+    "territory": "HK",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "yue_Hant_HK.xml"
+  },
+  {
+    "lang": "zgh",
+    "langType": "zgh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 6,
+    "dftLang": "False",
+    "file": "zgh.xml"
+  },
+  {
+    "lang": "zgh-MA",
+    "langType": "zgh",
+    "territory": "MA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "zgh_MA.xml"
+  },
+  {
+    "lang": "zh",
+    "langType": "zh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "zh.xml"
+  },
+  {
+    "lang": "zh-Hans",
+    "langType": "zh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "zh_Hans.xml"
+  },
+  {
+    "lang": "zh-Hans-CN",
+    "langType": "zh",
+    "territory": "CN",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "zh_Hans_CN.xml"
+  },
+  {
+    "lang": "zh-Hans-HK",
+    "langType": "zh",
+    "territory": "HK",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "zh_Hans_HK.xml"
+  },
+  {
+    "lang": "zh-Hans-MO",
+    "langType": "zh",
+    "territory": "MO",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "zh_Hans_MO.xml"
+  },
+  {
+    "lang": "zh-Hans-SG",
+    "langType": "zh",
+    "territory": "SG",
+    "revGenDate": "",
+    "defs": 3,
+    "dftLang": "False",
+    "file": "zh_Hans_SG.xml"
+  },
+  {
+    "lang": "zh-Hant",
+    "langType": "zh",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "zh_Hant.xml"
+  },
+  {
+    "lang": "zh-Hant-HK",
+    "langType": "zh",
+    "territory": "HK",
+    "revGenDate": "",
+    "defs": 8,
+    "dftLang": "False",
+    "file": "zh_Hant_HK.xml"
+  },
+  {
+    "lang": "zh-Hant-MO",
+    "langType": "zh",
+    "territory": "MO",
+    "revGenDate": "",
+    "defs": 1,
+    "dftLang": "False",
+    "file": "zh_Hant_MO.xml"
+  },
+  {
+    "lang": "zh-Hant-TW",
+    "langType": "zh",
+    "territory": "TW",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "zh_Hant_TW.xml"
+  },
+  {
+    "lang": "zu",
+    "langType": "zu",
+    "territory": "",
+    "revGenDate": "",
+    "defs": 10,
+    "dftLang": "False",
+    "file": "zu.xml"
+  },
+  {
+    "lang": "zu-ZA",
+    "langType": "zu",
+    "territory": "ZA",
+    "revGenDate": "",
+    "defs": 0,
+    "dftLang": "False",
+    "file": "zu_ZA.xml"
+  }
+]

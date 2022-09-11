@@ -4,6 +4,13 @@ export type TCountryFlags = {
   image: string;
 };
 
+export type TLanguage = {
+  name: string;
+  ianaCode: string;
+  alpha2Code: string;
+  nativeName: string;
+};
+
 export type TFinalFormat = {
   country: string;
   nativeName: string;
@@ -17,4 +24,5 @@ export type TFinalFormat = {
   flag: TCountryFlags;
   timezone: Array<string>;
   states: Array<string>;
+  language: TLanguage;
 };

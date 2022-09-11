@@ -30,6 +30,61 @@ for (const [code, name] of Object.entries(continentsMap)) {
 
 writeJSONFile(continents, 'continents');
 
+// copy languages
+
+const languagesNamesObj = readJSONFile<{
+  [index: string]: {
+    name: string;
+    nativeName: string;
+  };
+}>('languages-names');
+
+const languagesCodesMap = readJSONFile<
+  Array<{
+    lang: string;
+    langType: string;
+    territory: string;
+    revGenDate: string;
+    defs: number;
+    dftLang: string;
+    file: string;
+  }>
+>('languages-codes');
+
+const languages: Array<{
+  name: string;
+  ianaCode: string;
+  alpha2Code: string;
+  nativeName: string;
+  countryAlpha2Code: string | null;
+}> = languagesCodesMap
+  .map(data => {
+    const names = languagesNamesObj[data.langType];
+
+    if (names) {
+      const { name, nativeName } = names;
+
+      return {
+        name,
+        nativeName,
+        alpha2Code: data.langType,
+        ianaCode: data.lang,
+        countryAlpha2Code: data.territory.length ? data.territory : null,
+      };
+    }
+
+    return undefined;
+  })
+  .filter(l => l) as Array<{
+  name: string;
+  ianaCode: string;
+  alpha2Code: string;
+  nativeName: string;
+  countryAlpha2Code: string | null;
+}>;
+
+writeJSONFile(languages, 'languages');
+
 let finalData: Array<Partial<TFinalFormat>> = [];
 
 // name, states, alpha codes, number code
@@ -49,19 +104,19 @@ finalData = countriesWithState.map(data => ({
   numberCode: parseInt(data.numberCode, 10),
 }));
 
-// native name
+// native name, language
 
 const countryWithNativeName = readJSONFile<{
   [index: string]: {
     name: string;
     native: string;
-    phone: number[];
+    phone: Array<number>;
     continent: string;
     capital: string;
-    currency: string[];
-    languages: string[];
+    currency: Array<string>;
+    languages: Array<string>;
   };
-}>('country-native-language');
+}>('country-native');
 
 finalData = finalData.map(data => {
   if (data.alpha2Code) {
@@ -69,6 +124,27 @@ finalData = finalData.map(data => {
 
     data.nativeName = nativeName;
   }
+
+  return data;
+});
+
+// language
+
+finalData = finalData.map(data => {
+  const language = languages.find(l => l.countryAlpha2Code === data.alpha2Code);
+
+  if (!language) {
+    console.log(`===== No language found for: ${data.alpha2Code} =====`);
+
+    return data;
+  }
+
+  data.language = {
+    name: language.name,
+    ianaCode: language.ianaCode,
+    alpha2Code: language.alpha2Code,
+    nativeName: language.nativeName,
+  };
 
   return data;
 });
@@ -229,6 +305,22 @@ finalData.forEach(data => {
   }
   if (!data.continentCode) {
     console.log(`===== No continentCode found for: ${data.country} =====`);
+  }
+  if (!data.language || !data.language.name) {
+    console.log(`===== No language.name found for: ${data.country} =====`);
+  }
+  if (!data.language || !data.language.ianaCode) {
+    console.log(`===== No language.ianaCode found for: ${data.country} =====`);
+  }
+  if (!data.language || !data.language.alpha2Code) {
+    console.log(
+      `===== No language.alpha2Code found for: ${data.country} =====`,
+    );
+  }
+  if (!data.language || !data.language.nativeName) {
+    console.log(
+      `===== No language.nativeName found for: ${data.country} =====`,
+    );
   }
 });
 

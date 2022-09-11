@@ -16,3 +16,4 @@ This repo contains data about countries, states, timezone, continents, currencie
 
 - [GitHub/annexare/Countries](https://github.com/annexare/Countries)
 - [Stack overflow](https://stackoverflow.com/a/4900304/13219635)
+- [datahub](https://datahub.io/core/language-codes#resource-language-codes-full)
