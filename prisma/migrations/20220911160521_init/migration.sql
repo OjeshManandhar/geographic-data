@@ -67,6 +67,20 @@ CREATE TABLE "State" (
     CONSTRAINT "State_pkey" PRIMARY KEY ("id")
 );
 
+-- CreateTable
+CREATE TABLE "Language" (
+    "id" TEXT NOT NULL,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" TIMESTAMP(3) NOT NULL,
+    "countryId" INTEGER NOT NULL,
+    "name" TEXT NOT NULL,
+    "ianaCode" TEXT NOT NULL,
+    "alpha2Code" TEXT NOT NULL,
+    "nativeName" TEXT NOT NULL,
+
+    CONSTRAINT "Language_pkey" PRIMARY KEY ("id")
+);
+
 -- CreateIndex
 CREATE UNIQUE INDEX "Continent_code_key" ON "Continent"("code");
 
@@ -87,3 +101,6 @@ ALTER TABLE "Flag" ADD CONSTRAINT "Flag_countryId_fkey" FOREIGN KEY ("countryId"
 
 -- AddForeignKey
 ALTER TABLE "State" ADD CONSTRAINT "State_countryId_fkey" FOREIGN KEY ("countryId") REFERENCES "Country"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "Language" ADD CONSTRAINT "Language_countryId_fkey" FOREIGN KEY ("countryId") REFERENCES "Country"("id") ON DELETE RESTRICT ON UPDATE CASCADE;

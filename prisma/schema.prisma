@@ -51,8 +51,9 @@ model Country {
 
   flag      Flag?
   states    State[]
-  currency  Currency? @relation(fields: [currencyCode], references: [code])
-  continent Continent @relation(fields: [continentCode], references: [code])
+  languages Language[]
+  currency  Currency?  @relation(fields: [currencyCode], references: [code])
+  continent Continent  @relation(fields: [continentCode], references: [code])
 }
 
 model Flag {
@@ -75,6 +76,20 @@ model State {
 
   countryId Int
   name      String
+
+  country Country @relation(fields: [countryId], references: [id])
+}
+
+model Language {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  countryId  Int
+  name       String
+  ianaCode   String
+  alpha2Code String
+  nativeName String
 
   country Country @relation(fields: [countryId], references: [id])
 }

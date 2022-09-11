@@ -5,6 +5,7 @@ import { PrismaClient } from '@prisma/client';
 const flags = require('./../src/seedable/flags');
 const states = require('./../src/seedable/states');
 const countries = require('./../src/seedable/countries');
+const languages = require('./../src/seedable/languages');
 const continents = require('./../src/seedable/continents');
 const currencies = require('./../src/seedable/currencies');
 
@@ -34,6 +35,11 @@ async function seed() {
   await prisma.state.createMany({
     skipDuplicates: true,
     data: states,
+  });
+
+  await prisma.language.createMany({
+    skipDuplicates: true,
+    data: languages,
   });
 }
 

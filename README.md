@@ -8,7 +8,7 @@ This repo contains data about countries, states, timezone, continents, currencie
 - [src/seedable](./src//seedable/) folder has the data that should be read to be seeded. Check the [prisma schema](./prisma/schema.prisma) for the table definitions. Seed in the following order:
   1. continents and currencies
   2. countries
-  3. states/ flags
+  3. states / flags / languages
 
 ---
 
