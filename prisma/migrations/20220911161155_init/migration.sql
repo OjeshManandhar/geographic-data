@@ -34,6 +34,7 @@ CREATE TABLE "Country" (
     "alpha2Code" TEXT NOT NULL,
     "alpha3code" TEXT NOT NULL,
     "numberCode" INTEGER NOT NULL,
+    "nativeName" TEXT NOT NULL,
     "continentCode" TEXT NOT NULL,
     "capital" TEXT NOT NULL,
     "phoneNumberCode" TEXT NOT NULL,

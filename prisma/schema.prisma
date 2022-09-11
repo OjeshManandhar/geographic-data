@@ -43,6 +43,7 @@ model Country {
   alpha2Code      String
   alpha3code      String
   numberCode      Int
+  nativeName      String
   continentCode   String
   capital         String
   phoneNumberCode String

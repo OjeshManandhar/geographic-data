@@ -352,6 +352,7 @@ const countries: Array<{
     alpha2Code: string;
     alpha3code: string;
     numberCode: number;
+    nativeName: string;
     phoneNumberCode: string;
     timezone: Array<string>;
     capital: string;
@@ -391,6 +392,7 @@ countriesSeed.forEach((data, index) => {
     alpha2Code: data.alpha2Code,
     alpha3code: data.alpha3Code,
     numberCode: data.numberCode,
+    nativeName: data.nativeName,
     continentCode: data.continentCode,
     capital: data.capital,
     phoneNumberCode: data.phoneNumberCode,
