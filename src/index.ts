@@ -350,7 +350,7 @@ const countries: Array<{
     id: number;
     name: string;
     alpha2Code: string;
-    alpha3code: string;
+    alpha3Code: string;
     numberCode: number;
     nativeName: string;
     phoneNumberCode: string;
@@ -390,7 +390,7 @@ countriesSeed.forEach((data, index) => {
     id: countryId,
     name: data.country,
     alpha2Code: data.alpha2Code,
-    alpha3code: data.alpha3Code,
+    alpha3Code: data.alpha3Code,
     numberCode: data.numberCode,
     nativeName: data.nativeName,
     continentCode: data.continentCode,

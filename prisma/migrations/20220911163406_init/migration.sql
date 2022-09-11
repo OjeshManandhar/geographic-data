@@ -32,7 +32,7 @@ CREATE TABLE "Country" (
     "updatedAt" TIMESTAMP(3) NOT NULL,
     "name" TEXT NOT NULL,
     "alpha2Code" TEXT NOT NULL,
-    "alpha3code" TEXT NOT NULL,
+    "alpha3Code" TEXT NOT NULL,
     "numberCode" INTEGER NOT NULL,
     "nativeName" TEXT NOT NULL,
     "continentCode" TEXT NOT NULL,

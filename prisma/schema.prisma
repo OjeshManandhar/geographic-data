@@ -41,7 +41,7 @@ model Country {
 
   name            String
   alpha2Code      String
-  alpha3code      String
+  alpha3Code      String
   numberCode      Int
   nativeName      String
   continentCode   String
