@@ -6,6 +6,7 @@ export type TCountryFlags = {
 
 export type TFinalFormat = {
   country: string;
+  nativeName: string;
   alpha2Code: string;
   alpha3Code: string;
   numberCode: number;

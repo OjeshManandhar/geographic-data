@@ -49,6 +49,30 @@ finalData = countriesWithState.map(data => ({
   numberCode: parseInt(data.numberCode, 10),
 }));
 
+// native name
+
+const countryWithNativeName = readJSONFile<{
+  [index: string]: {
+    name: string;
+    native: string;
+    phone: number[];
+    continent: string;
+    capital: string;
+    currency: string[];
+    languages: string[];
+  };
+}>('country-native-language');
+
+finalData = finalData.map(data => {
+  if (data.alpha2Code) {
+    const nativeName = countryWithNativeName[data.alpha2Code].native;
+
+    data.nativeName = nativeName;
+  }
+
+  return data;
+});
+
 // flags
 
 const countryFlags = readJSONFile<
@@ -166,6 +190,9 @@ finalData = finalData.map(data => {
 finalData.forEach(data => {
   if (!data.country) {
     console.log(`===== No country found for: ${data.country} =====`);
+  }
+  if (!data.nativeName) {
+    console.log(`===== No nativeName found for: ${data.country} =====`);
   }
   if (!data.alpha2Code) {
     console.log(`===== No alpha2Code found for: ${data.country} =====`);

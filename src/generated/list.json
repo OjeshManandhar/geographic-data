@@ -40,6 +40,7 @@
       "Vardak",
       "Zabol"
     ],
+    "nativeName": "افغانستان",
     "flag": {
       "emoji": "🇦🇫",
       "unicode": "U+1F1E6 U+1F1EB",
@@ -72,6 +73,7 @@
       "Tirane",
       "Vlore"
     ],
+    "nativeName": "Shqipëria",
     "flag": {
       "emoji": "🇦🇱",
       "unicode": "U+1F1E6 U+1F1F1",
@@ -140,6 +142,7 @@
       "Tizi Ouzou",
       "Tlemcen"
     ],
+    "nativeName": "الجزائر",
     "flag": {
       "emoji": "🇩🇿",
       "unicode": "U+1F1E9 U+1F1FF",
@@ -167,6 +170,7 @@
       "Ordino",
       "Sant Julia de Loria"
     ],
+    "nativeName": "Andorra",
     "flag": {
       "emoji": "🇦🇩",
       "unicode": "U+1F1E6 U+1F1E9",
@@ -205,6 +209,7 @@
       "Uige",
       "Zaire"
     ],
+    "nativeName": "Angola",
     "flag": {
       "emoji": "🇦🇴",
       "unicode": "U+1F1E6 U+1F1F4",
@@ -224,6 +229,7 @@
     "alpha3Code": "ATA",
     "numberCode": 10,
     "states": [],
+    "nativeName": "Antarctica",
     "flag": {
       "emoji": "🇦🇶",
       "unicode": "U+1F1E6 U+1F1F6",
@@ -260,6 +266,7 @@
       "Saint Peter",
       "Saint Philip"
     ],
+    "nativeName": "Antigua and Barbuda",
     "flag": {
       "emoji": "🇦🇬",
       "unicode": "U+1F1E6 U+1F1EC",
@@ -304,6 +311,7 @@
       "Tierra del Fuego",
       "Tucuman"
     ],
+    "nativeName": "Argentina",
     "flag": {
       "emoji": "🇦🇷",
       "unicode": "U+1F1E6 U+1F1F7",
@@ -346,6 +354,7 @@
       "Vayots' Dzor",
       "Yerevan"
     ],
+    "nativeName": "Հայաստան",
     "flag": {
       "emoji": "🇦🇲",
       "unicode": "U+1F1E6 U+1F1F2",
@@ -374,6 +383,7 @@
       "Victoria",
       "Western Australia"
     ],
+    "nativeName": "Australia",
     "flag": {
       "emoji": "🇦🇺",
       "unicode": "U+1F1E6 U+1F1FA",
@@ -415,6 +425,7 @@
       "Vorarlberg",
       "Wien"
     ],
+    "nativeName": "Österreich",
     "flag": {
       "emoji": "🇦🇹",
       "unicode": "U+1F1E6 U+1F1F9",
@@ -506,6 +517,7 @@
       "Yevlax Sahari",
       "Naxcivan Muxtar"
     ],
+    "nativeName": "Azərbaycan",
     "flag": {
       "emoji": "🇦🇿",
       "unicode": "U+1F1E6 U+1F1FF",
@@ -547,6 +559,7 @@
       "Sandy Point",
       "San Salvador and Rum Cay"
     ],
+    "nativeName": "Bahamas",
     "flag": {
       "emoji": "🇧🇸",
       "unicode": "U+1F1E7 U+1F1F8",
@@ -579,6 +592,7 @@
       "Juzur Hawar",
       "Sitrah"
     ],
+    "nativeName": "‏البحرين",
     "flag": {
       "emoji": "🇧🇭",
       "unicode": "U+1F1E7 U+1F1ED",
@@ -605,6 +619,7 @@
       "Rajshahi",
       "Sylhet"
     ],
+    "nativeName": "Bangladesh",
     "flag": {
       "emoji": "🇧🇩",
       "unicode": "U+1F1E7 U+1F1E9",
@@ -636,6 +651,7 @@
       "Saint Philip",
       "Saint Thomas"
     ],
+    "nativeName": "Barbados",
     "flag": {
       "emoji": "🇧🇧",
       "unicode": "U+1F1E7 U+1F1E7",
@@ -663,6 +679,7 @@
       "Minsk",
       "Vitsyebsk"
     ],
+    "nativeName": "Белару́сь",
     "flag": {
       "emoji": "🇧🇾",
       "unicode": "U+1F1E7 U+1F1FE",
@@ -696,6 +713,7 @@
       "Wallonia",
       "West-Vlaanderen"
     ],
+    "nativeName": "België",
     "flag": {
       "emoji": "🇧🇪",
       "unicode": "U+1F1E7 U+1F1EA",
@@ -722,6 +740,7 @@
       "Stann Creek",
       "Toledo"
     ],
+    "nativeName": "Belize",
     "flag": {
       "emoji": "🇧🇿",
       "unicode": "U+1F1E7 U+1F1FF",
@@ -754,6 +773,7 @@
       "Plateau",
       "Zou"
     ],
+    "nativeName": "Bénin",
     "flag": {
       "emoji": "🇧🇯",
       "unicode": "U+1F1E7 U+1F1EF",
@@ -785,6 +805,7 @@
       "Southampton",
       "Warwick"
     ],
+    "nativeName": "Bermuda",
     "flag": {
       "emoji": "🇧🇲",
       "unicode": "U+1F1E7 U+1F1F2",
@@ -825,6 +846,7 @@
       "Wangdue Phodrang",
       "Zhemgang"
     ],
+    "nativeName": "ʼbrug-yul",
     "flag": {
       "emoji": "🇧🇹",
       "unicode": "U+1F1E7 U+1F1F9",
@@ -854,6 +876,7 @@
       "Santa Cruz",
       "Tarija"
     ],
+    "nativeName": "Bolivia",
     "flag": {
       "emoji": "🇧🇴",
       "unicode": "U+1F1E7 U+1F1F4",
@@ -891,6 +914,7 @@
       "Trebinje [RS]",
       "Vlasenica [RS]"
     ],
+    "nativeName": "Bosna i Hercegovina",
     "flag": {
       "emoji": "🇧🇦",
       "unicode": "U+1F1E7 U+1F1E6",
@@ -920,6 +944,7 @@
       "South East",
       "Southern"
     ],
+    "nativeName": "Botswana",
     "flag": {
       "emoji": "🇧🇼",
       "unicode": "U+1F1E7 U+1F1FC",
@@ -967,6 +992,7 @@
       "Sergipe",
       "Tocantins"
     ],
+    "nativeName": "Brasil",
     "flag": {
       "emoji": "🇧🇷",
       "unicode": "U+1F1E7 U+1F1F7",
@@ -1006,6 +1032,7 @@
       "Temburong",
       "Tutong"
     ],
+    "nativeName": "Negara Brunei Darussalam",
     "flag": {
       "emoji": "🇧🇳",
       "unicode": "U+1F1E7 U+1F1F3",
@@ -1054,6 +1081,7 @@
       "Vratsa",
       "Yambol"
     ],
+    "nativeName": "България",
     "flag": {
       "emoji": "🇧🇬",
       "unicode": "U+1F1E7 U+1F1EC",
@@ -1119,6 +1147,7 @@
       "Zondoma",
       "Zoundweogo"
     ],
+    "nativeName": "Burkina Faso",
     "flag": {
       "emoji": "🇧🇫",
       "unicode": "U+1F1E7 U+1F1EB",
@@ -1153,6 +1182,7 @@
       "Rakhine State",
       "Shan State"
     ],
+    "nativeName": "မြန်မာ",
     "flag": {
       "emoji": "🇲🇲",
       "unicode": "U+1F1F2 U+1F1F2",
@@ -1190,6 +1220,7 @@
       "Rutana",
       "Ruyigi"
     ],
+    "nativeName": "Burundi",
     "flag": {
       "emoji": "🇧🇮",
       "unicode": "U+1F1E7 U+1F1EE",
@@ -1234,6 +1265,7 @@
       "Phnom Penh",
       "Preah Seihanu"
     ],
+    "nativeName": "Kâmpŭchéa",
     "flag": {
       "emoji": "🇰🇭",
       "unicode": "U+1F1F0 U+1F1ED",
@@ -1264,6 +1296,7 @@
       "Sud",
       "Sud-Ouest"
     ],
+    "nativeName": "Cameroon",
     "flag": {
       "emoji": "🇨🇲",
       "unicode": "U+1F1E8 U+1F1F2",
@@ -1297,6 +1330,7 @@
       "Saskatchewan",
       "Yukon Territory"
     ],
+    "nativeName": "Canada",
     "flag": {
       "emoji": "🇨🇦",
       "unicode": "U+1F1E8 U+1F1E6",
@@ -1354,6 +1388,7 @@
       "Fogo",
       "Brava"
     ],
+    "nativeName": "Cabo Verde",
     "flag": {
       "emoji": "🇨🇻",
       "unicode": "U+1F1E8 U+1F1FB",
@@ -1391,6 +1426,7 @@
       "Sangha-Mbaere",
       "Vakaga"
     ],
+    "nativeName": "Ködörösêse tî Bêafrîka",
     "flag": {
       "emoji": "🇨🇫",
       "unicode": "U+1F1E8 U+1F1EB",
@@ -1425,6 +1461,7 @@
       "Salamat",
       "Tandjile"
     ],
+    "nativeName": "Tchad",
     "flag": {
       "emoji": "🇹🇩",
       "unicode": "U+1F1F9 U+1F1E9",
@@ -1458,6 +1495,7 @@
       "Tarapaca",
       "Valparaiso"
     ],
+    "nativeName": "Chile",
     "flag": {
       "emoji": "🇨🇱",
       "unicode": "U+1F1E8 U+1F1F1",
@@ -1511,6 +1549,7 @@
       "Shanghai",
       "Tianjin"
     ],
+    "nativeName": "中国",
     "flag": {
       "emoji": "🇨🇳",
       "unicode": "U+1F1E8 U+1F1F3",
@@ -1565,6 +1604,7 @@
       "Vaupes",
       "Vichada"
     ],
+    "nativeName": "Colombia",
     "flag": {
       "emoji": "🇨🇴",
       "unicode": "U+1F1E8 U+1F1F4",
@@ -1588,6 +1628,7 @@
       "Anjouan (Nzwani)",
       "Moheli (Mwali)"
     ],
+    "nativeName": "Komori",
     "flag": {
       "emoji": "🇰🇲",
       "unicode": "U+1F1F0 U+1F1F2",
@@ -1619,6 +1660,7 @@
       "Orientale",
       "Sud-Kivu"
     ],
+    "nativeName": "République démocratique du Congo",
     "flag": {
       "emoji": "🇨🇩",
       "unicode": "U+1F1E8 U+1F1E9",
@@ -1651,6 +1693,7 @@
       "Pool",
       "Sangha"
     ],
+    "nativeName": "République du Congo",
     "flag": {
       "emoji": "🇨🇬",
       "unicode": "U+1F1E8 U+1F1EC",
@@ -1678,6 +1721,7 @@
       "Puntarenas",
       "San Jose"
     ],
+    "nativeName": "Costa Rica",
     "flag": {
       "emoji": "🇨🇷",
       "unicode": "U+1F1E8 U+1F1F7",
@@ -1712,6 +1756,7 @@
       "Yamoussoukro",
       "Zanzan"
     ],
+    "nativeName": "Côte d'Ivoire",
     "flag": {
       "emoji": "🇨🇮",
       "unicode": "U+1F1E8 U+1F1EE",
@@ -1753,6 +1798,7 @@
       "Zagreb",
       "Zagrebacka"
     ],
+    "nativeName": "Hrvatska",
     "flag": {
       "emoji": "🇭🇷",
       "unicode": "U+1F1ED U+1F1F7",
@@ -1788,6 +1834,7 @@
       "Santiago de Cuba",
       "Villa Clara"
     ],
+    "nativeName": "Cuba",
     "flag": {
       "emoji": "🇨🇺",
       "unicode": "U+1F1E8 U+1F1FA",
@@ -1814,6 +1861,7 @@
       "Nicosia",
       "Paphos"
     ],
+    "nativeName": "Κύπρος",
     "flag": {
       "emoji": "🇨🇾",
       "unicode": "U+1F1E8 U+1F1FE",
@@ -1849,6 +1897,7 @@
       "Vysocina",
       "Zlinsky Kraj"
     ],
+    "nativeName": "Česká republika",
     "flag": {
       "emoji": "🇨🇿",
       "unicode": "U+1F1E8 U+1F1FF",
@@ -1885,6 +1934,7 @@
       "Vestsjalland",
       "Viborg"
     ],
+    "nativeName": "Danmark",
     "flag": {
       "emoji": "🇩🇰",
       "unicode": "U+1F1E9 U+1F1F0",
@@ -1910,6 +1960,7 @@
       "Obock",
       "Tadjoura"
     ],
+    "nativeName": "Djibouti",
     "flag": {
       "emoji": "🇩🇯",
       "unicode": "U+1F1E9 U+1F1EF",
@@ -1940,6 +1991,7 @@
       "Saint Paul",
       "Saint Peter"
     ],
+    "nativeName": "Dominica",
     "flag": {
       "emoji": "🇩🇲",
       "unicode": "U+1F1E9 U+1F1F2",
@@ -1992,6 +2044,7 @@
       "Santo Domingo",
       "Valverde"
     ],
+    "nativeName": "República Dominicana",
     "flag": {
       "emoji": "🇩🇴",
       "unicode": "U+1F1E9 U+1F1F4",
@@ -2025,6 +2078,7 @@
       "Oecussi",
       "Viqueque"
     ],
+    "nativeName": "Timor-Leste",
     "flag": {
       "emoji": "🇹🇱",
       "unicode": "U+1F1F9 U+1F1F1",
@@ -2067,6 +2121,7 @@
       "Tungurahua",
       "Zamora-Chinchipe"
     ],
+    "nativeName": "Ecuador",
     "flag": {
       "emoji": "🇪🇨",
       "unicode": "U+1F1EA U+1F1E8",
@@ -2114,6 +2169,7 @@
       "Shamal Sina'",
       "Suhaj"
     ],
+    "nativeName": "مصر‎",
     "flag": {
       "emoji": "🇪🇬",
       "unicode": "U+1F1EA U+1F1EC",
@@ -2148,6 +2204,7 @@
       "Sonsonate",
       "Usulutan"
     ],
+    "nativeName": "El Salvador",
     "flag": {
       "emoji": "🇸🇻",
       "unicode": "U+1F1F8 U+1F1FB",
@@ -2175,6 +2232,7 @@
       "Litoral",
       "Wele-Nzas"
     ],
+    "nativeName": "Guinea Ecuatorial",
     "flag": {
       "emoji": "🇬🇶",
       "unicode": "U+1F1EC U+1F1F6",
@@ -2201,6 +2259,7 @@
       "Ma'akel",
       "Semenawi Keyih Bahri"
     ],
+    "nativeName": "ኤርትራ",
     "flag": {
       "emoji": "🇪🇷",
       "unicode": "U+1F1EA U+1F1F7",
@@ -2236,6 +2295,7 @@
       "Viljandimaa (Viljandi)",
       "Vorumaa (Voru)"
     ],
+    "nativeName": "Eesti",
     "flag": {
       "emoji": "🇪🇪",
       "unicode": "U+1F1EA U+1F1EA",
@@ -2267,6 +2327,7 @@
       "Tigray",
       "Southern Nations, Nationalities, and Peoples Region"
     ],
+    "nativeName": "ኢትዮጵያ",
     "flag": {
       "emoji": "🇪🇹",
       "unicode": "U+1F1EA U+1F1F9",
@@ -2292,6 +2353,7 @@
       "Rotuma",
       "Western (Lautoka)"
     ],
+    "nativeName": "Fiji",
     "flag": {
       "emoji": "🇫🇯",
       "unicode": "U+1F1EB U+1F1EF",
@@ -2318,6 +2380,7 @@
       "Lappi",
       "Oulun Laani"
     ],
+    "nativeName": "Suomi",
     "flag": {
       "emoji": "🇫🇮",
       "unicode": "U+1F1EB U+1F1EE",
@@ -2360,6 +2423,7 @@
       "Provence-Alpes-Cote d'Azur",
       "Rhone-Alpes"
     ],
+    "nativeName": "France",
     "flag": {
       "emoji": "🇫🇷",
       "unicode": "U+1F1EB U+1F1F7",
@@ -2402,6 +2466,7 @@
       "Cayenne",
       "Remire-Montjoly"
     ],
+    "nativeName": "Guyane française",
     "flag": {
       "emoji": "🇬🇫",
       "unicode": "U+1F1EC U+1F1EB",
@@ -2427,6 +2492,7 @@
       "Tuāmotu-Gambier ",
       "Austral Islands"
     ],
+    "nativeName": "Polynésie française",
     "flag": {
       "emoji": "🇵🇫",
       "unicode": "U+1F1F5 U+1F1EB",
@@ -2458,6 +2524,7 @@
       "Ogooue-Maritime",
       "Woleu-Ntem"
     ],
+    "nativeName": "Gabon",
     "flag": {
       "emoji": "🇬🇦",
       "unicode": "U+1F1EC U+1F1E6",
@@ -2484,6 +2551,7 @@
       "Upper River",
       "Western"
     ],
+    "nativeName": "Gambia",
     "flag": {
       "emoji": "🇬🇲",
       "unicode": "U+1F1EC U+1F1F2",
@@ -2516,6 +2584,7 @@
       "Shida Kartli",
       "Tbilisi"
     ],
+    "nativeName": "Gambia",
     "flag": {
       "emoji": "🇬🇲",
       "unicode": "U+1F1EC U+1F1F2",
@@ -2552,6 +2621,7 @@
       "Schleswig-Holstein",
       "Thueringen"
     ],
+    "nativeName": "Deutschland",
     "flag": {
       "emoji": "🇩🇪",
       "unicode": "U+1F1E9 U+1F1EA",
@@ -2583,6 +2653,7 @@
       "Volta",
       "Western"
     ],
+    "nativeName": "Ghana",
     "flag": {
       "emoji": "🇬🇭",
       "unicode": "U+1F1EC U+1F1ED",
@@ -2655,6 +2726,7 @@
       "Xanthi",
       "Zakynthos"
     ],
+    "nativeName": "Ελλάδα",
     "flag": {
       "emoji": "🇬🇷",
       "unicode": "U+1F1EC U+1F1F7",
@@ -2678,6 +2750,7 @@
       "Tunu (Ostgronland)",
       "Kitaa (Vestgronland)"
     ],
+    "nativeName": "Kalaallit Nunaat",
     "flag": {
       "emoji": "🇬🇱",
       "unicode": "U+1F1EC U+1F1F1",
@@ -2708,6 +2781,7 @@
       "Saint Mark",
       "Saint Patrick"
     ],
+    "nativeName": "Grenada",
     "flag": {
       "emoji": "🇬🇩",
       "unicode": "U+1F1EC U+1F1E9",
@@ -2750,6 +2824,7 @@
       "Totonicapan",
       "Zacapa"
     ],
+    "nativeName": "Guatemala",
     "flag": {
       "emoji": "🇬🇹",
       "unicode": "U+1F1EC U+1F1F9",
@@ -2804,6 +2879,7 @@
       "Tougue",
       "Yomou"
     ],
+    "nativeName": "Guinée",
     "flag": {
       "emoji": "🇬🇳",
       "unicode": "U+1F1EC U+1F1F3",
@@ -2833,6 +2909,7 @@
       "Quinara",
       "Tombali"
     ],
+    "nativeName": "Guiné-Bissau",
     "flag": {
       "emoji": "🇬🇼",
       "unicode": "U+1F1EC U+1F1FC",
@@ -2863,6 +2940,7 @@
       "Upper Demerara-Berbice",
       "Upper Takutu-Upper Essequibo"
     ],
+    "nativeName": "Guyana",
     "flag": {
       "emoji": "🇬🇾",
       "unicode": "U+1F1EC U+1F1FE",
@@ -2892,6 +2970,7 @@
       "Sud",
       "Sud-Est"
     ],
+    "nativeName": "Haïti",
     "flag": {
       "emoji": "🇭🇹",
       "unicode": "U+1F1ED U+1F1F9",
@@ -2930,6 +3009,7 @@
       "Valle",
       "Yoro"
     ],
+    "nativeName": "Honduras",
     "flag": {
       "emoji": "🇭🇳",
       "unicode": "U+1F1ED U+1F1F3",
@@ -2968,6 +3048,7 @@
       "Southern",
       "Wan Chai"
     ],
+    "nativeName": "香港",
     "flag": {
       "emoji": "🇭🇰",
       "unicode": "U+1F1ED U+1F1F0",
@@ -3007,6 +3088,7 @@
       "Veszprem",
       "Zala"
     ],
+    "nativeName": "Magyarország",
     "flag": {
       "emoji": "🇭🇺",
       "unicode": "U+1F1ED U+1F1FA",
@@ -3035,6 +3117,7 @@
       "Vestfirdhir",
       "Vesturland"
     ],
+    "nativeName": "Ísland",
     "flag": {
       "emoji": "🇮🇸",
       "unicode": "U+1F1EE U+1F1F8",
@@ -3092,6 +3175,7 @@
       "Uttar Pradesh",
       "West Bengal"
     ],
+    "nativeName": "भारत",
     "flag": {
       "emoji": "🇮🇳",
       "unicode": "U+1F1EE U+1F1F3",
@@ -3145,6 +3229,7 @@
       "Sumatera Utara",
       "Yogyakarta"
     ],
+    "nativeName": "Indonesia",
     "flag": {
       "emoji": "🇮🇩",
       "unicode": "U+1F1EE U+1F1E9",
@@ -3198,6 +3283,7 @@
       "Yazd",
       "Zanjan"
     ],
+    "nativeName": "ایران",
     "flag": {
       "emoji": "🇮🇷",
       "unicode": "U+1F1EE U+1F1F7",
@@ -3236,6 +3322,7 @@
       "Salah ad Din",
       "Wasit"
     ],
+    "nativeName": "العراق",
     "flag": {
       "emoji": "🇮🇶",
       "unicode": "U+1F1EE U+1F1F6",
@@ -3282,6 +3369,7 @@
       "Wexford",
       "Wicklow"
     ],
+    "nativeName": "Éire",
     "flag": {
       "emoji": "🇮🇪",
       "unicode": "U+1F1EE U+1F1EA",
@@ -3308,6 +3396,7 @@
       "Southern",
       "Tel Aviv"
     ],
+    "nativeName": "יִשְׂרָאֵל",
     "flag": {
       "emoji": "🇮🇱",
       "unicode": "U+1F1EE U+1F1F1",
@@ -3348,6 +3437,7 @@
       "Valle d'Aosta",
       "Veneto"
     ],
+    "nativeName": "Italia",
     "flag": {
       "emoji": "🇮🇹",
       "unicode": "U+1F1EE U+1F1F9",
@@ -3382,6 +3472,7 @@
       "Trelawny",
       "Westmoreland"
     ],
+    "nativeName": "Jamaica",
     "flag": {
       "emoji": "🇯🇲",
       "unicode": "U+1F1EF U+1F1F2",
@@ -3449,6 +3540,7 @@
       "Yamaguchi",
       "Yamanashi"
     ],
+    "nativeName": "日本",
     "flag": {
       "emoji": "🇯🇵",
       "unicode": "U+1F1EF U+1F1F5",
@@ -3481,6 +3573,7 @@
       "Ma'an",
       "Madaba"
     ],
+    "nativeName": "الأردن",
     "flag": {
       "emoji": "🇯🇴",
       "unicode": "U+1F1EF U+1F1F4",
@@ -3518,6 +3611,7 @@
       "Soltustik Qazaqstan Oblysy",
       "Zhambyl Oblysy"
     ],
+    "nativeName": "Қазақстан",
     "flag": {
       "emoji": "🇰🇿",
       "unicode": "U+1F1F0 U+1F1FF",
@@ -3551,6 +3645,7 @@
       "Rift Valley",
       "Western"
     ],
+    "nativeName": "Kenya",
     "flag": {
       "emoji": "🇰🇪",
       "unicode": "U+1F1F0 U+1F1EA",
@@ -3577,6 +3672,7 @@
       "Southern Gilbert Islands",
       "Line Islands"
     ],
+    "nativeName": "Kiribati",
     "flag": {
       "emoji": "🇰🇮",
       "unicode": "U+1F1F0 U+1F1EE",
@@ -3612,6 +3708,7 @@
       "Namp'o",
       "Pyongyang"
     ],
+    "nativeName": "북한",
     "flag": {
       "emoji": "🇰🇵",
       "unicode": "U+1F1F0 U+1F1F5",
@@ -3648,6 +3745,7 @@
       "South Gyeongsang Province",
       "Jeju"
     ],
+    "nativeName": "대한민국",
     "flag": {
       "emoji": "🇰🇷",
       "unicode": "U+1F1F0 U+1F1F7",
@@ -3674,6 +3772,7 @@
       "Hawalli",
       "Mubarak Al-Kabeer"
     ],
+    "nativeName": "الكويت",
     "flag": {
       "emoji": "🇰🇼",
       "unicode": "U+1F1F0 U+1F1FC",
@@ -3702,6 +3801,7 @@
       "Talas Oblasty",
       "Ysyk-Kol Oblasty"
     ],
+    "nativeName": "Кыргызстан",
     "flag": {
       "emoji": "🇰🇬",
       "unicode": "U+1F1F0 U+1F1EC",
@@ -3740,6 +3840,7 @@
       "Xekong",
       "Xiangkhoang"
     ],
+    "nativeName": "ສປປລາວ",
     "flag": {
       "emoji": "🇱🇦",
       "unicode": "U+1F1F1 U+1F1E6",
@@ -3793,6 +3894,7 @@
       "Ventspils",
       "Ventspils Rajons"
     ],
+    "nativeName": "Latvija",
     "flag": {
       "emoji": "🇱🇻",
       "unicode": "U+1F1F1 U+1F1FB",
@@ -3819,6 +3921,7 @@
       "Mont-Liban",
       "Nabatiye"
     ],
+    "nativeName": "لبنان",
     "flag": {
       "emoji": "🇱🇧",
       "unicode": "U+1F1F1 U+1F1E7",
@@ -3849,6 +3952,7 @@
       "Quthing",
       "Thaba-Tseka"
     ],
+    "nativeName": "Lesotho",
     "flag": {
       "emoji": "🇱🇸",
       "unicode": "U+1F1F1 U+1F1F8",
@@ -3884,6 +3988,7 @@
       "River Gee",
       "Sinoe"
     ],
+    "nativeName": "Liberia",
     "flag": {
       "emoji": "🇱🇷",
       "unicode": "U+1F1F1 U+1F1F7",
@@ -3929,6 +4034,7 @@
       "Yafran",
       "Zlitan"
     ],
+    "nativeName": "‏ليبيا",
     "flag": {
       "emoji": "🇱🇾",
       "unicode": "U+1F1F1 U+1F1FE",
@@ -3960,6 +4066,7 @@
       "Triesenberg",
       "Vaduz"
     ],
+    "nativeName": "Liechtenstein",
     "flag": {
       "emoji": "🇱🇮",
       "unicode": "U+1F1F1 U+1F1EE",
@@ -3990,6 +4097,7 @@
       "Utenos",
       "Vilniaus"
     ],
+    "nativeName": "Lietuva",
     "flag": {
       "emoji": "🇱🇹",
       "unicode": "U+1F1F1 U+1F1F9",
@@ -4013,6 +4121,7 @@
       "Grevenmacher",
       "Luxembourg"
     ],
+    "nativeName": "Luxembourg",
     "flag": {
       "emoji": "🇱🇺",
       "unicode": "U+1F1F1 U+1F1FA",
@@ -4118,6 +4227,7 @@
       "Zelino",
       "Zrnovci"
     ],
+    "nativeName": "Северна Македонија",
     "flag": {
       "emoji": "🇲🇰",
       "unicode": "U+1F1F2 U+1F1F0",
@@ -4144,6 +4254,7 @@
       "Toamasina",
       "Toliara"
     ],
+    "nativeName": "Madagasikara",
     "flag": {
       "emoji": "🇲🇬",
       "unicode": "U+1F1F2 U+1F1EC",
@@ -4191,6 +4302,7 @@
       "Thyolo",
       "Zomba"
     ],
+    "nativeName": "Malawi",
     "flag": {
       "emoji": "🇲🇼",
       "unicode": "U+1F1F2 U+1F1FC",
@@ -4226,6 +4338,7 @@
       "Selangor",
       "Terengganu"
     ],
+    "nativeName": "Malaysia",
     "flag": {
       "emoji": "🇲🇾",
       "unicode": "U+1F1F2 U+1F1FE",
@@ -4267,6 +4380,7 @@
       "Thaa",
       "Vaavu"
     ],
+    "nativeName": "Maldives",
     "flag": {
       "emoji": "🇲🇻",
       "unicode": "U+1F1F2 U+1F1FB",
@@ -4296,6 +4410,7 @@
       "Sikasso",
       "Tombouctou"
     ],
+    "nativeName": "Mali",
     "flag": {
       "emoji": "🇲🇱",
       "unicode": "U+1F1F2 U+1F1F1",
@@ -4321,6 +4436,7 @@
       "Northern District",
       "Gozo and Comino"
     ],
+    "nativeName": "Malta",
     "flag": {
       "emoji": "🇲🇹",
       "unicode": "U+1F1F2 U+1F1F9",
@@ -4374,6 +4490,7 @@
       "Toke",
       "Ujelang"
     ],
+    "nativeName": "M̧ajeļ",
     "flag": {
       "emoji": "🇲🇭",
       "unicode": "U+1F1F2 U+1F1ED",
@@ -4408,6 +4525,7 @@
       "Tiris Zemmour",
       "Trarza"
     ],
+    "nativeName": "موريتانيا",
     "flag": {
       "emoji": "🇲🇷",
       "unicode": "U+1F1F2 U+1F1F7",
@@ -4440,6 +4558,7 @@
       "Rodrigues",
       "Savanne"
     ],
+    "nativeName": "Maurice",
     "flag": {
       "emoji": "🇲🇺",
       "unicode": "U+1F1F2 U+1F1FA",
@@ -4492,6 +4611,7 @@
       "Yucatan",
       "Zacatecas"
     ],
+    "nativeName": "México",
     "flag": {
       "emoji": "🇲🇽",
       "unicode": "U+1F1F2 U+1F1FD",
@@ -4526,6 +4646,7 @@
       "Pohnpei",
       "Yap"
     ],
+    "nativeName": "Micronesia",
     "flag": {
       "emoji": "🇫🇲",
       "unicode": "U+1F1EB U+1F1F2",
@@ -4585,6 +4706,7 @@
       "Gagauzia",
       "Stinga Nistrului"
     ],
+    "nativeName": "Moldova",
     "flag": {
       "emoji": "🇲🇩",
       "unicode": "U+1F1F2 U+1F1E9",
@@ -4609,6 +4731,7 @@
       "Monte Carlo",
       "Fontvieille"
     ],
+    "nativeName": "Monaco",
     "flag": {
       "emoji": "🇲🇨",
       "unicode": "U+1F1F2 U+1F1E8",
@@ -4651,6 +4774,7 @@
       "Ulaanbaatar",
       "Uvs"
     ],
+    "nativeName": "Монгол улс",
     "flag": {
       "emoji": "🇲🇳",
       "unicode": "U+1F1F2 U+1F1F3",
@@ -4712,6 +4836,7 @@
       "Tetouan",
       "Tiznit"
     ],
+    "nativeName": "المغرب",
     "flag": {
       "emoji": "🇲🇦",
       "unicode": "U+1F1F2 U+1F1E6",
@@ -4743,6 +4868,7 @@
       "Tete",
       "Zambezia"
     ],
+    "nativeName": "Moçambique",
     "flag": {
       "emoji": "🇲🇿",
       "unicode": "U+1F1F2 U+1F1FF",
@@ -4776,6 +4902,7 @@
       "Oshikoto",
       "Otjozondjupa"
     ],
+    "nativeName": "Namibia",
     "flag": {
       "emoji": "🇳🇦",
       "unicode": "U+1F1F3 U+1F1E6",
@@ -4800,6 +4927,7 @@
       "Anetan",
       "Anibare"
     ],
+    "nativeName": "Nauru",
     "flag": {
       "emoji": "🇳🇷",
       "unicode": "U+1F1F3 U+1F1F7",
@@ -4827,6 +4955,7 @@
       "Pradesh no. 2",
       "Sudur Pashchim Pradesh"
     ],
+    "nativeName": "नेपाल",
     "flag": {
       "emoji": "🇳🇵",
       "unicode": "U+1F1F3 U+1F1F5",
@@ -4859,6 +4988,7 @@
       "Zeeland",
       "Zuid-Holland"
     ],
+    "nativeName": "Nederland",
     "flag": {
       "emoji": "🇳🇱",
       "unicode": "U+1F1F3 U+1F1F1",
@@ -4896,6 +5026,7 @@
       "Wellington",
       "West Coast"
     ],
+    "nativeName": "New Zealand",
     "flag": {
       "emoji": "🇳🇿",
       "unicode": "U+1F1F3 U+1F1FF",
@@ -4934,6 +5065,7 @@
       "Rio San Juan",
       "Rivas"
     ],
+    "nativeName": "Nicaragua",
     "flag": {
       "emoji": "🇳🇮",
       "unicode": "U+1F1F3 U+1F1EE",
@@ -4962,6 +5094,7 @@
       "Tillaberi",
       "Zinder"
     ],
+    "nativeName": "Niger",
     "flag": {
       "emoji": "🇳🇪",
       "unicode": "U+1F1F3 U+1F1EA",
@@ -5019,6 +5152,7 @@
       "Yobe",
       "Zamfara"
     ],
+    "nativeName": "Nigeria",
     "flag": {
       "emoji": "🇳🇬",
       "unicode": "U+1F1F3 U+1F1EC",
@@ -5058,6 +5192,7 @@
       "Vest-Agder",
       "Vestfold"
     ],
+    "nativeName": "Norge",
     "flag": {
       "emoji": "🇳🇴",
       "unicode": "U+1F1F3 U+1F1F4",
@@ -5086,6 +5221,7 @@
       "Musandam",
       "Dhofar"
     ],
+    "nativeName": "عمان",
     "flag": {
       "emoji": "🇴🇲",
       "unicode": "U+1F1F4 U+1F1F2",
@@ -5112,6 +5248,7 @@
       "Islamabad Capital Territory",
       "Federally Administered Tribal Areas"
     ],
+    "nativeName": "Pakistan",
     "flag": {
       "emoji": "🇵🇰",
       "unicode": "U+1F1F5 U+1F1F0",
@@ -5142,6 +5279,7 @@
       "San Blas",
       "Veraguas"
     ],
+    "nativeName": "Panamá",
     "flag": {
       "emoji": "🇵🇦",
       "unicode": "U+1F1F5 U+1F1E6",
@@ -5182,6 +5320,7 @@
       "Western Highlands",
       "West New Britain"
     ],
+    "nativeName": "Papua Niugini",
     "flag": {
       "emoji": "🇵🇬",
       "unicode": "U+1F1F5 U+1F1EC",
@@ -5221,6 +5360,7 @@
       "Presidente Hayes",
       "San Pedro"
     ],
+    "nativeName": "Paraguay",
     "flag": {
       "emoji": "🇵🇾",
       "unicode": "U+1F1F5 U+1F1FE",
@@ -5266,6 +5406,7 @@
       "Tumbes",
       "Ucayali"
     ],
+    "nativeName": "Perú",
     "flag": {
       "emoji": "🇵🇪",
       "unicode": "U+1F1F5 U+1F1EA",
@@ -5365,6 +5506,7 @@
       "Zamboanga del Sur",
       "Zamboanga Sibugay"
     ],
+    "nativeName": "Pilipinas",
     "flag": {
       "emoji": "🇵🇭",
       "unicode": "U+1F1F5 U+1F1ED",
@@ -5401,6 +5543,7 @@
       "Warmian-Masurian (Warminsko-Mazurskie)",
       "West Pomeranian (Zachodniopomorskie)"
     ],
+    "nativeName": "Polska",
     "flag": {
       "emoji": "🇵🇱",
       "unicode": "U+1F1F5 U+1F1F1",
@@ -5441,6 +5584,7 @@
       "Vila Real",
       "Viseu"
     ],
+    "nativeName": "Portugal",
     "flag": {
       "emoji": "🇵🇹",
       "unicode": "U+1F1F5 U+1F1F9",
@@ -5473,6 +5617,7 @@
       "Umm Sa'id",
       "Umm Salal"
     ],
+    "nativeName": "قطر",
     "flag": {
       "emoji": "🇶🇦",
       "unicode": "U+1F1F6 U+1F1E6",
@@ -5535,6 +5680,7 @@
       "Vilcea",
       "Vrancea"
     ],
+    "nativeName": "România",
     "flag": {
       "emoji": "🇷🇴",
       "unicode": "U+1F1F7 U+1F1F4",
@@ -5644,6 +5790,7 @@
       "St. Petersburg",
       "Yevrey"
     ],
+    "nativeName": "Россия",
     "flag": {
       "emoji": "🇷🇺",
       "unicode": "U+1F1F7 U+1F1FA",
@@ -5702,6 +5849,7 @@
       "Umutara",
       "Ruhengeri"
     ],
+    "nativeName": "Rwanda",
     "flag": {
       "emoji": "🇷🇼",
       "unicode": "U+1F1F7 U+1F1FC",
@@ -5733,6 +5881,7 @@
       "Va'a-o-Fonoti",
       "Vaisigano"
     ],
+    "nativeName": "Samoa",
     "flag": {
       "emoji": "🇼🇸",
       "unicode": "U+1F1FC U+1F1F8",
@@ -5762,6 +5911,7 @@
       "San Marino Citta",
       "Serravalle"
     ],
+    "nativeName": "San Marino",
     "flag": {
       "emoji": "🇸🇲",
       "unicode": "U+1F1F8 U+1F1F2",
@@ -5789,6 +5939,7 @@
       "Mé-Zóchi",
       "Autonomous Region of Príncipe"
     ],
+    "nativeName": "São Tomé e Príncipe",
     "flag": {
       "emoji": "🇸🇹",
       "unicode": "U+1F1F8 U+1F1F9",
@@ -5822,6 +5973,7 @@
       "Najran",
       "Tabuk"
     ],
+    "nativeName": "العربية السعودية",
     "flag": {
       "emoji": "🇸🇦",
       "unicode": "U+1F1F8 U+1F1E6",
@@ -5853,6 +6005,7 @@
       "Thies",
       "Ziguinchor"
     ],
+    "nativeName": "Sénégal",
     "flag": {
       "emoji": "🇸🇳",
       "unicode": "U+1F1F8 U+1F1F3",
@@ -5897,6 +6050,7 @@
       "Sremska Mitrovica",
       "Sombor"
     ],
+    "nativeName": "Србија",
     "flag": {
       "emoji": "🇷🇸",
       "unicode": "U+1F1F7 U+1F1F8",
@@ -5942,6 +6096,7 @@
       "Ulcinj",
       "Žabljak"
     ],
+    "nativeName": "Црна Гора",
     "flag": {
       "emoji": "🇲🇪",
       "unicode": "U+1F1F2 U+1F1EA",
@@ -5969,6 +6124,7 @@
       "Pristina",
       "Prizren"
     ],
+    "nativeName": "Republika e Kosovës",
     "flag": {
       "emoji": "🇽🇰",
       "unicode": "U+1F1FD U+1F1F0",
@@ -6012,6 +6168,7 @@
       "Saint Louis",
       "Takamaka"
     ],
+    "nativeName": "Seychelles",
     "flag": {
       "emoji": "🇸🇨",
       "unicode": "U+1F1F8 U+1F1E8",
@@ -6037,6 +6194,7 @@
       "North West Province",
       "Western Area"
     ],
+    "nativeName": "Sierra Leone",
     "flag": {
       "emoji": "🇸🇱",
       "unicode": "U+1F1F8 U+1F1F1",
@@ -6073,6 +6231,7 @@
       "Tanjong Pagar Group Representation Constituency",
       "West Coast Group Representation Constituency"
     ],
+    "nativeName": "Singapore",
     "flag": {
       "emoji": "🇸🇬",
       "unicode": "U+1F1F8 U+1F1EC",
@@ -6101,6 +6260,7 @@
       "Trnavsky",
       "Zilinsky"
     ],
+    "nativeName": "Slovensko",
     "flag": {
       "emoji": "🇸🇰",
       "unicode": "U+1F1F8 U+1F1F0",
@@ -6314,6 +6474,7 @@
       "Zuzemberk",
       "Zrece"
     ],
+    "nativeName": "Slovenija",
     "flag": {
       "emoji": "🇸🇮",
       "unicode": "U+1F1F8 U+1F1EE",
@@ -6344,6 +6505,7 @@
       "Temotu",
       "Western"
     ],
+    "nativeName": "Solomon Islands",
     "flag": {
       "emoji": "🇸🇧",
       "unicode": "U+1F1F8 U+1F1E7",
@@ -6382,6 +6544,7 @@
       "Togdheer",
       "Woqooyi Galbeed"
     ],
+    "nativeName": "Soomaaliya",
     "flag": {
       "emoji": "🇸🇴",
       "unicode": "U+1F1F8 U+1F1F4",
@@ -6411,6 +6574,7 @@
       "Northern Cape",
       "Western Cape"
     ],
+    "nativeName": "South Africa",
     "flag": {
       "emoji": "🇿🇦",
       "unicode": "U+1F1FF U+1F1E6",
@@ -6450,6 +6614,7 @@
       "Navarra",
       "Pais Vasco"
     ],
+    "nativeName": "España",
     "flag": {
       "emoji": "🇪🇸",
       "unicode": "U+1F1EA U+1F1F8",
@@ -6481,6 +6646,7 @@
       "Uva",
       "Western"
     ],
+    "nativeName": "śrī laṃkāva",
     "flag": {
       "emoji": "🇱🇰",
       "unicode": "U+1F1F1 U+1F1F0",
@@ -6527,6 +6693,7 @@
       "Sinnar",
       "Warab"
     ],
+    "nativeName": "السودان",
     "flag": {
       "emoji": "🇸🇩",
       "unicode": "U+1F1F8 U+1F1E9",
@@ -6557,6 +6724,7 @@
       "Sipaliwini",
       "Wanica"
     ],
+    "nativeName": "Suriname",
     "flag": {
       "emoji": "🇸🇷",
       "unicode": "U+1F1F8 U+1F1F7",
@@ -6581,6 +6749,7 @@
       "Manzini",
       "Shiselweni"
     ],
+    "nativeName": "Swaziland",
     "flag": {
       "emoji": "🇸🇿",
       "unicode": "U+1F1F8 U+1F1FF",
@@ -6622,6 +6791,7 @@
       "Västmanland",
       "Västra Götaland"
     ],
+    "nativeName": "Sverige",
     "flag": {
       "emoji": "🇸🇪",
       "unicode": "U+1F1F8 U+1F1EA",
@@ -6668,6 +6838,7 @@
       "Zug",
       "Zurich"
     ],
+    "nativeName": "Schweiz",
     "flag": {
       "emoji": "🇨🇭",
       "unicode": "U+1F1E8 U+1F1ED",
@@ -6702,6 +6873,7 @@
       "Rif Dimashq",
       "Tartus"
     ],
+    "nativeName": "سوريا",
     "flag": {
       "emoji": "🇸🇾",
       "unicode": "U+1F1F8 U+1F1FE",
@@ -6747,6 +6919,7 @@
       "Kao-hsiung city",
       "T'ai-pei city"
     ],
+    "nativeName": "臺灣",
     "flag": {
       "emoji": "🇹🇼",
       "unicode": "U+1F1F9 U+1F1FC",
@@ -6772,6 +6945,7 @@
       "Gorno-Badakhshan Autonomous Region",
       "Dushanbe"
     ],
+    "nativeName": "Тоҷикистон",
     "flag": {
       "emoji": "🇹🇯",
       "unicode": "U+1F1F9 U+1F1EF",
@@ -6818,6 +6992,7 @@
       "Zanzibar North",
       "Zanzibar Urban/West"
     ],
+    "nativeName": "Tanzania",
     "flag": {
       "emoji": "🇹🇿",
       "unicode": "U+1F1F9 U+1F1FF",
@@ -6914,6 +7089,7 @@
       "Yala",
       "Yasothon"
     ],
+    "nativeName": "ประเทศไทย",
     "flag": {
       "emoji": "🇹🇭",
       "unicode": "U+1F1F9 U+1F1ED",
@@ -6939,6 +7115,7 @@
       "Centrale",
       "Maritime"
     ],
+    "nativeName": "Togo",
     "flag": {
       "emoji": "🇹🇬",
       "unicode": "U+1F1F9 U+1F1EC",
@@ -6965,6 +7142,7 @@
       "Ongo Niua",
       "Tonga"
     ],
+    "nativeName": "Tonga",
     "flag": {
       "emoji": "🇹🇴",
       "unicode": "U+1F1F9 U+1F1F4",
@@ -7000,6 +7178,7 @@
       "Chaguanas",
       "Tobago"
     ],
+    "nativeName": "Trinidad and Tobago",
     "flag": {
       "emoji": "🇹🇹",
       "unicode": "U+1F1F9 U+1F1F9",
@@ -7044,6 +7223,7 @@
       "Tunis",
       "Zaghouan (Zaghwan)"
     ],
+    "nativeName": "تونس",
     "flag": {
       "emoji": "🇹🇳",
       "unicode": "U+1F1F9 U+1F1F3",
@@ -7145,6 +7325,7 @@
       "Yozgat",
       "Zonguldak"
     ],
+    "nativeName": "Türkiye",
     "flag": {
       "emoji": "🇹🇷",
       "unicode": "U+1F1F9 U+1F1F7",
@@ -7170,6 +7351,7 @@
       "Lebap Welayaty (Turkmenabat)",
       "Mary Welayaty"
     ],
+    "nativeName": "Türkmenistan",
     "flag": {
       "emoji": "🇹🇲",
       "unicode": "U+1F1F9 U+1F1F2",
@@ -7246,6 +7428,7 @@
       "Wakiso",
       "Yumbe"
     ],
+    "nativeName": "Uganda",
     "flag": {
       "emoji": "🇺🇬",
       "unicode": "U+1F1FA U+1F1EC",
@@ -7293,6 +7476,7 @@
       "Zaporizhzhya",
       "Zhytomyr"
     ],
+    "nativeName": "Україна",
     "flag": {
       "emoji": "🇺🇦",
       "unicode": "U+1F1FA U+1F1E6",
@@ -7322,6 +7506,7 @@
       "Ra's al Khaymah",
       "Umm al Qaywayn"
     ],
+    "nativeName": "دولة الإمارات العربية المتحدة",
     "flag": {
       "emoji": "🇦🇪",
       "unicode": "U+1F1E6 U+1F1EA",
@@ -7488,6 +7673,7 @@
       "Wrexham",
       "York"
     ],
+    "nativeName": "United Kingdom",
     "flag": {
       "emoji": "🇬🇧",
       "unicode": "U+1F1EC U+1F1E7",
@@ -7559,6 +7745,7 @@
       "Wisconsin",
       "Wyoming"
     ],
+    "nativeName": "United States",
     "flag": {
       "emoji": "🇺🇸",
       "unicode": "U+1F1FA U+1F1F8",
@@ -7626,6 +7813,7 @@
       "Tacuarembo",
       "Treinta y Tres"
     ],
+    "nativeName": "Uruguay",
     "flag": {
       "emoji": "🇺🇾",
       "unicode": "U+1F1FA U+1F1FE",
@@ -7660,6 +7848,7 @@
       "Toshkent Viloyati",
       "Xorazm Viloyati"
     ],
+    "nativeName": "O‘zbekiston",
     "flag": {
       "emoji": "🇺🇿",
       "unicode": "U+1F1FA U+1F1FF",
@@ -7687,6 +7876,7 @@
       "Tafea",
       "Torba"
     ],
+    "nativeName": "Vanuatu",
     "flag": {
       "emoji": "🇻🇺",
       "unicode": "U+1F1FB U+1F1FA",
@@ -7732,6 +7922,7 @@
       "Yaracuy",
       "Zulia"
     ],
+    "nativeName": "Venezuela",
     "flag": {
       "emoji": "🇻🇪",
       "unicode": "U+1F1FB U+1F1EA",
@@ -7816,6 +8007,7 @@
       "Hanoi",
       "Ho Chi Minh"
     ],
+    "nativeName": "Việt Nam",
     "flag": {
       "emoji": "🇻🇳",
       "unicode": "U+1F1FB U+1F1F3",
@@ -7855,6 +8047,7 @@
       "Shabwah",
       "Ta'izz"
     ],
+    "nativeName": "اليَمَن",
     "flag": {
       "emoji": "🇾🇪",
       "unicode": "U+1F1FE U+1F1EA",
@@ -7884,6 +8077,7 @@
       "Southern",
       "Western"
     ],
+    "nativeName": "Zambia",
     "flag": {
       "emoji": "🇿🇲",
       "unicode": "U+1F1FF U+1F1F2",
@@ -7914,6 +8108,7 @@
       "Matabeleland South",
       "Midlands"
     ],
+    "nativeName": "Zimbabwe",
     "flag": {
       "emoji": "🇿🇼",
       "unicode": "U+1F1FF U+1F1FC",
