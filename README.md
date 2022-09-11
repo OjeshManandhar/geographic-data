@@ -9,3 +9,10 @@ This repo contains data about countries, states, timezone, continents, currencie
   1. continents and currencies
   2. countries
   3. states/ flags
+
+---
+
+## Some of the sources are
+
+- [GitHub/annexare/Countries](https://github.com/annexare/Countries)
+- [Stack overflow](https://stackoverflow.com/a/4900304/13219635)
