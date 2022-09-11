@@ -41,12 +41,26 @@
       "Zabol"
     ],
     "nativeName": "افغانستان",
-    "language": {
-      "name": "Persian",
-      "ianaCode": "fa-AF",
-      "alpha2Code": "fa",
-      "nativeName": "فارسی"
-    },
+    "languages": [
+      {
+        "name": "Persian",
+        "ianaCode": "fa-AF",
+        "alpha2Code": "fa",
+        "nativeName": "فارسی"
+      },
+      {
+        "name": "Pashto, Pushto",
+        "ianaCode": "ps-AF",
+        "alpha2Code": "ps",
+        "nativeName": "پښتو"
+      },
+      {
+        "name": "Uzbek",
+        "ianaCode": "uz-Arab-AF",
+        "alpha2Code": "uz",
+        "nativeName": "zbek, Ўзбек, أۇزبېك‎"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇫",
       "unicode": "U+1F1E6 U+1F1EB",
@@ -80,12 +94,14 @@
       "Vlore"
     ],
     "nativeName": "Shqipëria",
-    "language": {
-      "name": "Albanian",
-      "ianaCode": "sq-AL",
-      "alpha2Code": "sq",
-      "nativeName": "Shqip"
-    },
+    "languages": [
+      {
+        "name": "Albanian",
+        "ianaCode": "sq-AL",
+        "alpha2Code": "sq",
+        "nativeName": "Shqip"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇱",
       "unicode": "U+1F1E6 U+1F1F1",
@@ -155,12 +171,20 @@
       "Tlemcen"
     ],
     "nativeName": "الجزائر",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-DZ",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-DZ",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-DZ",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇩🇿",
       "unicode": "U+1F1E9 U+1F1FF",
@@ -189,12 +213,14 @@
       "Sant Julia de Loria"
     ],
     "nativeName": "Andorra",
-    "language": {
-      "name": "Catalan; Valencian",
-      "ianaCode": "ca-AD",
-      "alpha2Code": "ca",
-      "nativeName": "Català"
-    },
+    "languages": [
+      {
+        "name": "Catalan; Valencian",
+        "ianaCode": "ca-AD",
+        "alpha2Code": "ca",
+        "nativeName": "Català"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇩",
       "unicode": "U+1F1E6 U+1F1E9",
@@ -234,12 +260,20 @@
       "Zaire"
     ],
     "nativeName": "Angola",
-    "language": {
-      "name": "Lingala",
-      "ianaCode": "ln-AO",
-      "alpha2Code": "ln",
-      "nativeName": "Lingála"
-    },
+    "languages": [
+      {
+        "name": "Lingala",
+        "ianaCode": "ln-AO",
+        "alpha2Code": "ln",
+        "nativeName": "Lingála"
+      },
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-AO",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇴",
       "unicode": "U+1F1E6 U+1F1F4",
@@ -260,6 +294,7 @@
     "numberCode": 10,
     "states": [],
     "nativeName": "Antarctica",
+    "languages": [],
     "flag": {
       "emoji": "🇦🇶",
       "unicode": "U+1F1E6 U+1F1F6",
@@ -297,12 +332,14 @@
       "Saint Philip"
     ],
     "nativeName": "Antigua and Barbuda",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-AG",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-AG",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇬",
       "unicode": "U+1F1E6 U+1F1EC",
@@ -348,12 +385,14 @@
       "Tucuman"
     ],
     "nativeName": "Argentina",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-AR",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-AR",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇷",
       "unicode": "U+1F1E6 U+1F1F7",
@@ -397,12 +436,14 @@
       "Yerevan"
     ],
     "nativeName": "Հայաստան",
-    "language": {
-      "name": "Armenian",
-      "ianaCode": "hy-AM",
-      "alpha2Code": "hy",
-      "nativeName": "Հայերեն"
-    },
+    "languages": [
+      {
+        "name": "Armenian",
+        "ianaCode": "hy-AM",
+        "alpha2Code": "hy",
+        "nativeName": "Հայերեն"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇲",
       "unicode": "U+1F1E6 U+1F1F2",
@@ -432,12 +473,14 @@
       "Western Australia"
     ],
     "nativeName": "Australia",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-AU",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-AU",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇺",
       "unicode": "U+1F1E6 U+1F1FA",
@@ -480,12 +523,20 @@
       "Wien"
     ],
     "nativeName": "Österreich",
-    "language": {
-      "name": "German",
-      "ianaCode": "de-AT",
-      "alpha2Code": "de",
-      "nativeName": "Deutsch"
-    },
+    "languages": [
+      {
+        "name": "German",
+        "ianaCode": "de-AT",
+        "alpha2Code": "de",
+        "nativeName": "Deutsch"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-AT",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇹",
       "unicode": "U+1F1E6 U+1F1F9",
@@ -578,12 +629,20 @@
       "Naxcivan Muxtar"
     ],
     "nativeName": "Azərbaycan",
-    "language": {
-      "name": "Azerbaijani",
-      "ianaCode": "az-Cyrl-AZ",
-      "alpha2Code": "az",
-      "nativeName": "azərbaycan dili"
-    },
+    "languages": [
+      {
+        "name": "Azerbaijani",
+        "ianaCode": "az-Cyrl-AZ",
+        "alpha2Code": "az",
+        "nativeName": "azərbaycan dili"
+      },
+      {
+        "name": "Azerbaijani",
+        "ianaCode": "az-Latn-AZ",
+        "alpha2Code": "az",
+        "nativeName": "azərbaycan dili"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇿",
       "unicode": "U+1F1E6 U+1F1FF",
@@ -626,12 +685,14 @@
       "San Salvador and Rum Cay"
     ],
     "nativeName": "Bahamas",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-BS",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-BS",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇸",
       "unicode": "U+1F1E7 U+1F1F8",
@@ -665,12 +726,14 @@
       "Sitrah"
     ],
     "nativeName": "‏البحرين",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-BH",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-BH",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇭",
       "unicode": "U+1F1E7 U+1F1ED",
@@ -698,12 +761,14 @@
       "Sylhet"
     ],
     "nativeName": "Bangladesh",
-    "language": {
-      "name": "Bengali",
-      "ianaCode": "bn-BD",
-      "alpha2Code": "bn",
-      "nativeName": "বাংলা"
-    },
+    "languages": [
+      {
+        "name": "Bengali",
+        "ianaCode": "bn-BD",
+        "alpha2Code": "bn",
+        "nativeName": "বাংলা"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇩",
       "unicode": "U+1F1E7 U+1F1E9",
@@ -736,12 +801,14 @@
       "Saint Thomas"
     ],
     "nativeName": "Barbados",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-BB",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-BB",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇧",
       "unicode": "U+1F1E7 U+1F1E7",
@@ -770,12 +837,20 @@
       "Vitsyebsk"
     ],
     "nativeName": "Белару́сь",
-    "language": {
-      "name": "Belarusian",
-      "ianaCode": "be-BY",
-      "alpha2Code": "be",
-      "nativeName": "Беларуская"
-    },
+    "languages": [
+      {
+        "name": "Belarusian",
+        "ianaCode": "be-BY",
+        "alpha2Code": "be",
+        "nativeName": "Беларуская"
+      },
+      {
+        "name": "Russian",
+        "ianaCode": "ru-BY",
+        "alpha2Code": "ru",
+        "nativeName": "русский язык"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇾",
       "unicode": "U+1F1E7 U+1F1FE",
@@ -810,12 +885,32 @@
       "West-Vlaanderen"
     ],
     "nativeName": "België",
-    "language": {
-      "name": "German",
-      "ianaCode": "de-BE",
-      "alpha2Code": "de",
-      "nativeName": "Deutsch"
-    },
+    "languages": [
+      {
+        "name": "German",
+        "ianaCode": "de-BE",
+        "alpha2Code": "de",
+        "nativeName": "Deutsch"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-BE",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-BE",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Dutch",
+        "ianaCode": "nl-BE",
+        "alpha2Code": "nl",
+        "nativeName": "Nederlands, Vlaams"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇪",
       "unicode": "U+1F1E7 U+1F1EA",
@@ -843,12 +938,20 @@
       "Toledo"
     ],
     "nativeName": "Belize",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-BZ",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-BZ",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-BZ",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇿",
       "unicode": "U+1F1E7 U+1F1FF",
@@ -882,12 +985,20 @@
       "Zou"
     ],
     "nativeName": "Bénin",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-BJ",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-BJ",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Yoruba",
+        "ianaCode": "yo-BJ",
+        "alpha2Code": "yo",
+        "nativeName": "Yorùbá"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇯",
       "unicode": "U+1F1E7 U+1F1EF",
@@ -920,12 +1031,14 @@
       "Warwick"
     ],
     "nativeName": "Bermuda",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-BM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-BM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇲",
       "unicode": "U+1F1E7 U+1F1F2",
@@ -967,12 +1080,14 @@
       "Zhemgang"
     ],
     "nativeName": "ʼbrug-yul",
-    "language": {
-      "name": "Dzongkha",
-      "ianaCode": "dz-BT",
-      "alpha2Code": "dz",
-      "nativeName": "རྫོང་ཁ"
-    },
+    "languages": [
+      {
+        "name": "Dzongkha",
+        "ianaCode": "dz-BT",
+        "alpha2Code": "dz",
+        "nativeName": "རྫོང་ཁ"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇹",
       "unicode": "U+1F1E7 U+1F1F9",
@@ -1003,12 +1118,20 @@
       "Tarija"
     ],
     "nativeName": "Bolivia",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-BO",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-BO",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      },
+      {
+        "name": "Quechua",
+        "ianaCode": "qu-BO",
+        "alpha2Code": "qu",
+        "nativeName": "Runa Simi, Kichwa"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇴",
       "unicode": "U+1F1E7 U+1F1F4",
@@ -1047,12 +1170,38 @@
       "Vlasenica [RS]"
     ],
     "nativeName": "Bosna i Hercegovina",
-    "language": {
-      "name": "Bosnian",
-      "ianaCode": "bs-Cyrl-BA",
-      "alpha2Code": "bs",
-      "nativeName": "bosanski jezik"
-    },
+    "languages": [
+      {
+        "name": "Bosnian",
+        "ianaCode": "bs-Cyrl-BA",
+        "alpha2Code": "bs",
+        "nativeName": "bosanski jezik"
+      },
+      {
+        "name": "Bosnian",
+        "ianaCode": "bs-Latn-BA",
+        "alpha2Code": "bs",
+        "nativeName": "bosanski jezik"
+      },
+      {
+        "name": "Croatian",
+        "ianaCode": "hr-BA",
+        "alpha2Code": "hr",
+        "nativeName": "hrvatski"
+      },
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Cyrl-BA",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      },
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Latn-BA",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇦",
       "unicode": "U+1F1E7 U+1F1E6",
@@ -1083,12 +1232,14 @@
       "Southern"
     ],
     "nativeName": "Botswana",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-BW",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-BW",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇼",
       "unicode": "U+1F1E7 U+1F1FC",
@@ -1137,12 +1288,20 @@
       "Tocantins"
     ],
     "nativeName": "Brasil",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-BR",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-BR",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      },
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-BR",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇷",
       "unicode": "U+1F1E7 U+1F1F7",
@@ -1183,12 +1342,14 @@
       "Tutong"
     ],
     "nativeName": "Negara Brunei Darussalam",
-    "language": {
-      "name": "Malay",
-      "ianaCode": "ms-BN",
-      "alpha2Code": "ms",
-      "nativeName": "bahasa Melayu, بهاس ملايو‎"
-    },
+    "languages": [
+      {
+        "name": "Malay",
+        "ianaCode": "ms-BN",
+        "alpha2Code": "ms",
+        "nativeName": "bahasa Melayu, بهاس ملايو‎"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇳",
       "unicode": "U+1F1E7 U+1F1F3",
@@ -1238,12 +1399,14 @@
       "Yambol"
     ],
     "nativeName": "България",
-    "language": {
-      "name": "Bulgarian",
-      "ianaCode": "bg-BG",
-      "alpha2Code": "bg",
-      "nativeName": "български език"
-    },
+    "languages": [
+      {
+        "name": "Bulgarian",
+        "ianaCode": "bg-BG",
+        "alpha2Code": "bg",
+        "nativeName": "български език"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇬",
       "unicode": "U+1F1E7 U+1F1EC",
@@ -1310,12 +1473,26 @@
       "Zoundweogo"
     ],
     "nativeName": "Burkina Faso",
-    "language": {
-      "name": "Fula; Fulah; Pulaar; Pular",
-      "ianaCode": "ff-Adlm-BF",
-      "alpha2Code": "ff",
-      "nativeName": "Fulfulde, Pulaar, Pular"
-    },
+    "languages": [
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-BF",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-BF",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-BF",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇫",
       "unicode": "U+1F1E7 U+1F1EB",
@@ -1351,12 +1528,14 @@
       "Shan State"
     ],
     "nativeName": "မြန်မာ",
-    "language": {
-      "name": "Burmese",
-      "ianaCode": "my-MM",
-      "alpha2Code": "my",
-      "nativeName": "ဗမာစာ"
-    },
+    "languages": [
+      {
+        "name": "Burmese",
+        "ianaCode": "my-MM",
+        "alpha2Code": "my",
+        "nativeName": "ဗမာစာ"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇲",
       "unicode": "U+1F1F2 U+1F1F2",
@@ -1395,12 +1574,26 @@
       "Ruyigi"
     ],
     "nativeName": "Burundi",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-BI",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-BI",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-BI",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Kirundi",
+        "ianaCode": "rn-BI",
+        "alpha2Code": "rn",
+        "nativeName": "kiRundi"
+      }
+    ],
     "flag": {
       "emoji": "🇧🇮",
       "unicode": "U+1F1E7 U+1F1EE",
@@ -1446,12 +1639,14 @@
       "Preah Seihanu"
     ],
     "nativeName": "Kâmpŭchéa",
-    "language": {
-      "name": "Khmer",
-      "ianaCode": "km-KH",
-      "alpha2Code": "km",
-      "nativeName": "ភាសាខ្មែរ"
-    },
+    "languages": [
+      {
+        "name": "Khmer",
+        "ianaCode": "km-KH",
+        "alpha2Code": "km",
+        "nativeName": "ភាសាខ្មែរ"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇭",
       "unicode": "U+1F1F0 U+1F1ED",
@@ -1483,12 +1678,32 @@
       "Sud-Ouest"
     ],
     "nativeName": "Cameroon",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-CM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-CM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-CM",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-CM",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-CM",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇲",
       "unicode": "U+1F1E8 U+1F1F2",
@@ -1523,12 +1738,20 @@
       "Yukon Territory"
     ],
     "nativeName": "Canada",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-CA",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-CA",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-CA",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇦",
       "unicode": "U+1F1E8 U+1F1E6",
@@ -1587,12 +1810,14 @@
       "Brava"
     ],
     "nativeName": "Cabo Verde",
-    "language": {
-      "name": "Portuguese",
-      "ianaCode": "pt-CV",
-      "alpha2Code": "pt",
-      "nativeName": "Português"
-    },
+    "languages": [
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-CV",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇻",
       "unicode": "U+1F1E8 U+1F1FB",
@@ -1631,12 +1856,26 @@
       "Vakaga"
     ],
     "nativeName": "Ködörösêse tî Bêafrîka",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-CF",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-CF",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Lingala",
+        "ianaCode": "ln-CF",
+        "alpha2Code": "ln",
+        "nativeName": "Lingála"
+      },
+      {
+        "name": "Sango",
+        "ianaCode": "sg-CF",
+        "alpha2Code": "sg",
+        "nativeName": "yângâ tî sängö"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇫",
       "unicode": "U+1F1E8 U+1F1EB",
@@ -1672,12 +1911,20 @@
       "Tandjile"
     ],
     "nativeName": "Tchad",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-TD",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-TD",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-TD",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇩",
       "unicode": "U+1F1F9 U+1F1E9",
@@ -1712,12 +1959,14 @@
       "Valparaiso"
     ],
     "nativeName": "Chile",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-CL",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-CL",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇱",
       "unicode": "U+1F1E8 U+1F1F1",
@@ -1772,12 +2021,32 @@
       "Tianjin"
     ],
     "nativeName": "中国",
-    "language": {
-      "name": "Tibetan Standard, Tibetan, Central",
-      "ianaCode": "bo-CN",
-      "alpha2Code": "bo",
-      "nativeName": "བོད་ཡིག"
-    },
+    "languages": [
+      {
+        "name": "Tibetan Standard, Tibetan, Central",
+        "ianaCode": "bo-CN",
+        "alpha2Code": "bo",
+        "nativeName": "བོད་ཡིག"
+      },
+      {
+        "name": "Nuosu",
+        "ianaCode": "ii-CN",
+        "alpha2Code": "ii",
+        "nativeName": "ꆈꌠ꒿ Nuosuhxop"
+      },
+      {
+        "name": "Uighur, Uyghur",
+        "ianaCode": "ug-CN",
+        "alpha2Code": "ug",
+        "nativeName": "Uyƣurqə, ئۇيغۇرچە‎"
+      },
+      {
+        "name": "Chinese",
+        "ianaCode": "zh-Hans-CN",
+        "alpha2Code": "zh",
+        "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇳",
       "unicode": "U+1F1E8 U+1F1F3",
@@ -1833,12 +2102,14 @@
       "Vichada"
     ],
     "nativeName": "Colombia",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-CO",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-CO",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇴",
       "unicode": "U+1F1E8 U+1F1F4",
@@ -1863,12 +2134,20 @@
       "Moheli (Mwali)"
     ],
     "nativeName": "Komori",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-KM",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-KM",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-KM",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇲",
       "unicode": "U+1F1F0 U+1F1F2",
@@ -1901,12 +2180,32 @@
       "Sud-Kivu"
     ],
     "nativeName": "République démocratique du Congo",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-CD",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-CD",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Lingala",
+        "ianaCode": "ln-CD",
+        "alpha2Code": "ln",
+        "nativeName": "Lingála"
+      },
+      {
+        "name": "Luba-Katanga",
+        "ianaCode": "lu-CD",
+        "alpha2Code": "lu",
+        "nativeName": ""
+      },
+      {
+        "name": "Swahili",
+        "ianaCode": "sw-CD",
+        "alpha2Code": "sw",
+        "nativeName": "Kiswahili"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇩",
       "unicode": "U+1F1E8 U+1F1E9",
@@ -1940,12 +2239,20 @@
       "Sangha"
     ],
     "nativeName": "République du Congo",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-CG",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-CG",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Lingala",
+        "ianaCode": "ln-CG",
+        "alpha2Code": "ln",
+        "nativeName": "Lingála"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇬",
       "unicode": "U+1F1E8 U+1F1EC",
@@ -1974,12 +2281,14 @@
       "San Jose"
     ],
     "nativeName": "Costa Rica",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-CR",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-CR",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇷",
       "unicode": "U+1F1E8 U+1F1F7",
@@ -2015,12 +2324,14 @@
       "Zanzan"
     ],
     "nativeName": "Côte d'Ivoire",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-CI",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-CI",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇮",
       "unicode": "U+1F1E8 U+1F1EE",
@@ -2063,12 +2374,14 @@
       "Zagrebacka"
     ],
     "nativeName": "Hrvatska",
-    "language": {
-      "name": "Croatian",
-      "ianaCode": "hr-HR",
-      "alpha2Code": "hr",
-      "nativeName": "hrvatski"
-    },
+    "languages": [
+      {
+        "name": "Croatian",
+        "ianaCode": "hr-HR",
+        "alpha2Code": "hr",
+        "nativeName": "hrvatski"
+      }
+    ],
     "flag": {
       "emoji": "🇭🇷",
       "unicode": "U+1F1ED U+1F1F7",
@@ -2105,12 +2418,14 @@
       "Villa Clara"
     ],
     "nativeName": "Cuba",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-CU",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-CU",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇺",
       "unicode": "U+1F1E8 U+1F1FA",
@@ -2138,12 +2453,26 @@
       "Paphos"
     ],
     "nativeName": "Κύπρος",
-    "language": {
-      "name": "Greek, Modern",
-      "ianaCode": "el-CY",
-      "alpha2Code": "el",
-      "nativeName": "Ελληνικά"
-    },
+    "languages": [
+      {
+        "name": "Greek, Modern",
+        "ianaCode": "el-CY",
+        "alpha2Code": "el",
+        "nativeName": "Ελληνικά"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-CY",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Turkish",
+        "ianaCode": "tr-CY",
+        "alpha2Code": "tr",
+        "nativeName": "Türkçe"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇾",
       "unicode": "U+1F1E8 U+1F1FE",
@@ -2180,12 +2509,14 @@
       "Zlinsky Kraj"
     ],
     "nativeName": "Česká republika",
-    "language": {
-      "name": "Czech",
-      "ianaCode": "cs-CZ",
-      "alpha2Code": "cs",
-      "nativeName": "česky, čeština"
-    },
+    "languages": [
+      {
+        "name": "Czech",
+        "ianaCode": "cs-CZ",
+        "alpha2Code": "cs",
+        "nativeName": "česky, čeština"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇿",
       "unicode": "U+1F1E8 U+1F1FF",
@@ -2223,12 +2554,26 @@
       "Viborg"
     ],
     "nativeName": "Danmark",
-    "language": {
-      "name": "Danish",
-      "ianaCode": "da-DK",
-      "alpha2Code": "da",
-      "nativeName": "dansk"
-    },
+    "languages": [
+      {
+        "name": "Danish",
+        "ianaCode": "da-DK",
+        "alpha2Code": "da",
+        "nativeName": "dansk"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-DK",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Faroese",
+        "ianaCode": "fo-DK",
+        "alpha2Code": "fo",
+        "nativeName": "føroyskt"
+      }
+    ],
     "flag": {
       "emoji": "🇩🇰",
       "unicode": "U+1F1E9 U+1F1F0",
@@ -2255,12 +2600,26 @@
       "Tadjoura"
     ],
     "nativeName": "Djibouti",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-DJ",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-DJ",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-DJ",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Somali",
+        "ianaCode": "so-DJ",
+        "alpha2Code": "so",
+        "nativeName": "Soomaaliga, af Soomaali"
+      }
+    ],
     "flag": {
       "emoji": "🇩🇯",
       "unicode": "U+1F1E9 U+1F1EF",
@@ -2292,12 +2651,14 @@
       "Saint Peter"
     ],
     "nativeName": "Dominica",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-DM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-DM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇩🇲",
       "unicode": "U+1F1E9 U+1F1F2",
@@ -2351,12 +2712,14 @@
       "Valverde"
     ],
     "nativeName": "República Dominicana",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-DO",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-DO",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇩🇴",
       "unicode": "U+1F1E9 U+1F1F4",
@@ -2391,12 +2754,14 @@
       "Viqueque"
     ],
     "nativeName": "Timor-Leste",
-    "language": {
-      "name": "Portuguese",
-      "ianaCode": "pt-TL",
-      "alpha2Code": "pt",
-      "nativeName": "Português"
-    },
+    "languages": [
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-TL",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇱",
       "unicode": "U+1F1F9 U+1F1F1",
@@ -2440,12 +2805,20 @@
       "Zamora-Chinchipe"
     ],
     "nativeName": "Ecuador",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-EC",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-EC",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      },
+      {
+        "name": "Quechua",
+        "ianaCode": "qu-EC",
+        "alpha2Code": "qu",
+        "nativeName": "Runa Simi, Kichwa"
+      }
+    ],
     "flag": {
       "emoji": "🇪🇨",
       "unicode": "U+1F1EA U+1F1E8",
@@ -2494,12 +2867,14 @@
       "Suhaj"
     ],
     "nativeName": "مصر‎",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-EG",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-EG",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇪🇬",
       "unicode": "U+1F1EA U+1F1EC",
@@ -2535,12 +2910,14 @@
       "Usulutan"
     ],
     "nativeName": "El Salvador",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-SV",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-SV",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇻",
       "unicode": "U+1F1F8 U+1F1FB",
@@ -2569,12 +2946,26 @@
       "Wele-Nzas"
     ],
     "nativeName": "Guinea Ecuatorial",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-GQ",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-GQ",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-GQ",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-GQ",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇶",
       "unicode": "U+1F1EC U+1F1F6",
@@ -2602,12 +2993,26 @@
       "Semenawi Keyih Bahri"
     ],
     "nativeName": "ኤርትራ",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-ER",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-ER",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-ER",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Tigrinya",
+        "ianaCode": "ti-ER",
+        "alpha2Code": "ti",
+        "nativeName": "ትግርኛ"
+      }
+    ],
     "flag": {
       "emoji": "🇪🇷",
       "unicode": "U+1F1EA U+1F1F7",
@@ -2644,12 +3049,14 @@
       "Vorumaa (Voru)"
     ],
     "nativeName": "Eesti",
-    "language": {
-      "name": "Estonian",
-      "ianaCode": "et-EE",
-      "alpha2Code": "et",
-      "nativeName": "eesti, eesti keel"
-    },
+    "languages": [
+      {
+        "name": "Estonian",
+        "ianaCode": "et-EE",
+        "alpha2Code": "et",
+        "nativeName": "eesti, eesti keel"
+      }
+    ],
     "flag": {
       "emoji": "🇪🇪",
       "unicode": "U+1F1EA U+1F1EA",
@@ -2682,12 +3089,32 @@
       "Southern Nations, Nationalities, and Peoples Region"
     ],
     "nativeName": "ኢትዮጵያ",
-    "language": {
-      "name": "Amharic",
-      "ianaCode": "am-ET",
-      "alpha2Code": "am",
-      "nativeName": "አማርኛ"
-    },
+    "languages": [
+      {
+        "name": "Amharic",
+        "ianaCode": "am-ET",
+        "alpha2Code": "am",
+        "nativeName": "አማርኛ"
+      },
+      {
+        "name": "Oromo",
+        "ianaCode": "om-ET",
+        "alpha2Code": "om",
+        "nativeName": "Afaan Oromoo"
+      },
+      {
+        "name": "Somali",
+        "ianaCode": "so-ET",
+        "alpha2Code": "so",
+        "nativeName": "Soomaaliga, af Soomaali"
+      },
+      {
+        "name": "Tigrinya",
+        "ianaCode": "ti-ET",
+        "alpha2Code": "ti",
+        "nativeName": "ትግርኛ"
+      }
+    ],
     "flag": {
       "emoji": "🇪🇹",
       "unicode": "U+1F1EA U+1F1F9",
@@ -2714,12 +3141,14 @@
       "Western (Lautoka)"
     ],
     "nativeName": "Fiji",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-FJ",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-FJ",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇫🇯",
       "unicode": "U+1F1EB U+1F1EF",
@@ -2747,12 +3176,32 @@
       "Oulun Laani"
     ],
     "nativeName": "Suomi",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-FI",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-FI",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Finnish",
+        "ianaCode": "fi-FI",
+        "alpha2Code": "fi",
+        "nativeName": "suomi, suomen kieli"
+      },
+      {
+        "name": "Northern Sami",
+        "ianaCode": "se-FI",
+        "alpha2Code": "se",
+        "nativeName": "Davvisámegiella"
+      },
+      {
+        "name": "Swedish",
+        "ianaCode": "sv-FI",
+        "alpha2Code": "sv",
+        "nativeName": "svenska"
+      }
+    ],
     "flag": {
       "emoji": "🇫🇮",
       "unicode": "U+1F1EB U+1F1EE",
@@ -2796,12 +3245,26 @@
       "Rhone-Alpes"
     ],
     "nativeName": "France",
-    "language": {
-      "name": "Breton",
-      "ianaCode": "br-FR",
-      "alpha2Code": "br",
-      "nativeName": "brezhoneg"
-    },
+    "languages": [
+      {
+        "name": "Breton",
+        "ianaCode": "br-FR",
+        "alpha2Code": "br",
+        "nativeName": "brezhoneg"
+      },
+      {
+        "name": "Catalan; Valencian",
+        "ianaCode": "ca-FR",
+        "alpha2Code": "ca",
+        "nativeName": "Català"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-FR",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇫🇷",
       "unicode": "U+1F1EB U+1F1F7",
@@ -2845,12 +3308,14 @@
       "Remire-Montjoly"
     ],
     "nativeName": "Guyane française",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-GF",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-GF",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇫",
       "unicode": "U+1F1EC U+1F1EB",
@@ -2877,12 +3342,14 @@
       "Austral Islands"
     ],
     "nativeName": "Polynésie française",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-PF",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-PF",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇫",
       "unicode": "U+1F1F5 U+1F1EB",
@@ -2915,12 +3382,14 @@
       "Woleu-Ntem"
     ],
     "nativeName": "Gabon",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-GA",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-GA",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇦",
       "unicode": "U+1F1EC U+1F1E6",
@@ -2948,12 +3417,26 @@
       "Western"
     ],
     "nativeName": "Gambia",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-GM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-GM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-GM",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-GM",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇲",
       "unicode": "U+1F1EC U+1F1F2",
@@ -2987,12 +3470,26 @@
       "Tbilisi"
     ],
     "nativeName": "Gambia",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-GM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-GM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-GM",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-GM",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇲",
       "unicode": "U+1F1EC U+1F1F2",
@@ -3030,12 +3527,20 @@
       "Thueringen"
     ],
     "nativeName": "Deutschland",
-    "language": {
-      "name": "German",
-      "ianaCode": "de-DE",
-      "alpha2Code": "de",
-      "nativeName": "Deutsch"
-    },
+    "languages": [
+      {
+        "name": "German",
+        "ianaCode": "de-DE",
+        "alpha2Code": "de",
+        "nativeName": "Deutsch"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-DE",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇩🇪",
       "unicode": "U+1F1E9 U+1F1EA",
@@ -3068,12 +3573,44 @@
       "Western"
     ],
     "nativeName": "Ghana",
-    "language": {
-      "name": "Akan",
-      "ianaCode": "ak-GH",
-      "alpha2Code": "ak",
-      "nativeName": "Akan"
-    },
+    "languages": [
+      {
+        "name": "Akan",
+        "ianaCode": "ak-GH",
+        "alpha2Code": "ak",
+        "nativeName": "Akan"
+      },
+      {
+        "name": "Ewe",
+        "ianaCode": "ee-GH",
+        "alpha2Code": "ee",
+        "nativeName": "Eʋegbe"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-GH",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-GH",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-GH",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Hausa",
+        "ianaCode": "ha-GH",
+        "alpha2Code": "ha",
+        "nativeName": "Hausa, هَوُسَ"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇭",
       "unicode": "U+1F1EC U+1F1ED",
@@ -3147,12 +3684,14 @@
       "Zakynthos"
     ],
     "nativeName": "Ελλάδα",
-    "language": {
-      "name": "Greek, Modern",
-      "ianaCode": "el-GR",
-      "alpha2Code": "el",
-      "nativeName": "Ελληνικά"
-    },
+    "languages": [
+      {
+        "name": "Greek, Modern",
+        "ianaCode": "el-GR",
+        "alpha2Code": "el",
+        "nativeName": "Ελληνικά"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇷",
       "unicode": "U+1F1EC U+1F1F7",
@@ -3177,12 +3716,20 @@
       "Kitaa (Vestgronland)"
     ],
     "nativeName": "Kalaallit Nunaat",
-    "language": {
-      "name": "Danish",
-      "ianaCode": "da-GL",
-      "alpha2Code": "da",
-      "nativeName": "dansk"
-    },
+    "languages": [
+      {
+        "name": "Danish",
+        "ianaCode": "da-GL",
+        "alpha2Code": "da",
+        "nativeName": "dansk"
+      },
+      {
+        "name": "Kalaallisut, Greenlandic",
+        "ianaCode": "kl-GL",
+        "alpha2Code": "kl",
+        "nativeName": "kalaallisut, kalaallit oqaasii"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇱",
       "unicode": "U+1F1EC U+1F1F1",
@@ -3214,12 +3761,14 @@
       "Saint Patrick"
     ],
     "nativeName": "Grenada",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-GD",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-GD",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇩",
       "unicode": "U+1F1EC U+1F1E9",
@@ -3263,12 +3812,14 @@
       "Zacapa"
     ],
     "nativeName": "Guatemala",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-GT",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-GT",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇹",
       "unicode": "U+1F1EC U+1F1F9",
@@ -3324,12 +3875,26 @@
       "Yomou"
     ],
     "nativeName": "Guinée",
-    "language": {
-      "name": "Fula; Fulah; Pulaar; Pular",
-      "ianaCode": "ff-Adlm-GN",
-      "alpha2Code": "ff",
-      "nativeName": "Fulfulde, Pulaar, Pular"
-    },
+    "languages": [
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-GN",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-GN",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-GN",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇳",
       "unicode": "U+1F1EC U+1F1F3",
@@ -3360,12 +3925,26 @@
       "Tombali"
     ],
     "nativeName": "Guiné-Bissau",
-    "language": {
-      "name": "Fula; Fulah; Pulaar; Pular",
-      "ianaCode": "ff-Adlm-GW",
-      "alpha2Code": "ff",
-      "nativeName": "Fulfulde, Pulaar, Pular"
-    },
+    "languages": [
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-GW",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-GW",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-GW",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇼",
       "unicode": "U+1F1EC U+1F1FC",
@@ -3397,12 +3976,14 @@
       "Upper Takutu-Upper Essequibo"
     ],
     "nativeName": "Guyana",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-GY",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-GY",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇾",
       "unicode": "U+1F1EC U+1F1FE",
@@ -3433,12 +4014,14 @@
       "Sud-Est"
     ],
     "nativeName": "Haïti",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-HT",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-HT",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇭🇹",
       "unicode": "U+1F1ED U+1F1F9",
@@ -3478,12 +4061,14 @@
       "Yoro"
     ],
     "nativeName": "Honduras",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-HN",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-HN",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇭🇳",
       "unicode": "U+1F1ED U+1F1F3",
@@ -3523,12 +4108,26 @@
       "Wan Chai"
     ],
     "nativeName": "香港",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-HK",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-HK",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Chinese",
+        "ianaCode": "zh-Hans-HK",
+        "alpha2Code": "zh",
+        "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+      },
+      {
+        "name": "Chinese",
+        "ianaCode": "zh-Hant-HK",
+        "alpha2Code": "zh",
+        "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+      }
+    ],
     "flag": {
       "emoji": "🇭🇰",
       "unicode": "U+1F1ED U+1F1F0",
@@ -3569,12 +4168,14 @@
       "Zala"
     ],
     "nativeName": "Magyarország",
-    "language": {
-      "name": "Hungarian",
-      "ianaCode": "hu-HU",
-      "alpha2Code": "hu",
-      "nativeName": "Magyar"
-    },
+    "languages": [
+      {
+        "name": "Hungarian",
+        "ianaCode": "hu-HU",
+        "alpha2Code": "hu",
+        "nativeName": "Magyar"
+      }
+    ],
     "flag": {
       "emoji": "🇭🇺",
       "unicode": "U+1F1ED U+1F1FA",
@@ -3604,12 +4205,14 @@
       "Vesturland"
     ],
     "nativeName": "Ísland",
-    "language": {
-      "name": "Icelandic",
-      "ianaCode": "is-IS",
-      "alpha2Code": "is",
-      "nativeName": "Íslenska"
-    },
+    "languages": [
+      {
+        "name": "Icelandic",
+        "ianaCode": "is-IS",
+        "alpha2Code": "is",
+        "nativeName": "Íslenska"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇸",
       "unicode": "U+1F1EE U+1F1F8",
@@ -3668,12 +4271,110 @@
       "West Bengal"
     ],
     "nativeName": "भारत",
-    "language": {
-      "name": "Assamese",
-      "ianaCode": "as-IN",
-      "alpha2Code": "as",
-      "nativeName": "অসমীয়া"
-    },
+    "languages": [
+      {
+        "name": "Assamese",
+        "ianaCode": "as-IN",
+        "alpha2Code": "as",
+        "nativeName": "অসমীয়া"
+      },
+      {
+        "name": "Bengali",
+        "ianaCode": "bn-IN",
+        "alpha2Code": "bn",
+        "nativeName": "বাংলা"
+      },
+      {
+        "name": "Tibetan Standard, Tibetan, Central",
+        "ianaCode": "bo-IN",
+        "alpha2Code": "bo",
+        "nativeName": "བོད་ཡིག"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-IN",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Gujarati",
+        "ianaCode": "gu-IN",
+        "alpha2Code": "gu",
+        "nativeName": "ગુજરાતી"
+      },
+      {
+        "name": "Hindi",
+        "ianaCode": "hi-IN",
+        "alpha2Code": "hi",
+        "nativeName": "हिन्दी, हिंदी"
+      },
+      {
+        "name": "Kannada",
+        "ianaCode": "kn-IN",
+        "alpha2Code": "kn",
+        "nativeName": "ಕನ್ನಡ"
+      },
+      {
+        "name": "Kashmiri",
+        "ianaCode": "ks-Arab-IN",
+        "alpha2Code": "ks",
+        "nativeName": "कश्मीरी, كشميري‎"
+      },
+      {
+        "name": "Malayalam",
+        "ianaCode": "ml-IN",
+        "alpha2Code": "ml",
+        "nativeName": "മലയാളം"
+      },
+      {
+        "name": "Marathi (Marāṭhī)",
+        "ianaCode": "mr-IN",
+        "alpha2Code": "mr",
+        "nativeName": "मराठी"
+      },
+      {
+        "name": "Nepali",
+        "ianaCode": "ne-IN",
+        "alpha2Code": "ne",
+        "nativeName": "नेपाली"
+      },
+      {
+        "name": "Oriya",
+        "ianaCode": "or-IN",
+        "alpha2Code": "or",
+        "nativeName": "ଓଡ଼ିଆ"
+      },
+      {
+        "name": "Panjabi, Punjabi",
+        "ianaCode": "pa-Guru-IN",
+        "alpha2Code": "pa",
+        "nativeName": "ਪੰਜਾਬੀ, پنجابی‎"
+      },
+      {
+        "name": "Sindhi",
+        "ianaCode": "sd-Deva-IN",
+        "alpha2Code": "sd",
+        "nativeName": "सिन्धी, سنڌي، سندھی‎"
+      },
+      {
+        "name": "Tamil",
+        "ianaCode": "ta-IN",
+        "alpha2Code": "ta",
+        "nativeName": "தமிழ்"
+      },
+      {
+        "name": "Telugu",
+        "ianaCode": "te-IN",
+        "alpha2Code": "te",
+        "nativeName": "తెలుగు"
+      },
+      {
+        "name": "Urdu",
+        "ianaCode": "ur-IN",
+        "alpha2Code": "ur",
+        "nativeName": "اردو"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇳",
       "unicode": "U+1F1EE U+1F1F3",
@@ -3728,12 +4429,32 @@
       "Yogyakarta"
     ],
     "nativeName": "Indonesia",
-    "language": {
-      "name": "Indonesian",
-      "ianaCode": "id-ID",
-      "alpha2Code": "id",
-      "nativeName": "Bahasa Indonesia"
-    },
+    "languages": [
+      {
+        "name": "Indonesian",
+        "ianaCode": "id-ID",
+        "alpha2Code": "id",
+        "nativeName": "Bahasa Indonesia"
+      },
+      {
+        "name": "Javanese",
+        "ianaCode": "jv-ID",
+        "alpha2Code": "jv",
+        "nativeName": "basa Jawa"
+      },
+      {
+        "name": "Malay",
+        "ianaCode": "ms-ID",
+        "alpha2Code": "ms",
+        "nativeName": "bahasa Melayu, بهاس ملايو‎"
+      },
+      {
+        "name": "Sundanese",
+        "ianaCode": "su-Latn-ID",
+        "alpha2Code": "su",
+        "nativeName": "Basa Sunda"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇩",
       "unicode": "U+1F1EE U+1F1E9",
@@ -3788,12 +4509,14 @@
       "Zanjan"
     ],
     "nativeName": "ایران",
-    "language": {
-      "name": "Persian",
-      "ianaCode": "fa-IR",
-      "alpha2Code": "fa",
-      "nativeName": "فارسی"
-    },
+    "languages": [
+      {
+        "name": "Persian",
+        "ianaCode": "fa-IR",
+        "alpha2Code": "fa",
+        "nativeName": "فارسی"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇷",
       "unicode": "U+1F1EE U+1F1F7",
@@ -3833,12 +4556,14 @@
       "Wasit"
     ],
     "nativeName": "العراق",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-IQ",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-IQ",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇶",
       "unicode": "U+1F1EE U+1F1F6",
@@ -3886,12 +4611,20 @@
       "Wicklow"
     ],
     "nativeName": "Éire",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-IE",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-IE",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Irish",
+        "ianaCode": "ga-IE",
+        "alpha2Code": "ga",
+        "nativeName": "Gaeilge"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇪",
       "unicode": "U+1F1EE U+1F1EA",
@@ -3919,12 +4652,26 @@
       "Tel Aviv"
     ],
     "nativeName": "יִשְׂרָאֵל",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-IL",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-IL",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-IL",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Hebrew (modern)",
+        "ianaCode": "he-IL",
+        "alpha2Code": "he",
+        "nativeName": "עברית"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇱",
       "unicode": "U+1F1EE U+1F1F1",
@@ -3966,12 +4713,26 @@
       "Veneto"
     ],
     "nativeName": "Italia",
-    "language": {
-      "name": "Catalan; Valencian",
-      "ianaCode": "ca-IT",
-      "alpha2Code": "ca",
-      "nativeName": "Català"
-    },
+    "languages": [
+      {
+        "name": "Catalan; Valencian",
+        "ianaCode": "ca-IT",
+        "alpha2Code": "ca",
+        "nativeName": "Català"
+      },
+      {
+        "name": "German",
+        "ianaCode": "de-IT",
+        "alpha2Code": "de",
+        "nativeName": "Deutsch"
+      },
+      {
+        "name": "Italian",
+        "ianaCode": "it-IT",
+        "alpha2Code": "it",
+        "nativeName": "Italiano"
+      }
+    ],
     "flag": {
       "emoji": "🇮🇹",
       "unicode": "U+1F1EE U+1F1F9",
@@ -4007,12 +4768,14 @@
       "Westmoreland"
     ],
     "nativeName": "Jamaica",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-JM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-JM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇯🇲",
       "unicode": "U+1F1EF U+1F1F2",
@@ -4081,12 +4844,14 @@
       "Yamanashi"
     ],
     "nativeName": "日本",
-    "language": {
-      "name": "Japanese",
-      "ianaCode": "ja-JP",
-      "alpha2Code": "ja",
-      "nativeName": "日本語 (にほんご／にっぽんご)"
-    },
+    "languages": [
+      {
+        "name": "Japanese",
+        "ianaCode": "ja-JP",
+        "alpha2Code": "ja",
+        "nativeName": "日本語 (にほんご／にっぽんご)"
+      }
+    ],
     "flag": {
       "emoji": "🇯🇵",
       "unicode": "U+1F1EF U+1F1F5",
@@ -4120,12 +4885,14 @@
       "Madaba"
     ],
     "nativeName": "الأردن",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-JO",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-JO",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇯🇴",
       "unicode": "U+1F1EF U+1F1F4",
@@ -4164,12 +4931,20 @@
       "Zhambyl Oblysy"
     ],
     "nativeName": "Қазақстан",
-    "language": {
-      "name": "Kazakh",
-      "ianaCode": "kk-KZ",
-      "alpha2Code": "kk",
-      "nativeName": "Қазақ тілі"
-    },
+    "languages": [
+      {
+        "name": "Kazakh",
+        "ianaCode": "kk-KZ",
+        "alpha2Code": "kk",
+        "nativeName": "Қазақ тілі"
+      },
+      {
+        "name": "Russian",
+        "ianaCode": "ru-KZ",
+        "alpha2Code": "ru",
+        "nativeName": "русский язык"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇿",
       "unicode": "U+1F1F0 U+1F1FF",
@@ -4204,12 +4979,38 @@
       "Western"
     ],
     "nativeName": "Kenya",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-KE",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-KE",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Kikuyu, Gikuyu",
+        "ianaCode": "ki-KE",
+        "alpha2Code": "ki",
+        "nativeName": "Gĩkũyũ"
+      },
+      {
+        "name": "Oromo",
+        "ianaCode": "om-KE",
+        "alpha2Code": "om",
+        "nativeName": "Afaan Oromoo"
+      },
+      {
+        "name": "Somali",
+        "ianaCode": "so-KE",
+        "alpha2Code": "so",
+        "nativeName": "Soomaaliga, af Soomaali"
+      },
+      {
+        "name": "Swahili",
+        "ianaCode": "sw-KE",
+        "alpha2Code": "sw",
+        "nativeName": "Kiswahili"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇪",
       "unicode": "U+1F1F0 U+1F1EA",
@@ -4237,12 +5038,14 @@
       "Line Islands"
     ],
     "nativeName": "Kiribati",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-KI",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-KI",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇮",
       "unicode": "U+1F1F0 U+1F1EE",
@@ -4279,12 +5082,14 @@
       "Pyongyang"
     ],
     "nativeName": "북한",
-    "language": {
-      "name": "Korean",
-      "ianaCode": "ko-KP",
-      "alpha2Code": "ko",
-      "nativeName": "한국어 (韓國語), 조선말 (朝鮮語)"
-    },
+    "languages": [
+      {
+        "name": "Korean",
+        "ianaCode": "ko-KP",
+        "alpha2Code": "ko",
+        "nativeName": "한국어 (韓國語), 조선말 (朝鮮語)"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇵",
       "unicode": "U+1F1F0 U+1F1F5",
@@ -4322,12 +5127,14 @@
       "Jeju"
     ],
     "nativeName": "대한민국",
-    "language": {
-      "name": "Korean",
-      "ianaCode": "ko-KR",
-      "alpha2Code": "ko",
-      "nativeName": "한국어 (韓國語), 조선말 (朝鮮語)"
-    },
+    "languages": [
+      {
+        "name": "Korean",
+        "ianaCode": "ko-KR",
+        "alpha2Code": "ko",
+        "nativeName": "한국어 (韓國語), 조선말 (朝鮮語)"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇷",
       "unicode": "U+1F1F0 U+1F1F7",
@@ -4355,12 +5162,14 @@
       "Mubarak Al-Kabeer"
     ],
     "nativeName": "الكويت",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-KW",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-KW",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇼",
       "unicode": "U+1F1F0 U+1F1FC",
@@ -4390,12 +5199,20 @@
       "Ysyk-Kol Oblasty"
     ],
     "nativeName": "Кыргызстан",
-    "language": {
-      "name": "Kirghiz, Kyrgyz",
-      "ianaCode": "ky-KG",
-      "alpha2Code": "ky",
-      "nativeName": "кыргыз тили"
-    },
+    "languages": [
+      {
+        "name": "Kirghiz, Kyrgyz",
+        "ianaCode": "ky-KG",
+        "alpha2Code": "ky",
+        "nativeName": "кыргыз тили"
+      },
+      {
+        "name": "Russian",
+        "ianaCode": "ru-KG",
+        "alpha2Code": "ru",
+        "nativeName": "русский язык"
+      }
+    ],
     "flag": {
       "emoji": "🇰🇬",
       "unicode": "U+1F1F0 U+1F1EC",
@@ -4435,12 +5252,14 @@
       "Xiangkhoang"
     ],
     "nativeName": "ສປປລາວ",
-    "language": {
-      "name": "Lao",
-      "ianaCode": "lo-LA",
-      "alpha2Code": "lo",
-      "nativeName": "ພາສາລາວ"
-    },
+    "languages": [
+      {
+        "name": "Lao",
+        "ianaCode": "lo-LA",
+        "alpha2Code": "lo",
+        "nativeName": "ພາສາລາວ"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇦",
       "unicode": "U+1F1F1 U+1F1E6",
@@ -4495,12 +5314,14 @@
       "Ventspils Rajons"
     ],
     "nativeName": "Latvija",
-    "language": {
-      "name": "Latvian",
-      "ianaCode": "lv-LV",
-      "alpha2Code": "lv",
-      "nativeName": "latviešu valoda"
-    },
+    "languages": [
+      {
+        "name": "Latvian",
+        "ianaCode": "lv-LV",
+        "alpha2Code": "lv",
+        "nativeName": "latviešu valoda"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇻",
       "unicode": "U+1F1F1 U+1F1FB",
@@ -4528,12 +5349,14 @@
       "Nabatiye"
     ],
     "nativeName": "لبنان",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-LB",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-LB",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇧",
       "unicode": "U+1F1F1 U+1F1E7",
@@ -4565,12 +5388,14 @@
       "Thaba-Tseka"
     ],
     "nativeName": "Lesotho",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-LS",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-LS",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇸",
       "unicode": "U+1F1F1 U+1F1F8",
@@ -4607,12 +5432,26 @@
       "Sinoe"
     ],
     "nativeName": "Liberia",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-LR",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-LR",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-LR",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-LR",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇷",
       "unicode": "U+1F1F1 U+1F1F7",
@@ -4659,12 +5498,14 @@
       "Zlitan"
     ],
     "nativeName": "‏ليبيا",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-LY",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-LY",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇾",
       "unicode": "U+1F1F1 U+1F1FE",
@@ -4697,12 +5538,14 @@
       "Vaduz"
     ],
     "nativeName": "Liechtenstein",
-    "language": {
-      "name": "German",
-      "ianaCode": "de-LI",
-      "alpha2Code": "de",
-      "nativeName": "Deutsch"
-    },
+    "languages": [
+      {
+        "name": "German",
+        "ianaCode": "de-LI",
+        "alpha2Code": "de",
+        "nativeName": "Deutsch"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇮",
       "unicode": "U+1F1F1 U+1F1EE",
@@ -4734,12 +5577,14 @@
       "Vilniaus"
     ],
     "nativeName": "Lietuva",
-    "language": {
-      "name": "Lithuanian",
-      "ianaCode": "lt-LT",
-      "alpha2Code": "lt",
-      "nativeName": "lietuvių kalba"
-    },
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "ianaCode": "lt-LT",
+        "alpha2Code": "lt",
+        "nativeName": "lietuvių kalba"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇹",
       "unicode": "U+1F1F1 U+1F1F9",
@@ -4764,12 +5609,32 @@
       "Luxembourg"
     ],
     "nativeName": "Luxembourg",
-    "language": {
-      "name": "German",
-      "ianaCode": "de-LU",
-      "alpha2Code": "de",
-      "nativeName": "Deutsch"
-    },
+    "languages": [
+      {
+        "name": "German",
+        "ianaCode": "de-LU",
+        "alpha2Code": "de",
+        "nativeName": "Deutsch"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-LU",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Luxembourgish, Letzeburgesch",
+        "ianaCode": "lb-LU",
+        "alpha2Code": "lb",
+        "nativeName": "Lëtzebuergesch"
+      },
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-LU",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇺",
       "unicode": "U+1F1F1 U+1F1FA",
@@ -4876,12 +5741,20 @@
       "Zrnovci"
     ],
     "nativeName": "Северна Македонија",
-    "language": {
-      "name": "Macedonian",
-      "ianaCode": "mk-MK",
-      "alpha2Code": "mk",
-      "nativeName": "македонски јазик"
-    },
+    "languages": [
+      {
+        "name": "Macedonian",
+        "ianaCode": "mk-MK",
+        "alpha2Code": "mk",
+        "nativeName": "македонски јазик"
+      },
+      {
+        "name": "Albanian",
+        "ianaCode": "sq-MK",
+        "alpha2Code": "sq",
+        "nativeName": "Shqip"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇰",
       "unicode": "U+1F1F2 U+1F1F0",
@@ -4909,12 +5782,26 @@
       "Toliara"
     ],
     "nativeName": "Madagasikara",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-MG",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-MG",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-MG",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Malagasy",
+        "ianaCode": "mg-MG",
+        "alpha2Code": "mg",
+        "nativeName": "Malagasy fiteny"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇬",
       "unicode": "U+1F1F2 U+1F1EC",
@@ -4963,12 +5850,14 @@
       "Zomba"
     ],
     "nativeName": "Malawi",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-MW",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-MW",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇼",
       "unicode": "U+1F1F2 U+1F1FC",
@@ -5005,12 +5894,26 @@
       "Terengganu"
     ],
     "nativeName": "Malaysia",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-MY",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-MY",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Malay",
+        "ianaCode": "ms-MY",
+        "alpha2Code": "ms",
+        "nativeName": "bahasa Melayu, بهاس ملايو‎"
+      },
+      {
+        "name": "Tamil",
+        "ianaCode": "ta-MY",
+        "alpha2Code": "ta",
+        "nativeName": "தமிழ்"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇾",
       "unicode": "U+1F1F2 U+1F1FE",
@@ -5053,12 +5956,14 @@
       "Vaavu"
     ],
     "nativeName": "Maldives",
-    "language": {
-      "name": "Divehi; Dhivehi; Maldivian;",
-      "ianaCode": "dv-MW",
-      "alpha2Code": "dv",
-      "nativeName": "ދިވެހި"
-    },
+    "languages": [
+      {
+        "name": "Divehi; Dhivehi; Maldivian;",
+        "ianaCode": "dv-MW",
+        "alpha2Code": "dv",
+        "nativeName": "ދިވެހި"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇻",
       "unicode": "U+1F1F2 U+1F1FB",
@@ -5089,12 +5994,20 @@
       "Tombouctou"
     ],
     "nativeName": "Mali",
-    "language": {
-      "name": "Bambara",
-      "ianaCode": "bm-ML",
-      "alpha2Code": "bm",
-      "nativeName": "bamanankan"
-    },
+    "languages": [
+      {
+        "name": "Bambara",
+        "ianaCode": "bm-ML",
+        "alpha2Code": "bm",
+        "nativeName": "bamanankan"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-ML",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇱",
       "unicode": "U+1F1F2 U+1F1F1",
@@ -5121,12 +6034,20 @@
       "Gozo and Comino"
     ],
     "nativeName": "Malta",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-MT",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-MT",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Maltese",
+        "ianaCode": "mt-MT",
+        "alpha2Code": "mt",
+        "nativeName": "Malti"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇹",
       "unicode": "U+1F1F2 U+1F1F9",
@@ -5181,12 +6102,14 @@
       "Ujelang"
     ],
     "nativeName": "M̧ajeļ",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-MH",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-MH",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇭",
       "unicode": "U+1F1F2 U+1F1ED",
@@ -5222,12 +6145,32 @@
       "Trarza"
     ],
     "nativeName": "موريتانيا",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-MR",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-MR",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-MR",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-MR",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-MR",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇷",
       "unicode": "U+1F1F2 U+1F1F7",
@@ -5261,12 +6204,20 @@
       "Savanne"
     ],
     "nativeName": "Maurice",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-MU",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-MU",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-MU",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇺",
       "unicode": "U+1F1F2 U+1F1FA",
@@ -5320,12 +6271,14 @@
       "Zacatecas"
     ],
     "nativeName": "México",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-MX",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-MX",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇽",
       "unicode": "U+1F1F2 U+1F1FD",
@@ -5361,12 +6314,14 @@
       "Yap"
     ],
     "nativeName": "Micronesia",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-FM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-FM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇫🇲",
       "unicode": "U+1F1EB U+1F1F2",
@@ -5427,12 +6382,20 @@
       "Stinga Nistrului"
     ],
     "nativeName": "Moldova",
-    "language": {
-      "name": "Romanian, Moldavian, Moldovan",
-      "ianaCode": "ro-MD",
-      "alpha2Code": "ro",
-      "nativeName": "română"
-    },
+    "languages": [
+      {
+        "name": "Romanian, Moldavian, Moldovan",
+        "ianaCode": "ro-MD",
+        "alpha2Code": "ro",
+        "nativeName": "română"
+      },
+      {
+        "name": "Russian",
+        "ianaCode": "ru-MD",
+        "alpha2Code": "ru",
+        "nativeName": "русский язык"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇩",
       "unicode": "U+1F1F2 U+1F1E9",
@@ -5458,12 +6421,14 @@
       "Fontvieille"
     ],
     "nativeName": "Monaco",
-    "language": {
-      "name": "French",
-      "ianaCode": "fr-MC",
-      "alpha2Code": "fr",
-      "nativeName": "français, langue française"
-    },
+    "languages": [
+      {
+        "name": "French",
+        "ianaCode": "fr-MC",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇨",
       "unicode": "U+1F1F2 U+1F1E8",
@@ -5507,12 +6472,14 @@
       "Uvs"
     ],
     "nativeName": "Монгол улс",
-    "language": {
-      "name": "Mongolian",
-      "ianaCode": "mn-MN",
-      "alpha2Code": "mn",
-      "nativeName": "монгол"
-    },
+    "languages": [
+      {
+        "name": "Mongolian",
+        "ianaCode": "mn-MN",
+        "alpha2Code": "mn",
+        "nativeName": "монгол"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇳",
       "unicode": "U+1F1F2 U+1F1F3",
@@ -5575,12 +6542,20 @@
       "Tiznit"
     ],
     "nativeName": "المغرب",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-MA",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-MA",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-MA",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇦",
       "unicode": "U+1F1F2 U+1F1E6",
@@ -5613,12 +6588,14 @@
       "Zambezia"
     ],
     "nativeName": "Moçambique",
-    "language": {
-      "name": "Portuguese",
-      "ianaCode": "pt-MZ",
-      "alpha2Code": "pt",
-      "nativeName": "Português"
-    },
+    "languages": [
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-MZ",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇿",
       "unicode": "U+1F1F2 U+1F1FF",
@@ -5653,12 +6630,20 @@
       "Otjozondjupa"
     ],
     "nativeName": "Namibia",
-    "language": {
-      "name": "Afrikaans",
-      "ianaCode": "af-NA",
-      "alpha2Code": "af",
-      "nativeName": "Afrikaans"
-    },
+    "languages": [
+      {
+        "name": "Afrikaans",
+        "ianaCode": "af-NA",
+        "alpha2Code": "af",
+        "nativeName": "Afrikaans"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-NA",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇦",
       "unicode": "U+1F1F3 U+1F1E6",
@@ -5684,12 +6669,14 @@
       "Anibare"
     ],
     "nativeName": "Nauru",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-NR",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-NR",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇷",
       "unicode": "U+1F1F3 U+1F1F7",
@@ -5718,12 +6705,14 @@
       "Sudur Pashchim Pradesh"
     ],
     "nativeName": "नेपाल",
-    "language": {
-      "name": "Nepali",
-      "ianaCode": "ne-NP",
-      "alpha2Code": "ne",
-      "nativeName": "नेपाली"
-    },
+    "languages": [
+      {
+        "name": "Nepali",
+        "ianaCode": "ne-NP",
+        "alpha2Code": "ne",
+        "nativeName": "नेपाली"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇵",
       "unicode": "U+1F1F3 U+1F1F5",
@@ -5757,12 +6746,26 @@
       "Zuid-Holland"
     ],
     "nativeName": "Nederland",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-NL",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-NL",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Western Frisian",
+        "ianaCode": "fy-NL",
+        "alpha2Code": "fy",
+        "nativeName": "Frysk"
+      },
+      {
+        "name": "Dutch",
+        "ianaCode": "nl-NL",
+        "alpha2Code": "nl",
+        "nativeName": "Nederlands, Vlaams"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇱",
       "unicode": "U+1F1F3 U+1F1F1",
@@ -5801,12 +6804,20 @@
       "West Coast"
     ],
     "nativeName": "New Zealand",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-NZ",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-NZ",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Māori",
+        "ianaCode": "mi-NZ",
+        "alpha2Code": "mi",
+        "nativeName": "te reo Māori"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇿",
       "unicode": "U+1F1F3 U+1F1FF",
@@ -5846,12 +6857,14 @@
       "Rivas"
     ],
     "nativeName": "Nicaragua",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-NI",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-NI",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇮",
       "unicode": "U+1F1F3 U+1F1EE",
@@ -5881,12 +6894,32 @@
       "Zinder"
     ],
     "nativeName": "Niger",
-    "language": {
-      "name": "Fula; Fulah; Pulaar; Pular",
-      "ianaCode": "ff-Adlm-NE",
-      "alpha2Code": "ff",
-      "nativeName": "Fulfulde, Pulaar, Pular"
-    },
+    "languages": [
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-NE",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-NE",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-NE",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Hausa",
+        "ianaCode": "ha-NE",
+        "alpha2Code": "ha",
+        "nativeName": "Hausa, هَوُسَ"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇪",
       "unicode": "U+1F1F3 U+1F1EA",
@@ -5945,12 +6978,44 @@
       "Zamfara"
     ],
     "nativeName": "Nigeria",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-NG",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-NG",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-NG",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-NG",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Hausa",
+        "ianaCode": "ha-NG",
+        "alpha2Code": "ha",
+        "nativeName": "Hausa, هَوُسَ"
+      },
+      {
+        "name": "Igbo",
+        "ianaCode": "ig-NG",
+        "alpha2Code": "ig",
+        "nativeName": "Asụsụ Igbo"
+      },
+      {
+        "name": "Yoruba",
+        "ianaCode": "yo-NG",
+        "alpha2Code": "yo",
+        "nativeName": "Yorùbá"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇬",
       "unicode": "U+1F1F3 U+1F1EC",
@@ -5991,12 +7056,26 @@
       "Vestfold"
     ],
     "nativeName": "Norge",
-    "language": {
-      "name": "Norwegian Bokmål",
-      "ianaCode": "nb-NO",
-      "alpha2Code": "nb",
-      "nativeName": "Norsk bokmål"
-    },
+    "languages": [
+      {
+        "name": "Norwegian Bokmål",
+        "ianaCode": "nb-NO",
+        "alpha2Code": "nb",
+        "nativeName": "Norsk bokmål"
+      },
+      {
+        "name": "Norwegian Nynorsk",
+        "ianaCode": "nn-NO",
+        "alpha2Code": "nn",
+        "nativeName": "Norsk nynorsk"
+      },
+      {
+        "name": "Northern Sami",
+        "ianaCode": "se-NO",
+        "alpha2Code": "se",
+        "nativeName": "Davvisámegiella"
+      }
+    ],
     "flag": {
       "emoji": "🇳🇴",
       "unicode": "U+1F1F3 U+1F1F4",
@@ -6026,12 +7105,14 @@
       "Dhofar"
     ],
     "nativeName": "عمان",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-OM",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-OM",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇴🇲",
       "unicode": "U+1F1F4 U+1F1F2",
@@ -6059,12 +7140,38 @@
       "Federally Administered Tribal Areas"
     ],
     "nativeName": "Pakistan",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-PK",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-PK",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Panjabi, Punjabi",
+        "ianaCode": "pa-Arab-PK",
+        "alpha2Code": "pa",
+        "nativeName": "ਪੰਜਾਬੀ, پنجابی‎"
+      },
+      {
+        "name": "Pashto, Pushto",
+        "ianaCode": "ps-PK",
+        "alpha2Code": "ps",
+        "nativeName": "پښتو"
+      },
+      {
+        "name": "Sindhi",
+        "ianaCode": "sd-Arab-PK",
+        "alpha2Code": "sd",
+        "nativeName": "सिन्धी, سنڌي، سندھی‎"
+      },
+      {
+        "name": "Urdu",
+        "ianaCode": "ur-PK",
+        "alpha2Code": "ur",
+        "nativeName": "اردو"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇰",
       "unicode": "U+1F1F5 U+1F1F0",
@@ -6096,12 +7203,14 @@
       "Veraguas"
     ],
     "nativeName": "Panamá",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-PA",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-PA",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇦",
       "unicode": "U+1F1F5 U+1F1E6",
@@ -6143,12 +7252,14 @@
       "West New Britain"
     ],
     "nativeName": "Papua Niugini",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-PG",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-PG",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇬",
       "unicode": "U+1F1F5 U+1F1EC",
@@ -6189,12 +7300,14 @@
       "San Pedro"
     ],
     "nativeName": "Paraguay",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-PY",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-PY",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇾",
       "unicode": "U+1F1F5 U+1F1FE",
@@ -6241,12 +7354,20 @@
       "Ucayali"
     ],
     "nativeName": "Perú",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-PE",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-PE",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      },
+      {
+        "name": "Quechua",
+        "ianaCode": "qu-PE",
+        "alpha2Code": "qu",
+        "nativeName": "Runa Simi, Kichwa"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇪",
       "unicode": "U+1F1F5 U+1F1EA",
@@ -6347,12 +7468,20 @@
       "Zamboanga Sibugay"
     ],
     "nativeName": "Pilipinas",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-PH",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-PH",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-PH",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇭",
       "unicode": "U+1F1F5 U+1F1ED",
@@ -6390,12 +7519,14 @@
       "West Pomeranian (Zachodniopomorskie)"
     ],
     "nativeName": "Polska",
-    "language": {
-      "name": "Polish",
-      "ianaCode": "pl-PL",
-      "alpha2Code": "pl",
-      "nativeName": "polski"
-    },
+    "languages": [
+      {
+        "name": "Polish",
+        "ianaCode": "pl-PL",
+        "alpha2Code": "pl",
+        "nativeName": "polski"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇱",
       "unicode": "U+1F1F5 U+1F1F1",
@@ -6437,12 +7568,14 @@
       "Viseu"
     ],
     "nativeName": "Portugal",
-    "language": {
-      "name": "Portuguese",
-      "ianaCode": "pt-PT",
-      "alpha2Code": "pt",
-      "nativeName": "Português"
-    },
+    "languages": [
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-PT",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇵🇹",
       "unicode": "U+1F1F5 U+1F1F9",
@@ -6476,12 +7609,14 @@
       "Umm Salal"
     ],
     "nativeName": "قطر",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-QA",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-QA",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇶🇦",
       "unicode": "U+1F1F6 U+1F1E6",
@@ -6545,12 +7680,14 @@
       "Vrancea"
     ],
     "nativeName": "România",
-    "language": {
-      "name": "Romanian, Moldavian, Moldovan",
-      "ianaCode": "ro-RO",
-      "alpha2Code": "ro",
-      "nativeName": "română"
-    },
+    "languages": [
+      {
+        "name": "Romanian, Moldavian, Moldovan",
+        "ianaCode": "ro-RO",
+        "alpha2Code": "ro",
+        "nativeName": "română"
+      }
+    ],
     "flag": {
       "emoji": "🇷🇴",
       "unicode": "U+1F1F7 U+1F1F4",
@@ -6661,12 +7798,38 @@
       "Yevrey"
     ],
     "nativeName": "Россия",
-    "language": {
-      "name": "Chechen",
-      "ianaCode": "ce-RU",
-      "alpha2Code": "ce",
-      "nativeName": "нохчийн мотт"
-    },
+    "languages": [
+      {
+        "name": "Chechen",
+        "ianaCode": "ce-RU",
+        "alpha2Code": "ce",
+        "nativeName": "нохчийн мотт"
+      },
+      {
+        "name": "Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic",
+        "ianaCode": "cu-RU",
+        "alpha2Code": "cu",
+        "nativeName": "ѩзыкъ словѣньскъ"
+      },
+      {
+        "name": "Ossetian, Ossetic",
+        "ianaCode": "os-RU",
+        "alpha2Code": "os",
+        "nativeName": "ирон æвзаг"
+      },
+      {
+        "name": "Russian",
+        "ianaCode": "ru-RU",
+        "alpha2Code": "ru",
+        "nativeName": "русский язык"
+      },
+      {
+        "name": "Tatar",
+        "ianaCode": "tt-RU",
+        "alpha2Code": "tt",
+        "nativeName": "татарча, tatarça, تاتارچا‎"
+      }
+    ],
     "flag": {
       "emoji": "🇷🇺",
       "unicode": "U+1F1F7 U+1F1FA",
@@ -6726,12 +7889,26 @@
       "Ruhengeri"
     ],
     "nativeName": "Rwanda",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-RW",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-RW",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-RW",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Kinyarwanda",
+        "ianaCode": "rw-RW",
+        "alpha2Code": "rw",
+        "nativeName": "Ikinyarwanda"
+      }
+    ],
     "flag": {
       "emoji": "🇷🇼",
       "unicode": "U+1F1F7 U+1F1FC",
@@ -6764,12 +7941,14 @@
       "Vaisigano"
     ],
     "nativeName": "Samoa",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-WS",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-WS",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇼🇸",
       "unicode": "U+1F1FC U+1F1F8",
@@ -6800,12 +7979,14 @@
       "Serravalle"
     ],
     "nativeName": "San Marino",
-    "language": {
-      "name": "Italian",
-      "ianaCode": "it-SM",
-      "alpha2Code": "it",
-      "nativeName": "Italiano"
-    },
+    "languages": [
+      {
+        "name": "Italian",
+        "ianaCode": "it-SM",
+        "alpha2Code": "it",
+        "nativeName": "Italiano"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇲",
       "unicode": "U+1F1F8 U+1F1F2",
@@ -6834,12 +8015,14 @@
       "Autonomous Region of Príncipe"
     ],
     "nativeName": "São Tomé e Príncipe",
-    "language": {
-      "name": "Portuguese",
-      "ianaCode": "pt-ST",
-      "alpha2Code": "pt",
-      "nativeName": "Português"
-    },
+    "languages": [
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-ST",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇹",
       "unicode": "U+1F1F8 U+1F1F9",
@@ -6874,12 +8057,14 @@
       "Tabuk"
     ],
     "nativeName": "العربية السعودية",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-SA",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-SA",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇦",
       "unicode": "U+1F1F8 U+1F1E6",
@@ -6912,12 +8097,32 @@
       "Ziguinchor"
     ],
     "nativeName": "Sénégal",
-    "language": {
-      "name": "Fula; Fulah; Pulaar; Pular",
-      "ianaCode": "ff-Adlm-SN",
-      "alpha2Code": "ff",
-      "nativeName": "Fulfulde, Pulaar, Pular"
-    },
+    "languages": [
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-SN",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-SN",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-SN",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Wolof",
+        "ianaCode": "wo-SN",
+        "alpha2Code": "wo",
+        "nativeName": "Wollof"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇳",
       "unicode": "U+1F1F8 U+1F1F3",
@@ -6963,12 +8168,20 @@
       "Sombor"
     ],
     "nativeName": "Србија",
-    "language": {
-      "name": "Serbian",
-      "ianaCode": "sr-Cyrl-RS",
-      "alpha2Code": "sr",
-      "nativeName": "српски језик"
-    },
+    "languages": [
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Cyrl-RS",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      },
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Latn-RS",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      }
+    ],
     "flag": {
       "emoji": "🇷🇸",
       "unicode": "U+1F1F7 U+1F1F8",
@@ -7015,12 +8228,20 @@
       "Žabljak"
     ],
     "nativeName": "Црна Гора",
-    "language": {
-      "name": "Serbian",
-      "ianaCode": "sr-Cyrl-ME",
-      "alpha2Code": "sr",
-      "nativeName": "српски језик"
-    },
+    "languages": [
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Cyrl-ME",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      },
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Latn-ME",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      }
+    ],
     "flag": {
       "emoji": "🇲🇪",
       "unicode": "U+1F1F2 U+1F1EA",
@@ -7049,12 +8270,26 @@
       "Prizren"
     ],
     "nativeName": "Republika e Kosovës",
-    "language": {
-      "name": "Albanian",
-      "ianaCode": "sq-XK",
-      "alpha2Code": "sq",
-      "nativeName": "Shqip"
-    },
+    "languages": [
+      {
+        "name": "Albanian",
+        "ianaCode": "sq-XK",
+        "alpha2Code": "sq",
+        "nativeName": "Shqip"
+      },
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Cyrl-XK",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      },
+      {
+        "name": "Serbian",
+        "ianaCode": "sr-Latn-XK",
+        "alpha2Code": "sr",
+        "nativeName": "српски језик"
+      }
+    ],
     "flag": {
       "emoji": "🇽🇰",
       "unicode": "U+1F1FD U+1F1F0",
@@ -7099,12 +8334,20 @@
       "Takamaka"
     ],
     "nativeName": "Seychelles",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-SC",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-SC",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-SC",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇨",
       "unicode": "U+1F1F8 U+1F1E8",
@@ -7131,12 +8374,26 @@
       "Western Area"
     ],
     "nativeName": "Sierra Leone",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-SL",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-SL",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Adlm-SL",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      },
+      {
+        "name": "Fula; Fulah; Pulaar; Pular",
+        "ianaCode": "ff-Latn-SL",
+        "alpha2Code": "ff",
+        "nativeName": "Fulfulde, Pulaar, Pular"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇱",
       "unicode": "U+1F1F8 U+1F1F1",
@@ -7174,12 +8431,32 @@
       "West Coast Group Representation Constituency"
     ],
     "nativeName": "Singapore",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-SG",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-SG",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Malay",
+        "ianaCode": "ms-SG",
+        "alpha2Code": "ms",
+        "nativeName": "bahasa Melayu, بهاس ملايو‎"
+      },
+      {
+        "name": "Tamil",
+        "ianaCode": "ta-SG",
+        "alpha2Code": "ta",
+        "nativeName": "தமிழ்"
+      },
+      {
+        "name": "Chinese",
+        "ianaCode": "zh-Hans-SG",
+        "alpha2Code": "zh",
+        "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇬",
       "unicode": "U+1F1F8 U+1F1EC",
@@ -7209,12 +8486,14 @@
       "Zilinsky"
     ],
     "nativeName": "Slovensko",
-    "language": {
-      "name": "Slovak",
-      "ianaCode": "sk-SK",
-      "alpha2Code": "sk",
-      "nativeName": "slovenčina"
-    },
+    "languages": [
+      {
+        "name": "Slovak",
+        "ianaCode": "sk-SK",
+        "alpha2Code": "sk",
+        "nativeName": "slovenčina"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇰",
       "unicode": "U+1F1F8 U+1F1F0",
@@ -7429,12 +8708,20 @@
       "Zrece"
     ],
     "nativeName": "Slovenija",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-SI",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-SI",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Slovene",
+        "ianaCode": "sl-SI",
+        "alpha2Code": "sl",
+        "nativeName": "slovenščina"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇮",
       "unicode": "U+1F1F8 U+1F1EE",
@@ -7466,12 +8753,14 @@
       "Western"
     ],
     "nativeName": "Solomon Islands",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-SB",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-SB",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇧",
       "unicode": "U+1F1F8 U+1F1E7",
@@ -7511,12 +8800,20 @@
       "Woqooyi Galbeed"
     ],
     "nativeName": "Soomaaliya",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-SO",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-SO",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "Somali",
+        "ianaCode": "so-SO",
+        "alpha2Code": "so",
+        "nativeName": "Soomaaliga, af Soomaali"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇴",
       "unicode": "U+1F1F8 U+1F1F4",
@@ -7547,12 +8844,26 @@
       "Western Cape"
     ],
     "nativeName": "South Africa",
-    "language": {
-      "name": "Afrikaans",
-      "ianaCode": "af-ZA",
-      "alpha2Code": "af",
-      "nativeName": "Afrikaans"
-    },
+    "languages": [
+      {
+        "name": "Afrikaans",
+        "ianaCode": "af-ZA",
+        "alpha2Code": "af",
+        "nativeName": "Afrikaans"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-ZA",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Xhosa",
+        "ianaCode": "xh-ZA",
+        "alpha2Code": "xh",
+        "nativeName": "isiXhosa"
+      }
+    ],
     "flag": {
       "emoji": "🇿🇦",
       "unicode": "U+1F1FF U+1F1E6",
@@ -7593,12 +8904,38 @@
       "Pais Vasco"
     ],
     "nativeName": "España",
-    "language": {
-      "name": "Catalan; Valencian",
-      "ianaCode": "ca-ES",
-      "alpha2Code": "ca",
-      "nativeName": "Català"
-    },
+    "languages": [
+      {
+        "name": "Catalan; Valencian",
+        "ianaCode": "ca-ES",
+        "alpha2Code": "ca",
+        "nativeName": "Català"
+      },
+      {
+        "name": "Catalan; Valencian",
+        "ianaCode": "ca-ES-VALENCIA",
+        "alpha2Code": "ca",
+        "nativeName": "Català"
+      },
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-ES",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      },
+      {
+        "name": "Basque",
+        "ianaCode": "eu-ES",
+        "alpha2Code": "eu",
+        "nativeName": "euskara, euskera"
+      },
+      {
+        "name": "Galician",
+        "ianaCode": "gl-ES",
+        "alpha2Code": "gl",
+        "nativeName": "Galego"
+      }
+    ],
     "flag": {
       "emoji": "🇪🇸",
       "unicode": "U+1F1EA U+1F1F8",
@@ -7631,12 +8968,20 @@
       "Western"
     ],
     "nativeName": "śrī laṃkāva",
-    "language": {
-      "name": "Sinhala, Sinhalese",
-      "ianaCode": "si-LK",
-      "alpha2Code": "si",
-      "nativeName": "සිංහල"
-    },
+    "languages": [
+      {
+        "name": "Sinhala, Sinhalese",
+        "ianaCode": "si-LK",
+        "alpha2Code": "si",
+        "nativeName": "සිංහල"
+      },
+      {
+        "name": "Tamil",
+        "ianaCode": "ta-LK",
+        "alpha2Code": "ta",
+        "nativeName": "தமிழ்"
+      }
+    ],
     "flag": {
       "emoji": "🇱🇰",
       "unicode": "U+1F1F1 U+1F1F0",
@@ -7684,12 +9029,20 @@
       "Warab"
     ],
     "nativeName": "السودان",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-SD",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-SD",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-SD",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇩",
       "unicode": "U+1F1F8 U+1F1E9",
@@ -7721,12 +9074,14 @@
       "Wanica"
     ],
     "nativeName": "Suriname",
-    "language": {
-      "name": "Dutch",
-      "ianaCode": "nl-SR",
-      "alpha2Code": "nl",
-      "nativeName": "Nederlands, Vlaams"
-    },
+    "languages": [
+      {
+        "name": "Dutch",
+        "ianaCode": "nl-SR",
+        "alpha2Code": "nl",
+        "nativeName": "Nederlands, Vlaams"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇷",
       "unicode": "U+1F1F8 U+1F1F7",
@@ -7752,12 +9107,14 @@
       "Shiselweni"
     ],
     "nativeName": "Swaziland",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-SZ",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-SZ",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇿",
       "unicode": "U+1F1F8 U+1F1FF",
@@ -7800,12 +9157,26 @@
       "Västra Götaland"
     ],
     "nativeName": "Sverige",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-SE",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-SE",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Northern Sami",
+        "ianaCode": "se-SE",
+        "alpha2Code": "se",
+        "nativeName": "Davvisámegiella"
+      },
+      {
+        "name": "Swedish",
+        "ianaCode": "sv-SE",
+        "alpha2Code": "sv",
+        "nativeName": "svenska"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇪",
       "unicode": "U+1F1F8 U+1F1EA",
@@ -7853,12 +9224,44 @@
       "Zurich"
     ],
     "nativeName": "Schweiz",
-    "language": {
-      "name": "German",
-      "ianaCode": "de-CH",
-      "alpha2Code": "de",
-      "nativeName": "Deutsch"
-    },
+    "languages": [
+      {
+        "name": "German",
+        "ianaCode": "de-CH",
+        "alpha2Code": "de",
+        "nativeName": "Deutsch"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-CH",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-CH",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      },
+      {
+        "name": "Italian",
+        "ianaCode": "it-CH",
+        "alpha2Code": "it",
+        "nativeName": "Italiano"
+      },
+      {
+        "name": "Portuguese",
+        "ianaCode": "pt-CH",
+        "alpha2Code": "pt",
+        "nativeName": "Português"
+      },
+      {
+        "name": "Romansh",
+        "ianaCode": "rm-CH",
+        "alpha2Code": "rm",
+        "nativeName": "rumantsch grischun"
+      }
+    ],
     "flag": {
       "emoji": "🇨🇭",
       "unicode": "U+1F1E8 U+1F1ED",
@@ -7894,12 +9297,20 @@
       "Tartus"
     ],
     "nativeName": "سوريا",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-SY",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-SY",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-SY",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇸🇾",
       "unicode": "U+1F1F8 U+1F1FE",
@@ -7946,12 +9357,14 @@
       "T'ai-pei city"
     ],
     "nativeName": "臺灣",
-    "language": {
-      "name": "Chinese",
-      "ianaCode": "zh-Hant-TW",
-      "alpha2Code": "zh",
-      "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
-    },
+    "languages": [
+      {
+        "name": "Chinese",
+        "ianaCode": "zh-Hant-TW",
+        "alpha2Code": "zh",
+        "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇼",
       "unicode": "U+1F1F9 U+1F1FC",
@@ -7978,12 +9391,14 @@
       "Dushanbe"
     ],
     "nativeName": "Тоҷикистон",
-    "language": {
-      "name": "Tajik",
-      "ianaCode": "tg-TJ",
-      "alpha2Code": "tg",
-      "nativeName": "тоҷикӣ, toğikī, تاجیکی‎"
-    },
+    "languages": [
+      {
+        "name": "Tajik",
+        "ianaCode": "tg-TJ",
+        "alpha2Code": "tg",
+        "nativeName": "тоҷикӣ, toğikī, تاجیکی‎"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇯",
       "unicode": "U+1F1F9 U+1F1EF",
@@ -8031,12 +9446,20 @@
       "Zanzibar Urban/West"
     ],
     "nativeName": "Tanzania",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-TZ",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-TZ",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Swahili",
+        "ianaCode": "sw-TZ",
+        "alpha2Code": "sw",
+        "nativeName": "Kiswahili"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇿",
       "unicode": "U+1F1F9 U+1F1FF",
@@ -8134,12 +9557,14 @@
       "Yasothon"
     ],
     "nativeName": "ประเทศไทย",
-    "language": {
-      "name": "Thai",
-      "ianaCode": "th-TH",
-      "alpha2Code": "th",
-      "nativeName": "ไทย"
-    },
+    "languages": [
+      {
+        "name": "Thai",
+        "ianaCode": "th-TH",
+        "alpha2Code": "th",
+        "nativeName": "ไทย"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇭",
       "unicode": "U+1F1F9 U+1F1ED",
@@ -8166,12 +9591,20 @@
       "Maritime"
     ],
     "nativeName": "Togo",
-    "language": {
-      "name": "Ewe",
-      "ianaCode": "ee-TG",
-      "alpha2Code": "ee",
-      "nativeName": "Eʋegbe"
-    },
+    "languages": [
+      {
+        "name": "Ewe",
+        "ianaCode": "ee-TG",
+        "alpha2Code": "ee",
+        "nativeName": "Eʋegbe"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-TG",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇬",
       "unicode": "U+1F1F9 U+1F1EC",
@@ -8199,12 +9632,20 @@
       "Tonga"
     ],
     "nativeName": "Tonga",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-TO",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-TO",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Tonga (Tonga Islands)",
+        "ianaCode": "to-TO",
+        "alpha2Code": "to",
+        "nativeName": "faka Tonga"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇴",
       "unicode": "U+1F1F9 U+1F1F4",
@@ -8241,12 +9682,14 @@
       "Tobago"
     ],
     "nativeName": "Trinidad and Tobago",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-TT",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-TT",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇹",
       "unicode": "U+1F1F9 U+1F1F9",
@@ -8292,12 +9735,20 @@
       "Zaghouan (Zaghwan)"
     ],
     "nativeName": "تونس",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-TN",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-TN",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-TN",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇳",
       "unicode": "U+1F1F9 U+1F1F3",
@@ -8400,12 +9851,20 @@
       "Zonguldak"
     ],
     "nativeName": "Türkiye",
-    "language": {
-      "name": "Kurdish",
-      "ianaCode": "ku-TR",
-      "alpha2Code": "ku",
-      "nativeName": "Kurdî, كوردی‎"
-    },
+    "languages": [
+      {
+        "name": "Kurdish",
+        "ianaCode": "ku-TR",
+        "alpha2Code": "ku",
+        "nativeName": "Kurdî, كوردی‎"
+      },
+      {
+        "name": "Turkish",
+        "ianaCode": "tr-TR",
+        "alpha2Code": "tr",
+        "nativeName": "Türkçe"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇷",
       "unicode": "U+1F1F9 U+1F1F7",
@@ -8432,12 +9891,14 @@
       "Mary Welayaty"
     ],
     "nativeName": "Türkmenistan",
-    "language": {
-      "name": "Turkmen",
-      "ianaCode": "tk-TM",
-      "alpha2Code": "tk",
-      "nativeName": "Türkmen, Түркмен"
-    },
+    "languages": [
+      {
+        "name": "Turkmen",
+        "ianaCode": "tk-TM",
+        "alpha2Code": "tk",
+        "nativeName": "Türkmen, Түркмен"
+      }
+    ],
     "flag": {
       "emoji": "🇹🇲",
       "unicode": "U+1F1F9 U+1F1F2",
@@ -8515,12 +9976,26 @@
       "Yumbe"
     ],
     "nativeName": "Uganda",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-UG",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-UG",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Luganda",
+        "ianaCode": "lg-UG",
+        "alpha2Code": "lg",
+        "nativeName": "Luganda"
+      },
+      {
+        "name": "Swahili",
+        "ianaCode": "sw-UG",
+        "alpha2Code": "sw",
+        "nativeName": "Kiswahili"
+      }
+    ],
     "flag": {
       "emoji": "🇺🇬",
       "unicode": "U+1F1FA U+1F1EC",
@@ -8569,12 +10044,20 @@
       "Zhytomyr"
     ],
     "nativeName": "Україна",
-    "language": {
-      "name": "Russian",
-      "ianaCode": "ru-UA",
-      "alpha2Code": "ru",
-      "nativeName": "русский язык"
-    },
+    "languages": [
+      {
+        "name": "Russian",
+        "ianaCode": "ru-UA",
+        "alpha2Code": "ru",
+        "nativeName": "русский язык"
+      },
+      {
+        "name": "Ukrainian",
+        "ianaCode": "uk-UA",
+        "alpha2Code": "uk",
+        "nativeName": "українська"
+      }
+    ],
     "flag": {
       "emoji": "🇺🇦",
       "unicode": "U+1F1FA U+1F1E6",
@@ -8605,12 +10088,20 @@
       "Umm al Qaywayn"
     ],
     "nativeName": "دولة الإمارات العربية المتحدة",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-AE",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-AE",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-AE",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇦🇪",
       "unicode": "U+1F1E6 U+1F1EA",
@@ -8778,12 +10269,38 @@
       "York"
     ],
     "nativeName": "United Kingdom",
-    "language": {
-      "name": "Welsh",
-      "ianaCode": "cy-GB",
-      "alpha2Code": "cy",
-      "nativeName": "Cymraeg"
-    },
+    "languages": [
+      {
+        "name": "Welsh",
+        "ianaCode": "cy-GB",
+        "alpha2Code": "cy",
+        "nativeName": "Cymraeg"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-GB",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Irish",
+        "ianaCode": "ga-GB",
+        "alpha2Code": "ga",
+        "nativeName": "Gaeilge"
+      },
+      {
+        "name": "Scottish Gaelic; Gaelic",
+        "ianaCode": "gd-GB",
+        "alpha2Code": "gd",
+        "nativeName": "Gàidhlig"
+      },
+      {
+        "name": "Cornish",
+        "ianaCode": "kw-GB",
+        "alpha2Code": "kw",
+        "nativeName": "Kernewek"
+      }
+    ],
     "flag": {
       "emoji": "🇬🇧",
       "unicode": "U+1F1EC U+1F1E7",
@@ -8856,12 +10373,26 @@
       "Wyoming"
     ],
     "nativeName": "United States",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-US",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-US",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "English",
+        "ianaCode": "en-US-POSIX",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-US",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇺🇸",
       "unicode": "U+1F1FA U+1F1F8",
@@ -8930,12 +10461,14 @@
       "Treinta y Tres"
     ],
     "nativeName": "Uruguay",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-UY",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-UY",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇺🇾",
       "unicode": "U+1F1FA U+1F1FE",
@@ -8971,12 +10504,20 @@
       "Xorazm Viloyati"
     ],
     "nativeName": "O‘zbekiston",
-    "language": {
-      "name": "Uzbek",
-      "ianaCode": "uz-Cyrl-UZ",
-      "alpha2Code": "uz",
-      "nativeName": "zbek, Ўзбек, أۇزبېك‎"
-    },
+    "languages": [
+      {
+        "name": "Uzbek",
+        "ianaCode": "uz-Cyrl-UZ",
+        "alpha2Code": "uz",
+        "nativeName": "zbek, Ўзбек, أۇزبېك‎"
+      },
+      {
+        "name": "Uzbek",
+        "ianaCode": "uz-Latn-UZ",
+        "alpha2Code": "uz",
+        "nativeName": "zbek, Ўзбек, أۇزبېك‎"
+      }
+    ],
     "flag": {
       "emoji": "🇺🇿",
       "unicode": "U+1F1FA U+1F1FF",
@@ -9005,12 +10546,20 @@
       "Torba"
     ],
     "nativeName": "Vanuatu",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-VU",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-VU",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "French",
+        "ianaCode": "fr-VU",
+        "alpha2Code": "fr",
+        "nativeName": "français, langue française"
+      }
+    ],
     "flag": {
       "emoji": "🇻🇺",
       "unicode": "U+1F1FB U+1F1FA",
@@ -9057,12 +10606,14 @@
       "Zulia"
     ],
     "nativeName": "Venezuela",
-    "language": {
-      "name": "Spanish; Castilian",
-      "ianaCode": "es-VE",
-      "alpha2Code": "es",
-      "nativeName": "español, castellano"
-    },
+    "languages": [
+      {
+        "name": "Spanish; Castilian",
+        "ianaCode": "es-VE",
+        "alpha2Code": "es",
+        "nativeName": "español, castellano"
+      }
+    ],
     "flag": {
       "emoji": "🇻🇪",
       "unicode": "U+1F1FB U+1F1EA",
@@ -9148,12 +10699,14 @@
       "Ho Chi Minh"
     ],
     "nativeName": "Việt Nam",
-    "language": {
-      "name": "Vietnamese",
-      "ianaCode": "vi-VN",
-      "alpha2Code": "vi",
-      "nativeName": "Tiếng Việt"
-    },
+    "languages": [
+      {
+        "name": "Vietnamese",
+        "ianaCode": "vi-VN",
+        "alpha2Code": "vi",
+        "nativeName": "Tiếng Việt"
+      }
+    ],
     "flag": {
       "emoji": "🇻🇳",
       "unicode": "U+1F1FB U+1F1F3",
@@ -9194,12 +10747,14 @@
       "Ta'izz"
     ],
     "nativeName": "اليَمَن",
-    "language": {
-      "name": "Arabic",
-      "ianaCode": "ar-YE",
-      "alpha2Code": "ar",
-      "nativeName": "العربية"
-    },
+    "languages": [
+      {
+        "name": "Arabic",
+        "ianaCode": "ar-YE",
+        "alpha2Code": "ar",
+        "nativeName": "العربية"
+      }
+    ],
     "flag": {
       "emoji": "🇾🇪",
       "unicode": "U+1F1FE U+1F1EA",
@@ -9230,12 +10785,14 @@
       "Western"
     ],
     "nativeName": "Zambia",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-ZM",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-ZM",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      }
+    ],
     "flag": {
       "emoji": "🇿🇲",
       "unicode": "U+1F1FF U+1F1F2",
@@ -9267,12 +10824,26 @@
       "Midlands"
     ],
     "nativeName": "Zimbabwe",
-    "language": {
-      "name": "English",
-      "ianaCode": "en-ZW",
-      "alpha2Code": "en",
-      "nativeName": "English"
-    },
+    "languages": [
+      {
+        "name": "English",
+        "ianaCode": "en-ZW",
+        "alpha2Code": "en",
+        "nativeName": "English"
+      },
+      {
+        "name": "North Ndebele",
+        "ianaCode": "nd-ZW",
+        "alpha2Code": "nd",
+        "nativeName": "isiNdebele"
+      },
+      {
+        "name": "Shona",
+        "ianaCode": "sn-ZW",
+        "alpha2Code": "sn",
+        "nativeName": "chiShona"
+      }
+    ],
     "flag": {
       "emoji": "🇿🇼",
       "unicode": "U+1F1FF U+1F1FC",

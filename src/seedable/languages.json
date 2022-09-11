@@ -1,0 +1,2739 @@
+[
+  {
+    "countryId": 1,
+    "name": "Persian",
+    "ianaCode": "fa-AF",
+    "alpha2Code": "fa",
+    "nativeName": "فارسی"
+  },
+  {
+    "countryId": 1,
+    "name": "Pashto, Pushto",
+    "ianaCode": "ps-AF",
+    "alpha2Code": "ps",
+    "nativeName": "پښتو"
+  },
+  {
+    "countryId": 1,
+    "name": "Uzbek",
+    "ianaCode": "uz-Arab-AF",
+    "alpha2Code": "uz",
+    "nativeName": "zbek, Ўзбек, أۇزبېك‎"
+  },
+  {
+    "countryId": 2,
+    "name": "Albanian",
+    "ianaCode": "sq-AL",
+    "alpha2Code": "sq",
+    "nativeName": "Shqip"
+  },
+  {
+    "countryId": 3,
+    "name": "Arabic",
+    "ianaCode": "ar-DZ",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 3,
+    "name": "French",
+    "ianaCode": "fr-DZ",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 4,
+    "name": "Catalan; Valencian",
+    "ianaCode": "ca-AD",
+    "alpha2Code": "ca",
+    "nativeName": "Català"
+  },
+  {
+    "countryId": 5,
+    "name": "Lingala",
+    "ianaCode": "ln-AO",
+    "alpha2Code": "ln",
+    "nativeName": "Lingála"
+  },
+  {
+    "countryId": 5,
+    "name": "Portuguese",
+    "ianaCode": "pt-AO",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 7,
+    "name": "English",
+    "ianaCode": "en-AG",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 8,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-AR",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 9,
+    "name": "Armenian",
+    "ianaCode": "hy-AM",
+    "alpha2Code": "hy",
+    "nativeName": "Հայերեն"
+  },
+  {
+    "countryId": 10,
+    "name": "English",
+    "ianaCode": "en-AU",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 11,
+    "name": "German",
+    "ianaCode": "de-AT",
+    "alpha2Code": "de",
+    "nativeName": "Deutsch"
+  },
+  {
+    "countryId": 11,
+    "name": "English",
+    "ianaCode": "en-AT",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 12,
+    "name": "Azerbaijani",
+    "ianaCode": "az-Cyrl-AZ",
+    "alpha2Code": "az",
+    "nativeName": "azərbaycan dili"
+  },
+  {
+    "countryId": 12,
+    "name": "Azerbaijani",
+    "ianaCode": "az-Latn-AZ",
+    "alpha2Code": "az",
+    "nativeName": "azərbaycan dili"
+  },
+  {
+    "countryId": 13,
+    "name": "English",
+    "ianaCode": "en-BS",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 14,
+    "name": "Arabic",
+    "ianaCode": "ar-BH",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 15,
+    "name": "Bengali",
+    "ianaCode": "bn-BD",
+    "alpha2Code": "bn",
+    "nativeName": "বাংলা"
+  },
+  {
+    "countryId": 16,
+    "name": "English",
+    "ianaCode": "en-BB",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 17,
+    "name": "Belarusian",
+    "ianaCode": "be-BY",
+    "alpha2Code": "be",
+    "nativeName": "Беларуская"
+  },
+  {
+    "countryId": 17,
+    "name": "Russian",
+    "ianaCode": "ru-BY",
+    "alpha2Code": "ru",
+    "nativeName": "русский язык"
+  },
+  {
+    "countryId": 18,
+    "name": "German",
+    "ianaCode": "de-BE",
+    "alpha2Code": "de",
+    "nativeName": "Deutsch"
+  },
+  {
+    "countryId": 18,
+    "name": "English",
+    "ianaCode": "en-BE",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 18,
+    "name": "French",
+    "ianaCode": "fr-BE",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 18,
+    "name": "Dutch",
+    "ianaCode": "nl-BE",
+    "alpha2Code": "nl",
+    "nativeName": "Nederlands, Vlaams"
+  },
+  {
+    "countryId": 19,
+    "name": "English",
+    "ianaCode": "en-BZ",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 19,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-BZ",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 20,
+    "name": "French",
+    "ianaCode": "fr-BJ",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 20,
+    "name": "Yoruba",
+    "ianaCode": "yo-BJ",
+    "alpha2Code": "yo",
+    "nativeName": "Yorùbá"
+  },
+  {
+    "countryId": 21,
+    "name": "English",
+    "ianaCode": "en-BM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 22,
+    "name": "Dzongkha",
+    "ianaCode": "dz-BT",
+    "alpha2Code": "dz",
+    "nativeName": "རྫོང་ཁ"
+  },
+  {
+    "countryId": 23,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-BO",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 23,
+    "name": "Quechua",
+    "ianaCode": "qu-BO",
+    "alpha2Code": "qu",
+    "nativeName": "Runa Simi, Kichwa"
+  },
+  {
+    "countryId": 24,
+    "name": "Bosnian",
+    "ianaCode": "bs-Cyrl-BA",
+    "alpha2Code": "bs",
+    "nativeName": "bosanski jezik"
+  },
+  {
+    "countryId": 24,
+    "name": "Bosnian",
+    "ianaCode": "bs-Latn-BA",
+    "alpha2Code": "bs",
+    "nativeName": "bosanski jezik"
+  },
+  {
+    "countryId": 24,
+    "name": "Croatian",
+    "ianaCode": "hr-BA",
+    "alpha2Code": "hr",
+    "nativeName": "hrvatski"
+  },
+  {
+    "countryId": 24,
+    "name": "Serbian",
+    "ianaCode": "sr-Cyrl-BA",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 24,
+    "name": "Serbian",
+    "ianaCode": "sr-Latn-BA",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 25,
+    "name": "English",
+    "ianaCode": "en-BW",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 26,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-BR",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 26,
+    "name": "Portuguese",
+    "ianaCode": "pt-BR",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 27,
+    "name": "Malay",
+    "ianaCode": "ms-BN",
+    "alpha2Code": "ms",
+    "nativeName": "bahasa Melayu, بهاس ملايو‎"
+  },
+  {
+    "countryId": 28,
+    "name": "Bulgarian",
+    "ianaCode": "bg-BG",
+    "alpha2Code": "bg",
+    "nativeName": "български език"
+  },
+  {
+    "countryId": 29,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-BF",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 29,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-BF",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 29,
+    "name": "French",
+    "ianaCode": "fr-BF",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 30,
+    "name": "Burmese",
+    "ianaCode": "my-MM",
+    "alpha2Code": "my",
+    "nativeName": "ဗမာစာ"
+  },
+  {
+    "countryId": 31,
+    "name": "English",
+    "ianaCode": "en-BI",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 31,
+    "name": "French",
+    "ianaCode": "fr-BI",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 31,
+    "name": "Kirundi",
+    "ianaCode": "rn-BI",
+    "alpha2Code": "rn",
+    "nativeName": "kiRundi"
+  },
+  {
+    "countryId": 32,
+    "name": "Khmer",
+    "ianaCode": "km-KH",
+    "alpha2Code": "km",
+    "nativeName": "ភាសាខ្មែរ"
+  },
+  {
+    "countryId": 33,
+    "name": "English",
+    "ianaCode": "en-CM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 33,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-CM",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 33,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-CM",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 33,
+    "name": "French",
+    "ianaCode": "fr-CM",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 34,
+    "name": "English",
+    "ianaCode": "en-CA",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 34,
+    "name": "French",
+    "ianaCode": "fr-CA",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 35,
+    "name": "Portuguese",
+    "ianaCode": "pt-CV",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 36,
+    "name": "French",
+    "ianaCode": "fr-CF",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 36,
+    "name": "Lingala",
+    "ianaCode": "ln-CF",
+    "alpha2Code": "ln",
+    "nativeName": "Lingála"
+  },
+  {
+    "countryId": 36,
+    "name": "Sango",
+    "ianaCode": "sg-CF",
+    "alpha2Code": "sg",
+    "nativeName": "yângâ tî sängö"
+  },
+  {
+    "countryId": 37,
+    "name": "Arabic",
+    "ianaCode": "ar-TD",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 37,
+    "name": "French",
+    "ianaCode": "fr-TD",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 38,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-CL",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 39,
+    "name": "Tibetan Standard, Tibetan, Central",
+    "ianaCode": "bo-CN",
+    "alpha2Code": "bo",
+    "nativeName": "བོད་ཡིག"
+  },
+  {
+    "countryId": 39,
+    "name": "Nuosu",
+    "ianaCode": "ii-CN",
+    "alpha2Code": "ii",
+    "nativeName": "ꆈꌠ꒿ Nuosuhxop"
+  },
+  {
+    "countryId": 39,
+    "name": "Uighur, Uyghur",
+    "ianaCode": "ug-CN",
+    "alpha2Code": "ug",
+    "nativeName": "Uyƣurqə, ئۇيغۇرچە‎"
+  },
+  {
+    "countryId": 39,
+    "name": "Chinese",
+    "ianaCode": "zh-Hans-CN",
+    "alpha2Code": "zh",
+    "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+  },
+  {
+    "countryId": 40,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-CO",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 41,
+    "name": "Arabic",
+    "ianaCode": "ar-KM",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 41,
+    "name": "French",
+    "ianaCode": "fr-KM",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 42,
+    "name": "French",
+    "ianaCode": "fr-CD",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 42,
+    "name": "Lingala",
+    "ianaCode": "ln-CD",
+    "alpha2Code": "ln",
+    "nativeName": "Lingála"
+  },
+  {
+    "countryId": 42,
+    "name": "Luba-Katanga",
+    "ianaCode": "lu-CD",
+    "alpha2Code": "lu",
+    "nativeName": ""
+  },
+  {
+    "countryId": 42,
+    "name": "Swahili",
+    "ianaCode": "sw-CD",
+    "alpha2Code": "sw",
+    "nativeName": "Kiswahili"
+  },
+  {
+    "countryId": 43,
+    "name": "French",
+    "ianaCode": "fr-CG",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 43,
+    "name": "Lingala",
+    "ianaCode": "ln-CG",
+    "alpha2Code": "ln",
+    "nativeName": "Lingála"
+  },
+  {
+    "countryId": 44,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-CR",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 45,
+    "name": "French",
+    "ianaCode": "fr-CI",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 46,
+    "name": "Croatian",
+    "ianaCode": "hr-HR",
+    "alpha2Code": "hr",
+    "nativeName": "hrvatski"
+  },
+  {
+    "countryId": 47,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-CU",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 48,
+    "name": "Greek, Modern",
+    "ianaCode": "el-CY",
+    "alpha2Code": "el",
+    "nativeName": "Ελληνικά"
+  },
+  {
+    "countryId": 48,
+    "name": "English",
+    "ianaCode": "en-CY",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 48,
+    "name": "Turkish",
+    "ianaCode": "tr-CY",
+    "alpha2Code": "tr",
+    "nativeName": "Türkçe"
+  },
+  {
+    "countryId": 49,
+    "name": "Czech",
+    "ianaCode": "cs-CZ",
+    "alpha2Code": "cs",
+    "nativeName": "česky, čeština"
+  },
+  {
+    "countryId": 50,
+    "name": "Danish",
+    "ianaCode": "da-DK",
+    "alpha2Code": "da",
+    "nativeName": "dansk"
+  },
+  {
+    "countryId": 50,
+    "name": "English",
+    "ianaCode": "en-DK",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 50,
+    "name": "Faroese",
+    "ianaCode": "fo-DK",
+    "alpha2Code": "fo",
+    "nativeName": "føroyskt"
+  },
+  {
+    "countryId": 51,
+    "name": "Arabic",
+    "ianaCode": "ar-DJ",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 51,
+    "name": "French",
+    "ianaCode": "fr-DJ",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 51,
+    "name": "Somali",
+    "ianaCode": "so-DJ",
+    "alpha2Code": "so",
+    "nativeName": "Soomaaliga, af Soomaali"
+  },
+  {
+    "countryId": 52,
+    "name": "English",
+    "ianaCode": "en-DM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 53,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-DO",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 54,
+    "name": "Portuguese",
+    "ianaCode": "pt-TL",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 55,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-EC",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 55,
+    "name": "Quechua",
+    "ianaCode": "qu-EC",
+    "alpha2Code": "qu",
+    "nativeName": "Runa Simi, Kichwa"
+  },
+  {
+    "countryId": 56,
+    "name": "Arabic",
+    "ianaCode": "ar-EG",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 57,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-SV",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 58,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-GQ",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 58,
+    "name": "French",
+    "ianaCode": "fr-GQ",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 58,
+    "name": "Portuguese",
+    "ianaCode": "pt-GQ",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 59,
+    "name": "Arabic",
+    "ianaCode": "ar-ER",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 59,
+    "name": "English",
+    "ianaCode": "en-ER",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 59,
+    "name": "Tigrinya",
+    "ianaCode": "ti-ER",
+    "alpha2Code": "ti",
+    "nativeName": "ትግርኛ"
+  },
+  {
+    "countryId": 60,
+    "name": "Estonian",
+    "ianaCode": "et-EE",
+    "alpha2Code": "et",
+    "nativeName": "eesti, eesti keel"
+  },
+  {
+    "countryId": 61,
+    "name": "Amharic",
+    "ianaCode": "am-ET",
+    "alpha2Code": "am",
+    "nativeName": "አማርኛ"
+  },
+  {
+    "countryId": 61,
+    "name": "Oromo",
+    "ianaCode": "om-ET",
+    "alpha2Code": "om",
+    "nativeName": "Afaan Oromoo"
+  },
+  {
+    "countryId": 61,
+    "name": "Somali",
+    "ianaCode": "so-ET",
+    "alpha2Code": "so",
+    "nativeName": "Soomaaliga, af Soomaali"
+  },
+  {
+    "countryId": 61,
+    "name": "Tigrinya",
+    "ianaCode": "ti-ET",
+    "alpha2Code": "ti",
+    "nativeName": "ትግርኛ"
+  },
+  {
+    "countryId": 62,
+    "name": "English",
+    "ianaCode": "en-FJ",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 63,
+    "name": "English",
+    "ianaCode": "en-FI",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 63,
+    "name": "Finnish",
+    "ianaCode": "fi-FI",
+    "alpha2Code": "fi",
+    "nativeName": "suomi, suomen kieli"
+  },
+  {
+    "countryId": 63,
+    "name": "Northern Sami",
+    "ianaCode": "se-FI",
+    "alpha2Code": "se",
+    "nativeName": "Davvisámegiella"
+  },
+  {
+    "countryId": 63,
+    "name": "Swedish",
+    "ianaCode": "sv-FI",
+    "alpha2Code": "sv",
+    "nativeName": "svenska"
+  },
+  {
+    "countryId": 64,
+    "name": "Breton",
+    "ianaCode": "br-FR",
+    "alpha2Code": "br",
+    "nativeName": "brezhoneg"
+  },
+  {
+    "countryId": 64,
+    "name": "Catalan; Valencian",
+    "ianaCode": "ca-FR",
+    "alpha2Code": "ca",
+    "nativeName": "Català"
+  },
+  {
+    "countryId": 64,
+    "name": "French",
+    "ianaCode": "fr-FR",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 65,
+    "name": "French",
+    "ianaCode": "fr-GF",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 66,
+    "name": "French",
+    "ianaCode": "fr-PF",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 67,
+    "name": "French",
+    "ianaCode": "fr-GA",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 68,
+    "name": "English",
+    "ianaCode": "en-GM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 68,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-GM",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 68,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-GM",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 69,
+    "name": "English",
+    "ianaCode": "en-GM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 69,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-GM",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 69,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-GM",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 70,
+    "name": "German",
+    "ianaCode": "de-DE",
+    "alpha2Code": "de",
+    "nativeName": "Deutsch"
+  },
+  {
+    "countryId": 70,
+    "name": "English",
+    "ianaCode": "en-DE",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 71,
+    "name": "Akan",
+    "ianaCode": "ak-GH",
+    "alpha2Code": "ak",
+    "nativeName": "Akan"
+  },
+  {
+    "countryId": 71,
+    "name": "Ewe",
+    "ianaCode": "ee-GH",
+    "alpha2Code": "ee",
+    "nativeName": "Eʋegbe"
+  },
+  {
+    "countryId": 71,
+    "name": "English",
+    "ianaCode": "en-GH",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 71,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-GH",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 71,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-GH",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 71,
+    "name": "Hausa",
+    "ianaCode": "ha-GH",
+    "alpha2Code": "ha",
+    "nativeName": "Hausa, هَوُسَ"
+  },
+  {
+    "countryId": 72,
+    "name": "Greek, Modern",
+    "ianaCode": "el-GR",
+    "alpha2Code": "el",
+    "nativeName": "Ελληνικά"
+  },
+  {
+    "countryId": 73,
+    "name": "Danish",
+    "ianaCode": "da-GL",
+    "alpha2Code": "da",
+    "nativeName": "dansk"
+  },
+  {
+    "countryId": 73,
+    "name": "Kalaallisut, Greenlandic",
+    "ianaCode": "kl-GL",
+    "alpha2Code": "kl",
+    "nativeName": "kalaallisut, kalaallit oqaasii"
+  },
+  {
+    "countryId": 74,
+    "name": "English",
+    "ianaCode": "en-GD",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 75,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-GT",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 76,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-GN",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 76,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-GN",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 76,
+    "name": "French",
+    "ianaCode": "fr-GN",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 77,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-GW",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 77,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-GW",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 77,
+    "name": "Portuguese",
+    "ianaCode": "pt-GW",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 78,
+    "name": "English",
+    "ianaCode": "en-GY",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 79,
+    "name": "French",
+    "ianaCode": "fr-HT",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 80,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-HN",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 81,
+    "name": "English",
+    "ianaCode": "en-HK",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 81,
+    "name": "Chinese",
+    "ianaCode": "zh-Hans-HK",
+    "alpha2Code": "zh",
+    "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+  },
+  {
+    "countryId": 81,
+    "name": "Chinese",
+    "ianaCode": "zh-Hant-HK",
+    "alpha2Code": "zh",
+    "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+  },
+  {
+    "countryId": 82,
+    "name": "Hungarian",
+    "ianaCode": "hu-HU",
+    "alpha2Code": "hu",
+    "nativeName": "Magyar"
+  },
+  {
+    "countryId": 83,
+    "name": "Icelandic",
+    "ianaCode": "is-IS",
+    "alpha2Code": "is",
+    "nativeName": "Íslenska"
+  },
+  {
+    "countryId": 84,
+    "name": "Assamese",
+    "ianaCode": "as-IN",
+    "alpha2Code": "as",
+    "nativeName": "অসমীয়া"
+  },
+  {
+    "countryId": 84,
+    "name": "Bengali",
+    "ianaCode": "bn-IN",
+    "alpha2Code": "bn",
+    "nativeName": "বাংলা"
+  },
+  {
+    "countryId": 84,
+    "name": "Tibetan Standard, Tibetan, Central",
+    "ianaCode": "bo-IN",
+    "alpha2Code": "bo",
+    "nativeName": "བོད་ཡིག"
+  },
+  {
+    "countryId": 84,
+    "name": "English",
+    "ianaCode": "en-IN",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 84,
+    "name": "Gujarati",
+    "ianaCode": "gu-IN",
+    "alpha2Code": "gu",
+    "nativeName": "ગુજરાતી"
+  },
+  {
+    "countryId": 84,
+    "name": "Hindi",
+    "ianaCode": "hi-IN",
+    "alpha2Code": "hi",
+    "nativeName": "हिन्दी, हिंदी"
+  },
+  {
+    "countryId": 84,
+    "name": "Kannada",
+    "ianaCode": "kn-IN",
+    "alpha2Code": "kn",
+    "nativeName": "ಕನ್ನಡ"
+  },
+  {
+    "countryId": 84,
+    "name": "Kashmiri",
+    "ianaCode": "ks-Arab-IN",
+    "alpha2Code": "ks",
+    "nativeName": "कश्मीरी, كشميري‎"
+  },
+  {
+    "countryId": 84,
+    "name": "Malayalam",
+    "ianaCode": "ml-IN",
+    "alpha2Code": "ml",
+    "nativeName": "മലയാളം"
+  },
+  {
+    "countryId": 84,
+    "name": "Marathi (Marāṭhī)",
+    "ianaCode": "mr-IN",
+    "alpha2Code": "mr",
+    "nativeName": "मराठी"
+  },
+  {
+    "countryId": 84,
+    "name": "Nepali",
+    "ianaCode": "ne-IN",
+    "alpha2Code": "ne",
+    "nativeName": "नेपाली"
+  },
+  {
+    "countryId": 84,
+    "name": "Oriya",
+    "ianaCode": "or-IN",
+    "alpha2Code": "or",
+    "nativeName": "ଓଡ଼ିଆ"
+  },
+  {
+    "countryId": 84,
+    "name": "Panjabi, Punjabi",
+    "ianaCode": "pa-Guru-IN",
+    "alpha2Code": "pa",
+    "nativeName": "ਪੰਜਾਬੀ, پنجابی‎"
+  },
+  {
+    "countryId": 84,
+    "name": "Sindhi",
+    "ianaCode": "sd-Deva-IN",
+    "alpha2Code": "sd",
+    "nativeName": "सिन्धी, سنڌي، سندھی‎"
+  },
+  {
+    "countryId": 84,
+    "name": "Tamil",
+    "ianaCode": "ta-IN",
+    "alpha2Code": "ta",
+    "nativeName": "தமிழ்"
+  },
+  {
+    "countryId": 84,
+    "name": "Telugu",
+    "ianaCode": "te-IN",
+    "alpha2Code": "te",
+    "nativeName": "తెలుగు"
+  },
+  {
+    "countryId": 84,
+    "name": "Urdu",
+    "ianaCode": "ur-IN",
+    "alpha2Code": "ur",
+    "nativeName": "اردو"
+  },
+  {
+    "countryId": 85,
+    "name": "Indonesian",
+    "ianaCode": "id-ID",
+    "alpha2Code": "id",
+    "nativeName": "Bahasa Indonesia"
+  },
+  {
+    "countryId": 85,
+    "name": "Javanese",
+    "ianaCode": "jv-ID",
+    "alpha2Code": "jv",
+    "nativeName": "basa Jawa"
+  },
+  {
+    "countryId": 85,
+    "name": "Malay",
+    "ianaCode": "ms-ID",
+    "alpha2Code": "ms",
+    "nativeName": "bahasa Melayu, بهاس ملايو‎"
+  },
+  {
+    "countryId": 85,
+    "name": "Sundanese",
+    "ianaCode": "su-Latn-ID",
+    "alpha2Code": "su",
+    "nativeName": "Basa Sunda"
+  },
+  {
+    "countryId": 86,
+    "name": "Persian",
+    "ianaCode": "fa-IR",
+    "alpha2Code": "fa",
+    "nativeName": "فارسی"
+  },
+  {
+    "countryId": 87,
+    "name": "Arabic",
+    "ianaCode": "ar-IQ",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 88,
+    "name": "English",
+    "ianaCode": "en-IE",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 88,
+    "name": "Irish",
+    "ianaCode": "ga-IE",
+    "alpha2Code": "ga",
+    "nativeName": "Gaeilge"
+  },
+  {
+    "countryId": 89,
+    "name": "Arabic",
+    "ianaCode": "ar-IL",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 89,
+    "name": "English",
+    "ianaCode": "en-IL",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 89,
+    "name": "Hebrew (modern)",
+    "ianaCode": "he-IL",
+    "alpha2Code": "he",
+    "nativeName": "עברית"
+  },
+  {
+    "countryId": 90,
+    "name": "Catalan; Valencian",
+    "ianaCode": "ca-IT",
+    "alpha2Code": "ca",
+    "nativeName": "Català"
+  },
+  {
+    "countryId": 90,
+    "name": "German",
+    "ianaCode": "de-IT",
+    "alpha2Code": "de",
+    "nativeName": "Deutsch"
+  },
+  {
+    "countryId": 90,
+    "name": "Italian",
+    "ianaCode": "it-IT",
+    "alpha2Code": "it",
+    "nativeName": "Italiano"
+  },
+  {
+    "countryId": 91,
+    "name": "English",
+    "ianaCode": "en-JM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 92,
+    "name": "Japanese",
+    "ianaCode": "ja-JP",
+    "alpha2Code": "ja",
+    "nativeName": "日本語 (にほんご／にっぽんご)"
+  },
+  {
+    "countryId": 93,
+    "name": "Arabic",
+    "ianaCode": "ar-JO",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 94,
+    "name": "Kazakh",
+    "ianaCode": "kk-KZ",
+    "alpha2Code": "kk",
+    "nativeName": "Қазақ тілі"
+  },
+  {
+    "countryId": 94,
+    "name": "Russian",
+    "ianaCode": "ru-KZ",
+    "alpha2Code": "ru",
+    "nativeName": "русский язык"
+  },
+  {
+    "countryId": 95,
+    "name": "English",
+    "ianaCode": "en-KE",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 95,
+    "name": "Kikuyu, Gikuyu",
+    "ianaCode": "ki-KE",
+    "alpha2Code": "ki",
+    "nativeName": "Gĩkũyũ"
+  },
+  {
+    "countryId": 95,
+    "name": "Oromo",
+    "ianaCode": "om-KE",
+    "alpha2Code": "om",
+    "nativeName": "Afaan Oromoo"
+  },
+  {
+    "countryId": 95,
+    "name": "Somali",
+    "ianaCode": "so-KE",
+    "alpha2Code": "so",
+    "nativeName": "Soomaaliga, af Soomaali"
+  },
+  {
+    "countryId": 95,
+    "name": "Swahili",
+    "ianaCode": "sw-KE",
+    "alpha2Code": "sw",
+    "nativeName": "Kiswahili"
+  },
+  {
+    "countryId": 96,
+    "name": "English",
+    "ianaCode": "en-KI",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 97,
+    "name": "Korean",
+    "ianaCode": "ko-KP",
+    "alpha2Code": "ko",
+    "nativeName": "한국어 (韓國語), 조선말 (朝鮮語)"
+  },
+  {
+    "countryId": 98,
+    "name": "Korean",
+    "ianaCode": "ko-KR",
+    "alpha2Code": "ko",
+    "nativeName": "한국어 (韓國語), 조선말 (朝鮮語)"
+  },
+  {
+    "countryId": 99,
+    "name": "Arabic",
+    "ianaCode": "ar-KW",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 100,
+    "name": "Kirghiz, Kyrgyz",
+    "ianaCode": "ky-KG",
+    "alpha2Code": "ky",
+    "nativeName": "кыргыз тили"
+  },
+  {
+    "countryId": 100,
+    "name": "Russian",
+    "ianaCode": "ru-KG",
+    "alpha2Code": "ru",
+    "nativeName": "русский язык"
+  },
+  {
+    "countryId": 101,
+    "name": "Lao",
+    "ianaCode": "lo-LA",
+    "alpha2Code": "lo",
+    "nativeName": "ພາສາລາວ"
+  },
+  {
+    "countryId": 102,
+    "name": "Latvian",
+    "ianaCode": "lv-LV",
+    "alpha2Code": "lv",
+    "nativeName": "latviešu valoda"
+  },
+  {
+    "countryId": 103,
+    "name": "Arabic",
+    "ianaCode": "ar-LB",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 104,
+    "name": "English",
+    "ianaCode": "en-LS",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 105,
+    "name": "English",
+    "ianaCode": "en-LR",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 105,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-LR",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 105,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-LR",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 106,
+    "name": "Arabic",
+    "ianaCode": "ar-LY",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 107,
+    "name": "German",
+    "ianaCode": "de-LI",
+    "alpha2Code": "de",
+    "nativeName": "Deutsch"
+  },
+  {
+    "countryId": 108,
+    "name": "Lithuanian",
+    "ianaCode": "lt-LT",
+    "alpha2Code": "lt",
+    "nativeName": "lietuvių kalba"
+  },
+  {
+    "countryId": 109,
+    "name": "German",
+    "ianaCode": "de-LU",
+    "alpha2Code": "de",
+    "nativeName": "Deutsch"
+  },
+  {
+    "countryId": 109,
+    "name": "French",
+    "ianaCode": "fr-LU",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 109,
+    "name": "Luxembourgish, Letzeburgesch",
+    "ianaCode": "lb-LU",
+    "alpha2Code": "lb",
+    "nativeName": "Lëtzebuergesch"
+  },
+  {
+    "countryId": 109,
+    "name": "Portuguese",
+    "ianaCode": "pt-LU",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 110,
+    "name": "Macedonian",
+    "ianaCode": "mk-MK",
+    "alpha2Code": "mk",
+    "nativeName": "македонски јазик"
+  },
+  {
+    "countryId": 110,
+    "name": "Albanian",
+    "ianaCode": "sq-MK",
+    "alpha2Code": "sq",
+    "nativeName": "Shqip"
+  },
+  {
+    "countryId": 111,
+    "name": "English",
+    "ianaCode": "en-MG",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 111,
+    "name": "French",
+    "ianaCode": "fr-MG",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 111,
+    "name": "Malagasy",
+    "ianaCode": "mg-MG",
+    "alpha2Code": "mg",
+    "nativeName": "Malagasy fiteny"
+  },
+  {
+    "countryId": 112,
+    "name": "English",
+    "ianaCode": "en-MW",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 113,
+    "name": "English",
+    "ianaCode": "en-MY",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 113,
+    "name": "Malay",
+    "ianaCode": "ms-MY",
+    "alpha2Code": "ms",
+    "nativeName": "bahasa Melayu, بهاس ملايو‎"
+  },
+  {
+    "countryId": 113,
+    "name": "Tamil",
+    "ianaCode": "ta-MY",
+    "alpha2Code": "ta",
+    "nativeName": "தமிழ்"
+  },
+  {
+    "countryId": 114,
+    "name": "Divehi; Dhivehi; Maldivian;",
+    "ianaCode": "dv-MW",
+    "alpha2Code": "dv",
+    "nativeName": "ދިވެހި"
+  },
+  {
+    "countryId": 115,
+    "name": "Bambara",
+    "ianaCode": "bm-ML",
+    "alpha2Code": "bm",
+    "nativeName": "bamanankan"
+  },
+  {
+    "countryId": 115,
+    "name": "French",
+    "ianaCode": "fr-ML",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 116,
+    "name": "English",
+    "ianaCode": "en-MT",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 116,
+    "name": "Maltese",
+    "ianaCode": "mt-MT",
+    "alpha2Code": "mt",
+    "nativeName": "Malti"
+  },
+  {
+    "countryId": 117,
+    "name": "English",
+    "ianaCode": "en-MH",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 118,
+    "name": "Arabic",
+    "ianaCode": "ar-MR",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 118,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-MR",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 118,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-MR",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 118,
+    "name": "French",
+    "ianaCode": "fr-MR",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 119,
+    "name": "English",
+    "ianaCode": "en-MU",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 119,
+    "name": "French",
+    "ianaCode": "fr-MU",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 120,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-MX",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 121,
+    "name": "English",
+    "ianaCode": "en-FM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 122,
+    "name": "Romanian, Moldavian, Moldovan",
+    "ianaCode": "ro-MD",
+    "alpha2Code": "ro",
+    "nativeName": "română"
+  },
+  {
+    "countryId": 122,
+    "name": "Russian",
+    "ianaCode": "ru-MD",
+    "alpha2Code": "ru",
+    "nativeName": "русский язык"
+  },
+  {
+    "countryId": 123,
+    "name": "French",
+    "ianaCode": "fr-MC",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 124,
+    "name": "Mongolian",
+    "ianaCode": "mn-MN",
+    "alpha2Code": "mn",
+    "nativeName": "монгол"
+  },
+  {
+    "countryId": 125,
+    "name": "Arabic",
+    "ianaCode": "ar-MA",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 125,
+    "name": "French",
+    "ianaCode": "fr-MA",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 126,
+    "name": "Portuguese",
+    "ianaCode": "pt-MZ",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 127,
+    "name": "Afrikaans",
+    "ianaCode": "af-NA",
+    "alpha2Code": "af",
+    "nativeName": "Afrikaans"
+  },
+  {
+    "countryId": 127,
+    "name": "English",
+    "ianaCode": "en-NA",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 128,
+    "name": "English",
+    "ianaCode": "en-NR",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 129,
+    "name": "Nepali",
+    "ianaCode": "ne-NP",
+    "alpha2Code": "ne",
+    "nativeName": "नेपाली"
+  },
+  {
+    "countryId": 130,
+    "name": "English",
+    "ianaCode": "en-NL",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 130,
+    "name": "Western Frisian",
+    "ianaCode": "fy-NL",
+    "alpha2Code": "fy",
+    "nativeName": "Frysk"
+  },
+  {
+    "countryId": 130,
+    "name": "Dutch",
+    "ianaCode": "nl-NL",
+    "alpha2Code": "nl",
+    "nativeName": "Nederlands, Vlaams"
+  },
+  {
+    "countryId": 131,
+    "name": "English",
+    "ianaCode": "en-NZ",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 131,
+    "name": "Māori",
+    "ianaCode": "mi-NZ",
+    "alpha2Code": "mi",
+    "nativeName": "te reo Māori"
+  },
+  {
+    "countryId": 132,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-NI",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 133,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-NE",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 133,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-NE",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 133,
+    "name": "French",
+    "ianaCode": "fr-NE",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 133,
+    "name": "Hausa",
+    "ianaCode": "ha-NE",
+    "alpha2Code": "ha",
+    "nativeName": "Hausa, هَوُسَ"
+  },
+  {
+    "countryId": 134,
+    "name": "English",
+    "ianaCode": "en-NG",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 134,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-NG",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 134,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-NG",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 134,
+    "name": "Hausa",
+    "ianaCode": "ha-NG",
+    "alpha2Code": "ha",
+    "nativeName": "Hausa, هَوُسَ"
+  },
+  {
+    "countryId": 134,
+    "name": "Igbo",
+    "ianaCode": "ig-NG",
+    "alpha2Code": "ig",
+    "nativeName": "Asụsụ Igbo"
+  },
+  {
+    "countryId": 134,
+    "name": "Yoruba",
+    "ianaCode": "yo-NG",
+    "alpha2Code": "yo",
+    "nativeName": "Yorùbá"
+  },
+  {
+    "countryId": 135,
+    "name": "Norwegian Bokmål",
+    "ianaCode": "nb-NO",
+    "alpha2Code": "nb",
+    "nativeName": "Norsk bokmål"
+  },
+  {
+    "countryId": 135,
+    "name": "Norwegian Nynorsk",
+    "ianaCode": "nn-NO",
+    "alpha2Code": "nn",
+    "nativeName": "Norsk nynorsk"
+  },
+  {
+    "countryId": 135,
+    "name": "Northern Sami",
+    "ianaCode": "se-NO",
+    "alpha2Code": "se",
+    "nativeName": "Davvisámegiella"
+  },
+  {
+    "countryId": 136,
+    "name": "Arabic",
+    "ianaCode": "ar-OM",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 137,
+    "name": "English",
+    "ianaCode": "en-PK",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 137,
+    "name": "Panjabi, Punjabi",
+    "ianaCode": "pa-Arab-PK",
+    "alpha2Code": "pa",
+    "nativeName": "ਪੰਜਾਬੀ, پنجابی‎"
+  },
+  {
+    "countryId": 137,
+    "name": "Pashto, Pushto",
+    "ianaCode": "ps-PK",
+    "alpha2Code": "ps",
+    "nativeName": "پښتو"
+  },
+  {
+    "countryId": 137,
+    "name": "Sindhi",
+    "ianaCode": "sd-Arab-PK",
+    "alpha2Code": "sd",
+    "nativeName": "सिन्धी, سنڌي، سندھی‎"
+  },
+  {
+    "countryId": 137,
+    "name": "Urdu",
+    "ianaCode": "ur-PK",
+    "alpha2Code": "ur",
+    "nativeName": "اردو"
+  },
+  {
+    "countryId": 138,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-PA",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 139,
+    "name": "English",
+    "ianaCode": "en-PG",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 140,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-PY",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 141,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-PE",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 141,
+    "name": "Quechua",
+    "ianaCode": "qu-PE",
+    "alpha2Code": "qu",
+    "nativeName": "Runa Simi, Kichwa"
+  },
+  {
+    "countryId": 142,
+    "name": "English",
+    "ianaCode": "en-PH",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 142,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-PH",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 143,
+    "name": "Polish",
+    "ianaCode": "pl-PL",
+    "alpha2Code": "pl",
+    "nativeName": "polski"
+  },
+  {
+    "countryId": 144,
+    "name": "Portuguese",
+    "ianaCode": "pt-PT",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 145,
+    "name": "Arabic",
+    "ianaCode": "ar-QA",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 146,
+    "name": "Romanian, Moldavian, Moldovan",
+    "ianaCode": "ro-RO",
+    "alpha2Code": "ro",
+    "nativeName": "română"
+  },
+  {
+    "countryId": 147,
+    "name": "Chechen",
+    "ianaCode": "ce-RU",
+    "alpha2Code": "ce",
+    "nativeName": "нохчийн мотт"
+  },
+  {
+    "countryId": 147,
+    "name": "Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic",
+    "ianaCode": "cu-RU",
+    "alpha2Code": "cu",
+    "nativeName": "ѩзыкъ словѣньскъ"
+  },
+  {
+    "countryId": 147,
+    "name": "Ossetian, Ossetic",
+    "ianaCode": "os-RU",
+    "alpha2Code": "os",
+    "nativeName": "ирон æвзаг"
+  },
+  {
+    "countryId": 147,
+    "name": "Russian",
+    "ianaCode": "ru-RU",
+    "alpha2Code": "ru",
+    "nativeName": "русский язык"
+  },
+  {
+    "countryId": 147,
+    "name": "Tatar",
+    "ianaCode": "tt-RU",
+    "alpha2Code": "tt",
+    "nativeName": "татарча, tatarça, تاتارچا‎"
+  },
+  {
+    "countryId": 148,
+    "name": "English",
+    "ianaCode": "en-RW",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 148,
+    "name": "French",
+    "ianaCode": "fr-RW",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 148,
+    "name": "Kinyarwanda",
+    "ianaCode": "rw-RW",
+    "alpha2Code": "rw",
+    "nativeName": "Ikinyarwanda"
+  },
+  {
+    "countryId": 149,
+    "name": "English",
+    "ianaCode": "en-WS",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 150,
+    "name": "Italian",
+    "ianaCode": "it-SM",
+    "alpha2Code": "it",
+    "nativeName": "Italiano"
+  },
+  {
+    "countryId": 151,
+    "name": "Portuguese",
+    "ianaCode": "pt-ST",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 152,
+    "name": "Arabic",
+    "ianaCode": "ar-SA",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 153,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-SN",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 153,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-SN",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 153,
+    "name": "French",
+    "ianaCode": "fr-SN",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 153,
+    "name": "Wolof",
+    "ianaCode": "wo-SN",
+    "alpha2Code": "wo",
+    "nativeName": "Wollof"
+  },
+  {
+    "countryId": 154,
+    "name": "Serbian",
+    "ianaCode": "sr-Cyrl-RS",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 154,
+    "name": "Serbian",
+    "ianaCode": "sr-Latn-RS",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 155,
+    "name": "Serbian",
+    "ianaCode": "sr-Cyrl-ME",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 155,
+    "name": "Serbian",
+    "ianaCode": "sr-Latn-ME",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 156,
+    "name": "Albanian",
+    "ianaCode": "sq-XK",
+    "alpha2Code": "sq",
+    "nativeName": "Shqip"
+  },
+  {
+    "countryId": 156,
+    "name": "Serbian",
+    "ianaCode": "sr-Cyrl-XK",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 156,
+    "name": "Serbian",
+    "ianaCode": "sr-Latn-XK",
+    "alpha2Code": "sr",
+    "nativeName": "српски језик"
+  },
+  {
+    "countryId": 157,
+    "name": "English",
+    "ianaCode": "en-SC",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 157,
+    "name": "French",
+    "ianaCode": "fr-SC",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 158,
+    "name": "English",
+    "ianaCode": "en-SL",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 158,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Adlm-SL",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 158,
+    "name": "Fula; Fulah; Pulaar; Pular",
+    "ianaCode": "ff-Latn-SL",
+    "alpha2Code": "ff",
+    "nativeName": "Fulfulde, Pulaar, Pular"
+  },
+  {
+    "countryId": 159,
+    "name": "English",
+    "ianaCode": "en-SG",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 159,
+    "name": "Malay",
+    "ianaCode": "ms-SG",
+    "alpha2Code": "ms",
+    "nativeName": "bahasa Melayu, بهاس ملايو‎"
+  },
+  {
+    "countryId": 159,
+    "name": "Tamil",
+    "ianaCode": "ta-SG",
+    "alpha2Code": "ta",
+    "nativeName": "தமிழ்"
+  },
+  {
+    "countryId": 159,
+    "name": "Chinese",
+    "ianaCode": "zh-Hans-SG",
+    "alpha2Code": "zh",
+    "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+  },
+  {
+    "countryId": 160,
+    "name": "Slovak",
+    "ianaCode": "sk-SK",
+    "alpha2Code": "sk",
+    "nativeName": "slovenčina"
+  },
+  {
+    "countryId": 161,
+    "name": "English",
+    "ianaCode": "en-SI",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 161,
+    "name": "Slovene",
+    "ianaCode": "sl-SI",
+    "alpha2Code": "sl",
+    "nativeName": "slovenščina"
+  },
+  {
+    "countryId": 162,
+    "name": "English",
+    "ianaCode": "en-SB",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 163,
+    "name": "Arabic",
+    "ianaCode": "ar-SO",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 163,
+    "name": "Somali",
+    "ianaCode": "so-SO",
+    "alpha2Code": "so",
+    "nativeName": "Soomaaliga, af Soomaali"
+  },
+  {
+    "countryId": 164,
+    "name": "Afrikaans",
+    "ianaCode": "af-ZA",
+    "alpha2Code": "af",
+    "nativeName": "Afrikaans"
+  },
+  {
+    "countryId": 164,
+    "name": "English",
+    "ianaCode": "en-ZA",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 164,
+    "name": "Xhosa",
+    "ianaCode": "xh-ZA",
+    "alpha2Code": "xh",
+    "nativeName": "isiXhosa"
+  },
+  {
+    "countryId": 165,
+    "name": "Catalan; Valencian",
+    "ianaCode": "ca-ES",
+    "alpha2Code": "ca",
+    "nativeName": "Català"
+  },
+  {
+    "countryId": 165,
+    "name": "Catalan; Valencian",
+    "ianaCode": "ca-ES-VALENCIA",
+    "alpha2Code": "ca",
+    "nativeName": "Català"
+  },
+  {
+    "countryId": 165,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-ES",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 165,
+    "name": "Basque",
+    "ianaCode": "eu-ES",
+    "alpha2Code": "eu",
+    "nativeName": "euskara, euskera"
+  },
+  {
+    "countryId": 165,
+    "name": "Galician",
+    "ianaCode": "gl-ES",
+    "alpha2Code": "gl",
+    "nativeName": "Galego"
+  },
+  {
+    "countryId": 166,
+    "name": "Sinhala, Sinhalese",
+    "ianaCode": "si-LK",
+    "alpha2Code": "si",
+    "nativeName": "සිංහල"
+  },
+  {
+    "countryId": 166,
+    "name": "Tamil",
+    "ianaCode": "ta-LK",
+    "alpha2Code": "ta",
+    "nativeName": "தமிழ்"
+  },
+  {
+    "countryId": 167,
+    "name": "Arabic",
+    "ianaCode": "ar-SD",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 167,
+    "name": "English",
+    "ianaCode": "en-SD",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 168,
+    "name": "Dutch",
+    "ianaCode": "nl-SR",
+    "alpha2Code": "nl",
+    "nativeName": "Nederlands, Vlaams"
+  },
+  {
+    "countryId": 169,
+    "name": "English",
+    "ianaCode": "en-SZ",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 170,
+    "name": "English",
+    "ianaCode": "en-SE",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 170,
+    "name": "Northern Sami",
+    "ianaCode": "se-SE",
+    "alpha2Code": "se",
+    "nativeName": "Davvisámegiella"
+  },
+  {
+    "countryId": 170,
+    "name": "Swedish",
+    "ianaCode": "sv-SE",
+    "alpha2Code": "sv",
+    "nativeName": "svenska"
+  },
+  {
+    "countryId": 171,
+    "name": "German",
+    "ianaCode": "de-CH",
+    "alpha2Code": "de",
+    "nativeName": "Deutsch"
+  },
+  {
+    "countryId": 171,
+    "name": "English",
+    "ianaCode": "en-CH",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 171,
+    "name": "French",
+    "ianaCode": "fr-CH",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 171,
+    "name": "Italian",
+    "ianaCode": "it-CH",
+    "alpha2Code": "it",
+    "nativeName": "Italiano"
+  },
+  {
+    "countryId": 171,
+    "name": "Portuguese",
+    "ianaCode": "pt-CH",
+    "alpha2Code": "pt",
+    "nativeName": "Português"
+  },
+  {
+    "countryId": 171,
+    "name": "Romansh",
+    "ianaCode": "rm-CH",
+    "alpha2Code": "rm",
+    "nativeName": "rumantsch grischun"
+  },
+  {
+    "countryId": 172,
+    "name": "Arabic",
+    "ianaCode": "ar-SY",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 172,
+    "name": "French",
+    "ianaCode": "fr-SY",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 173,
+    "name": "Chinese",
+    "ianaCode": "zh-Hant-TW",
+    "alpha2Code": "zh",
+    "nativeName": "中文 (Zhōngwén), 汉语, 漢語"
+  },
+  {
+    "countryId": 174,
+    "name": "Tajik",
+    "ianaCode": "tg-TJ",
+    "alpha2Code": "tg",
+    "nativeName": "тоҷикӣ, toğikī, تاجیکی‎"
+  },
+  {
+    "countryId": 175,
+    "name": "English",
+    "ianaCode": "en-TZ",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 175,
+    "name": "Swahili",
+    "ianaCode": "sw-TZ",
+    "alpha2Code": "sw",
+    "nativeName": "Kiswahili"
+  },
+  {
+    "countryId": 176,
+    "name": "Thai",
+    "ianaCode": "th-TH",
+    "alpha2Code": "th",
+    "nativeName": "ไทย"
+  },
+  {
+    "countryId": 177,
+    "name": "Ewe",
+    "ianaCode": "ee-TG",
+    "alpha2Code": "ee",
+    "nativeName": "Eʋegbe"
+  },
+  {
+    "countryId": 177,
+    "name": "French",
+    "ianaCode": "fr-TG",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 178,
+    "name": "English",
+    "ianaCode": "en-TO",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 178,
+    "name": "Tonga (Tonga Islands)",
+    "ianaCode": "to-TO",
+    "alpha2Code": "to",
+    "nativeName": "faka Tonga"
+  },
+  {
+    "countryId": 179,
+    "name": "English",
+    "ianaCode": "en-TT",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 180,
+    "name": "Arabic",
+    "ianaCode": "ar-TN",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 180,
+    "name": "French",
+    "ianaCode": "fr-TN",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 181,
+    "name": "Kurdish",
+    "ianaCode": "ku-TR",
+    "alpha2Code": "ku",
+    "nativeName": "Kurdî, كوردی‎"
+  },
+  {
+    "countryId": 181,
+    "name": "Turkish",
+    "ianaCode": "tr-TR",
+    "alpha2Code": "tr",
+    "nativeName": "Türkçe"
+  },
+  {
+    "countryId": 182,
+    "name": "Turkmen",
+    "ianaCode": "tk-TM",
+    "alpha2Code": "tk",
+    "nativeName": "Türkmen, Түркмен"
+  },
+  {
+    "countryId": 183,
+    "name": "English",
+    "ianaCode": "en-UG",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 183,
+    "name": "Luganda",
+    "ianaCode": "lg-UG",
+    "alpha2Code": "lg",
+    "nativeName": "Luganda"
+  },
+  {
+    "countryId": 183,
+    "name": "Swahili",
+    "ianaCode": "sw-UG",
+    "alpha2Code": "sw",
+    "nativeName": "Kiswahili"
+  },
+  {
+    "countryId": 184,
+    "name": "Russian",
+    "ianaCode": "ru-UA",
+    "alpha2Code": "ru",
+    "nativeName": "русский язык"
+  },
+  {
+    "countryId": 184,
+    "name": "Ukrainian",
+    "ianaCode": "uk-UA",
+    "alpha2Code": "uk",
+    "nativeName": "українська"
+  },
+  {
+    "countryId": 185,
+    "name": "Arabic",
+    "ianaCode": "ar-AE",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 185,
+    "name": "English",
+    "ianaCode": "en-AE",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 186,
+    "name": "Welsh",
+    "ianaCode": "cy-GB",
+    "alpha2Code": "cy",
+    "nativeName": "Cymraeg"
+  },
+  {
+    "countryId": 186,
+    "name": "English",
+    "ianaCode": "en-GB",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 186,
+    "name": "Irish",
+    "ianaCode": "ga-GB",
+    "alpha2Code": "ga",
+    "nativeName": "Gaeilge"
+  },
+  {
+    "countryId": 186,
+    "name": "Scottish Gaelic; Gaelic",
+    "ianaCode": "gd-GB",
+    "alpha2Code": "gd",
+    "nativeName": "Gàidhlig"
+  },
+  {
+    "countryId": 186,
+    "name": "Cornish",
+    "ianaCode": "kw-GB",
+    "alpha2Code": "kw",
+    "nativeName": "Kernewek"
+  },
+  {
+    "countryId": 187,
+    "name": "English",
+    "ianaCode": "en-US",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 187,
+    "name": "English",
+    "ianaCode": "en-US-POSIX",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 187,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-US",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 188,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-UY",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 189,
+    "name": "Uzbek",
+    "ianaCode": "uz-Cyrl-UZ",
+    "alpha2Code": "uz",
+    "nativeName": "zbek, Ўзбек, أۇزبېك‎"
+  },
+  {
+    "countryId": 189,
+    "name": "Uzbek",
+    "ianaCode": "uz-Latn-UZ",
+    "alpha2Code": "uz",
+    "nativeName": "zbek, Ўзбек, أۇزبېك‎"
+  },
+  {
+    "countryId": 190,
+    "name": "English",
+    "ianaCode": "en-VU",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 190,
+    "name": "French",
+    "ianaCode": "fr-VU",
+    "alpha2Code": "fr",
+    "nativeName": "français, langue française"
+  },
+  {
+    "countryId": 191,
+    "name": "Spanish; Castilian",
+    "ianaCode": "es-VE",
+    "alpha2Code": "es",
+    "nativeName": "español, castellano"
+  },
+  {
+    "countryId": 192,
+    "name": "Vietnamese",
+    "ianaCode": "vi-VN",
+    "alpha2Code": "vi",
+    "nativeName": "Tiếng Việt"
+  },
+  {
+    "countryId": 193,
+    "name": "Arabic",
+    "ianaCode": "ar-YE",
+    "alpha2Code": "ar",
+    "nativeName": "العربية"
+  },
+  {
+    "countryId": 194,
+    "name": "English",
+    "ianaCode": "en-ZM",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 195,
+    "name": "English",
+    "ianaCode": "en-ZW",
+    "alpha2Code": "en",
+    "nativeName": "English"
+  },
+  {
+    "countryId": 195,
+    "name": "North Ndebele",
+    "ianaCode": "nd-ZW",
+    "alpha2Code": "nd",
+    "nativeName": "isiNdebele"
+  },
+  {
+    "countryId": 195,
+    "name": "Shona",
+    "ianaCode": "sn-ZW",
+    "alpha2Code": "sn",
+    "nativeName": "chiShona"
+  }
+]

@@ -24,5 +24,5 @@ export type TFinalFormat = {
   flag: TCountryFlags;
   timezone: Array<string>;
   states: Array<string>;
-  language: TLanguage;
+  languages: Array<TLanguage>;
 };

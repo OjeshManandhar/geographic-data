@@ -131,20 +131,26 @@ finalData = finalData.map(data => {
 // language
 
 finalData = finalData.map(data => {
-  const language = languages.find(l => l.countryAlpha2Code === data.alpha2Code);
+  const countryLanguage: typeof languages = [];
 
-  if (!language) {
+  languages.forEach(language => {
+    if (language.countryAlpha2Code === data.alpha2Code) {
+      countryLanguage.push(language);
+    }
+  });
+
+  if (!countryLanguage.length) {
     console.log(`===== No language found for: ${data.alpha2Code} =====`);
 
-    return data;
+    data.languages = [];
+  } else {
+    data.languages = countryLanguage.map(language => ({
+      name: language.name,
+      ianaCode: language.ianaCode,
+      alpha2Code: language.alpha2Code,
+      nativeName: language.nativeName,
+    }));
   }
-
-  data.language = {
-    name: language.name,
-    ianaCode: language.ianaCode,
-    alpha2Code: language.alpha2Code,
-    nativeName: language.nativeName,
-  };
 
   return data;
 });
@@ -306,21 +312,8 @@ finalData.forEach(data => {
   if (!data.continentCode) {
     console.log(`===== No continentCode found for: ${data.country} =====`);
   }
-  if (!data.language || !data.language.name) {
-    console.log(`===== No language.name found for: ${data.country} =====`);
-  }
-  if (!data.language || !data.language.ianaCode) {
-    console.log(`===== No language.ianaCode found for: ${data.country} =====`);
-  }
-  if (!data.language || !data.language.alpha2Code) {
-    console.log(
-      `===== No language.alpha2Code found for: ${data.country} =====`,
-    );
-  }
-  if (!data.language || !data.language.nativeName) {
-    console.log(
-      `===== No language.nativeName found for: ${data.country} =====`,
-    );
+  if (!data.languages || !data.languages.length) {
+    console.log(`===== No language found for: ${data.country} =====`);
   }
 });
 
@@ -374,6 +367,13 @@ const countries: Array<{
   states: Array<{
     countryId: number;
     name: string;
+  }> = [],
+  languagesSeed: Array<{
+    countryId: number;
+    name: string;
+    ianaCode: string;
+    alpha2Code: string;
+    nativeName: string;
   }> = [];
 
 const countriesSeed = readJSONFile<Array<TFinalFormat>>([
@@ -411,8 +411,21 @@ countriesSeed.forEach((data, index) => {
     unicode: data.flag.unicode,
     image: data.flag.image,
   });
+
+  if (data.languages.length) {
+    data.languages.forEach(language => {
+      languagesSeed.push({
+        countryId,
+        name: language.name,
+        ianaCode: language.ianaCode,
+        alpha2Code: language.alpha2Code,
+        nativeName: language.nativeName,
+      });
+    });
+  }
 });
 
 writeJSONFile(flags, [__dirname, 'seedable', 'flags.json']);
 writeJSONFile(states, [__dirname, 'seedable', 'states.json']);
 writeJSONFile(countries, [__dirname, 'seedable', 'countries.json']);
+writeJSONFile(languagesSeed, [__dirname, 'seedable', 'languages.json']);
